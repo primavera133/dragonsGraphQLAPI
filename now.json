@@ -1,0 +1,9 @@
+{
+    "name": "DragonsGraphQLAPI",
+    "version": "1.0.0",
+    "alias": "DragonsGraphQLAPI",
+    "public": true,
+    "github": {
+        "enabled": true
+    }
+}

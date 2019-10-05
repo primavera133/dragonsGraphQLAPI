@@ -24,3 +24,9 @@ Try it with
   }
 }
 ``` 
+or 
+ ```
+ {
+     species
+ }
+ ```

@@ -1,0 +1,41 @@
+{
+  "name": "dragonflies-graphql-api",
+  "version": "0.1.0",
+  "description": "A GraphQL API",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server-express": "^2.9.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "graphql": "^14.5.8",
+    "rimraf": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/node": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "nodemon": "^1.19.3",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^1.18.2"
+  },
+  "scripts": {
+    "build": "babel ./src --out-dir dist --copy-files",
+    "clean": "rimraf dist",
+    "dev": "NODE_ENV=development npm-run-all server",
+    "prod": "NODE_ENV=production npm-run-all clean build server:prod",
+    "start": "npm run prod",
+    "server": "babel-node ./src/bin/www",
+    "server:prod": "node ./dist/bin/www",
+    "test": "npm run test",
+    "watch": "nodemon"
+  },
+  "keywords": [
+    "Dragonflies",
+    "graphql"
+  ],
+  "author": "Jonas Myrenås",
+  "license": "ISC"
+}

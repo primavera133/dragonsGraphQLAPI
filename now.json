@@ -1,9 +1,15 @@
 {
     "name": "DragonsGraphQLAPI",
-    "version": "1.0.0",
+    "version": 2,
     "alias": "DragonsGraphQLAPI",
-    "public": true,
     "github": {
         "enabled": true
-    }
+    },
+    "routes": [
+        {
+            "src": "/",
+            "status": 404,
+            "dest": "/404"
+        }
+    ]
 }

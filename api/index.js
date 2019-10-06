@@ -1,12 +1,5 @@
-import 'dotenv/config'
-import cors from 'cors'
-import express from 'express'
-import { ApolloServer, gql } from 'apollo-server-express'
-
-import species from './data/index.js'
-
-const app = express()
-app.use(cors())
+const { ApolloServer, gql } = require('apollo-server-micro')
+const species = require('./data/index.js')
 
 const schema = gql`
   type Query {
@@ -50,12 +43,8 @@ const resolvers = {
 const server = new ApolloServer({
   typeDefs: schema,
   resolvers,
-  introspection: true, // enables introspection of the schema
-  playground: true // enables the actual playground
-})
-server.applyMiddleware({ app, path: '/graphql' })
-app.listen({ port: 8000 }, () => {
-  console.log('Apollo Server on http://localhost:8000/graphql')
+  introspection: true,
+  playground: true
 })
 
-export default app
+module.exports = server.createHandler({ path: '/api' })

@@ -1,0 +1,41 @@
+<html>
+
+<head>
+    <title>Dragonfly GraphQL API</title>
+</head>
+
+<body>
+    <h1>About the Dragonfly GraphQL API</h1>
+    <p>The API is found under route <a href="/api">/api</a></p>
+
+    <p>
+        Try to query it with
+        <pre style="background-color: lightgray; padding: 16px">
+{
+    specie(items_id:"f0264cd93fc96310d176cbde4c32be52") {
+        scientific_name
+        description
+        local_names
+        behaviour
+        habitat
+        similar_species
+        distribution
+        flight_period
+        size {
+            length
+            wingspan
+        }
+    }
+}
+</pre>
+
+        or
+        <pre style="background-color: lightgray; padding: 16px">
+{
+    species
+}
+</pre>
+    </p>
+</body>
+
+</html>

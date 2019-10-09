@@ -28,7 +28,7 @@ const schema = gql`
 const resolvers = {
   Query: {
     species: () => {
-      return species
+      return species.aeshnidae
     },
     specie: (parent, { items_id, scientific_name }) => {
       if (items_id) {

@@ -14,6 +14,10 @@ const AnaxImaculifrons = require('./anax-imaculifrons.json')
 const AnaxImperator = require('./anax-imperator.json')
 const AnaxJunius = require('./anax-junius.json')
 const AnaxParthenope = require('./anax-parthenope.json')
+const BoyeriaCretensis = require('./boyeria-cretensis.json')
+const BoyeriaIrene = require('./boyeria-irene.json')
+const BrachytronPratense = require('./brachytron-pratense.json')
+const CaliaeschnaMicrostigma = require('./caliaeschna-microstigma.json')
 
 module.exports = {
   aeshnidae: [
@@ -32,6 +36,10 @@ module.exports = {
     AnaxImaculifrons,
     AnaxImperator,
     AnaxJunius,
-    AnaxParthenope
+    AnaxParthenope,
+    BoyeriaCretensis,
+    BoyeriaIrene,
+    BrachytronPratense,
+    CaliaeschnaMicrostigma
   ]
 }

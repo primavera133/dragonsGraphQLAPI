@@ -20,26 +20,29 @@ const BrachytronPratense = require('./brachytron-pratense.json')
 const CaliaeschnaMicrostigma = require('./caliaeschna-microstigma.json')
 
 module.exports = {
-  aeshnidae: [
-    AeshnaAffinis,
-    AeshnaCaerulea,
-    AeshnaCrenata,
-    AeshnaCyanea,
-    AeshnaGrandis,
-    AeshnaIsoceles,
-    AeshnaJuncea,
-    AeshnaMixta,
-    AeshnaSerrata,
-    AeshnaSubarctica,
-    AeshnaViridis,
-    AnaxEphippiger,
-    AnaxImaculifrons,
-    AnaxImperator,
-    AnaxJunius,
-    AnaxParthenope,
-    BoyeriaCretensis,
-    BoyeriaIrene,
-    BrachytronPratense,
-    CaliaeschnaMicrostigma
-  ]
+  aeshnidae: {
+    aeshna: [
+      AeshnaAffinis,
+      AeshnaCaerulea,
+      AeshnaCrenata,
+      AeshnaCyanea,
+      AeshnaGrandis,
+      AeshnaIsoceles,
+      AeshnaJuncea,
+      AeshnaMixta,
+      AeshnaSerrata,
+      AeshnaSubarctica,
+      AeshnaViridis
+    ],
+    anax: [
+      AnaxEphippiger,
+      AnaxImaculifrons,
+      AnaxImperator,
+      AnaxJunius,
+      AnaxParthenope
+    ],
+    boyeria: [BoyeriaCretensis, BoyeriaIrene],
+    brachytron: [BrachytronPratense],
+    caliaeschna: [CaliaeschnaMicrostigma]
+  }
 }

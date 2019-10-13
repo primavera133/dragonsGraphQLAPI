@@ -1,15 +1,16 @@
-const { ApolloServer, gql } = require('apollo-server-micro')
+const { ApolloServer, gql, ApolloError } = require('apollo-server-micro')
 const species = require('./data/index.js')
 
 const schema = gql`
   type Query {
     species: [Specie]
-    specie(items_id: ID!): Specie
+    specieFromId(items_id: ID!): Specie!
+    specieFromScientificName(scientific_name: String!): Specie!
   }
 
   type Specie {
-    items_id: String!
-    scientific_name: String!
+    items_id: ID!
+    scientific_name: ID!
     local_names: [String]
     behaviour: String
     description: String
@@ -36,17 +37,33 @@ const schema = gql`
     trend_europe: String!
   }
 `
+const allSpecies = species => {
+  const families = Object.values(species)
+  return families.reduce((acc, family) => {
+    const generas = Object.values(family)
+    return acc.concat(generas.reduce((acc, genera) => acc.concat(genera), []))
+  }, [])
+}
+
 const resolvers = {
   Query: {
-    species: () => {
-      return species.aeshnidae
+    species: () => allSpecies(species),
+    specieFromId: (parent, { items_id }) => {
+      const specie = allSpecies(species).find(
+        specie => specie.items_id === items_id
+      )
+      if (!specie) return new ApolloError(`Specie not found: ${items_id}`)
+      return specie
     },
-    specie: (parent, { items_id, scientific_name }) => {
-      if (items_id) {
-        return {
-          ...species.aeshnidae.find(specie => specie.items_id === items_id)
-        }
+    specieFromScientificName: (parent, { scientific_name }) => {
+      scientific_name = scientific_name.toLowerCase()
+      const specie = allSpecies(species).find(
+        specie => specie.scientific_name.toLowerCase() === scientific_name
+      )
+      if (!specie) {
+        return new ApolloError(`Specie not found: ${scientific_name}`)
       }
+      return specie
     }
   }
 }

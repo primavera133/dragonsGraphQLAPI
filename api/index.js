@@ -6,6 +6,8 @@ const schema = gql`
     species: [Specie]
     specieFromId(items_id: ID!): Specie!
     specieFromScientificName(scientific_name: String!): Specie!
+    generaFromName(name: String!): [Specie]
+    familyFromName(name: String!): [Specie]
   }
 
   type Specie {
@@ -64,6 +66,24 @@ const resolvers = {
         return new ApolloError(`Specie not found: ${scientific_name}`)
       }
       return specie
+    },
+    generaFromName: (parent, { name }) => {
+      const allGeneras = Object.values(species).reduce((acc, family) => {
+        Object.keys(family).forEach(key => (acc[key] = family[key]))
+        return acc
+      }, {})
+      const genera = allGeneras[name.toLowerCase()]
+      if (!genera) return new ApolloError(`Genera not found: ${name}`)
+      return genera
+    },
+    familyFromName: (parent, { name }) => {
+      const family = species[name.toLowerCase()]
+      if (!family) return new ApolloError(`Family not found: ${name}`)
+
+      return Object.values(family).reduce(
+        (acc, genera) => acc.concat(genera),
+        []
+      )
     }
   }
 }

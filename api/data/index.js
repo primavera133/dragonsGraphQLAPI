@@ -19,6 +19,11 @@ const BoyeriaIrene = require('./boyeria-irene.json')
 const BrachytronPratense = require('./brachytron-pratense.json')
 const CaliaeschnaMicrostigma = require('./caliaeschna-microstigma.json')
 
+const CalopteryxHaemorrhoidalis = require('./calopteryx-haemorrhoidalis.json')
+const CalopteryxSplendens = require('./calopteryx-splendens.json')
+const CalopteryxVirgo = require('./calopteryx-virgo.json')
+const CalopteryxXanthostoma = require('./calopteryx-xanthostoma.json')
+
 module.exports = {
   aeshnidae: {
     aeshna: [
@@ -44,5 +49,13 @@ module.exports = {
     boyeria: [BoyeriaCretensis, BoyeriaIrene],
     brachytron: [BrachytronPratense],
     caliaeschna: [CaliaeschnaMicrostigma]
+  },
+  calopterygidae: {
+    calopteryx: [
+      CalopteryxHaemorrhoidalis,
+      CalopteryxSplendens,
+      CalopteryxVirgo,
+      CalopteryxXanthostoma
+    ]
   }
 }

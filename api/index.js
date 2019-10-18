@@ -88,8 +88,10 @@ const server = new ApolloServer({
   playground: true,
   context: ({ req }) => {
     const token = req.headers.authorization || '';
-    const users = process.env.api_users.split(' ')
-    if (users.includes(token)) {
+    const users = process.env.api_users || ''
+    const usersArr = users.split(' ')
+
+    if (usersArr.includes(token)) {
       return
     } else {
       throw new Error('USER NOT FOUND')

@@ -2,6 +2,14 @@ const { ApolloServer, gql, ApolloError } = require('apollo-server-micro')
 const species = require('./data/index.js')
 const allSpecies = require('./utils/allSpeceis')
 
+var Logger = require('logdna')
+var loggerOptions = {
+  app: 'dragonsgraphqlapi',
+  env: process.env.NODE_ENV
+}
+
+var logger = Logger.createLogger(process.env.LOG_DNA_INGESTION_KEY, loggerOptions);
+
 const schema = gql`
   type Query {
     species: [Specie]
@@ -42,8 +50,12 @@ const schema = gql`
 `
 const resolvers = {
   Query: {
-    species: () => allSpecies(species),
+    species: () => {
+      logger.log('Resolver: species')
+      return allSpecies(species)
+    },
     specieFromId: (parent, { items_id }) => {
+      logger.log(`Resolver: specieFromId: ${items_id}`)
       const specie = allSpecies(species).find(
         specie => specie.items_id === items_id
       )
@@ -51,6 +63,8 @@ const resolvers = {
       return specie
     },
     specieFromScientificName: (parent, { scientific_name }) => {
+      logger.log(`Resolver: specieFromScientificName: ${scientific_name}`)
+
       scientific_name = scientific_name.toLowerCase()
       const specie = allSpecies(species).find(
         specie => specie.scientific_name.toLowerCase() === scientific_name
@@ -61,6 +75,8 @@ const resolvers = {
       return specie
     },
     generaFromName: (parent, { name }) => {
+      logger.log(`Resolver: generaFromName: ${name}`)
+
       const allGeneras = Object.values(species).reduce((acc, family) => {
         Object.keys(family).forEach(key => (acc[key] = family[key]))
         return acc
@@ -70,6 +86,7 @@ const resolvers = {
       return genera
     },
     familyFromName: (parent, { name }) => {
+      logger.log(`Resolver: familyFromName: ${name}`)
       const family = species[name.toLowerCase()]
       if (!family) return new ApolloError(`Family not found: ${name}`)
 

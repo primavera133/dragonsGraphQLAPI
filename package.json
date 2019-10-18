@@ -8,6 +8,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
     "graphql": "^14.5.8",
+    "logdna": "^3.3.3",
     "rimraf": "^3.0.0"
   },
   "devDependencies": {

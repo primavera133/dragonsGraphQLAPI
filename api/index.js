@@ -88,7 +88,7 @@ const server = new ApolloServer({
   playground: true,
   context: ({ req }) => {
     const token = req.headers.authorization || '';
-    const users = process.env.API_USERS.split(' ')
+    const users = process.env.api_users.split(' ')
     if (users.includes(token)) {
       return
     } else {

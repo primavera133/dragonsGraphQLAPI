@@ -1,32 +1,9 @@
 # dragonsGraphQLAPI
-A Dragonfly GraphQL API build on NodeJS/Express
+A Dragonfly GraphQL API build on NodeJS and Micro-Lambdas
 
-```
-npm run start
-```
-
-Try it with 
-```
-{
-  specie(items_id:"f0264cd93fc96310d176cbde4c32be52") {
-    scientific_name
-    description
-    local_names
-    behaviour
-    habitat
-    similar_species
-    distribution
-    flight_period
-    size {
-      length
-      wingspan
-    }
-  }
-}
-``` 
-or 
- ```
- {
-     species
- }
- ```
+## Main sources & inspiration
+ - Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)
+ - Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.
+ - Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff
+ 
+ 

@@ -1,5 +1,6 @@
 const { ApolloServer, gql, ApolloError } = require('apollo-server-micro')
 const species = require('./data/index.js')
+const allSpecies = require('./utils/allSpeceis')
 
 const schema = gql`
   type Query {
@@ -39,14 +40,6 @@ const schema = gql`
     trend_europe: String!
   }
 `
-const allSpecies = species => {
-  const families = Object.values(species)
-  return families.reduce((acc, family) => {
-    const generas = Object.values(family)
-    return acc.concat(generas.reduce((acc, genera) => acc.concat(genera), []))
-  }, [])
-}
-
 const resolvers = {
   Query: {
     species: () => allSpecies(species),
@@ -92,7 +85,16 @@ const server = new ApolloServer({
   typeDefs: schema,
   resolvers,
   introspection: true,
-  playground: true
+  playground: true,
+  context: ({ req }) => {
+    const token = req.headers.authorization || '';
+    const users = process.env.API_USERS.split(' ')
+    if (users.includes(token)) {
+      return
+    } else {
+      throw new Error('USER NOT FOUND')
+    }
+  }
 })
 
 module.exports = server.createHandler({ path: '/api' })

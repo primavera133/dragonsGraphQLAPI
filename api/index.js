@@ -2,10 +2,17 @@ const { ApolloServer, gql, ApolloError } = require('apollo-server-micro')
 const species = require('./data/index.js')
 const allSpecies = require('./utils/allSpeceis')
 
+const speciesResolver = require('./resolvers/species')
+const specieFromIdResolver = require('./resolvers/specieFromId')
+const specieFromScientificNameResolver = require('./resolvers/specieFromScientificName')
+const generaFromNameResolver = require('./resolvers/generaFromName')
+const familyFromNameResolver = require('./resolvers/familyFromName')
+
 var Logger = require('logdna')
 var loggerOptions = {
   app: 'dragonsgraphqlapi',
-  env: process.env.NODE_ENV
+  env: process.env.NODE_ENV,
+  index_meta: true
 }
 
 var logger = Logger.createLogger(process.env.LOG_DNA_INGESTION_KEY, loggerOptions);
@@ -50,51 +57,28 @@ const schema = gql`
 `
 const resolvers = {
   Query: {
-    species: () => {
-      logger.log('Resolver: species')
-      return allSpecies(species)
-    },
-    specieFromId: (parent, { items_id }) => {
-      logger.log(`Resolver: specieFromId: ${items_id}`)
-      const specie = allSpecies(species).find(
-        specie => specie.items_id === items_id
-      )
-      if (!specie) return new ApolloError(`Specie not found: ${items_id}`)
-      return specie
-    },
-    specieFromScientificName: (parent, { scientific_name }) => {
-      logger.log(`Resolver: specieFromScientificName: ${scientific_name}`)
+    species: speciesResolver,
+    specieFromId: specieFromIdResolver,
+    specieFromScientificName: specieFromScientificNameResolver,
+    generaFromName: generaFromNameResolver,
+    familyFromName: familyFromNameResolver
+  }
+}
 
-      scientific_name = scientific_name.toLowerCase()
-      const specie = allSpecies(species).find(
-        specie => specie.scientific_name.toLowerCase() === scientific_name
-      )
-      if (!specie) {
-        return new ApolloError(`Specie not found: ${scientific_name}`)
-      }
-      return specie
-    },
-    generaFromName: (parent, { name }) => {
-      logger.log(`Resolver: generaFromName: ${name}`)
-
-      const allGeneras = Object.values(species).reduce((acc, family) => {
-        Object.keys(family).forEach(key => (acc[key] = family[key]))
-        return acc
-      }, {})
-      const genera = allGeneras[name.toLowerCase()]
-      if (!genera) return new ApolloError(`Genera not found: ${name}`)
-      return genera
-    },
-    familyFromName: (parent, { name }) => {
-      logger.log(`Resolver: familyFromName: ${name}`)
-      const family = species[name.toLowerCase()]
-      if (!family) return new ApolloError(`Family not found: ${name}`)
-
-      return Object.values(family).reduce(
-        (acc, genera) => acc.concat(genera),
-        []
-      )
+class BasicLogging {
+  requestDidStart({ queryString, parsedQuery, variables, context }) {
+    const { user } = context
+    const query = queryString || print(parsedQuery)
+    if (query.includes('IntrospectionQuery')) {
+      // logger.info('IntrospectionQuery', { level: 'info', meta: { query, variables, user } })
+    } else {
+      logger.info('query', { level: 'info', meta: { query, variables, user } })
     }
+  }
+
+  willSendResponse({ graphqlResponse, context }) {
+    const { user } = context
+    // logger.info('response', { level: 'info', meta: { response: JSON.stringify(graphqlResponse, null, 2) }, user })
   }
 }
 
@@ -103,6 +87,7 @@ const server = new ApolloServer({
   resolvers,
   introspection: true,
   playground: true,
+  extensions: [() => new BasicLogging()],
   context: ({ req }) => {
     const token = req.headers.authorization || '';
     const users = process.env.API_USERS || ''
@@ -110,6 +95,10 @@ const server = new ApolloServer({
 
     if (!usersArr.includes(token)) {
       throw new Error('USER NOT FOUND')
+    }
+
+    return {
+      user: token
     }
   }
 })

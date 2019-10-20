@@ -1,4 +1,4 @@
-const { ApolloServer, gql, ApolloError } = require('apollo-server-micro')
+const { ApolloServer, gql } = require('apollo-server-micro')
 const species = require('./data/index.js')
 const allSpecies = require('./utils/allSpeceis')
 
@@ -15,7 +15,10 @@ var loggerOptions = {
   index_meta: true
 }
 
-var logger = Logger.createLogger(process.env.LOG_DNA_INGESTION_KEY, loggerOptions);
+var logger = Logger.createLogger(
+  process.env.LOG_DNA_INGESTION_KEY,
+  loggerOptions
+)
 
 const schema = gql`
   type Query {
@@ -41,8 +44,8 @@ const schema = gql`
   }
 
   type Size {
-    length: String!
-    wingspan: String!
+    length: String
+    wingspan: String
   }
 
   type RedList {
@@ -66,7 +69,7 @@ const resolvers = {
 }
 
 class BasicLogging {
-  requestDidStart({ queryString, parsedQuery, variables, context }) {
+  requestDidStart ({ queryString, parsedQuery, variables, context }) {
     const { user } = context
     const query = queryString || print(parsedQuery)
     if (query.includes('IntrospectionQuery')) {
@@ -76,7 +79,7 @@ class BasicLogging {
     }
   }
 
-  willSendResponse({ graphqlResponse, context }) {
+  willSendResponse ({ graphqlResponse, context }) {
     const { user } = context
     // logger.info('response', { level: 'info', meta: { response: JSON.stringify(graphqlResponse, null, 2) }, user })
   }
@@ -89,7 +92,7 @@ const server = new ApolloServer({
   playground: true,
   extensions: [() => new BasicLogging()],
   context: ({ req }) => {
-    const token = req.headers.authorization || '';
+    const token = req.headers.authorization || ''
     const users = process.env.API_USERS || ''
     const usersArr = users.split(' ')
 

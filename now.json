@@ -5,7 +5,6 @@
         "enabled": true
     },
     "env": {
-        "API_USERS": "@api_users",
-        "LOG_DNA_INGESTION_KEY": "@log_dna_ingestion_key"
+        "API_USERS": "@api_users"
     }
 }

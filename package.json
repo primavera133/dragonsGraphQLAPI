@@ -4,21 +4,33 @@
   "description": "A GraphQL API",
   "main": "index.js",
   "dependencies": {
+    "apollo-datasource": "^0.6.3",
     "apollo-server-micro": "^2.9.5",
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
     "graphql": "^14.5.8",
-    "logdna": "^3.3.3",
+    "micro-cors": "^0.1.1",
     "rimraf": "^3.0.0"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "apollo-link": "^1.2.13",
+    "apollo-link-http": "^1.5.16",
+    "apollo-server-testing": "^2.9.7",
+    "graphql-tag": "^2.10.1",
+    "jest": "^24.9.0",
+    "micro": "^9.3.4",
+    "nock": "^11.6.0",
+    "node-fetch": "^2.6.0",
+    "prettier": "^1.18.2",
+    "test-listen": "^1.1.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/primavera133/dragonsGraphQLAPI.git"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "keywords": [
     "Dragonflies",
     "graphql"

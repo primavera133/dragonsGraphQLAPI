@@ -124,4 +124,24 @@ describe('Server - e2e: speciesFromGeneraName', () => {
     )
     expect(res).toMatchSnapshot()
   })
+
+  it('gets species from genera name: Enallagma', async () => {
+    const res = await toPromise(
+      graphql({
+        query: GET_SPECIES_FROM_GENERA_NAME_QUERY,
+        variables: { name: 'Enallagma' }
+      })
+    )
+    expect(res).toMatchSnapshot()
+  })
+
+  it('gets species from genera name: Erythromma', async () => {
+    const res = await toPromise(
+      graphql({
+        query: GET_SPECIES_FROM_GENERA_NAME_QUERY,
+        variables: { name: 'Erythromma' }
+      })
+    )
+    expect(res).toMatchSnapshot()
+  })
 })

@@ -35,10 +35,8 @@ module.exports = {
     CoenagrionOrnatum,
     CoenagrionPuella,
     CoenagrionPulchellum,
-    CoenagrionScitulum,
-    EnallagmaCyathigerum,
-    ErythrommaLindenii,
-    ErythrommaNajas,
-    ErythrommaViridulum
-  ]
+    CoenagrionScitulum
+  ],
+  enallagma: [EnallagmaCyathigerum],
+  erythromma: [ErythrommaLindenii, ErythrommaNajas, ErythrommaViridulum]
 }

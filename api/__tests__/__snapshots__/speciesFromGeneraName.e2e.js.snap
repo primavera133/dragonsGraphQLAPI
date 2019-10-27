@@ -2088,6 +2088,15 @@ It is most common in the lowlands but has been found up to 1 100 m in the south 
           "wingspan": "28-40 mm",
         },
       },
+    ],
+  },
+}
+`;
+
+exports[`Server - e2e: speciesFromGeneraName gets species from genera name: Enallagma 1`] = `
+Object {
+  "data": Object {
+    "generaFromName": Array [
       Object {
         "behaviour": "The species can be seen in hundreds even at small waters.
 Both sexes like to perch on waterlilies and pondweeds.
@@ -2147,6 +2156,15 @@ altitudes with populations in the Alps found well over 2 000 m.",
           "wingspan": "30-40 mm",
         },
       },
+    ],
+  },
+}
+`;
+
+exports[`Server - e2e: speciesFromGeneraName gets species from genera name: Erythromma 1`] = `
+Object {
+  "data": Object {
+    "generaFromName": Array [
       Object {
         "behaviour": "Behaves a lot like Enallagma cyathigerum and likes to perch on floating vegetation like waterlilies and pondweeds.",
         "description": "Closely related to E. najas and E. viridulum but does not resemble them much, apart from in behaviours.

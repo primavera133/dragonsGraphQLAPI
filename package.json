@@ -17,12 +17,19 @@
     "apollo-link-http": "^1.5.16",
     "apollo-server-testing": "^2.9.7",
     "graphql-tag": "^2.10.1",
+    "husky": "^3.0.9",
     "jest": "^24.9.0",
     "micro": "^9.3.4",
     "nock": "^11.6.0",
     "node-fetch": "^2.6.0",
     "prettier": "^1.18.2",
     "test-listen": "^1.1.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test",
+      "pre-push": "npm test"
+    }
   },
   "repository": {
     "type": "git",

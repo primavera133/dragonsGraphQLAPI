@@ -5,6 +5,7 @@
         "enabled": true
     },
     "env": {
-        "API_USERS": "@api_users"
+        "API_USERS": "@api_users",
+        "ENGINE_API_KEY": "@engine_api_key"
     }
 }

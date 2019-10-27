@@ -1433,6 +1433,7 @@ It is replaced by C. Scitulum in standing  and slow-flowing waters.",
         },
         "scientific_name": "Coenagrion caerulaescens",
         "similar_species": Array [
+          "Coenagrion scitulum",
           "Coenagrion sp.",
         ],
         "size": Object {
@@ -1605,7 +1606,9 @@ It is present in a wider selection of habitats in Siberia, where it is often fou
           "trend_europe": "Stable",
         },
         "scientific_name": "Coenagrion hylas",
-        "similar_species": null,
+        "similar_species": Array [
+          "Coenagrion sp.",
+        ],
         "size": Object {
           "length": "33-38 mm",
           "wingspan": "38-56 mm",
@@ -1643,7 +1646,9 @@ At faster-flowing sections population density is lower.",
           "trend_europe": "Unknown",
         },
         "scientific_name": "Coenagrion intermedium",
-        "similar_species": null,
+        "similar_species": Array [
+          "Coenagrion sp.",
+        ],
         "size": Object {
           "length": "35-36 mm",
           "wingspan": "38-44 mm",
@@ -1698,7 +1703,9 @@ C. johanssonii is mostly found in lowlands but has been recorded up to 1 000 m i
           "trend_europe": "Stable",
         },
         "scientific_name": "Coenagrion johanssonii",
-        "similar_species": null,
+        "similar_species": Array [
+          "Coenagrion sp.",
+        ],
         "size": Object {
           "length": "27-30 mm",
           "wingspan": "30-38 mm",
@@ -1756,7 +1763,9 @@ It is very rare in the Alps, which correlates with its rarity in the boreal belt
           "trend_europe": "Unknown",
         },
         "scientific_name": "Coenagrion lunulatum",
-        "similar_species": null,
+        "similar_species": Array [
+          "Coenagrion sp.",
+        ],
         "size": Object {
           "length": "30-33 mm",
           "wingspan": "32-44 mm",
@@ -1807,7 +1816,9 @@ C. mercuriale is mostly found below 700 m in the middle latitudes, but can reach
           "trend_europe": "Decreasing",
         },
         "scientific_name": "Coenagrion mercuriale",
-        "similar_species": null,
+        "similar_species": Array [
+          "Coenagrion sp.",
+        ],
         "size": Object {
           "length": "27-30 mm",
           "wingspan": "24-42 mm",
@@ -1857,7 +1868,9 @@ it occurs in mountain streams up to 1 800 m, some of which sre extensively snow-
           "trend_europe": "Decreasing",
         },
         "scientific_name": "Coenagrion ornatum",
-        "similar_species": null,
+        "similar_species": Array [
+          "Coenagrion sp.",
+        ],
         "size": Object {
           "length": "30 mm",
           "wingspan": "40-50 mm",
@@ -1906,7 +1919,9 @@ C. puella has a wide altitudal range and is found up to 2 000- 2 500 m in the so
           "trend_europe": "Stable",
         },
         "scientific_name": "Coenagrion puella",
-        "similar_species": null,
+        "similar_species": Array [
+          "Coenagrion sp.",
+        ],
         "size": Object {
           "length": "33-35 mm",
           "wingspan": "30-48 mm",
@@ -1955,7 +1970,9 @@ C. pulchellum is mainly found in lowlands but breeds up to 1 500 m in southern E
           "trend_europe": "Stable",
         },
         "scientific_name": "Coenagrion pulchellum",
-        "similar_species": null,
+        "similar_species": Array [
+          "Coenagrion sp.",
+        ],
         "size": Object {
           "length": "34-38 mm",
           "wingspan": "32-46 mm",
@@ -1992,17 +2009,152 @@ It is most common in the lowlands but has been found up to 1 100 m in the south 
         "red_list": Object {
           "EU27_endemic": "No",
           "habitats_directive": "No",
-          "red_list_EU27": "Least concern",
-          "red_list_europe": "Least concern",
+          "red_list_EU27": "Least Concern",
+          "red_list_europe": "Least Concern",
           "red_list_europe_endemic": "No",
-          "red_list_mediterranean": "Least concern",
+          "red_list_mediterranean": "Least Concern",
           "trend_europe": "Stable",
         },
         "scientific_name": "Coenagrion scitulum",
-        "similar_species": null,
+        "similar_species": Array [
+          "Coenagrion caerulescens",
+          "Coenagrion sp.",
+        ],
         "size": Object {
           "length": "30-35 mm",
           "wingspan": "28-40 mm",
+        },
+      },
+      Object {
+        "behaviour": "The species can be seen in hundreds even at small waters.
+Both sexes like to perch on water lilies and pondweeds.
+Males and females often fly in tandem over open water.
+Males patrol aggressively over open water in search for females.
+During oviposition the female immersess her body in the water while the male protects her by flying around her.
+Especially young individuals can be found far from waters.
+On windy days large amounts of individuals can be gathered in wind-protected spots near the waters.",
+        "description": "It resembles the Coenagrion sp. but carries a few recognisable characteristics that differs it.
+The males are blue with black markings, the blue commonly being more greyish at low temperatures.
+
+The side of the thorax is almost completely blue. 
+The interpleural suture on the side of the thorax, typical for Coenagrion sp, 
+is in E. cyathigerum very thin and has no black marking along it.
+Ischnura sp. has two distictive dots on the side of the thorax, these are also absent on E. cyathigerum.
+
+Eyes are clearly blue, in a darker tone than the rest of the body.
+
+Males have a distictive marking on S2, in the shape of a small mushroom (extremely variable).
+The marking is usually connected to the black ring marking at the end of the segment.
+
+The antehumeral stripes are wide.
+
+The females have different colouration, from light blue to brownish, but generally green.
+Characteristic in females is the presence of a vulvar spine under S8.",
+        "distribution": "This species is widespread widespread and common in the European part of its range, 
+where it reaches the far north of Scandinavia.
+It becomes less frequent towards the Mediterranean, wher it has a patchy distribution throughout the most of the Balkan Peninsula
+and in the driest regions of Spain and Italy, and is rare in large parts of Greece.
+It is present on only some of the Mediterranean islands including Corsica, Sicily, Crete and several Aegean islands.",
+        "flight_period": "May to September",
+        "habitat": "Enallagma cyathigerum occurs at standing and slow-flowing waters and is especially common at sites lacking fish, 
+such as acidic ponds and bogs, or at sites where belts of vegetation provide shelter from fish.
+It occurs at brackish waters and is one of several species that commonly reproduces in the Baltic Sea.
+It is able to endure cold climates, due to which it is not only found in the far nort but is also present at high
+altitudes with populations in the Alps found well over 2 000 m.",
+        "items_id": "98fcae2729476eb52d28e4958b37e6d3",
+        "local_names": Array [
+          "Common bluet",
+        ],
+        "red_list": Object {
+          "EU27_endemic": "No",
+          "habitats_directive": "No",
+          "red_list_EU27": "Least Concern",
+          "red_list_europe": "Least Concern",
+          "red_list_europe_endemic": "No",
+          "red_list_mediterranean": "Vulnerable",
+          "trend_europe": "Stable",
+        },
+        "scientific_name": "Enallagma cyathigerum",
+        "similar_species": Array [
+          "Erythromma lindenii",
+          "Coenagrion sp.",
+        ],
+        "size": Object {
+          "length": "30-35 mm",
+          "wingspan": "30-40 mm",
+        },
+      },
+      Object {
+        "behaviour": "Behaves a lot like Enallagma cyathigerum and likes to perch on floating vegetation like water lilies and pondweeds.",
+        "description": "Closely related to E. najas and E. viridulum but does not resemble them much, apart from in behaviours.
+Very simillar to Enallagma cyathigerum and has the same wide antehumeral stripes, however 
+it has the, typically for Coenagrions, black marking along the interpleural suture on the side of the thorax and this combination is diagnostic.
+
+This species can also be distinguished from the rest of the Coenagrionidae thanks to the light-coloured post-ocular 
+spots that are linear instead of round, often connected together, forming a line across the back of the head.
+The males have blue eyes in contrast to a black head. 
+Eyes darker shade of blue than the rest of the body.
+The abdomen is blue with black markings. 
+The second segment, S2, has a characteristic marking in the shape of a 'goblet' or the 'hilt of a sword'.
+S3-S6 have distinctive markings, in the shape of 'spear-heads'.
+S7 and particularly S8 are black instead of light blue.
+The last two segments, S9-S10, are light blue.
+
+Females are tricoloured, with background colour from yellowish brown to greenish, 
+middle part of the abdomen blue.
+The anal appendages are light in colour.
+The abdomen is crossed dorsally by a black longitudinal line.
+
+Teneral individuals resemble the other Erythromma sp, who area also coloured in yellow, black and blue; especailly E. viridulum.
+E. lindenii however, has wider antehumeral stripes than E. viridulum and E. najas usually lack them altogether.
+Also E. najas and E. viridulum lack post-ocular spots.",
+        "distribution": "Erythromma lindenii is widespread and common on the Iberian Peninsula, Italy, France and parts of Germany.
+Further north it, becomes scarcer, having its northern limit in the Netherlands and northern Germany.
+The species had for a long time an isolated occurence in mid-eastern Germany, western Poland and northern parts of the Czech Republic.
+Due to its recent expansion in Germany the gap between the central European enclave and other European populations is growing 
+smaller and might completely disappear in the near future.
+
+The species is largely confined to lower elevations and to the Mediterranean fringes, extending along the Black Sea coast as far as the Crimean Peninsulaand reaching the south of European Russia.
+
+Northwards, the species has increased its range with nearly 200 km from the 1990s onwards.
+This expansion has been noted in Belgium, the Netherlands and northern Germany ad was most likely caused by increasing temperatures during recent decades.
+It is unclear if the increase in records from south-east Europe also represents an expansion or is the result of changes in the available habitats or increased fieldwork.",
+        "flight_period": "May to October",
+        "habitat": "Erythromma lindenii is found in running waters including large streams, connected oxboxs, rivers, canals and 
+larger standing waters such as lakes, (fish)ponds, gravel pits.
+Breeding habitats are generally large, largely unshaded with clear oxygenated water.
+The species is less common on fast-flowing waters, and in streams and rivers with a strong current it is 
+often confined to areas where the flow is the weakest.
+In most cases there is a rich submerged aquatic vegetation with helophyte belts poorly developed or even absent.
+In fish-free waters, the presence of aquatic vegetation is of less importance, suggesting that 
+the latter is mainly important in providing shelter against predation.
+Standing waters where the species occurs are often influenced by wind, which generates waves, or are fed by seepage,
+both which help to oxygenate the water and break down stratification.
+This produces conditions resembling to those found in running waters.
+Throughout its range, the species is confined to lower altitudes and most of the records are from below 500 m.",
+        "items_id": "6ee2f4a1673f5a4dc900ccfbd6a0e82e",
+        "local_names": Array [
+          "Goblet-marked damselfly",
+        ],
+        "red_list": Object {
+          "EU27_endemic": "No",
+          "habitats_directive": "No",
+          "red_list_EU27": "Least Concern",
+          "red_list_europe": "Least Concern",
+          "red_list_europe_endemic": "No",
+          "red_list_mediterranean": "Least Concern",
+          "trend_europe": "Increasing",
+        },
+        "scientific_name": "Erythromma lindenii",
+        "similar_species": Array [
+          "Enallagma cyathigerum",
+          "Coenagrion sp.",
+          "Erythromma najas",
+          "Erythromma viridulum",
+        ],
+        "size": Object {
+          "length": "30-36 mm",
+          "wingspan": "40-45 mm",
         },
       },
     ],

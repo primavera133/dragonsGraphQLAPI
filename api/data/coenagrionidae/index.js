@@ -13,6 +13,7 @@ const CoenagrionMercuriale = require('./coenagrion-mercuriale.json')
 const CoenagrionOrnatum = require('./coenagrion-ornatum.json')
 const CoenagrionPuella = require('./coenagrion-puella.json')
 const CoenagrionPulchellum = require('./coenagrion-pulchellum.json')
+const CoenagrionScitulum = require('./coenagrion-scitulum.json')
 
 module.exports = {
   ceriagrion: [CeriagrionGeorgifreyi, CeriagrionTenellum],
@@ -29,6 +30,7 @@ module.exports = {
     CoenagrionMercuriale,
     CoenagrionOrnatum,
     CoenagrionPuella,
-    CoenagrionPulchellum
+    CoenagrionPulchellum,
+    CoenagrionScitulum
   ]
 }

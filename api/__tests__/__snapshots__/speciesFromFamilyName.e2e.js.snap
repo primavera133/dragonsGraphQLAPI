@@ -2045,7 +2045,7 @@ It is most common in the lowlands but has been found up to 1 100 m in the south 
       },
       Object {
         "behaviour": "The species can be seen in hundreds even at small waters.
-Both sexes like to perch on water lilies and pondweeds.
+Both sexes like to perch on waterlilies and pondweeds.
 Males and females often fly in tandem over open water.
 Males patrol aggressively over open water in search for females.
 During oviposition the female immersess her body in the water while the male protects her by flying around her.
@@ -2103,7 +2103,7 @@ altitudes with populations in the Alps found well over 2 000 m.",
         },
       },
       Object {
-        "behaviour": "Behaves a lot like Enallagma cyathigerum and likes to perch on floating vegetation like water lilies and pondweeds.",
+        "behaviour": "Behaves a lot like Enallagma cyathigerum and likes to perch on floating vegetation like waterlilies and pondweeds.",
         "description": "Closely related to E. najas and E. viridulum but does not resemble them much, apart from in behaviours.
 Very simillar to Enallagma cyathigerum and has the same wide antehumeral stripes, however 
 it has the, typically for Coenagrions, black marking along the interpleural suture on the side of the thorax and this combination is diagnostic.
@@ -2173,6 +2173,114 @@ Throughout its range, the species is confined to lower altitudes and most of the
         "size": Object {
           "length": "30-36 mm",
           "wingspan": "40-45 mm",
+        },
+      },
+      Object {
+        "behaviour": "During good weather conditions the males fly far out over open water, patrolling close to thte water surface.
+Oftern, when perching on floating vegetation, it presses the whole body against the substrate, 
+differing it from E. viridulum who likes to rest with the abdomen slightly elevated.",
+        "description": "A bulky damselfly, often percieved as rather large.
+The males have a mainly black body with sides of the thorax and last two segments of the abdomen light blue.
+The black portions of the abdomen tend to become pruinose, thus becomming greyish and opaque.
+The eyes are red.
+Antehumeral stripes are absent in males and much reduced in females.
+
+The females are green and black with brown eyes.
+This species could be confused with Erythromma viridulum but can be distinguished by its larger size,
+the antehumeral stripes being absent or reduced, 
+the absence of th black marking in the shape of an X on S10 and by 
+S8 that in males of E. najas is completely black, not partially light blue.
+
+Both sexes have, in all forms, light brown pterostigmas, black legs and two black lines on the side of the thorax.
+The upper line can on the males be broken and thus finishing in a black spot.
+Both sexes never have post-ocular spots, unlike E. lindenii.
+
+Young individuals are yellow and black and initially lack the red eye colour, thereby often being mistaken for other Coenagrionidae.",
+        "distribution": "The main European range lies in the west, central and nort-western Europe,
+where the species is common and widespread in the lowlands.
+It reaches northward to central Fennoscandia.
+In the Brittish Isles it is limited to England and parts of north Wales.
+It becommes less common to the south in central Europe but is still fairly widespread in parts of southern France.
+It is clearly declined in northern Italy.
+It is absent from the Iberian Peninsula, very rare in central and southern Italy, and known only from scattered records in the Balkan Peninsula.
+The situation in Romania and Ukraine is not clear but it is likely to be common in the north.",
+        "flight_period": "April/May to August",
+        "habitat": "Erythromma najas occurs at largely unshaded, standing or slow-flowing eutrophic to mesotrophic waters,
+and more rarely and in smaller numbers in oligotrophic waters.
+An important characteristic of the habitat is the presence of stands of floating leaves of waterlilies or pondweeds.
+The species occurs less often in situations with mainly submerged aquatic vegetation that emerges periodically from the water,
+such as watermilfoil and hornworths.
+It is absent from waters devoid of aquatic vegetation.
+Most reproductive habitats are close to taller vegetation such as trees or hedges and the species s generally absent from 
+open windy areas.
+It occurs mostly in areas below 500 m and is rare above 1 000 m.",
+        "items_id": "616498f11528347076a0c872b35cc3e3",
+        "local_names": Array [
+          "Red-eyed damselfly",
+        ],
+        "red_list": Object {
+          "EU27_endemic": "No",
+          "habitats_directive": "No",
+          "red_list_EU27": "Least Concern",
+          "red_list_europe": "Least Concern",
+          "red_list_europe_endemic": "No",
+          "red_list_mediterranean": "Near threatened",
+          "trend_europe": "Stable",
+        },
+        "scientific_name": "Erythromma najas",
+        "similar_species": Array [
+          "Erythromma viridulum",
+          "Erythromma lindenii",
+        ],
+        "size": Object {
+          "length": "30-36 mm",
+          "wingspan": "38-48 mm",
+        },
+      },
+      Object {
+        "behaviour": "Much like Erythromma najas it likes to perch on floating vegetation. ",
+        "description": "Males have red eyes, mainly black bodies with sides of the thorax and the last segments on the abdomen light blue.
+Females green and black, with brown eyes.
+It could be confused with E. najas but can be distinguished by smaller size, more slender build, 
+antehumeral stripes complete in females and complete or reduced in the males, 
+and by the different extension of the light blue colour on the ventral side of S2-S3 and S8 in the males that also 
+have a distictive black marking in the shape of an X on the last abdominal segment, S10.
+aLso the males have S8 partly blue, rather than completely black in E. najas.",
+        "distribution": "The main European range lies in the south and west Europe where the species is common and widespread.
+An expanson of its range has taken place since the 1970s and has gained some 100-500 km northwards since the 1980s.
+It was recorded as new to Great Brittain (1999), Denmark (2001), Sweden (2004), Belarus (2005) Lithuania (2007) and Latvia (2008).
+Prior to 1970s it was rare in the Netherlands, but presently the second most common damselfly.
+This range expansion might be linked with increased temperatures, but the species might also have benefited from 
+nitrogen enrichment of aquatic habitats by areial deposition.
+The species has a scattered occurence in parts of the Balkan Peninsula and Ukraine and relatively few records are known from 
+European Russia, probably due to poor sampling.",
+        "flight_period": "May to September",
+        "habitat": "Erythromma viridulum if found in largely unshaded, standing or slow-flowing waters with aquatic vegetation, 
+including brackish waters.
+It often co-occurs with E. najas at habitats with large floating leaves.
+In contrast to this species, however, it is especially common at waters with rich, fine-leaved,
+aquatic vegetation such as waterweed, hornworth, watermillfoil and mats of algae on the water surface.",
+        "items_id": "04a8b550c6086dedf6e667d060529147",
+        "local_names": Array [
+          "Small red-eyed damselfly",
+        ],
+        "red_list": Object {
+          "EU27_endemic": "No",
+          "habitats_directive": "No",
+          "red_list_EU27": "Least Concern",
+          "red_list_europe": "Least Concern",
+          "red_list_europe_endemic": "No",
+          "red_list_mediterranean": "Least Concern",
+          "trend_europe": "Increasing",
+        },
+        "scientific_name": "Erythromma viridulum",
+        "similar_species": Array [
+          "Erythromma najas",
+          "Erythromma lindenii",
+        ],
+        "size": Object {
+          "length": "25-35 mm",
+          "wingspan": "30-42 mm",
         },
       },
     ],

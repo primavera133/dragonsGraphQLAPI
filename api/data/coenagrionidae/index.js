@@ -16,6 +16,8 @@ const CoenagrionPulchellum = require('./coenagrion-pulchellum.json')
 const CoenagrionScitulum = require('./coenagrion-scitulum.json')
 const EnallagmaCyathigerum = require('./enallagma-cyathigerum.json')
 const ErythrommaLindenii = require('./erythromma-lindenii.json')
+const ErythrommaNajas = require('./erythromma-najas.json')
+const ErythrommaViridulum = require('./erythromma-viridulum.json')
 
 module.exports = {
   ceriagrion: [CeriagrionGeorgifreyi, CeriagrionTenellum],
@@ -35,6 +37,8 @@ module.exports = {
     CoenagrionPulchellum,
     CoenagrionScitulum,
     EnallagmaCyathigerum,
-    ErythrommaLindenii
+    ErythrommaLindenii,
+    ErythrommaNajas,
+    ErythrommaViridulum
   ]
 }

@@ -93,25 +93,20 @@ In its central European range, almost all records are from 1 000 m to 2 600 m wi
         },
       },
       Object {
-        "behaviour": "Male can be very aggressive and hunt other Aeshna males from their territory.
-Relatively stationary and is rarely seen outside known habitats.",
-        "description": "The largest species of the genus Aeshna. Most like Aeshna Serrata but more likely to be 
-confused with A. juncea or A. subarctica which can be found in the same habitats.
+        "behaviour": "Often flies with a partly gliding flight, most visible in patrolling males. Male can be very aggressive and hunt other Aeshna males from their territory. They often patrol around 1.5 - 2 m above the water surface, slightly higher than the other co-existing species. It often perches directly on tree stems near their preferred waters. 
 
-Males are intensely blue, with only blue or black markings on the abdomen.
+Relatively stationary and is rarely seen outside known habitats.
 
-Blue to emerald eyes, with all black back-sides (like A. juncea and A. subarctica). 
-The Costa, wing front, is brown (like A. subarctica).
-Black markings on the frons T-shaped with a thick stem.
-Lateral markings on thorax are wide and clearly visible in flight, in both sexes, and can be used to 
-distinguish from A. juncea and A. subarctica in flight.
+Eggs are oviposited in water edges in floating sphagnum, seges or other organic material in or just below the water surface. The larva is the largest of the Aeshnids, its development probably three years long or more. Exuvia is found in knee-deep or slightly deeper waters on straws of e .g. sedges.",
+        "description": "An impressive hawker, the largest species of the genus Aeshna. Most like Aeshna Serrata but more likely to be confused with A. juncea or A. subarctica which can be found in the same habitats.
 
-Older females have dark bands on the wings, between the pterostigma and the node, visible also in flight. 
-This is a diagnostic feature, all other similar species have venly coloured wings.",
-        "distribution": "In Europe it is only present in southern Finland, Estonia, Latvia and Russia. 
-It's world distribution goes east over Siberia, Kamtjatka, Sachalin, South Korea and Japan.",
+Males are intensely blue, with only blue or black markings on the abdomen. Blue to emerald eyes, with all black back-sides (like A. juncea and A. subarctica). The leading edge of the wings, the Costa, is brown like A. subarctica. A. juncea and A. serrata both have yellow leading edges. Black markings on the frons T-shaped with a thick stem. Lateral markings on thorax are mainly yellow, wide and clearly visible in flight, in both sexes, and can be used to distinguish from A. juncea and A. subarctica in flight. Also, in flight, the last segmenst tend to dip, giving the abdomen in a bow-like profile.
+
+Females most often brown and pale grey-blue, but some are blue like the males. Older females have dark bands on the wings, between the pterostigma and the node, visible also in flight. This is a diagnostic feature, all other similar species have evenly coloured wings, even those with darker wings. Female appendages are pointed, not rounded. ",
+        "distribution": "Found from north-east Europe to Kamchatka, Sachalin, South Korea and Japan. In Europe it is found in scattered populations in southern Finland, eastern Lithuania, south-eastern Latvia, northern Belarus and Russia. It is probably not uncommon in northern Russia but as far is known absent from the southern parts of Russia, except the southern Urals, where it is common.
+",
         "flight_period": "End of June to mid September, peaking in second half of July and August.",
-        "habitat": "Found in nutrient-poor waters in nothern boreal regions, like smaller lakes and moss tarns.",
+        "habitat": "In both Finland and the Baltic states, Aeshna crenata seems to have rather specialized habitat requirements and occurs mainly in small, circular, oligotrophic forest ponds with a swampy shoreline, sustained by clear groundwater. In most cases the banks are covered with a vegetation of peat moss, beakrush and sedges, followed by mature forests in the direct vincinity. In the northern and eastern parts of European Russia the habitat spectrum is wider, also including non-acidic water, larger lakes and river backwaters with oxbow ponds and lakes and a vegetation of water horsetail and sedges. In Siberia the species is eutryphic.",
         "items_id": "4722675f7593ec2ba5b2725c2c96d9f7",
         "local_names": Array [
           "Siberian hawker",

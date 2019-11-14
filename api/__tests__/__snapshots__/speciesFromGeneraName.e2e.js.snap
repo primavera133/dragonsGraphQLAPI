@@ -5,36 +5,17 @@ Object {
   "data": Object {
     "generaFromName": Array [
       Object {
-        "behaviour": "This species is a powerfull flyer and often migrates from the southernmost areas of Europe far up to the north.
-
-The male usually incessantly patrols its territory but it is not uncommon that it alights on 
-tall grass and bushes.
-
-It is the only species of Aeshna in which the male stays attached to the female after mating, laying eggs.",
+        "behaviour": "This species is a powerfull flyer and often migrates from the southernmost areas of Europe far up to the north in good years. The male usually incessantly patrols its territory, flying low at about chest height, often beating to and fro over a small area. It frequently perches and alights on tall grass and bushes. IT's not easily disturbed. It is the only species of Aeshna in which the male stays attached to the female after mating, laying eggs in tandem.",
         "description": "A small Aeshna, similar in size to A. Mixta, which it resembles in many ways.
 
-The males have bright blue eyes and facial suture barely marked. 
-Thorax is yellow-brown with blue hues in mature males.
+The males have bright blue eyes and facial suture barely marked. The thorax is yellow-brown with blue hues in mature males, and has only fine black lines along the sutures on the sides. Antehumeral stripes are short and narrow, in contrast with other species of the family Aeshnidae like A. cyanea and A. viridis. The abdomen is characterised by large light-blue spots, brighter and more extensive than on A. mixta. The second abdominal segment, S2, is all blue except for a distinctive black mask-like pattern. The pterostigma is relatively long, longer than on A. mixta. The leading wing margin, the costa, has a light colour.
 
-In contrast with other species of the family Aeshnidae like A. cyanea and A. viridis, 
-antehumeral stripes are short and narrow, 
-abdomen is characterised by large light-blue spots and by a distinctive black pattern
-on the second abdominal segment, S2.
-The pterostigma is relatively long.
-The Costa, wing front, has a light colour.
-
-The females can be very similar to males. 
-A more lightly yellow jizz compared to other females can be noted.
-They can be distinguished from those of A. mixta by the relatively short abdominal appendages.
-The rather uni-coloured sides of the abdomen of females make them look a lot like females of A. viridis.  ",
-        "distribution": "A largely western paleatctic speciea, confined to north-west africa, Europe and south-western Asia.s
-In Europe it is rarely abundant and present mainly in the south-east.
-It is relatively uncommon in many areas, including lerge parts of the Iberian peninsula, and to a lesser extent, Italy.
-It is common in much of south-east Europe and locally abundant i Ukraine.",
+Females can be very similar to males. Generally a more lightly yellow jizz compared to other Aeshna females can be noted. Lighter and paler than A. mixta but can resemble Brachytron pratense in size and colour. Also, the rather uni-coloured sides of the abdomen of females make them similar to females of A. viridis. They can be distinguished from those of A. mixta by the relatively short abdominal appendages, shorter than S9-10 combined.",
+        "distribution": "A largely Western Palaearctic specie, confined to north-west Africa, Europe and south-western Asia. In Europe it is widespread in southern Europe and parts of central Europe, becoming scarcer to the north.It is relatively uncommon in many areas, including lerge parts of the Iberian peninsula, and to a lesser extent, Italy. It is common in much of south-east Europe and locally abundant i Ukraine.",
         "flight_period": "May to August",
-        "habitat": "It occurs in environments with standing or slow running water with abundant vegetaion along the banks. 
-It also seems to favour waters on the verge of drying out. 
-It is rarely observed in quarries, gravel pits and above 700 m.",
+        "habitat": "The species reproduces exclusively in standing waters, preferring shallow well-vegetated waters sheltered from the wind and exposed to the sun. Many habitats dry up partially or fully during the summer and have patches of mud often bordered by loose to dense vegetation of rushes, sedges, Black bogrush or low reeds. A wide selection of water types can support habitats for A. affinis, incuding marshes temporarily flooded depressions in agricultural landscapes, old oxbows, small (dune) lakes and ponds or shallow edges of larger lakes with helophytes belts. Despite of the broad array of habitats, suitable habitats are generally scarce. Many of the habitats where A. affinis occurs become unsuitable after several decades or even a few years due to natural succession of vegetation, for example, following inundation of floodplains. In other situations, management such as grazing or mowing is needed to maintain suitable habitat. In contrast with other species with a strong preference for warm climatic conditions, it is rarely found in quarries or gravel pits. In Italy it is also found in rice fields, but it has decreased in this habitat. 
+
+Aeshna Affinis is mainly found in lowlands and in central Europe it is seldom found above 700 m.",
         "items_id": "f2acd97bbac584258f1a680bf206653b",
         "local_names": Array [
           "Southern migrant hawker",
@@ -60,26 +41,32 @@ It is rarely observed in quarries, gravel pits and above 700 m.",
         },
       },
       Object {
-        "behaviour": "On hot sunny days males arevery active, flying low and wide in search of females. 
-Unlike A. juncea, males will also perch, basking on stones on the ground or tree trunks. 
-It shelters in heather or similar low vegetation in dull weather. 
-Unique to this species is that the blue of the male pales to a more grey colour at lower temperatures.",
-        "description": "The azure hawker is one of the smaller species of the family Aeshnidae.
+        "behaviour": "On hot sunny days males are very active, flying low and wide in search of females. Unlike A. juncea, males will also perch, basking on stones on the ground or light tree trunks. This behaviour warms its body and enables it to survive in colder regions. 
 
-Both sexes have azure blue, rather large spots on each abdominal segment and the 
-thorax also has azure markings. 
-The lateral bands on the thorax are light blue, narrow and wavy.
+It shelters in heather or similar low vegetation in dull weather. When hunting on a sunny day it can fly high above the trees in search for prey. Above the arctic circle, under the midnight sun, it can hunt almost 24 hours a day. It is active even during cloudy weather and can be seen flying even in lighter rain. In those conditions it flies low, in and among vegetation, scaring up  insects.
 
-The markings on the male are brighter and more conspicuous than in the female. 
-The female also has a brown colour form.
-The eyes just meet at the top of the head, which is a diagnostic feature.
-Males have a white frons",
-        "distribution": "The species is widespread in northern Europe and can be found in 
-Scotland, Fennoscandia, Estonia, northern Latvia and northern Russia.
-As a glacial relict it can be found rarely in the Alps, the Sudetes and Sumava Mountains.",
+Eggs are oviposited in small open water bodies, in sphagnum moss or other soft material. Larvae development takes two to four years, most often three years. Larvae live in shallow water, but often deeply burrowed in bottom material and can be hard to find. Exuvia are found low on upright straws or such, in or near water.",
+        "description": "The azure hawker is one of the smaller species of the family Aeshnidae. The eyes meet only just, the adjacent area is diagnostically narrow at the top of the head. This can easily be seen with binoculars when it perches.
+
+The males have azure blue, rather large spots on each abdominal segment. The lateral bands on the thorax are pale, light blue or yellow-white, narrow and wavy. Antehumeral stripes are reduced in males. Pterostigma color is varying from brown to orange. The leading margin of the wing is yellow-brown. Males have a white frons. Unique to this species is that the blue of the male pales to a more grey colour at lower temperatures.
+
+The female color varies a lot but can be grouped into two forms; one is generally similar to the males but everything blue is more grey-blue, its abdominal spots are also smaller. The other form lacks all blue color and is generally brown with yellow or beige abdominal spots.
+Both forms have characteristic triangular black markings on the last abdominal segments.
+Antehumeral stripes are mostly absent in females, but sometimes vague remains can be seen.
+Especially in the northern regions females have smoky dark wings.
+
+Tenerals of both sexes are brownish with light to white abdominal spots.",
+        "distribution": "The species is widespread and can be found from northern Scotland to the Bering strait. It has a boreo-alpine distribution, being common and widespread at low elevation in the north in the Taiga and Tundra belts and having several smaller, disjunct, 'relict' areas of distribution in alpine areas of Europe.
+
+In Europe it can be found in Scotland, most Fennoscandia (up to the very north), Estonia, northern Latvia and northern Russia. 
+In central Europe, the species is confined to mountains. Its reasonably widespread in the Alps, with many populations in Switzerland and Austria, and some in France. Italy has fewer than ten populations.Germany has some populations in southern Bavaria.
+Other mountains where it can be found include the Sudete Mountains in northern Czech Republic and southern Poland and the Bohemian forest/Sumava Mountains on the border between Czech Republic and Germany.",
         "flight_period": "Late May to August",
-        "habitat": "It can be seen far from water but is best found near small, 
-nutrient-poor waters on peat bogs, swamps, heaths, moors and forests. ",
+        "habitat": "Aeshna caerula is adapted to live in areas with long and severe winters and short summers with low air temperatures, where many other dragonflies are unable to survive. It seems in warmer conditions it is out-competed by other large dragonflies, like A. juncea. In colder areas, its habitat range is broader, probably due to reduced pressure from other species. In the north of Europe it is predominantly found in lowlands, with a maximum breeding habitat altitude of around 550 m in Scotland.
+
+The species is present in standing and sometimes slow-flowing water, namely in fens and bog ponds and depressions, palsa mires and sedge swamps in moors,  heaths and tundra depressions. Above the tree line, it's mostly found in peaty ponds. 
+
+In its central European range, almost all records are from 1 000 m to 2 600 m with the main breeding habitats between 1 400 m and 2 200 m. Here it's found in bogs and permanent peaty water with a surface ranging from 5 to 80 m2 and water depth of generally 20 cm or less. The vegetation consists of peat moss (Sphagnums), sedges, and cottongrass. The water is frozen for large parts of the year but the water temperature can rise quickly during the day in spring and summer, exceeding 20 C.",
         "items_id": "46970409e9f1928a33b5bbe4a5ceac44",
         "local_names": Array [
           "Azure hawker",
@@ -98,6 +85,7 @@ nutrient-poor waters on peat bogs, swamps, heaths, moors and forests. ",
           "Aeshna juncea",
           "Aeshna subarctica",
           "Aeshna crenata",
+          "Aeshna mixta",
         ],
         "size": Object {
           "length": "54-64 mm",

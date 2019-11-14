@@ -36,7 +36,8 @@
     "url": "https://github.com/primavera133/dragonsGraphQLAPI.git"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "update-snaps": "jest --updateSnapshot"
   },
   "keywords": [
     "Dragonflies",

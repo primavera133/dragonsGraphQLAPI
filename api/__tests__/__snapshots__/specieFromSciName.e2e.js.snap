@@ -4,36 +4,17 @@ exports[`Server - e2e: SpecieFromScientificName gets a specie from scientific_na
 Object {
   "data": Object {
     "specieFromScientificName": Object {
-      "behaviour": "This species is a powerfull flyer and often migrates from the southernmost areas of Europe far up to the north.
-
-The male usually incessantly patrols its territory but it is not uncommon that it alights on 
-tall grass and bushes.
-
-It is the only species of Aeshna in which the male stays attached to the female after mating, laying eggs.",
+      "behaviour": "This species is a powerfull flyer and often migrates from the southernmost areas of Europe far up to the north in good years. The male usually incessantly patrols its territory, flying low at about chest height, often beating to and fro over a small area. It frequently perches and alights on tall grass and bushes. IT's not easily disturbed. It is the only species of Aeshna in which the male stays attached to the female after mating, laying eggs in tandem.",
       "description": "A small Aeshna, similar in size to A. Mixta, which it resembles in many ways.
 
-The males have bright blue eyes and facial suture barely marked. 
-Thorax is yellow-brown with blue hues in mature males.
+The males have bright blue eyes and facial suture barely marked. The thorax is yellow-brown with blue hues in mature males, and has only fine black lines along the sutures on the sides. Antehumeral stripes are short and narrow, in contrast with other species of the family Aeshnidae like A. cyanea and A. viridis. The abdomen is characterised by large light-blue spots, brighter and more extensive than on A. mixta. The second abdominal segment, S2, is all blue except for a distinctive black mask-like pattern. The pterostigma is relatively long, longer than on A. mixta. The leading wing margin, the costa, has a light colour.
 
-In contrast with other species of the family Aeshnidae like A. cyanea and A. viridis, 
-antehumeral stripes are short and narrow, 
-abdomen is characterised by large light-blue spots and by a distinctive black pattern
-on the second abdominal segment, S2.
-The pterostigma is relatively long.
-The Costa, wing front, has a light colour.
-
-The females can be very similar to males. 
-A more lightly yellow jizz compared to other females can be noted.
-They can be distinguished from those of A. mixta by the relatively short abdominal appendages.
-The rather uni-coloured sides of the abdomen of females make them look a lot like females of A. viridis.  ",
-      "distribution": "A largely western paleatctic speciea, confined to north-west africa, Europe and south-western Asia.s
-In Europe it is rarely abundant and present mainly in the south-east.
-It is relatively uncommon in many areas, including lerge parts of the Iberian peninsula, and to a lesser extent, Italy.
-It is common in much of south-east Europe and locally abundant i Ukraine.",
+Females can be very similar to males. Generally a more lightly yellow jizz compared to other Aeshna females can be noted. Lighter and paler than A. mixta but can resemble Brachytron pratense in size and colour. Also, the rather uni-coloured sides of the abdomen of females make them similar to females of A. viridis. They can be distinguished from those of A. mixta by the relatively short abdominal appendages, shorter than S9-10 combined.",
+      "distribution": "A largely Western Palaearctic specie, confined to north-west Africa, Europe and south-western Asia. In Europe it is widespread in southern Europe and parts of central Europe, becoming scarcer to the north.It is relatively uncommon in many areas, including lerge parts of the Iberian peninsula, and to a lesser extent, Italy. It is common in much of south-east Europe and locally abundant i Ukraine.",
       "flight_period": "May to August",
-      "habitat": "It occurs in environments with standing or slow running water with abundant vegetaion along the banks. 
-It also seems to favour waters on the verge of drying out. 
-It is rarely observed in quarries, gravel pits and above 700 m.",
+      "habitat": "The species reproduces exclusively in standing waters, preferring shallow well-vegetated waters sheltered from the wind and exposed to the sun. Many habitats dry up partially or fully during the summer and have patches of mud often bordered by loose to dense vegetation of rushes, sedges, Black bogrush or low reeds. A wide selection of water types can support habitats for A. affinis, incuding marshes temporarily flooded depressions in agricultural landscapes, old oxbows, small (dune) lakes and ponds or shallow edges of larger lakes with helophytes belts. Despite of the broad array of habitats, suitable habitats are generally scarce. Many of the habitats where A. affinis occurs become unsuitable after several decades or even a few years due to natural succession of vegetation, for example, following inundation of floodplains. In other situations, management such as grazing or mowing is needed to maintain suitable habitat. In contrast with other species with a strong preference for warm climatic conditions, it is rarely found in quarries or gravel pits. In Italy it is also found in rice fields, but it has decreased in this habitat. 
+
+Aeshna Affinis is mainly found in lowlands and in central Europe it is seldom found above 700 m.",
       "items_id": "f2acd97bbac584258f1a680bf206653b",
       "local_names": Array [
         "Southern migrant hawker",

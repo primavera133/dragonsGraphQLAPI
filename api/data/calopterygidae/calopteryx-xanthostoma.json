@@ -1,1 +1,30 @@
-{"items_id":"1e128c2362a87d57e49b62e94392fdb8","scientific_name":"Calopteryx xanthostoma","local_names":["Western demoiselle"],"description":"Simillar to C. splendens (considered a subspeceies by many authors) which it substitutes in \nSpain and some regions in France and Italy.\n\nIt is distinguished from C. splendens by the blue colour of the wing where the blue part \ncover the whole area from the node to the tip, even the last two or three rows of cells.\nThere is also difference in the colour of ventral parts of the last three abdominal segments,\nyellow in C. xanthostoma and white in C. splendens.\nFemales of these two species are practically identical.","behaviour":"Mostly found near running waters, where adult males keep territories, and it can be found in large numbers.\nIsolated adults can be found far from water, in clearings and woods.","size":{"length":"45-48 mm","wingspan":"55-65 mm"},"similar_species":["Calopteryx splendens","Calopteryx haemorrhoidalis","Calopteryx virgo"],"distribution":"The taxon was former regarded as a subspecies of C. splendens but is now considered a full speceies of its own.\nHowever, hybridization is reported where they overlap, in Liguria and southern France.\nIt is common and widespread in the south and south-west of France and in most of the Iberian Peninsula, \nbecomming patchy in the south of Spain and Portugal.\nIn Italy it only occurs in Liguria.","habitat":"It favours unshaded to partly shaded large lowland streams, rivers and canals with submerged or floating vegetation.\nIt is most found in slow flowing to moderately fast water but is absent from swift, cold,\nmountainous streams as well as from largely shaded habitats.\nIn Massif Central it breeds up to 1 200 m.","flight_period":"April to September","red_list":{"habitats_directive":"No","red_list_EU27":"Least Concern","red_list_europe":"Least Concern","red_list_mediterranean":"Least Concern","EU27_endemic":"Endemic","red_list_europe_endemic":"Endemic","trend_europe":"Stable"}}
+{
+    "items_id": "1e128c2362a87d57e49b62e94392fdb8",
+    "scientific_name": "Calopteryx xanthostoma",
+    "local_names": [
+        "Western demoiselle"
+    ],
+    "description": "Simillar to C. splendens (considered a subspeceies by many authors) which it substitutes in Spain and some regions in France and Italy.\n\nIt is distinguished from C. splendens by the blue colour of the wing where the blue part cover the whole area from the node to the tip, even the last two or three rows of cells. There is also difference in the colour of ventral parts of the last three abdominal segments, yellow in C. xanthostoma and white in C. splendens. Females of these two species are practically identical.",
+    "behaviour": "Mostly found near running waters, where adult males keep territories, and it can be found in large numbers. Isolated adults can be found far from water, in clearings and woods.",
+    "size": {
+        "length": "45-48 mm",
+        "wingspan": "55-65 mm"
+    },
+    "similar_species": [
+        "Calopteryx splendens",
+        "Calopteryx haemorrhoidalis",
+        "Calopteryx virgo"
+    ],
+    "distribution": "The taxon was former regarded as a subspecies of C. splendens but is now considered a full speceies of its own. However, hybridization is reported where they overlap, in Liguria and southern France. It is common and widespread in the south and south-west of France and in most of the Iberian Peninsula, becomming patchy in the south of Spain and Portugal. In Italy it only occurs in Liguria.",
+    "habitat": "It favours unshaded to partly shaded large lowland streams, rivers and canals with submerged or floating vegetation. It is most found in slow flowing to moderately fast water but is absent from swift, cold, mountainous streams as well as from largely shaded habitats. In Massif Central, in France,  it breeds up to 1 200 m.",
+    "flight_period": "April to September",
+    "red_list": {
+        "habitats_directive": "No",
+        "red_list_EU27": "Least Concern",
+        "red_list_europe": "Least Concern",
+        "red_list_mediterranean": "Least Concern",
+        "EU27_endemic": "Endemic",
+        "red_list_europe_endemic": "Endemic",
+        "trend_europe": "Stable"
+    }
+}

@@ -1034,31 +1034,15 @@ or in bundles of dead twigs and branches on the river bed.",
         },
       },
       Object {
-        "behaviour": "Like most damselfly, males strive for territory along suitable running waters, 
-where they perch on side vegetation and make short flights to fight off other males or to court any passing female.",
-        "description": "Large damselfly, with wings tapering gradually toward the base.
-The male is brown-dark purple in colour.
-The wings are hyaline at the base, 
-and the coloured portion extends from the end towards the base well beyond the node.
-The underside of the last three abdominal segments is characteristically karmine in colour 
-which gave the name of the species, haemmorhoidalis)
-The females can range from dark green to reddish brown in colour. 
-Their wings are to a lesser extent opaque in colour than the males, only the tip is darker.
-The inner part of the female wing is hyaline or weakly coloured green or brown.
-Females have a white pseudopterostigma (false wing spot).
-In males the pterostigma is absent.
+        "behaviour": "Like most damselfly, males strive for territory along suitable running waters, where they perch on side vegetation and make short flights to fight off other males or to court any passing female.",
+        "description": "Large damselfly, with wings tapering gradually toward the base. The male is brown-dark purple in colour. The wings are hyaline at the base, and the coloured portion extends from the end towards the base well beyond the node. The underside of the last three abdominal segments is characteristically karmine in colour which gave the name of the species, haemmorhoidalis)
 
-Both sexes have black legs with reddish brown tibiae.
+The females can range from dark green to reddish brown in colour. Their wings are to a lesser extent opaque in colour than the males, only the tip is darker. The inner part of the female wing is hyaline or weakly coloured green or brown. Females have a white pseudopterostigma (false wing spot). In males the pterostigma is absent. Both sexes have black legs with reddish brown tibiae.
 
 Regional differences in male body coloration occur, ranging from metallic black to metallic purple with red reflexions.",
-        "distribution": "This species is a west Mediterranean endemic and is common in large parts of south-west Europe from Italy and southern France to the 
-Iberian Peninsula, including islands of the western Mediterranean. The species does not reproduce on Malta.
-In Africa it occurs from Marocco to Tunisia.",
+        "distribution": "This species is a west Mediterranean endemic and is common in large parts of south-west Europe from Italy and southern France to the Iberian Peninsula, including islands of the western Mediterranean. The species does not reproduce on Malta. In Africa it occurs from Marocco to Tunisia.",
         "flight_period": "May to September",
-        "habitat": "The species favours clear and well oxygenated streams and rivers, generally with a swift current and 
-partly shaded, lightly wooded banks.
-It is restricted to low and middle elevations below 1 100 m.
-In the nort and north-west of the Iberian Peninsula it is found only in very small streams close to the coast.",
+        "habitat": "The species favours clear and well oxygenated streams and rivers, generally with a swift current and partly shaded, lightly wooded banks. It is restricted to low and middle elevations below 1 100 m. In the north and north-west of the Iberian Peninsula it is found only in very small streams close to the coast.",
         "items_id": "9e8d1b06d820e90a409387ed1b7887b5",
         "local_names": Array [
           "Copper demoiselle",
@@ -1084,22 +1068,11 @@ In the nort and north-west of the Iberian Peninsula it is found only in very sma
         },
       },
       Object {
-        "behaviour": "Mostly found near running waters where it can be found in large numbers.
-Isolated adults can be found far from water, in clearings and woods.",
-        "description": "Slender and metallic coloured damselfly with a rather wobbly flight, much resembling a butterfly.
-Wings taper gradually towards the base.
-The male is metallic blue in colour and has wings with a dark band (pale blue in tenerals) extending up to the node 
-(note that C. haemmorhoidalis coloured portion extend well beyond the node).
-The apical part of the wing is hyaline and even in those subspecies with a larger blue portion, 
-at least the two or three rows of cells furthest toward the tip are hyaline.
-The females are metallic green in colour, with pale green-brown wings and white pseudopterostigma (false wing spot).
-In males the pterostigma is absent.
-Female wings are notably less transparen than C. virgo and has no darker band like C. haemorrhoidalis.
+        "behaviour": "Mostly found near running waters where it can be found in large numbers. Isolated adults can be found far from water, in clearings and woods.",
+        "description": "Slender and metallic coloured damselfly with a rather wobbly flight, much resembling a butterfly. Wings taper gradually towards the base. 
 
-Both sexes have completely black legs, also the thibiae (unlike C. haemorrhoidalis).",
-        "distribution": "Wide-spread in the Western Palearctic, from the Atlantic coast of Europe to central Siberia.
-In Europe it is common in most parts, however absent from Scotland and northern Fennoscandia 
-and on the Iberian Peninsula, where it is replaced by C. xanthostoma.",
+The male is metallic blue in colour and has wings with a dark band (pale blue in tenerals) extending up to the node (note that C. haemmorhoidalis coloured portion extend well beyond the node). The apical part of the wing is hyaline and even in those subspecies with a larger blue portion, at least the two or three rows of cells furthest toward the tip are hyaline. The females are metallic green in colour, with pale green-brown wings and white pseudopterostigma (false wing spot). In males the pterostigma is absent. Female wings are notably less transparen than C. virgo and has no darker band like C. haemorrhoidalis. Both sexes have completely black legs, also the thibiae (unlike C. haemorrhoidalis).",
+        "distribution": "Wide-spread in the Western Palearctic, from the Atlantic coast of Europe to central Siberia. In Europe it is common in most parts, however absent from Scotland and northern Fennoscandia and on the Iberian Peninsula, where it is replaced by C. xanthostoma.",
         "flight_period": "April to September",
         "habitat": "The species favours unshaded streams and rivers and is generally absent from torrents and shaded waters.
 The highest densities occur when the watercourse is relatively natural, 
@@ -1134,42 +1107,19 @@ Summer water temperature ideally ranges from 18 to 24 degree Celsius.",
         },
       },
       Object {
-        "behaviour": "Males are territorial and often perches in tress or bushes with a good view over 
-their part of the flowing waters.
-It repeatedly leaves the spot for hunting small insects, chasing away males or pursuing females, 
-but often return to the same spot over and over.
-If a female enters the scene, the male courts her with a special swirling flight, 
-much different from normal flight behaviour.
+        "behaviour": "Males are territorial and often perches in tress or bushes with a good view over their part of the flowing waters. It repeatedly leaves the spot for hunting small insects, chasing away males or pursuing females, but often return to the same spot over and over. If a female enters the scene, the male courts her with a special swirling flight, much different from normal flight behaviour.
 
-Younger males and females can often be found a bit away from the waters.
-Also mature males can be found foraging far away from normal territories, 
-even in darker shaded areas.",
-        "description": "Males are blue in colour with green metallic shine.
-The last two segments of the abdomen are ventrally light pink.
-Wings are wider, more rounded and almost completely coloured blue-purple than on 
-the males from other speceis in the same genus.
+Younger males and females can often be found a bit away from the waters. Also mature males can be found foraging far away from normal territories, even in darker shaded areas.",
+        "description": "Males are blue in colour with green metallic shine. The last two segments of the abdomen are ventrally light pink. Wings are wider, more rounded and almost completely coloured blue-purple than on the males from other speceis in the same genus.
 
-Females are metallic green-brown with light brown wings, less transparent than on those of
-the females of the other species of Calopteryx.
-The females have a white pseudopterostigma, slightly closer to the apex than in C. splendens.",
-        "distribution": "Widespread and common over most of Europe, however its eastern range limit is unclear.
-Calopteryx virgo underwent a decline in parts of central and western Europe in the second part of the 20th century, 
-especially in the lowlands.
-A recovery was noted in recent decades, although not so marked as C. splendens.",
+Females are metallic green-brown with light brown wings, less transparent than on those of the females of the other species of Calopteryx. The females have a white pseudopterostigma, slightly closer to the apex than in C. splendens.",
+        "distribution": "Widespread and common over most of Europe, however its eastern range limit is unclear. Calopteryx virgo underwent a decline in parts of central and western Europe in the second part of the 20th century, especially in the lowlands. A recovery was noted in recent decades, although not so marked as C. splendens.",
         "flight_period": "April to September",
-        "habitat": "Calopteryx virgo reproduces in flowing waters, particularly in hilly and mountainous areas. 
-It prefers small and medium-sized, partly shaded, streams and rivers.
-It is generally less common in lowlands, where the current is slower, 
-and where there are often fewer well-shaded streams with high oxygen levels.
-The species is often rare in agricultural landscapes.
-It breeds up to elevations of 1 600 m.
+        "habitat": "Calopteryx virgo reproduces in flowing waters, particularly in hilly and mountainous areas. It prefers small and medium-sized, partly shaded, streams and rivers. It is generally less common in lowlands, where the current is slower, and where there are often fewer well-shaded streams with high oxygen levels. The species is often rare in agricultural landscapes. It breeds up to elevations of 1 600 m.
 
-Summer water temperatures are optimally between 13 and 18 degrees Celsius. 
-This gives that C. virgos has a higher tolerance for cooler water than C. splendens, 
-but it also has a greater demand for higher oxygen levels.
+Summer water temperatures are optimally between 13 and 18 degrees Celsius. This gives that C. virgos has a higher tolerance for cooler water than C. splendens, but it also has a greater demand for higher oxygen levels.
 
-The species is more susceptible to organic polution than C. splendens, often disappearing 
-when streams become contaminated.",
+The species is more susceptible to organic polution than C. splendens, often disappearing when streams become contaminated.",
         "items_id": "9b7f6a14818f928c4d96a0fdcb939a52",
         "local_names": Array [
           "Beautiful demoiselle",
@@ -1195,26 +1145,13 @@ when streams become contaminated.",
         },
       },
       Object {
-        "behaviour": "Mostly found near running waters, where adult males keep territories, and it can be found in large numbers.
-Isolated adults can be found far from water, in clearings and woods.",
-        "description": "Simillar to C. splendens (considered a subspeceies by many authors) which it substitutes in 
-Spain and some regions in France and Italy.
+        "behaviour": "Mostly found near running waters, where adult males keep territories, and it can be found in large numbers. Isolated adults can be found far from water, in clearings and woods.",
+        "description": "Simillar to C. splendens (considered a subspeceies by many authors) which it substitutes in Spain and some regions in France and Italy.
 
-It is distinguished from C. splendens by the blue colour of the wing where the blue part 
-cover the whole area from the node to the tip, even the last two or three rows of cells.
-There is also difference in the colour of ventral parts of the last three abdominal segments,
-yellow in C. xanthostoma and white in C. splendens.
-Females of these two species are practically identical.",
-        "distribution": "The taxon was former regarded as a subspecies of C. splendens but is now considered a full speceies of its own.
-However, hybridization is reported where they overlap, in Liguria and southern France.
-It is common and widespread in the south and south-west of France and in most of the Iberian Peninsula, 
-becomming patchy in the south of Spain and Portugal.
-In Italy it only occurs in Liguria.",
+It is distinguished from C. splendens by the blue colour of the wing where the blue part cover the whole area from the node to the tip, even the last two or three rows of cells. There is also difference in the colour of ventral parts of the last three abdominal segments, yellow in C. xanthostoma and white in C. splendens. Females of these two species are practically identical.",
+        "distribution": "The taxon was former regarded as a subspecies of C. splendens but is now considered a full speceies of its own. However, hybridization is reported where they overlap, in Liguria and southern France. It is common and widespread in the south and south-west of France and in most of the Iberian Peninsula, becomming patchy in the south of Spain and Portugal. In Italy it only occurs in Liguria.",
         "flight_period": "April to September",
-        "habitat": "It favours unshaded to partly shaded large lowland streams, rivers and canals with submerged or floating vegetation.
-It is most found in slow flowing to moderately fast water but is absent from swift, cold,
-mountainous streams as well as from largely shaded habitats.
-In Massif Central it breeds up to 1 200 m.",
+        "habitat": "It favours unshaded to partly shaded large lowland streams, rivers and canals with submerged or floating vegetation. It is most found in slow flowing to moderately fast water but is absent from swift, cold, mountainous streams as well as from largely shaded habitats. In Massif Central, in France,  it breeds up to 1 200 m.",
         "items_id": "1e128c2362a87d57e49b62e94392fdb8",
         "local_names": Array [
           "Western demoiselle",

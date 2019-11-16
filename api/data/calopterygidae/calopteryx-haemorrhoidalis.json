@@ -1,1 +1,30 @@
-{"items_id":"9e8d1b06d820e90a409387ed1b7887b5","scientific_name":"Calopteryx haemorrhoidalis","local_names":["Copper demoiselle"],"description":"Large damselfly, with wings tapering gradually toward the base.\nThe male is brown-dark purple in colour.\nThe wings are hyaline at the base, \nand the coloured portion extends from the end towards the base well beyond the node.\nThe underside of the last three abdominal segments is characteristically karmine in colour \nwhich gave the name of the species, haemmorhoidalis)\nThe females can range from dark green to reddish brown in colour. \nTheir wings are to a lesser extent opaque in colour than the males, only the tip is darker.\nThe inner part of the female wing is hyaline or weakly coloured green or brown.\nFemales have a white pseudopterostigma (false wing spot).\nIn males the pterostigma is absent.\n\nBoth sexes have black legs with reddish brown tibiae.\n\nRegional differences in male body coloration occur, ranging from metallic black to metallic purple with red reflexions.","behaviour":"Like most damselfly, males strive for territory along suitable running waters, \nwhere they perch on side vegetation and make short flights to fight off other males or to court any passing female.","size":{"length":"45-48 mm","wingspan":"50-70 mm"},"similar_species":["Calopteryx splendens","Calopteryx virgo","Calopteryx xanthosthoma"],"distribution":"This species is a west Mediterranean endemic and is common in large parts of south-west Europe from Italy and southern France to the \nIberian Peninsula, including islands of the western Mediterranean. The species does not reproduce on Malta.\nIn Africa it occurs from Marocco to Tunisia.","habitat":"The species favours clear and well oxygenated streams and rivers, generally with a swift current and \npartly shaded, lightly wooded banks.\nIt is restricted to low and middle elevations below 1 100 m.\nIn the nort and north-west of the Iberian Peninsula it is found only in very small streams close to the coast.","flight_period":"May to September","red_list":{"habitats_directive":"No","red_list_EU27":"Least Concern","red_list_europe":"Least Concern","red_list_mediterranean":"Least Concern","EU27_endemic":"No","red_list_europe_endemic":"No","trend_europe":"Stable"}}
+{
+    "items_id": "9e8d1b06d820e90a409387ed1b7887b5",
+    "scientific_name": "Calopteryx haemorrhoidalis",
+    "local_names": [
+        "Copper demoiselle"
+    ],
+    "description": "Large damselfly, with wings tapering gradually toward the base. The male is brown-dark purple in colour. The wings are hyaline at the base, and the coloured portion extends from the end towards the base well beyond the node. The underside of the last three abdominal segments is characteristically karmine in colour which gave the name of the species, haemmorhoidalis)\n\nThe females can range from dark green to reddish brown in colour. Their wings are to a lesser extent opaque in colour than the males, only the tip is darker. The inner part of the female wing is hyaline or weakly coloured green or brown. Females have a white pseudopterostigma (false wing spot). In males the pterostigma is absent. Both sexes have black legs with reddish brown tibiae.\n\nRegional differences in male body coloration occur, ranging from metallic black to metallic purple with red reflexions.",
+    "behaviour": "Like most damselfly, males strive for territory along suitable running waters, where they perch on side vegetation and make short flights to fight off other males or to court any passing female.",
+    "size": {
+        "length": "45-48 mm",
+        "wingspan": "50-70 mm"
+    },
+    "similar_species": [
+        "Calopteryx splendens",
+        "Calopteryx virgo",
+        "Calopteryx xanthosthoma"
+    ],
+    "distribution": "This species is a west Mediterranean endemic and is common in large parts of south-west Europe from Italy and southern France to the Iberian Peninsula, including islands of the western Mediterranean. The species does not reproduce on Malta. In Africa it occurs from Marocco to Tunisia.",
+    "habitat": "The species favours clear and well oxygenated streams and rivers, generally with a swift current and partly shaded, lightly wooded banks. It is restricted to low and middle elevations below 1 100 m. In the north and north-west of the Iberian Peninsula it is found only in very small streams close to the coast.",
+    "flight_period": "May to September",
+    "red_list": {
+        "habitats_directive": "No",
+        "red_list_EU27": "Least Concern",
+        "red_list_europe": "Least Concern",
+        "red_list_mediterranean": "Least Concern",
+        "EU27_endemic": "No",
+        "red_list_europe_endemic": "No",
+        "trend_europe": "Stable"
+    }
+}

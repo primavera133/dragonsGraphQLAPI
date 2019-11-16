@@ -1178,22 +1178,10 @@ It is distinguished from C. splendens by the blue colour of the wing where the b
       },
       Object {
         "behaviour": "",
-        "description": "Ceriagrion georgifreyi has variously been considered a subspecies of C. tenellum or a distinctive species, but is now 
-recognised as a full species.
-It is slightly larger than C. tenellum but otherwise practivcally identical in general appearance, colouration and pattern. 
-Also, the male of C. georgifreyi's lower abdomal segment is more slender and the apex of the last abdominal segment is raised and has a crown of tiny black spines.
-The females of C. georgifreyi differ from C. tenellum in the protonum, 
-they have raised vertical lobes on the thorax behind the rear margin of the protonum.",
-        "distribution": "Not endemic, but in Europe it is only known from three Greek islands; Kerkyra, Thasos and Zakynthos.
-From each, only a single record is available. 
-It is believed the species could be present on Lesbos and mainland Greece, but being confused with C. tenellum.
-Apart from Greece, it has been recorded in Israel, Syria and Turkey.",
+        "description": "Ceriagrion georgifreyi has variously been considered a subspecies of C. tenellum or a distinctive species, but is now recognised as a full species. It is slightly larger than C. tenellum but otherwise practivcally identical in general appearance, colouration and pattern.  Also, the male of C. georgifreyi's lower abdomal segment is more slender and the apex of the last abdominal segment is raised and has a crown of tiny black spines. The females of C. georgifreyi differ from C. tenellum in the protonum, they have raised vertical lobes on the thorax behind the rear margin of the protonum.",
+        "distribution": "Not endemic, but in Europe it is only known from three Greek islands; Kerkyra, Thasos and Zakynthos. From each, only a single record is available. It is believed the species could be present on Lesbos and mainland Greece, but being confused with C. tenellum. Apart from Greece, it has been recorded in Israel, Syria and Turkey.",
         "flight_period": "Beginning of MAy to end of September.",
-        "habitat": "Poorly known and there are no detailed accounts of the habitats in Europe. 
-On the Turkish south coast, the species is found at slowly flowing, muddy streams and at the grassy 
-and marshy margins of mostly small standing waters.
-Spikerushes and water parsnip might be related to breeding localities.
-The species only occurs at low altitudes.",
+        "habitat": "Poorly known and there are no detailed accounts of the habitats in Europe. On the Turkish south coast, the species is found at slowly flowing, muddy streams and at the grassy and marshy margins of mostly small standing waters. Spikerushes and water parsnip might be related to breeding localities. The species only occurs at low altitudes.",
         "items_id": "2cdde5c5ef1549662be55ccc4508e2a8",
         "local_names": Array [
           "Turkish red damsel",
@@ -1219,27 +1207,12 @@ The species only occurs at low altitudes.",
       },
       Object {
         "behaviour": "",
-        "description": "Species is characterised by red abdomen, eyes, legs and pterostigma. 
-At most, legs and pterostigma might be reddish or yellowish, not black.
-The females have different colouration: abdomen partly black (form typica), 
-totally black (form melanogastrum) or totally red (form erythrogastrum).
-It might be confused with C. georgifreyi wich is practically identical in general appearance, colouration and pattern.",
-        "distribution": "Widespread in the western Mediterranean basin, the range spreading into north-west Europe .
-To the north it reaches the south of Great Britain, the Netherlands and northern Germany.
-It is widespread in Italy but becomes rare east of the Adriatic sea in the western balkan.
-Occurence on mainland Greece and Lesbos is uncertain (published records may have been C. georgifreyi).
-It is found with certainty on Crete and Ios.",
+        "description": "Species is characterised by red abdomen, eyes, legs and pterostigma. At most, legs and pterostigma might be reddish or yellowish, not black. The females have different colouration: abdomen partly black (form typica), totally black (form melanogastrum) or totally red (form erythrogastrum). It might be confused with C. georgifreyi wich is practically identical in general appearance, colouration and pattern.",
+        "distribution": "Widespread in the western Mediterranean basin, the range spreading into north-west Europe . To the north it reaches the south of Great Britain, the Netherlands and northern Germany. It is widespread in Italy but becomes rare east of the Adriatic sea in the western balkan. Occurence on mainland Greece and Lesbos is uncertain (published records may have been C. georgifreyi). It is found with certainty on Crete and Ios.",
         "flight_period": "May to September.",
-        "habitat": "In the south of its range, C. tenellum is mainly found at seepages, streams, small rivers and standing waters
-with a rich aquatic vegetation. 
-Further north, in the west and east of France, northern Belgium, the Netherlands, Germany and Great Britain,
-the species is mainly found in acidic Sphagnum peat bogs and heaths.
-In this area, it has proliferated since 2000 and is now increasingly found in other types of habitats
-such as small streams.
-Many of the micro-habitats where the larvae are found have the following factors in common: the water temperature
-can rise quickly in summer and teh dense vegetation, the acidity and/or a low water table
-limit predation by other dragonflies or fish.
-The species mainly occurs at lower altitudes and is not found above 1000 m.",
+        "habitat": "In the south of its range, C. tenellum is mainly found at seepages, streams, small rivers and standing waters with a rich aquatic vegetation. Further north, in the west and east of France, northern Belgium, the Netherlands, Germany and Great Britain, the species is mainly found in acidic Sphagnum peat bogs and heaths. In this area, it has proliferated since 2000 and is now increasingly found in other types of habitats such as small streams.
+
+Many of the micro-habitats where the larvae are found have the following factors in common: the water temperature can rise quickly in summer and teh dense vegetation, the acidity and/or a low water table limit predation by other dragonflies or fish. The species mainly occurs at lower altitudes and is not found above 1000 m.",
         "items_id": "40558a5f77f00ef63c92cecf493a7c3e",
         "local_names": Array [
           "Small red damselfly",
@@ -1264,36 +1237,16 @@ The species mainly occurs at lower altitudes and is not found above 1000 m.",
         },
       },
       Object {
-        "behaviour": "It can be hard to localize even in habitats where it is plentiful.
-Look for it low, down among and between tufts out in water-rich marches or reed beads where 
-they fly just above the water surface.
-As opposed to many other Coenagrion species C. armatum is rarely seen flying over land.",
+        "behaviour": "It can be hard to localize even in habitats where it is plentiful. Look for it low, down among and between tufts out in water-rich marches or reed beads where they fly just above the water surface. As opposed to many other Coenagrion species C. armatum is rarely seen flying over land.",
         "description": "In general appearance it looks more like a stocky Ischnura than to a Coenagrion.
-Males are blue and black, with the dorsal part of the abdomen almost completely black
-except for the abdominal segments S1-S3, S8 and S9 that are light in colour with a characteristic pattern.
-Antehumeral stripes either absent or reduced to spots.
-Side of the thorax bluish-green.
-Lower appendages on the males are particularly long, often as long as the last abdominal segment, 
-and dark in colour with whitish pruinosity.
-The appendages earned the species its name, armatum is latin for armed.
-Females also dark with abdominal segments S1-S3 and S8 partly blue. 
-Antehumeral stripes are present and complete omn females.
-The colour of the light portions of both sexes can vary from light blue to olive green.
-Immature females are pink-orange.",
-        "distribution": "This species is found throughout northern Europe but is at present rare to very rare in large areas.
-The species has probably always been scarce in Great Britain, the Netherlands and Germany.
-It is currently extinct in Great Britain and only known from a small number of relict populations in the Netherlands, Germany and Denmark.
-It has a more continous range in north-eastern Europe, including Fennoscandia , the Baltic states, 
+
+Males are blue and black, with the dorsal part of the abdomen almost completely black except for the abdominal segments S1-S3, S8 and S9 that are light in colour with a characteristic pattern. Antehumeral stripes either absent or reduced to spots. Side of the thorax bluish-green. Lower appendages on the males are particularly long, often as long as the last abdominal segment, and dark in colour with whitish pruinosity. The appendages earned the species its name, armatum is latin for armed.
+
+Females also dark with abdominal segments S1-S3 and S8 partly blue. Antehumeral stripes are present and complete omn females. The colour of the light portions of both sexes can vary from light blue to olive green. Immature females are pink-orange.",
+        "distribution": "This species is found throughout northern Europe but is at present rare to very rare in large areas. The species has probably always been scarce in Great Britain, the Netherlands and Germany. It is currently extinct in Great Britain and only known from a small number of relict populations in the Netherlands, Germany and Denmark. It has a more continuous range in north-eastern Europe, including Fennoscandia , the Baltic states, 
 eastern Poland and northern Ukraine.",
         "flight_period": "May to August, peaking in May but already rare in July.",
-        "habitat": "C. armatum is found at shallow unshaded parts of mesotrophic to wekly eutrophic pools, ponds and lakes.
-In Fennoscandia it is occasionally found in slow-fowing river sections.
-Here it occurs among large swathes of sedges, Water horsetail and low reed.
-The key factor determining habitat suitability is the vegetation which need to be a rather dense growth of helophytes in shallow water of generally up to half a meter deep.
-In order to provide both shelter and space to move, the vegetation should neither be too low nor too high during the flight period.
-Suitable conditions can be found in natural and semi-natural habitats such as reed beds and peat excavations in ferns and wet meadows.
-In the later types of habitats, the species is dependent on mowing and teh cyclical creation of new peat excavations,
-as otherwise its preferred habitats disappear due to the natural regrowth of vegetation.",
+        "habitat": "C. armatum is found at shallow unshaded parts of mesotrophic to weakly eutrophic pools, ponds and lakes. In Fennoscandia it is occasionally found in slow-flowing river sections. Here it occurs among large swathes of sedges, Water horsetail and low reed. The key factor determining habitat suitability is the vegetation which need to be a rather dense growth of helophytes in shallow water of generally up to half a meter deep. In order to provide both shelter and space to move, the vegetation should neither be too low nor too high during the flight period. Suitable conditions can be found in natural and semi-natural habitats such as reed beds and peat excavations in ferns and wet meadows. In the later types of habitats, the species is dependent on mowing and the cyclical creation of new peat excavations, as otherwise its preferred habitats disappear due to the natural regrowth of vegetation.",
         "items_id": "eadb0fa9464293ce086daf4659c39a49",
         "local_names": Array [
           "Dark bluet",
@@ -1320,24 +1273,10 @@ as otherwise its preferred habitats disappear due to the natural regrowth of veg
       },
       Object {
         "behaviour": "",
-        "description": "The males of Coenagrion caerulaescens are light blue with black markings and bands on the abdomen.
-The second segment, S2, has a black marking in the shape of a cup or U, the bottom of which is always connected to the hind margin of the segment by a thick stem.
-S6-S7 are mainly black, but the extent of the black markings vary strongly between and within populations.
-This has historically led to the desription of various subspecies, none of which presently is regarded as valid.
-The pterostigma is small and substantioally triangular in shape and light brown in colour.
-The females are green-blue with black markings.
-A correct identification of the females is difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum.",
-        "distribution": "Endemic to the western Mediterranean. 
-Widespread and reasonably common in large parts of Spain, Sardinia, Sicily and the southern tip of Italy.
-It has scattered populations, genrally being very rare, in Portugal, Corsica, southern France and northern half of Italy.
-A single population on Menorca is the only known on the Balearic islands.",
+        "description": "The males of Coenagrion caerulaescens are light blue with black markings and bands on the abdomen. The second segment, S2, has a black marking in the shape of a cup or U, the bottom of which is always connected to the hind margin of the segment by a thick stem. S6-S7 are mainly black, but the extent of the black markings vary strongly between and within populations. This has historically led to the desription of various subspecies, none of which presently is regarded as valid. The pterostigma is small and substantioally triangular in shape and light brown in colour. The females are green-blue with black markings. A correct identification of the females is difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum.",
+        "distribution": "Endemic to the western Mediterranean. Widespread and reasonably common in large parts of Spain, Sardinia, Sicily and the southern tip of Italy. It has scattered populations, genrally being very rare, in Portugal, Corsica, southern France and northern half of Italy. A single population on Menorca is the only known on the Balearic islands.",
         "flight_period": "May to August.",
-        "habitat": "Coenagrion caerulaescens is found on sunlit running waters with hydrophotes and/or bordered by herbacous plants.
-These habitats vary from small streams and seepages to medium-sized rivers. 
-The aquatic vegetation ofter consists of submerged watermilfoil.
-In Europe, it is restricted to the warmer regions and generally found below 600 m, although it may reach up to 1 100 m.
-In the Maghreb, north-west Africa, it can be found up to 2 300 m.
-It is replaced by C. Scitulum in standing  and slow-flowing waters.",
+        "habitat": "Coenagrion caerulaescens is found on sunlit running waters with hydrophotes and/or bordered by herbacous plants. These habitats vary from small streams and seepages to medium-sized rivers. The aquatic vegetation ofter consists of submerged watermilfoil. In Europe, it is restricted to the warmer regions and generally found below 600 m, although it may reach up to 1 100 m. In the Maghreb, north-west Africa, it can be found up to 2 300 m. It is replaced by C. Scitulum in standing  and slow-flowing waters.",
         "items_id": "39beca5b66bbc9209844d7a240c15f6f",
         "local_names": Array [
           "Mediterranean bluet",
@@ -1363,14 +1302,10 @@ It is replaced by C. Scitulum in standing  and slow-flowing waters.",
       },
       Object {
         "behaviour": "",
-        "description": "A mainly asian species of the Coenagrion genus. 
-It was formerly only know from Altai to Kamtjatka but since 1996 a population in southern Ural has been discovered.",
-        "distribution": "First European record of this species was recorded in 1996 in southern Ural. 
-It is unknown if this is a new spread of its range or if the species has had a persistent presence, although overlooked previously.",
+        "description": "A mainly asian species of the Coenagrion genus. It was formerly only know from Altai to Kamtjatka but since 1996 a population in southern Ural has been discovered.",
+        "distribution": "First European record of this species was recorded in 1996 in southern Ural. It is unknown if this is a new spread of its range or if the species has had a persistent presence, although overlooked previously.",
         "flight_period": "June to July.",
-        "habitat": "Found mainly in standing waters but it also occurs in flowing waters and their stagnant backwaters, 
-like oxbow ponds and lakes.
-In its main range in Russia, it is found in small bodies of standing water in rivers floodplains, small bogs and lakes.",
+        "habitat": "Found mainly in standing waters but it also occurs in flowing waters and their stagnant backwaters, like oxbow ponds and lakes. In its main range in Russia, it is found in small bodies of standing water in rivers floodplains, small bogs and lakes.",
         "items_id": "0baa4ea0f49c24d22bf9be0e9dbd8b44",
         "local_names": Array [],
         "red_list": Object {
@@ -1387,27 +1322,16 @@ In its main range in Russia, it is found in small bodies of standing water in ri
           "Coenagrion sp.",
         ],
         "size": Object {
-          "length": null,
-          "wingspan": null,
+          "length": "mm",
+          "wingspan": "mm",
         },
       },
       Object {
         "behaviour": "",
-        "description": "A mainly asian species of the Coenagrion genus. 
-A tiny Coenagrion and an early flyer.",
-        "distribution": "The main distribution of Coenagrion glaciale is in the Eastern palearctic, largely confined to eastern Siberia, Russian far east and north-eastern China.
-In europe, the first finds was done in 2009 in Arkhangelsk province, in the northern boreal part of Russia.
-Some records also suggest the species occur in the southern Urals, and since the regions are largely under-explored
-for Odonata, C. glaciale could be more widespread than currently known.",
+        "description": "A mainly asian species of the Coenagrion genus. A tiny Coenagrion and an early flyer.",
+        "distribution": "The main distribution of Coenagrion glaciale is in the Eastern Palearctic, largely confined to eastern Siberia, Russian far east and north-eastern China. In europe, the first finds was done in 2009 in Arkhangelsk province, in the northern boreal part of Russia. Some records also suggest the species occur in the southern Urals, and since the regions are largely under-explored for Odonata, C. glaciale could be more widespread than currently known.",
         "flight_period": "June to July.",
-        "habitat": "The species favours small meso- and oligotrophic cold-water bodies, especially small lakes girdled with sedges, Sphagnum and other mosses and situated in forest landscapes.
-In Europe, it has been found in the Taiga zone at three small lakes surrounded by spruce and pine forests.
-The area where the species has been found is karstic, of high habitat diversity, with a greater frequency of non-acidic, mineral-rich wetlands than in most other parts of the Taiga zone.
-These characteristics, together with the severe local climatic conditions might have contributed to its presence in this area.
-three characteristics have been identified: 
-  1 Surrounding forests providing shelter from winds
-  2 Low water temperature, deeply frzen for long periods and/or fed by a cold inflow
-  3 Diversified vegetation, especially sedges and other low-growing species.",
+        "habitat": "The species favours small meso- and oligotrophic cold-water bodies, especially small lakes girdled with sedges, Sphagnum and other mosses and situated in forest landscapes. In Europe, it has been found in the Taiga zone at three small lakes surrounded by spruce and pine forests. The area where the species has been found is karstic, of high habitat diversity, with a greater frequency of non-acidic, mineral-rich wetlands than in most other parts of the Taiga zone. These characteristics, together with the severe local climatic conditions might have contributed to its presence in this area. Three characteristics have been identified; 1. Surrounding forests providing shelter from winds.  2. Low water temperature, deeply frzen for long periods and/or fed by a cold inflow. 3. Diversified vegetation, especially sedges and other low-growing species.",
         "items_id": "075b9d9694718c636604f1d60019dc52",
         "local_names": Array [],
         "red_list": Object {
@@ -1424,50 +1348,21 @@ three characteristics have been identified:
           "Coenagrion sp.",
         ],
         "size": Object {
-          "length": null,
-          "wingspan": null,
+          "length": "mm",
+          "wingspan": "mm",
         },
       },
       Object {
-        "behaviour": "Look for this species close to the shoreline or in between and among vegetation growing 
-in the water like sedges, Water horsetail or bulrushes.
-It can also be found away from the water, low in glades, bushes or edge zones of mashes and mirees,
-but it rarely moves far away from water.",
-        "description": "Like so many other Coenagrions, the males are light blue with black markings and bands.
-The males colouration can vary from light blue to yellowish-green.
-The side of the thorax has the typical black markings of the Coenagrion genera.
-The marking dorsally on S2 is likened to a spearhead, hence the latin name hastulatum, 
-also there are black lines forwardly positioned on along each side of S2.
-The black markings has a metallic green shine to them in certain lights and angles.
-Postocular spots are oval and joined centrally by a blue line.
-The pterostigma is black and small.
-The females are dorsally black-bronze in colour, and ventrally distictly yellowish-green, 
-often distinguishing her from other females of Coenagrion species. 
-They can rather be confused with immature Erythromma najas, but these should fairly early get their distinctive red eyes.
-However, a correct identification of the female is often difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum.",
-        "distribution": "Coenagrion hasulatum is widespread in northern and central Europe. 
-In the south of its range it becomes restricted to higher altitudes.
-The species is rare in the lowlands of south Germany but is reasonably widespread in the Alps
-and other mountains of central Europe.
-To the southwest disjunct occurances are found in the Massif Central and the Pyrenees.
-In the latter, less than fifteen localities are known.
-The species is very rare in the Balkan Peninsula with about a dozen localities known.
-The westernmost populations of its main range is found in the southeast of the Netherlands and Belgium.
-In the Brittish Isles it is only found in north-eastern Scotland.
-In Fennoscandia it is widespread and locally common and can be one of the most numerous species.",
+        "behaviour": "Look for this species close to the shoreline or in between and among vegetation growing in the water like sedges, Water horsetail or bulrushes. It can also be found away from the water, low in glades, bushes or edge zones of mashes and mires, but it rarely moves far away from water.",
+        "description": "Like so many other Coenagrions, the males are light blue with black markings and bands. The males colouration can vary from light blue to yellowish-green. The side of the thorax has the typical black markings of the Coenagrion genera. The marking dorsally on S2 is likened to a spearhead, hence the latin name hastulatum, also there are black lines forwardly positioned on along each side of S2. The black markings has a metallic green shine to them in certain lights and angles. Postocular spots are oval and joined centrally by a blue line. The pterostigma is black and small.
+
+The females are dorsally black-bronze in colour, and ventrally distictly yellowish-green, often distinguishing her from other females of Coenagrion species. 
+ They can rather be confused with immature Erythromma najas, but these should fairly early get their distinctive red eyes. However, a correct identification of the female is often difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum.",
+        "distribution": "Coenagrion hasulatum is widespread in northern and central Europe. In the south of its range it becomes restricted to higher altitudes. The species is rare in the lowlands of south Germany but is reasonably widespread in the Alps and other mountains of central Europe. To the southwest disjunct occurrences are found in the Massif Central and the Pyrenees. In the latter, less than fifteen localities are known. The species is very rare in the Balkan Peninsula with about a dozen localities known. The westernmost populations of its main range is found in the southeast of the Netherlands and Belgium. In the British Isles it is only found in north-eastern Scotland. In Fennoscandia it is widespread and locally common and can be one of the most numerous species.",
         "flight_period": "May to August",
-        "habitat": "In the core of its European range it is found in a wide range of habitats including largely unshaded ponds, lakes and bogs.
-The species favours slightly acidic water bodies with narrow-leaved sedged and peat mosses on peat, sandy, 
-sandstone or granite substrates.
-In many cases breeding habitats are formed by pooled rainwater. 
-It can also, but more rarely, be found in slow-flowing waters.
-In the west of its range and in the mountains of the south and south-east Europe, the species is largely limited to peat bogs
-and oligotrophic to mesotrophic lakes and ponds often in or near forests and nearly always with a well-developed 
-belt of sedges.
-It is rarely found in agricultural landscapes.
-In the north the species is mostly found in the lowlands but, in the south populations is often confined 
-to higher elevations up to 2 500 m.
-For example, in Switzerland 80% of the localities are found between 900 and 1 900 m.",
+        "habitat": "In the core of its European range it is found in a wide range of habitats including largely unshaded ponds, lakes and bogs. The species favours slightly acidic water bodies with narrow-leaved sedged and peat mosses on peat, sandy, sandstone or granite substrates. In many cases breeding habitats are formed by pooled rainwater. It can also, but more rarely, be found in slow-flowing waters. In the west of its range and in the mountains of the south and south-east Europe, the species is largely limited to peat bogs and oligotrophic to mesotrophic lakes and ponds often in or near forests and nearly always with a well-developed belt of sedges. It is rarely found in agricultural landscapes.
+
+In the north the species is mostly found in the lowlands but, in the south populations is often confined to higher elevations up to 2 500 m. For example, in Switzerland 80% of the localities are found between 900 and 1 900 m.",
         "items_id": "42596c578c5ccf580ea3672d50776fca",
         "local_names": Array [
           "Northern damselfly",
@@ -1494,24 +1389,10 @@ For example, in Switzerland 80% of the localities are found between 900 and 1 90
       },
       Object {
         "behaviour": "Generally not active during the hottest part of the day.",
-        "description": "Looks a lot like other Coenagrion species, but immediately recognizable because of the wide dark bands extending along the sides of the abdomen
-and the large blue postocular spots in both sexes.
-The males are blue and black, and the females are more robust and tricoloured green, blue and black.",
-        "distribution": "Widespread and common in central and eastern Siberia but in Europe only a few isolated pockets are known.
-In Austria the species is known from 14 localities, some small but others yield between 800 and 5000 exuviae everey year.
-In Bavaria it is now considered extinct.
-Further isolated pockets are found in the north of European Russia, in the Arkhangelsk province.
-The northern parts of Russia has been very poorly explored for Odonata and more populations probably remain to be found.
-The fragmented distribution of the species is attributed to post-glacial oscillations, 
-with the species expanding westwards to Europe after the last Glacial Maximum 
-and the range after that being fragmented during the warm Atlantic period.",
+        "description": "Looks a lot like other Coenagrion species, but immediately recognizable because of the wide dark bands extending along the sides of the abdomen and the large blue postocular spots in both sexes. The males are blue and black, and the females are more robust and tricoloured green, blue and black.",
+        "distribution": "Widespread and common in central and eastern Siberia but in Europe only a few isolated pockets are known. In Austria the species is known from 14 localities, some small but others yield between 800 and 5000 exuviae everey year. In Bavaria it is now considered extinct. Further isolated pockets are found in the north of European Russia, in the Arkhangelsk province. The northern parts of Russia has been very poorly explored for Odonata and more populations probably remain to be found. The fragmented distribution of the species is attributed to post-glacial oscillations, with the species expanding westwards to Europe after the last Glacial Maximum and the range after that being fragmented during the warm Atlantic period.",
         "flight_period": "From May to August, but peaking in June-July.",
-        "habitat": "The European populations in the Alps and the Arkhangelsk province are found cold, clear and mostly shallow peaty marshes, ponds and small lakes
-fed by ground water and trickles of neutral to calcareous waters with low nutrient content.
-In the Alps, the species is confined to forested areas between 800 and 1 600 m.
-In European Russia, it was reported from peaty lakes in the Taiga with adjacent swampy transition mires, bogs and fens 
-partly fed by karstic alkaline water.
-It is present in a wider selection of habitats in Siberia, where it is often found at small oxbow swamps in river floodplains.",
+        "habitat": "The European populations in the Alps and the Arkhangelsk province are found cold, clear and mostly shallow peaty marshes, ponds and small lakes fed by ground water and trickles of neutral to calcareous waters with low nutrient content. In the Alps, the species is confined to forested areas between 800 and 1 600 m. In European Russia, it was reported from peaty lakes in the Taiga with adjacent swampy transition mires, bogs and fens partly fed by karstic alkaline water. It is present in a wider selection of habitats in Siberia, where it is often found at small oxbow swamps in river floodplains.",
         "items_id": "436ec5b02d3b83653f275928aaed1790",
         "local_names": Array [
           "Siberian bluet",
@@ -1536,22 +1417,11 @@ It is present in a wider selection of habitats in Siberia, where it is often fou
       },
       Object {
         "behaviour": "",
-        "description": "Endemic to the island of Crete where it replaces C. puella and C. pulchellum.
-Very similar to C. puella with minor differences in the shape of the abdominal appendages of the males and the shape of the hind margin of
-the pronotum in females 
-which is intermediate between that of C. puella and C. pulchellum (hence the latin name intermedium)",
-        "distribution": "The species only occur in Crete, where it is presently known from 19 different rivers.  
-The species is not uncommon in Crete but available habitats is limited 
-and it seems likely that in the future it will be affected by climate change and the 
-resulting desiccation of streams.",
+        "description": "Endemic to the island of Crete where it replaces C. puella and C. pulchellum. Very similar to C. puella with minor differences in the shape of the abdominal appendages of the males and the shape of the hind margin of the pronotum in females which is intermediate between that of C. puella and C. pulchellum (hence the latin name intermedium)",
+        "distribution": "The species only occur in Crete, where it is presently known from 19 different rivers. The species is not uncommon in Crete but available habitats is limited 
+and it seems likely that in the future it will be affected by climate change and the resulting desiccation of streams.",
         "flight_period": "From mid-May to July.",
-        "habitat": "Coenagrion intermedium is confined to small streams with moderate flow rates flakned by gallery forests
-of the Oriental plane.
-No records of self-sustining populations in standing waters exist.
-The species is absent from open unshaded streams.
-Most localities are in the upper and middle parts of streams, rarely along lower reaches.
-The highest densities of individuals are found at spots with a slow current and herbaceous banks.
-At faster-flowing sections population density is lower.",
+        "habitat": "Coenagrion intermedium is confined to small streams with moderate flow rates flakned by gallery forests of the Oriental plane. No records of self-sustaining populations in standing waters exist. The species is absent from open unshaded streams. Most localities are in the upper and middle parts of streams, rarely along lower reaches. The highest densities of individuals are found at spots with a slow current and herbaceous banks. At faster-flowing sections population density is lower.",
         "items_id": "eaa844c9ee5666fdeff7edac15dadff6",
         "local_names": Array [
           "Cretan bluet",
@@ -1575,40 +1445,15 @@ At faster-flowing sections population density is lower.",
         },
       },
       Object {
-        "behaviour": "This speceies stays low in the vegetation, much like C. armatum and Nehalenna speciosa. 
-But being overall more common than the both of them it is more easy to find.
-It can also be found flying along shores and during mating pairs can be spotted a bit away from the water, for example in nearby glades.",
-        "description": "One of the smalles species of the genus Coenagrion, with a short and thin abdomen.
-The males are blue with black markings. 
-Postocular spots are pear-shaped.
-The males have dorsally on the second abdominal segment (S2) a marking in the shape of a U.
-In some individuals the the latter marking is connected to a band at the rear margin of the segment by a black line, 
-thus forming a sort of Y, somewhat as on C. pulchellum.
-On the sides of the S2 marking there is a backwards pointing \\"spike\\".
-It can be likened to a resting cat where the spike would make the front legs.
-The males have the dorsal parts of S9 and S10 light blue.
-The females have the dorsal part of the abdomen completely black, except for S9 and S10 that are blue.
-Females couloured parts vary in colour from blue to green and to almost chocolate brown.
-Both sexes have two black lines , much like prongs, on the sides of the abdomen.
-These markings only also appear on C. hylas and gives the speceis a darker general impression.
-But C. johanssonii is much smaller in size than C. hylas.
-The pterostigma is rather short and black in colour in both sexes.
-Legs are lightly coloured with black lines and appear weaker than other simillar species.
+        "behaviour": "This species stays low in the vegetation, much like C. armatum and Nehalenna speciosa. But being overall more common than the both of them it is more easy to find. It can also be found flying along shores and during mating pairs can be spotted a bit away from the water, for example in nearby glades.",
+        "description": "One of the smallest species of the genus Coenagrion, with a short and thin abdomen. The males are blue with black markings. Postocular spots are pear-shaped. The males have dorsally on the second abdominal segment (S2) a marking in the shape of a U. In some individuals the the latter marking is connected to a band at the rear margin of the segment by a black line, thus forming a sort of Y, somewhat as on C. pulchellum. On the sides of the S2 marking there is a backwards pointing \\"spike\\". It can be likened to a resting cat where the spike would make the front legs. The males have the dorsal parts of S9 and S10 light blue.
 
-As always with Coenagrionidae, the shape of the pronotum is characteristic for the species.",
-        "distribution": "Coenagrion johansonii has the northernmost distribution of all European damselfly speceies, 
-almost completely overlapping the taiga forest.
-More rarely small populations are found in the tundra and in the transition area between the taiga and the tundra.
-The species is widespread moderately common in most of Fennoscandia, 
-although it is rare in the mountains of Norway and Sweden.
-It is reasonably widespread, although decreasing from the north to the south, in the Baltic states and Belarus.
-The speceis is probably common and widespread in the boreal parts of the European Russia, 
-although many of the records from this area needs confirmation.
-It is well established in southern Urals. ",
+The females have the dorsal part of the abdomen completely black, except for S9 and S10 that are blue. Females coloured parts vary in colour from blue to green and to almost chocolate brown. Both sexes have two black lines , much like prongs, on the sides of the abdomen. These markings only also appear on C. hylas and gives that species a darker general impression, but C. johanssonii is much smaller in size than C. hylas.
+
+The pterostigma is rather short and black in colour in both sexes. Legs are lightly coloured with black lines and appear weaker than other similar species. As always with Coenagrionidae, the shape of the pronotum is characteristic for the species.",
+        "distribution": "Coenagrion johansonii has the northernmost distribution of all European damselfly species, almost completely overlapping the taiga forest. More rarely small populations are found in the tundra and in the transition area between the taiga and the tundra. The species is widespread moderately common in most of Fennoscandia, although it is rare in the mountains of Norway and Sweden. It is reasonably widespread, although decreasing from the north to the south, in the Baltic states and Belarus. The species is probably common and widespread in the boreal parts of the European Russia, although many of the records from this area needs confirmation. It is well established in southern Urals. ",
         "flight_period": "May to August",
-        "habitat": "In Europe, this boreal species is found in peat bogs, transition mires, fens, ponds and lakes bordered with Sphagnum peat moss rafts.
-Suitable habitats are often in or nearby forests.
-C. johanssonii is mostly found in lowlands but has been recorded up to 1 000 m in Norway and Sweden.",
+        "habitat": "In Europe, this boreal species is found in peat bogs, transition mires, fens, ponds and lakes bordered with Sphagnum peat moss rafts. Suitable habitats are often in or nearby forests. C. johanssonii is mostly found in lowlands but has been recorded up to 1 000 m in Norway and Sweden.",
         "items_id": "1d634e3394bf048322053bfd90702477",
         "local_names": Array [
           "Arctic bluet",
@@ -1632,42 +1477,13 @@ C. johanssonii is mostly found in lowlands but has been recorded up to 1 000 m i
         },
       },
       Object {
-        "behaviour": "It can often dissapear among simillar speceies even if it actually is present in good numbers. 
-Often only by patiently going through all individuals it can be found and identified.
-Males are more prone to perching on floating vegetation and both sexes can often be found up in higher vegetation 
-as long as it grows a bit out in the water-filled marshes.",
-        "description": "Simillar to C. hastulatum with both males and females darker and stockier.
-Postocular spots are round and not connected centrally, 
-a characteristic only shared with C. armatum.
-The latin name lunulatum derives from the characteristic dorsal crescent-shaped marking on S2 of the males.
-This character is not always conspicious in the field so it can be easier to 
-identify the species by observing the ventral part of the body that is greenish in males in contrast to the dorsal 
-part which is mainly black.
-In fact only S8 and S9 are completely light blue, apart from the already mentioned S2.
+        "behaviour": "It can often dissapear among simillar speceies even if it actually is present in good numbers. Often only by patiently going through all individuals it can be found and identified. Males are more prone to perching on floating vegetation and both sexes can often be found up in higher vegetation as long as it grows a bit out in the water-filled marshes.",
+        "description": "Simillar to C. hastulatum with both males and females darker and stockier. Postocular spots are round and not connected centrally, a characteristic only shared with C. armatum. The latin name lunulatum derives from the characteristic dorsal crescent-shaped marking on S2 of the males. This character is not always conspicious in the field so it can be easier to identify the species by observing the ventral part of the body that is greenish in males in contrast to the dorsal part which is mainly black. In fact only S8 and S9 are completely light blue, apart from the already mentioned S2.
 
-Females vary greatly in colour, often greenish yellow but not as clearly yellow as C. hastulatum can be.
-Abdominal parts mainly dark except a part on S8 which is half blue, half black and 
-where the black part has a characteristic frontally pointing thorn-shape 
-which distinguishes it from other Coenagrion females.",
-        "distribution": "Coenagrion lunulatum has a disjunct distribution in Europe. The core of its range includes the Netherlands, northern Germany,
-Poland, the south of both Sweden and Finland, and the Baltic states, from where it is expected to continue east
-to the Ural Mountains.
-The species is rare south and north of this core region and is mostly found in scattered, small populations
-from the Ukrainian Carpathians to the Czech Republic and the Alps, and throughout most of Fennoscandia.
-In contrast to its rarity in the Alps, it is well established in Massif Central in France, which constitutes
-a dijunct area of occurence. 
-Another disjunct area is found in Ireland, where C. lunulatum is widespread but uncommon in the northern half of 
-the island.
-It is remarkably absent from Great Britain.",
+Females vary greatly in colour, often greenish yellow but not as clearly yellow as C. hastulatum can be. Abdominal parts mainly dark except a part on S8 which is half blue, half black and where the black part has a characteristic frontally pointing thorn-shape which distinguishes it from other Coenagrion females.",
+        "distribution": "Coenagrion lunulatum has a disjunct distribution in Europe. The core of its range includes the Netherlands, northern Germany, Poland, the south of both Sweden and Finland, and the Baltic states, from where it is expected to continue east to the Ural Mountains. The species is rare south and north of this core region and is mostly found in scattered, small populations from the Ukrainian Carpathians to the Czech Republic and the Alps, and throughout most of Fennoscandia. In contrast to its rarity in the Alps, it is well established in Massif Central in France, which constitutes a disjunct area of occurence. Another disjunct area is found in Ireland, where C. lunulatum is widespread but uncommon in the northern half of the island. It is remarkably absent from Great Britain.",
         "flight_period": "April to the end of July",
-        "habitat": "In most of its European range it is predominantly found in oligotrophic to mesotrophic, acidic to slightly acidic ponds and small lakes, 
-peat bogs and fens.
-These often support a vegetation of small sedges and Sphagnum peat mosses, and are largely unshaded.
-Most habitats lie within or in direct proximity to forests.
-In the east of its range, the species is found in a wider range of habitats such as cattle ponds and gravel and clay pits,
-where it occurs regularly in slightly more eutrophic water bodies with rather ordinary fringing vegetation.
-C. lunulatum is mainly found in lowlands and low hills in the north of its range, and is confined to mountains up to 1 500 m in the south.
-It is very rare in the Alps, which correlates with its rarity in the boreal belt.",
+        "habitat": "In most of its European range it is predominantly found in oligotrophic to mesotrophic, acidic to slightly acidic ponds and small lakes, peat bogs and fens. These often support a vegetation of small sedges and Sphagnum peat mosses, and are largely unshaded. Most habitats lie within or in direct proximity to forests. In the east of its range, the species is found in a wider range of habitats such as cattle ponds and gravel and clay pits, where it occurs regularly in slightly more eutrophic water bodies with rather ordinary fringing vegetation. C. lunulatum is mainly found in lowlands and low hills in the north of its range, and is confined to mountains up to 1 500 m in the south. It is very rare in the Alps, which correlates with its rarity in the boreal belt.",
         "items_id": "146176bfeebbc6db32e4c6ae8c07b8d5",
         "local_names": Array [
           "Crescent bluet",
@@ -1693,35 +1509,10 @@ It is very rare in the Alps, which correlates with its rarity in the boreal belt
       },
       Object {
         "behaviour": "",
-        "description": "One of the smaller Coenagrions.
-The males are light blue with black markings and bands on the abdomen.
-The characters for sure identification are small and should be observed carefully.
-The pterostigma is diamond-shaped (lozenge) and is blackish-brown with a lighter coloured border.
-The black marking on S2 is characteristic and resembles the helmet of Mercury, 
-who according to roman mythology wore a winged helmet.
-The shape also looks like a U placed on a spearhead. 
-It is always connected to the hind margin of S2.
-The females are green-blue with black markings.
-A correct identification of the females is difficult and can only be done with certainty by checking the shape of the pronotum.",
-        "distribution": "The main range of C. mercuriale covers France and the northern part of the Iberian Peninsula, 
-where it is widespread and common.
-The species has a more scattered occurence in the southern half of spain and in Italy, where it is lacking north of the Po river.
-It is missing from all Mediterranean islands.
-In central Europe it is found in Germany and western Austria, where it is widespread but rare, with small local polulations.
-In Belgium it is very rare, only found in two small areas in southern Wallonia.
-In the Netherlands it is considered extinct, although vagrants have been found.
-In Great Britain it is restricted to a small number of populations in Wales and the south and west of England.",
+        "description": "One of the smaller Coenagrions. The males are light blue with black markings and bands on the abdomen. The characters for sure identification are small and should be observed carefully. The pterostigma is diamond-shaped (lozenge) and is blackish-brown with a lighter coloured border. The black marking on S2 is characteristic and resembles the helmet of Mercury, who according to roman mythology wore a winged helmet. The shape also looks like a U placed on a spearhead. It is always connected to the hind margin of S2. The females are green-blue with black markings. A correct identification of the females is difficult and can only be done with certainty by checking the shape of the pronotum.",
+        "distribution": "The main range of C. mercuriale covers France and the northern part of the Iberian Peninsula, where it is widespread and common. The species has a more scattered occurence in the southern half of spain and in Italy, where it is lacking north of the Po river. It is missing from all Mediterranean islands. In central Europe it is found in Germany and western Austria, where it is widespread but rare, with small local populations. In Belgium it is very rare, only found in two small areas in southern Wallonia. In the Netherlands it is considered extinct, although vagrants have been found. In Great Britain it is restricted to a small number of populations in Wales and the south and west of England.",
         "flight_period": "April to August",
-        "habitat": "C. mercuriale is found at unshaded, often calcareous runnels, small streams and irrigation ditches,
-preferably with a rich aquatic and riparian vegetation of Watercress and Fool's waterdress.
-The water is typically shallow and slow-flowing over a gravel or marl bed with pathes of organic detrius.
-The vegetation near the banks often consists of low herbs and grasses and is frequently used for hay production or grazing.
-It is one of the few species that is mainly found in extensive agricultural areas.
-here it benefits from mowing of bank side vegetation and cleaning of waterways which prevents 
-the habitat from becomming overgrown and shaded.
-In Great Britain the species is found runnels and streams in acidic heathland, chalk streams and 
-calcareous fens.
-C. mercuriale is mostly found below 700 m in the middle latitudes, but can reach 1 500 m in the Iberian Peninsula (and over 2 100 m in Marocco).",
+        "habitat": "C. mercuriale is found at unshaded, often calcareous runnels, small streams and irrigation ditches, preferably with a rich aquatic and riparian vegetation of Watercress and Fool's waterdress. The water is typically shallow and slow-flowing over a gravel or marl bed with patches of organic detrius. The vegetation near the banks often consists of low herbs and grasses and is frequently used for hay production or grazing. It is one of the few species that is mainly found in extensive agricultural areas. here it benefits from mowing of bank side vegetation and cleaning of waterways which prevents the habitat from becoming overgrown and shaded. In Great Britain the species is found runnels and streams in acidic heathland, chalk streams and calcareous fens. C. mercuriale is mostly found below 700 m in the middle latitudes, but can reach 1 500 m in the Iberian Peninsula (and over 2 100 m in Morocco).",
         "items_id": "a79793d4bb563c2d80b413fd57c6b738",
         "local_names": Array [
           "Southern damselfly",
@@ -1746,34 +1537,10 @@ C. mercuriale is mostly found below 700 m in the middle latitudes, but can reach
       },
       Object {
         "behaviour": "",
-        "description": "The males are light blue with black markings, similar to C. mercuriale and stockier than C. puella.
-The pattern on S2 has a shape of a triden or a W.
-The males have much longer lower appendages than upper ones, which is visible in a side view.
-The females are more extensively blue than other females of Coenagrion; 
-on the abdomen they have in fact a discontinous black pattern against a light blue background
-that make them similar to the androchrome females of C. puella.
-Both the females and males have postocular spots with a toothed lower margin, 
-where all other Coenagrions have smooth edges.
-The pterostigmas are dark and diamond shaped.",
-        "distribution": "The core of the range is in south-east Europe, with small and isolated areas of occurence in central and western Europe.
-The area where the species is reasonably widespread, although populations are often small, 
-runs from Hungary and Slovenia southwards to Bulgaria and northern Greece.
-To the East this core area extends to Romaina and western Ukraine.
-The species is rare in the south of Greece and absent from the Mediterranean islands.
-It is rare to very rare in central and western Europe, with large populations only found in the Danube valley
-in Bavaria in southern Germany, and the Nièvre and Saône deparments in central France.
-Outside these areas only a few dozen central European populations are currently known.",
+        "description": "The males are light blue with black markings, similar to C. mercuriale and stockier than C. puella. The pattern on S2 has a shape of a trident or a W. The males have much longer lower appendages than upper ones, which is visible in a side view. The females are more extensively blue than other females of Coenagrion; on the abdomen they have in fact a discontinous black pattern against a light blue background that make them similar to the androchrome females of C. puella. Both the females and males have postocular spots with a toothed lower margin, where all other Coenagrions have smooth edges. The pterostigmas are dark and diamond shaped.",
+        "distribution": "The core of the range is in south-east Europe, with small and isolated areas of occurence in central and western Europe. The area where the species is reasonably widespread, although populations are often small, runs from Hungary and Slovenia southwards to Bulgaria and northern Greece. To the East this core area extends to Romaina and western Ukraine. The species is rare in the south of Greece and absent from the Mediterranean islands. It is rare to very rare in central and western Europe, with large populations only found in the Danube valley in Bavaria in southern Germany, and the Nièvre and Saône departments in central France. Outside these areas only a few dozen central European populations are currently known.",
         "flight_period": "",
-        "habitat": "C. ornatum occurs in sunny seepages and permanent and mostly small streams generally with a aslow current and shallow water.
-In most cases there is organic mud and detrius on the stream-bed and moderately dense herbaceous vegetation.
-The water is often calcareous and relatively warm.
-Natural habitat types where these conditions occur are spring marshes, karstic springs and streams.
-Most of the European populations are presently found in agricultural areas, at small ditches and streams.
-MAny of these habitats depend on both the cyclic cleaning of water courses and the mowing of bank side vegetation to prevent the habitat from becoming overgrown.
-In Slovenia it was noted that the species readily colonises newly created ditches and streams.
-In most Europe the species favours largely open habitats below 600 m.
-In the Balkan Peninsula populations have been found up to 900 m, while in Turkey 
-it occurs in mountain streams up to 1 800 m, some of which sre extensively snow-covered in winter.",
+        "habitat": "C. ornatum occurs in sunny seepages and permanent and mostly small streams generally with a slow current and shallow water. In most cases there is organic mud and detrius on the stream-bed and moderately dense herbaceous vegetation. The water is often calcareous and relatively warm. Natural habitat types where these conditions occur are spring marshes, karstic springs and streams. Most of the European populations are presently found in agricultural areas, at small ditches and streams. Many of these habitats depend on both the cyclic cleaning of water courses and the mowing of bank side vegetation to prevent the habitat from becoming overgrown. In Slovenia it was noted that the species readily colonises newly created ditches and streams. In most Europe the species favours largely open habitats below 600 m. In the Balkan Peninsula populations have been found up to 900 m, while in Turkey it occurs in mountain streams up to 1 800 m, some of which are extensively snow-covered in winter.",
         "items_id": "70fd0279c59ea93d04b7a80ed5ba9d0a",
         "local_names": Array [
           "Ornate bluet",
@@ -1797,34 +1564,11 @@ it occurs in mountain streams up to 1 800 m, some of which sre extensively snow-
         },
       },
       Object {
-        "behaviour": "Look for this speceies by water or a bit away from it in sunny, wind-protected glades or bush-edges.
-Look for it low, it rarely flies above waist height.
-It rarely flies out over open water, as opposed to also light blue Enallagma cyathigerum, whom it otherwise often shares habitats with.",
-        "description": "Males light blue with black abdominal markings and bands that have long and thin lateral extensions, like prongs,
-extending forward so much so that in a side view the abdomen appears to be crossed by an almost continous black line.
-It can be distinguished from C. pulchellum by the marking on S2 in the shape of a U, rather than a Y, and 
-in which the U is never connected to the hind margin of the segment.
-It can be further distinguished by the light blue antehumeral stripes on the thorax which are complete, 
-ratther than interrupted.
-The females are most often green-blue, yellow or sometimes blue with black markings.
-A correct identification of the females is difficult and can only be made with certainty by checking the shape 
-of the hind margin of the pronotum.
-In both the males and the females, the postocular spots are not connected centrally by a light blue line across the back of the head..",
-        "distribution": "The speceies is one of the most widespread and common damselfly in Europe and there is no indication of decline.
-It often occurs at high densities. It is absent from the northern half of Fennoscandia and is rare or absent 
-from most parts of the Iberian Peninsula.
-It ranges east to the western Siberian lowlands.
-It is absent on Crete, where it is replaced by C. intermedium.",
+        "behaviour": "Look for this speceies by water or a bit away from it in sunny, wind-protected glades or bush-edges. Look for it low, it rarely flies above waist height. It rarely flies out over open water, as opposed to also light blue Enallagma cyathigerum, whom it otherwise often shares habitats with.",
+        "description": "Males light blue with black abdominal markings and bands that have long and thin lateral extensions, like prongs, extending forward so much so that in a side view the abdomen appears to be crossed by an almost continuous black line. It can be distinguished from C. pulchellum by the marking on S2 in the shape of a U, rather than a Y, and in which the U is never connected to the hind margin of the segment. It can be further distinguished by the light blue antehumeral stripes on the thorax which are complete, rather than interrupted. The females are most often green-blue, yellow or sometimes blue with black markings. A correct identification of the females is difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum. In both the males and the females, the postocular spots are not connected centrally by a light blue line across the back of the head..",
+        "distribution": "The species is one of the most widespread and common damselfly in Europe and there is no indication of decline. It often occurs at high densities. It is absent from the northern half of Fennoscandia and is rare or absent from most parts of the Iberian Peninsula. It ranges east to the western Siberian lowlands. It is absent on Crete, where it is replaced by C. intermedium.",
         "flight_period": "April/May to September",
-        "habitat": "Coenagrion puella is found at a wide range of standing and slow-flowing waters.
-These are largely unshaded and generally mesotrophic to eutrophic with well-developed bank-side vegetation.
-The species clearly favours waters with floating vegetation, which is used as substrate for oviposition.
-It is generally absent from temporary and fluctuating waters as well as from brackish habitats.
-Suitable habitats include drainage ditches and other canals, garden ponds, natural lakes and ponds,
-peat bogs and fens with open water. 
-Also it is found, although generally in lower numbers, in lowland streams, rivers and backwaters such as oxbow lakes and ponds.
-Population density is generally low on peaty or clay soils, where the species tend to be outnumbered by C. pulchellum.
-C. puella has a wide altitudal range and is found up to 2 000- 2 500 m in the south of its range.",
+        "habitat": "Coenagrion puella is found at a wide range of standing and slow-flowing waters. These are largely unshaded and generally mesotrophic to eutrophic with well-developed bank-side vegetation. The species clearly favours waters with floating vegetation, which is used as substrate for oviposition. It is generally absent from temporary and fluctuating waters as well as from brackish habitats. Suitable habitats include drainage ditches and other canals, garden ponds, natural lakes and ponds, peat bogs and fens with open water. Also it is found, although generally in lower numbers, in lowland streams, rivers and backwaters such as oxbow lakes and ponds. Population density is generally low on peaty or clay soils, where the species tend to be outnumbered by C. pulchellum. C. puella has a wide altitudinal range and is found up to 2 000- 2 500 m in the south of its range.",
         "items_id": "4ffdf5e36504066a9ab0530009fa4456",
         "local_names": Array [
           "Azure damselfly",
@@ -1848,34 +1592,15 @@ C. puella has a wide altitudal range and is found up to 2 000- 2 500 m in the so
         },
       },
       Object {
-        "behaviour": "To find plenty of this species, look at edge zones, like sunny wind-protected glades and like.
-At really good spots you can find thousands of individuals.",
-        "description": "The males of this species are light blue to blue with black markings.
-They can be confused with the males of C. puella from which they can be distinguished by a general darker colouration,
-the larger extension of the black markings on the abdomen.
-The pattern makes the shape af a Y instead of a U on S2 and the antehumeral stripes often being split and thereby
-resembling an exclamation mark.
+        "behaviour": "To find plenty of this species, look at edge zones, like sunny wind-protected glades and like. At really good spots you can find thousands of individuals.",
+        "description": "The males of this species are light blue to blue with black markings. They can be confused with the males of C. puella from which they can be distinguished by a general darker colouration, the larger extension of the black markings on the abdomen. The pattern makes the shape af a Y instead of a U on S2 and the antehumeral stripes often being split and thereby resembling an exclamation mark.
 
-Sometimes the antehumeral stripes are complete but have a narrower neck towards the rear part ot the thorax.
-Sometimes the marking on S2 is not connected to the hind margin, making it look like C. puella.
-But any male with both broken antehumeral stripes and a good Y-shape on S2 should, with certainty, be a C. pulchellum.
+Sometimes the antehumeral stripes are complete but have a narrower neck towards the rear part ot the thorax. Sometimes the marking on S2 is not connected to the hind margin, making it look like C. puella. But any male with both broken antehumeral stripes and a good Y-shape on S2 should, with certainty, be a C. pulchellum.
 
-The females have two colour forms, blue or green, like C. puella.
-Their identification is difficult and can only be done with certainty by looking 
-at the shape and hind margin of the pronotum, that being dented in three points, form three lobes.",
-        "distribution": "Coenagrion pulchellum is widespreadin central Europe but missing from most of the Iberian Peninsula and northern parts of Fennoscandia.
-It is rare in parts of mainland Italy and absent from Sicily.
-The species is reasonably common on Corsica but absent on Sardinia.
-In the Balkan Peninsula it becomes scarcer towards the south, but reaches the southern Peloponese in Greece.
-In the Iberian Peninsula the species is rare and scattered in northern Spain.
-Only one recorded observation is made in Portugal but more small overlooked populations might exist in both Spain and Portugal.",
+The females have two colour forms, blue or green, like C. puella. Their identification is difficult and can only be done with certainty by looking at the shape and hind margin of the pronotum, that being dented in three points, form three lobes.",
+        "distribution": "Coenagrion pulchellum is widespread in central Europe but missing from most of the Iberian Peninsula and northern parts of Fennoscandia. It is rare in parts of mainland Italy and absent from Sicily. The species is reasonably common on Corsica but absent on Sardinia. In the Balkan Peninsula it becomes scarcer towards the south, but reaches the southern Peloponnese in Greece. In the Iberian Peninsula the species is rare and scattered in northern Spain. Only one recorded observation is made in Portugal but more small overlooked populations might exist in both Spain and Portugal.",
         "flight_period": "April to August-September",
-        "habitat": "Coenagrion pulchellum is found in standing waters and slow-flowing sections of rivers.
-Habitats are largely unshaded oligotrophic, mesotrophic or eutrophic and nearly always have a well-developed bank-side and aquatic
-vegetation.
-Favuored habitats include lakes, ponds, fens, peat bogs, oxbows, ditches and canals.
-The species is generally absent from fast-flowing waters.
-C. pulchellum is mainly found in lowlands but breeds up to 1 500 m in southern Europe.",
+        "habitat": "Coenagrion pulchellum is found in standing waters and slow-flowing sections of rivers. Habitats are largely unshaded oligotrophic, mesotrophic or eutrophic and nearly always have a well-developed bank-side and aquatic vegetation. Favoured habitats include lakes, ponds, fens, peat bogs, oxbows, ditches and canals. The species is generally absent from fast-flowing waters. C. pulchellum is mainly found in lowlands but breeds up to 1 500 m in southern Europe.",
         "items_id": "63793274e52e88f91ada8b809ef9da1d",
         "local_names": Array [
           "Variable damselfly",
@@ -1900,28 +1625,12 @@ C. pulchellum is mainly found in lowlands but breeds up to 1 500 m in southern E
       },
       Object {
         "behaviour": "",
-        "description": "One of the smaller Coenagrions.
-The males are light blue with black markings and bands on the abdomen.
-The pterostigma is shaped like a diamond (lozenge) and is brown-grey to yellowish in colour.
-S2 is characterised by a pattern like a Y with arms tending to open.
-The stem of the Y is always connected to the hind margin of the segment.
-It is very similar to C. caerulescens.
+        "description": "One of the smaller Coenagrions. The males are light blue with black markings and bands on the abdomen. The pterostigma is shaped like a diamond (lozenge) and is brown-grey to yellowish in colour. S2 is characterised by a pattern like a Y with arms tending to open. The stem of the Y is always connected to the hind margin of the segment. It is very similar to C. caerulescens.
 
-The females are blue-green with black markings.
-A correct identification of the females is difficult and can best be done by checking the shape of the pronotum.",
-        "distribution": "Coenagrion scitulum is widespread in the southern half of Europe, being fairly common in mainland France,
-parts of the Iberian Peninsula and the largest western Mediterranean islands.
-It is scarce but increasing in Belgium, the Netherlands and parts of Germany.
-In Italy and on the Balkan Peninsula it is widespread but scarcer than in most of western Europe.
-The species is scattered and uncommon in the south of both Ukraine and European Russia.",
+The females are blue-green with black markings. A correct identification of the females is difficult and can best be done by checking the shape of the pronotum.",
+        "distribution": "Coenagrion scitulum is widespread in the southern half of Europe, being fairly common in mainland France, parts of the Iberian Peninsula and the largest western Mediterranean islands. It is scarce but increasing in Belgium, the Netherlands and parts of Germany. In Italy and on the Balkan Peninsula it is widespread but scarcer than in most of western Europe. The species is scattered and uncommon in the south of both Ukraine and European Russia.",
         "flight_period": "April-May to August",
-        "habitat": "Coenagrion scitulum is found at sunny, standing, and, more rarely, slow-flowing habitats with generally shallow water rich in hudrophytes.
-The presence of extensive aquatic vegetation is important and the species is most common at habitats with mats of watermilfoil and hornworths.
-The bank-side vegetation seems to be of minor importance and often consists of grasses or is largely lacking.
-Suitable habitats include oxbox lakes, ditches, cattle ponds and quarries.
-In the south of its range, where larval development takes place within six months, 
-the species is also found in temporary waters.
-It is most common in the lowlands but has been found up to 1 100 m in the south of its range.",
+        "habitat": "Coenagrion scitulum is found at sunny, standing, and, more rarely, slow-flowing habitats with generally shallow water rich in hudrophytes. The presence of extensive aquatic vegetation is important and the species is most common at habitats with mats of watermilfoil and hornworths. The bank-side vegetation seems to be of minor importance and often consists of grasses or is largely lacking. Suitable habitats include oxbox lakes, ditches, cattle ponds and quarries. In the south of its range, where larval development takes place within six months, the species is also found in temporary waters. It is most common in the lowlands but has been found up to 1 100 m in the south of its range.",
         "items_id": "be802f01dba8b235c7d37fc0888c3436",
         "local_names": Array [
           "Dainty bluet",
@@ -1946,41 +1655,15 @@ It is most common in the lowlands but has been found up to 1 100 m in the south 
         },
       },
       Object {
-        "behaviour": "The species can be seen in hundreds even at small waters.
-Both sexes like to perch on waterlilies and pondweeds.
-Males and females often fly in tandem over open water.
-Males patrol aggressively over open water in search for females.
-During oviposition the female immersess her body in the water while the male protects her by flying around her.
-Especially young individuals can be found far from waters.
-On windy days large amounts of individuals can be gathered in wind-protected spots near the waters.",
-        "description": "It resembles the Coenagrion sp. but carries a few recognisable characteristics that differs it.
-The males are blue with black markings, the blue commonly being more greyish at low temperatures.
+        "behaviour": "The species can be seen in hundreds even at small waters. Both sexes like to perch on waterlilies and pondweeds. Males and females often fly in tandem over open water. Males patrol aggressively over open water in search for females. During oviposition the female immerses her body in the water while the male protects her by flying around her. Especially young individuals can be found far from waters. On windy days large amounts of individuals can be gathered in wind-protected spots near the waters.",
+        "description": "It resembles the Coenagrion sp. but carries a few recognisable characteristics that differs it. The males are blue with black markings, the blue commonly being more greyish at low temperatures. The side of the thorax is almost completely blue. The interpleural suture on the side of the thorax, typical for Coenagrion sp, is in E. cyathigerum very thin and has no black marking along it. Ischnura sp. has two distictive dots on the side of the thorax, these are also absent on E. cyathigerum. Eyes are clearly blue, in a darker tone than the rest of the body.
 
-The side of the thorax is almost completely blue. 
-The interpleural suture on the side of the thorax, typical for Coenagrion sp, 
-is in E. cyathigerum very thin and has no black marking along it.
-Ischnura sp. has two distictive dots on the side of the thorax, these are also absent on E. cyathigerum.
+Males have a distictive marking on S2, in the shape of a small mushroom (extremely variable). The marking is usually connected to the black ring marking at the end of the segment. The antehumeral stripes are wide.
 
-Eyes are clearly blue, in a darker tone than the rest of the body.
-
-Males have a distictive marking on S2, in the shape of a small mushroom (extremely variable).
-The marking is usually connected to the black ring marking at the end of the segment.
-
-The antehumeral stripes are wide.
-
-The females have different colouration, from light blue to brownish, but generally green.
-Characteristic in females is the presence of a vulvar spine under S8.",
-        "distribution": "This species is widespread widespread and common in the European part of its range, 
-where it reaches the far north of Scandinavia.
-It becomes less frequent towards the Mediterranean, wher it has a patchy distribution throughout the most of the Balkan Peninsula
-and in the driest regions of Spain and Italy, and is rare in large parts of Greece.
-It is present on only some of the Mediterranean islands including Corsica, Sicily, Crete and several Aegean islands.",
+The females have different colouration, from light blue to brownish, but generally green. Characteristic in females is the presence of a vulvar spine under S8.",
+        "distribution": "This species is widespread widespread and common in the European part of its range, where it reaches the far north of Scandinavia. It becomes less frequent towards the Mediterranean, where it has a patchy distribution throughout the most of the Balkan Peninsula and in the driest regions of Spain and Italy, and is rare in large parts of Greece. It is present on only some of the Mediterranean islands including Corsica, Sicily, Crete and several Aegean islands.",
         "flight_period": "May to September",
-        "habitat": "Enallagma cyathigerum occurs at standing and slow-flowing waters and is especially common at sites lacking fish, 
-such as acidic ponds and bogs, or at sites where belts of vegetation provide shelter from fish.
-It occurs at brackish waters and is one of several species that commonly reproduces in the Baltic Sea.
-It is able to endure cold climates, due to which it is not only found in the far nort but is also present at high
-altitudes with populations in the Alps found well over 2 000 m.",
+        "habitat": "Enallagma cyathigerum occurs at standing and slow-flowing waters and is especially common at sites lacking fish, such as acidic ponds and bogs, or at sites where belts of vegetation provide shelter from fish. It occurs at brackish waters and is one of several species that commonly reproduces in the Baltic Sea. It is able to endure cold climates, due to which it is not only found in the far north but is also present at high altitudes with populations in the Alps found well over 2 000 m.",
         "items_id": "98fcae2729476eb52d28e4958b37e6d3",
         "local_names": Array [
           "Common bluet",
@@ -2006,52 +1689,18 @@ altitudes with populations in the Alps found well over 2 000 m.",
       },
       Object {
         "behaviour": "Behaves a lot like Enallagma cyathigerum and likes to perch on floating vegetation like waterlilies and pondweeds.",
-        "description": "Closely related to E. najas and E. viridulum but does not resemble them much, apart from in behaviours.
-Very simillar to Enallagma cyathigerum and has the same wide antehumeral stripes, however 
-it has the, typically for Coenagrions, black marking along the interpleural suture on the side of the thorax and this combination is diagnostic.
+        "description": "Closely related to E. najas and E. viridulum but does not resemble them much, apart from in behaviours. Very similar to Enallagma cyathigerum and has the same wide antehumeral stripes, however it has the, typically for Coenagrions, black marking along the interpleural suture on the side of the thorax and this combination is diagnostic.
 
-This species can also be distinguished from the rest of the Coenagrionidae thanks to the light-coloured post-ocular 
-spots that are linear instead of round, often connected together, forming a line across the back of the head.
-The males have blue eyes in contrast to a black head. 
-Eyes darker shade of blue than the rest of the body.
-The abdomen is blue with black markings. 
-The second segment, S2, has a characteristic marking in the shape of a 'goblet' or the 'hilt of a sword'.
-S3-S6 have distinctive markings, in the shape of 'spear-heads'.
-S7 and particularly S8 are black instead of light blue.
-The last two segments, S9-S10, are light blue.
+This species can also be distinguished from the rest of the Coenagrionidae thanks to the light-coloured post-ocular  spots that are linear instead of round, often connected together, forming a line across the back of the head. The males have blue eyes in contrast to a black head. Eyes darker shade of blue than the rest of the body. The abdomen is blue with black markings. The second segment, S2, has a characteristic marking in the shape of a 'goblet' or the 'hilt of a sword'. S3-S6 have distinctive markings, in the shape of 'spear-heads'. S7 and particularly S8 are black instead of light blue. The last two segments, S9-S10, are light blue.
 
-Females are tricoloured, with background colour from yellowish brown to greenish, 
-middle part of the abdomen blue.
-The anal appendages are light in colour.
-The abdomen is crossed dorsally by a black longitudinal line.
+Females are tricoloured, with background colour from yellowish brown to greenish, middle part of the abdomen blue. The anal appendages are light in colour. The abdomen is crossed dorsally by a black longitudinal line.
 
-Teneral individuals resemble the other Erythromma sp, who area also coloured in yellow, black and blue; especailly E. viridulum.
-E. lindenii however, has wider antehumeral stripes than E. viridulum and E. najas usually lack them altogether.
-Also E. najas and E. viridulum lack post-ocular spots.",
-        "distribution": "Erythromma lindenii is widespread and common on the Iberian Peninsula, Italy, France and parts of Germany.
-Further north it, becomes scarcer, having its northern limit in the Netherlands and northern Germany.
-The species had for a long time an isolated occurence in mid-eastern Germany, western Poland and northern parts of the Czech Republic.
-Due to its recent expansion in Germany the gap between the central European enclave and other European populations is growing 
-smaller and might completely disappear in the near future.
+Teneral individuals resemble the other Erythromma sp, who area also coloured in yellow, black and blue; especially E. viridulum. E. lindenii however, has wider antehumeral stripes than E. viridulum and E. najas usually lack them altogether. Also E. najas and E. viridulum lack post-ocular spots.",
+        "distribution": "Erythromma lindenii is widespread and common on the Iberian Peninsula, Italy, France and parts of Germany. Further north it, becomes scarcer, having its northern limit in the Netherlands and northern Germany. The species had for a long time an isolated occurence in mid-eastern Germany, western Poland and northern parts of the Czech Republic. Due to its recent expansion in Germany the gap between the central European enclave and other European populations is growing smaller and might completely disappear in the near future.
 
-The species is largely confined to lower elevations and to the Mediterranean fringes, extending along the Black Sea coast as far as the Crimean Peninsulaand reaching the south of European Russia.
-
-Northwards, the species has increased its range with nearly 200 km from the 1990s onwards.
-This expansion has been noted in Belgium, the Netherlands and northern Germany ad was most likely caused by increasing temperatures during recent decades.
-It is unclear if the increase in records from south-east Europe also represents an expansion or is the result of changes in the available habitats or increased fieldwork.",
+The species is largely confined to lower elevations and to the Mediterranean fringes, extending along the Black Sea coast as far as the Crimean Peninsula and reaching the south of European Russia. Northwards, the species has increased its range with nearly 200 km from the 1990s onwards. This expansion has been noted in Belgium, the Netherlands and northern Germany ad was most likely caused by increasing temperatures during recent decades. It is unclear if the increase in records from south-east Europe also represents an expansion or is the result of changes in the available habitats or increased fieldwork.",
         "flight_period": "May to October",
-        "habitat": "Erythromma lindenii is found in running waters including large streams, connected oxboxs, rivers, canals and 
-larger standing waters such as lakes, (fish)ponds, gravel pits.
-Breeding habitats are generally large, largely unshaded with clear oxygenated water.
-The species is less common on fast-flowing waters, and in streams and rivers with a strong current it is 
-often confined to areas where the flow is the weakest.
-In most cases there is a rich submerged aquatic vegetation with helophyte belts poorly developed or even absent.
-In fish-free waters, the presence of aquatic vegetation is of less importance, suggesting that 
-the latter is mainly important in providing shelter against predation.
-Standing waters where the species occurs are often influenced by wind, which generates waves, or are fed by seepage,
-both which help to oxygenate the water and break down stratification.
-This produces conditions resembling to those found in running waters.
-Throughout its range, the species is confined to lower altitudes and most of the records are from below 500 m.",
+        "habitat": "Erythromma lindenii is found in running waters including large streams, connected oxboxs, rivers, canals and  larger standing waters such as lakes, (fish)ponds, gravel pits. Breeding habitats are generally large, largely unshaded with clear oxygenated water. The species is less common on fast-flowing waters, and in streams and rivers with a strong current it is often confined to areas where the flow is the weakest. In most cases there is a rich submerged aquatic vegetation with helophyte belts poorly developed or even absent. In fish-free waters, the presence of aquatic vegetation is of less importance, suggesting that the latter is mainly important in providing shelter against predation. Standing waters where the species occurs are often influenced by wind, which generates waves, or are fed by seepage, both which help to oxygenate the water and break down stratification. This produces conditions resembling to those found in running waters. Throughout its range, the species is confined to lower altitudes and most of the records are from below 500 m.",
         "items_id": "6ee2f4a1673f5a4dc900ccfbd6a0e82e",
         "local_names": Array [
           "Goblet-marked damselfly",
@@ -2078,44 +1727,18 @@ Throughout its range, the species is confined to lower altitudes and most of the
         },
       },
       Object {
-        "behaviour": "During good weather conditions the males fly far out over open water, patrolling close to thte water surface.
-Oftern, when perching on floating vegetation, it presses the whole body against the substrate, 
-differing it from E. viridulum who likes to rest with the abdomen slightly elevated.",
-        "description": "A bulky damselfly, often percieved as rather large.
-The males have a mainly black body with sides of the thorax and last two segments of the abdomen light blue.
-The black portions of the abdomen tend to become pruinose, thus becomming greyish and opaque.
-The eyes are red.
-Antehumeral stripes are absent in males and much reduced in females.
+        "behaviour": "During good weather conditions the males fly far out over open water, patrolling close to thte water surface. Often, when perching on floating vegetation, it presses the whole body against the substrate, differing it from E. viridulum who likes to rest with the abdomen slightly elevated.",
+        "description": "A bulky damselfly, often perceived as rather large. The males have a mainly black body with sides of the thorax and last two segments of the abdomen light blue. The black portions of the abdomen tend to become pruinose, thus becoming greyish and opaque. The eyes are red. Antehumeral stripes are absent in males and much reduced in females.
 
-The females are green and black with brown eyes.
-This species could be confused with Erythromma viridulum but can be distinguished by its larger size,
-the antehumeral stripes being absent or reduced, 
-the absence of th black marking in the shape of an X on S10 and by 
-S8 that in males of E. najas is completely black, not partially light blue.
+The females are green and black with brown eyes. This species could be confused with Erythromma viridulum but can be distinguished by its larger size, the antehumeral stripes being absent or reduced, the absence of the black marking in the shape of an X on S10 and by S8 that in males of E. najas is completely black, not partially light blue.
 
-Both sexes have, in all forms, light brown pterostigmas, black legs and two black lines on the side of the thorax.
-The upper line can on the males be broken and thus finishing in a black spot.
-Both sexes never have post-ocular spots, unlike E. lindenii.
+Both sexes have, in all forms, light brown pterostigmas, black legs and two black lines on the side of the thorax. The upper line can on the males be broken and thus finishing in a black spot. Both sexes never have post-ocular spots, unlike E. lindenii.
 
 Young individuals are yellow and black and initially lack the red eye colour, thereby often being mistaken for other Coenagrionidae.",
-        "distribution": "The main European range lies in the west, central and nort-western Europe,
-where the species is common and widespread in the lowlands.
-It reaches northward to central Fennoscandia.
-In the Brittish Isles it is limited to England and parts of north Wales.
-It becommes less common to the south in central Europe but is still fairly widespread in parts of southern France.
-It is clearly declined in northern Italy.
-It is absent from the Iberian Peninsula, very rare in central and southern Italy, and known only from scattered records in the Balkan Peninsula.
-The situation in Romania and Ukraine is not clear but it is likely to be common in the north.",
+        "distribution": "The main European range lies in the west, central and nort-western Europe, where the species is common and widespread in the lowlands.
+It reaches northward to central Fennoscandia. In the British Isles it is limited to England and parts of north Wales.It becomes less common to the south in central Europe but is still fairly widespread in parts of southern France. It is clearly declined in northern Italy. It is absent from the Iberian Peninsula, very rare in central and southern Italy, and known only from scattered records in the Balkan Peninsula. The situation in Romania and Ukraine is not clear but it is likely to be common in the north.",
         "flight_period": "April/May to August",
-        "habitat": "Erythromma najas occurs at largely unshaded, standing or slow-flowing eutrophic to mesotrophic waters,
-and more rarely and in smaller numbers in oligotrophic waters.
-An important characteristic of the habitat is the presence of stands of floating leaves of waterlilies or pondweeds.
-The species occurs less often in situations with mainly submerged aquatic vegetation that emerges periodically from the water,
-such as watermilfoil and hornworths.
-It is absent from waters devoid of aquatic vegetation.
-Most reproductive habitats are close to taller vegetation such as trees or hedges and the species s generally absent from 
-open windy areas.
-It occurs mostly in areas below 500 m and is rare above 1 000 m.",
+        "habitat": "Erythromma najas occurs at largely unshaded, standing or slow-flowing eutrophic to mesotrophic waters, and more rarely and in smaller numbers in oligotrophic waters. An important characteristic of the habitat is the presence of stands of floating leaves of waterlilies or pondweeds. The species occurs less often in situations with mainly submerged aquatic vegetation that emerges periodically from the water, such as watermilfoil and hornworths. It is absent from waters devoid of aquatic vegetation. Most reproductive habitats are close to taller vegetation such as trees or hedges and the species s generally absent from open windy areas. It occurs mostly in areas below 500 m and is rare above 1 000 m.",
         "items_id": "616498f11528347076a0c872b35cc3e3",
         "local_names": Array [
           "Red-eyed damselfly",
@@ -2142,8 +1765,7 @@ It occurs mostly in areas below 500 m and is rare above 1 000 m.",
       Object {
         "behaviour": "Much like Erythromma najas it likes to perch on floating vegetation. ",
         "description": "Males have red eyes, mainly black bodies with sides of the thorax and the last segments on the abdomen light blue. Females green and black, with brown eyes. It could be confused with E. najas but can be distinguished by smaller size, more slender build, antehumeral stripes complete in females and complete or reduced in the males, and by the different extension of the light blue colour on the ventral side of S2-S3 and S8 in the males that also have a distictive black marking in the shape of an X on the last abdominal segment, S10. Also the males have S8 partly blue, rather than completely black in E. najas.",
-        "distribution": "The main European range lies in the south and west Europe where the species is common and widespread.An expanson of its range has taken place since the 1970s and has gained some 100-500 km northwards since the 1980s.
-It was recorded as new to Great Brittain (1999), Denmark (2001), Sweden (2004), Belarus (2005) Lithuania (2007) and Latvia (2008). Prior to 1970s it was rare in the Netherlands, but presently the second most common damselfly. This range expansion might be linked with increased temperatures, but the species might also have benefited from nitrogen enrichment of aquatic habitats by areial deposition. The species has a scattered occurence in parts of the Balkan Peninsula and Ukraine and relatively few records are known from European Russia, probably due to poor sampling.",
+        "distribution": "The main European range lies in the south and west Europe where the species is common and widespread.An expanson of its range has taken place since the 1970s and has gained some 100-500 km northwards since the 1980s. It was recorded as new to Great Brittain (1999), Denmark (2001), Sweden (2004), Belarus (2005) Lithuania (2007) and Latvia (2008). Prior to 1970s it was rare in the Netherlands, but presently the second most common damselfly. This range expansion might be linked with increased temperatures, but the species might also have benefited from nitrogen enrichment of aquatic habitats by aerial deposition. The species has a scattered occurence in parts of the Balkan Peninsula and Ukraine and relatively few records are known from European Russia, probably due to poor sampling.",
         "flight_period": "May to September",
         "habitat": "Erythromma viridulum if found in largely unshaded, standing or slow-flowing waters with aquatic vegetation, including brackish waters. It often co-occurs with E. najas at habitats with large floating leaves. In contrast to this species, however, it is especially common at waters with rich, fine-leaved, aquatic vegetation such as waterweed, hornworth, watermillfoil and mats of algae on the water surface.",
         "items_id": "04a8b550c6086dedf6e667d060529147",

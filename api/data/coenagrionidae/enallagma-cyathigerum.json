@@ -1,1 +1,29 @@
-{"items_id":"98fcae2729476eb52d28e4958b37e6d3","scientific_name":"Enallagma cyathigerum","local_names":["Common bluet"],"description":"It resembles the Coenagrion sp. but carries a few recognisable characteristics that differs it.\nThe males are blue with black markings, the blue commonly being more greyish at low temperatures.\n\nThe side of the thorax is almost completely blue. \nThe interpleural suture on the side of the thorax, typical for Coenagrion sp, \nis in E. cyathigerum very thin and has no black marking along it.\nIschnura sp. has two distictive dots on the side of the thorax, these are also absent on E. cyathigerum.\n\nEyes are clearly blue, in a darker tone than the rest of the body.\n\nMales have a distictive marking on S2, in the shape of a small mushroom (extremely variable).\nThe marking is usually connected to the black ring marking at the end of the segment.\n\nThe antehumeral stripes are wide.\n\nThe females have different colouration, from light blue to brownish, but generally green.\nCharacteristic in females is the presence of a vulvar spine under S8.","behaviour":"The species can be seen in hundreds even at small waters.\nBoth sexes like to perch on waterlilies and pondweeds.\nMales and females often fly in tandem over open water.\nMales patrol aggressively over open water in search for females.\nDuring oviposition the female immersess her body in the water while the male protects her by flying around her.\nEspecially young individuals can be found far from waters.\nOn windy days large amounts of individuals can be gathered in wind-protected spots near the waters.","size":{"length":"30-35 mm","wingspan":"30-40 mm"},"similar_species":["Erythromma lindenii","Coenagrion sp."],"distribution":"This species is widespread widespread and common in the European part of its range, \nwhere it reaches the far north of Scandinavia.\nIt becomes less frequent towards the Mediterranean, wher it has a patchy distribution throughout the most of the Balkan Peninsula\nand in the driest regions of Spain and Italy, and is rare in large parts of Greece.\nIt is present on only some of the Mediterranean islands including Corsica, Sicily, Crete and several Aegean islands.","habitat":"Enallagma cyathigerum occurs at standing and slow-flowing waters and is especially common at sites lacking fish, \nsuch as acidic ponds and bogs, or at sites where belts of vegetation provide shelter from fish.\nIt occurs at brackish waters and is one of several species that commonly reproduces in the Baltic Sea.\nIt is able to endure cold climates, due to which it is not only found in the far nort but is also present at high\naltitudes with populations in the Alps found well over 2 000 m.","flight_period":"May to September","red_list":{"habitats_directive":"No","red_list_EU27":"Least Concern","red_list_europe":"Least Concern","red_list_mediterranean":"Vulnerable","EU27_endemic":"No","red_list_europe_endemic":"No","trend_europe":"Stable"}}
+{
+    "items_id": "98fcae2729476eb52d28e4958b37e6d3",
+    "scientific_name": "Enallagma cyathigerum",
+    "local_names": [
+        "Common bluet"
+    ],
+    "description": "It resembles the Coenagrion sp. but carries a few recognisable characteristics that differs it. The males are blue with black markings, the blue commonly being more greyish at low temperatures. The side of the thorax is almost completely blue. The interpleural suture on the side of the thorax, typical for Coenagrion sp, is in E. cyathigerum very thin and has no black marking along it. Ischnura sp. has two distictive dots on the side of the thorax, these are also absent on E. cyathigerum. Eyes are clearly blue, in a darker tone than the rest of the body.\n\nMales have a distictive marking on S2, in the shape of a small mushroom (extremely variable). The marking is usually connected to the black ring marking at the end of the segment. The antehumeral stripes are wide.\n\nThe females have different colouration, from light blue to brownish, but generally green. Characteristic in females is the presence of a vulvar spine under S8.",
+    "behaviour": "The species can be seen in hundreds even at small waters. Both sexes like to perch on waterlilies and pondweeds. Males and females often fly in tandem over open water. Males patrol aggressively over open water in search for females. During oviposition the female immerses her body in the water while the male protects her by flying around her. Especially young individuals can be found far from waters. On windy days large amounts of individuals can be gathered in wind-protected spots near the waters.",
+    "size": {
+        "length": "30-35 mm",
+        "wingspan": "30-40 mm"
+    },
+    "similar_species": [
+        "Erythromma lindenii",
+        "Coenagrion sp."
+    ],
+    "distribution": "This species is widespread widespread and common in the European part of its range, where it reaches the far north of Scandinavia. It becomes less frequent towards the Mediterranean, where it has a patchy distribution throughout the most of the Balkan Peninsula and in the driest regions of Spain and Italy, and is rare in large parts of Greece. It is present on only some of the Mediterranean islands including Corsica, Sicily, Crete and several Aegean islands.",
+    "habitat": "Enallagma cyathigerum occurs at standing and slow-flowing waters and is especially common at sites lacking fish, such as acidic ponds and bogs, or at sites where belts of vegetation provide shelter from fish. It occurs at brackish waters and is one of several species that commonly reproduces in the Baltic Sea. It is able to endure cold climates, due to which it is not only found in the far north but is also present at high altitudes with populations in the Alps found well over 2 000 m.",
+    "flight_period": "May to September",
+    "red_list": {
+        "habitats_directive": "No",
+        "red_list_EU27": "Least Concern",
+        "red_list_europe": "Least Concern",
+        "red_list_mediterranean": "Vulnerable",
+        "EU27_endemic": "No",
+        "red_list_europe_endemic": "No",
+        "trend_europe": "Stable"
+    }
+}

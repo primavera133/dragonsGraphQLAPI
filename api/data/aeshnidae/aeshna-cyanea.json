@@ -1,1 +1,29 @@
-{"items_id":"e34846050fbd521d6c58ef7e0121da2b","scientific_name":"Aeshna cyanea","local_names":["Southern hawker"],"description":"One of the larger of the Aeshidae. \nThe mature males have a abdomen with a characteristic pattern of brown, green and light-blue markings, \npaired green spots in contrast with light-blue terminal and lateral part of the abdomen.\n\nThe last two spots on the abdomen (S9-S10) are well connected together on males.\n\nThe females are brown with aqua-green markings similar to those of the males. \n\nIn both sexes, the sides of the thorax is mainly green with blackish thick lines, \none completely crossing, one only half-complete.\n\nThe rear margin of the eye is dark with two characteristic yellow spots. \n\nBroad shoulderlines are often easily visible in flight.\n\nOn top of S2, A. cyanea has a yellow wedge-shaped spot, like A. mixta, but larger.","behaviour":"A. cyanea is a curious species and can investigate any odonatologist closely, even landing on people. \nIt is often found in ponds in gardens and parks. \nIf open water is created in a garden, this is often the first specie to investigate the new water.","size":{"length":"70-75 mm","wingspan":"95-115 mm"},"similar_species":["Aeshna viridis","Aeshna juncea"],"distribution":"The species is one of the most common and most widespread dragonflies in Europe. \nThe total range is West Palearctic and covers a large part of Europe (to Scotland and southern Scandinavia \nin the North to Italy (without the Southwest) and the northern Balkans to the South)\nthe Eastern boundary is formed by the Ural and the West by Ireland. \n\nIt is also found in Northwest Africa (Algeria). In Central Europe the species is very common.","habitat":"It found in a variety of waters, from lakes to very small ponds, slowly flowing waters \nin both woodlands as well as farmlands.","flight_period":"July to October, with some specimen visible in June.","red_list":{"habitats_directive":"No","red_list_EU27":"Least Concern","red_list_europe":"Least Concern","red_list_mediterranean":"Least Concern","EU27_endemic":"No","red_list_europe_endemic":"No","trend_europe":"Stable"}}
+{
+    "items_id": "e34846050fbd521d6c58ef7e0121da2b",
+    "scientific_name": "Aeshna cyanea",
+    "local_names": [
+        "Southern hawker"
+    ],
+    "description": "One of the larger of the Aeshnidae, close in size to A. juncea.  Mature males abdomen has paired green spots on the upper side of S1-S7, in marked contrast to light blue spots on the sides and on S8-S10. The last two segments, S9-S10, have each a light-blue band on the upper side. On top of S2, A. cyanea has a yellow wedge-shaped spot, like A. mixta, but larger.\n\nThe females are brown with aqua-green markings similar to those of the males. In both sexes, the sides of the thorax is mainly green with blackish thick lines, one completely crossing, one only half-way up. The rear margin of the eye is dark with two characteristic yellow spots, visible from the side. Broad shoulder-lines are often easily visible in flight.\n\n",
+    "behaviour": "A. cyanea is a curious species and can investigate any odonatologist closely, even landing on people. It is often found in ponds in gardens and parks. If open water is created in a garden, this is often the first specie to investigate the new water.",
+    "size": {
+        "length": "70-75 mm",
+        "wingspan": "95-115 mm"
+    },
+    "similar_species": [
+        "Aeshna viridis",
+        "Aeshna juncea"
+    ],
+    "distribution": "The species is one of the most common and most widespread dragonflies in Europe. The core of the European range of A. cyanea is located in central and western Europe at middle latitudes, where the species is widespread and among the most common anisopterans. It does not reproduce in Ireland and is rare in Scotland. In Fennoscandia it is found in no more than the southernmost third of Finland, Sweden and Norway. It is currently expanding its range northwards. It is less common in the south of Europe, where it is largely confined to mountain areas and some Mediterranean islands (Baleares, Corsica, Sicily and Rhodes)",
+    "habitat": "Aeshna cyanea is found at standing, and less often at slow-flowing waters. It has a clear preference for small and at least partly shaded habitats. On larger water bodies it favours sections that are visually demarked from the main area of water, for example by higher vegetation. Often the bottom is partly free of emergent vegetation. Such situations occur in ponds that are still in the early stages of succession or, more often, in ponds where leaves from nearby trees and bushes cover a part of the bottom. It is often the only dragonfly present in small, largely shaded forest ponds, pools and puddles with a substrate of leaf litter, and in these situations larvae can occur in high densities. In central Europe it is also one of the most common dragonflies at garden ponds. The specie is able to resist weeks of desiccation. It has a wide altitudinal range, being mostly abundant up to 700 m but still regularly present and producing up to 1 700 m.",
+    "flight_period": "July to October, with some specimen visible in June.",
+    "red_list": {
+        "habitats_directive": "No",
+        "red_list_EU27": "Least Concern",
+        "red_list_europe": "Least Concern",
+        "red_list_mediterranean": "Least Concern",
+        "EU27_endemic": "No",
+        "red_list_europe_endemic": "No",
+        "trend_europe": "Stable"
+    }
+}

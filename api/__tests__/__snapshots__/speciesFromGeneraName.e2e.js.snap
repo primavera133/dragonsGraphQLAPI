@@ -132,34 +132,15 @@ Females most often brown and pale grey-blue, but some are blue like the males. O
         },
       },
       Object {
-        "behaviour": "A. cyanea is a curious species and can investigate any odonatologist closely, even landing on people. 
-It is often found in ponds in gardens and parks. 
-If open water is created in a garden, this is often the first specie to investigate the new water.",
-        "description": "One of the larger of the Aeshidae. 
-The mature males have a abdomen with a characteristic pattern of brown, green and light-blue markings, 
-paired green spots in contrast with light-blue terminal and lateral part of the abdomen.
+        "behaviour": "A. cyanea is a curious species and can investigate any odonatologist closely, even landing on people. It is often found in ponds in gardens and parks. If open water is created in a garden, this is often the first specie to investigate the new water.",
+        "description": "One of the larger of the Aeshnidae, close in size to A. juncea.  Mature males abdomen has paired green spots on the upper side of S1-S7, in marked contrast to light blue spots on the sides and on S8-S10. The last two segments, S9-S10, have each a light-blue band on the upper side. On top of S2, A. cyanea has a yellow wedge-shaped spot, like A. mixta, but larger.
 
-The last two spots on the abdomen (S9-S10) are well connected together on males.
+The females are brown with aqua-green markings similar to those of the males. In both sexes, the sides of the thorax is mainly green with blackish thick lines, one completely crossing, one only half-way up. The rear margin of the eye is dark with two characteristic yellow spots, visible from the side. Broad shoulder-lines are often easily visible in flight.
 
-The females are brown with aqua-green markings similar to those of the males. 
-
-In both sexes, the sides of the thorax is mainly green with blackish thick lines, 
-one completely crossing, one only half-complete.
-
-The rear margin of the eye is dark with two characteristic yellow spots. 
-
-Broad shoulderlines are often easily visible in flight.
-
-On top of S2, A. cyanea has a yellow wedge-shaped spot, like A. mixta, but larger.",
-        "distribution": "The species is one of the most common and most widespread dragonflies in Europe. 
-The total range is West Palearctic and covers a large part of Europe (to Scotland and southern Scandinavia 
-in the North to Italy (without the Southwest) and the northern Balkans to the South)
-the Eastern boundary is formed by the Ural and the West by Ireland. 
-
-It is also found in Northwest Africa (Algeria). In Central Europe the species is very common.",
+",
+        "distribution": "The species is one of the most common and most widespread dragonflies in Europe. The core of the European range of A. cyanea is located in central and western Europe at middle latitudes, where the species is widespread and among the most common anisopterans. It does not reproduce in Ireland and is rare in Scotland. In Fennoscandia it is found in no more than the southernmost third of Finland, Sweden and Norway. It is currently expanding its range northwards. It is less common in the south of Europe, where it is largely confined to mountain areas and some Mediterranean islands (Baleares, Corsica, Sicily and Rhodes)",
         "flight_period": "July to October, with some specimen visible in June.",
-        "habitat": "It found in a variety of waters, from lakes to very small ponds, slowly flowing waters 
-in both woodlands as well as farmlands.",
+        "habitat": "Aeshna cyanea is found at standing, and less often at slow-flowing waters. It has a clear preference for small and at least partly shaded habitats. On larger water bodies it favours sections that are visually demarked from the main area of water, for example by higher vegetation. Often the bottom is partly free of emergent vegetation. Such situations occur in ponds that are still in the early stages of succession or, more often, in ponds where leaves from nearby trees and bushes cover a part of the bottom. It is often the only dragonfly present in small, largely shaded forest ponds, pools and puddles with a substrate of leaf litter, and in these situations larvae can occur in high densities. In central Europe it is also one of the most common dragonflies at garden ponds. The specie is able to resist weeks of desiccation. It has a wide altitudinal range, being mostly abundant up to 700 m but still regularly present and producing up to 1 700 m.",
         "items_id": "e34846050fbd521d6c58ef7e0121da2b",
         "local_names": Array [
           "Southern hawker",
@@ -184,35 +165,13 @@ in both woodlands as well as farmlands.",
         },
       },
       Object {
-        "behaviour": "Flight is powerfull, fast and untiring. Males patrol large areas. Males might seem less aggressive than other aeshnids but that might be due to 
-territorial size rathern than any male backing down on a fight. It will still engage on any other male they meet.
-
-It can be found in numbers, ten or more, far from waters, hunting high up in the air in glades, 
-on forest road openings or over tree-tops.
-
-On warm summer evenings it can be active quite late in the evenings.",
-        "description": "Aeshna grandis is a large dragonfly.
-The general colour is brown, even the eyes are brown with a yellow back liner. 
-The wings are evenly tinted with a bronze shade, which is visible in flight.
-Mature males have blue spots beside the base of the wings, on S2 and the side of the abdomen. 
-They also get a blue hue in their eyes.
-Females have blue spots only beside the base of the wings, the other spots are yellow.
-In immature individuals, all spots are yellow.
-
-A. grandis has none or indistinct antehumeral stripes. 
-The thorax sides has two broad lemmon-yellow bands, with no spots in between.",
-        "distribution": "Widespread in northern, central and easter Europe with a continous range reaching the Massif central in France, the Alps and the mountains of Romainia. 
-In the French Pyrrenees and south-east Europe populations are small and isolated.
-In the west and south it prefers forested areas and might be lacking in open landscapes, like central Hungary. 
-In central Europe it is common, but population levels are usually low compared to other more abundant aeshnids.
-Far higher densities are found in mountaineous areas and in the north and north-east, where it can be omnipresent.",
+        "behaviour": "Flight is powerful, fast and untiring. Males patrol large areas. Males might seem less aggressive than other aeshnids but that might be due to territorial size rather than any male backing down on a fight. It will still engage on any other male they meet. It can be found in numbers, ten or more, far from waters, hunting high up in the air in glades, on forest road openings or over tree-tops. On warm summer evenings it can be active quite late in the evenings.",
+        "description": "Aeshna grandis is a large dragonfly. The general colour is brown, even the eyes are brown with a yellow back liner. The wings are evenly tinted with a bronze shade, which is visible in flight. Mature males have blue spots beside the base of each wing, on S2 and the side of the abdomen. They also get a blue hue in their eyes. Females have blue spots only beside the base of the wings, the other spots are yellow. In immature individuals, all spots are yellow. A. grandis has none or indistinct antehumeral stripes. The thorax sides has two broad lemmon-yellow bands, with no spots in between.",
+        "distribution": "Widespread in northern, central and easter Europe with a continuous range reaching the Massif central in France, the Alps and the mountains of Romania. In the French Pyrenees and south-east Europe populations are small and isolated. In the west and south it prefers forested areas and might be lacking in open landscapes, like central Hungary. In central Europe it is common, but population levels are usually low compared to other more abundant aeshnids.
+Far higher densities are found in mountainous areas and in the north and north-east, where it can be omnipresent.",
         "flight_period": "July to Septembr",
-        "habitat": "Found near all types of still or, less often, slowly flowing waters. 
-It has a clear preference for small and at least partly shaded habitats.
-On larger water bodies it favours sections that are visually demarked from the main area of the water, e.g. by higher vegetation.
-Travels far from waters so it can be found in seemingly odd places.
-The larva can resist weeks of dessication.
-It has a wide altitudal range, being most abundant up to 700 , but can still be found up to 1700 m.",
+        "habitat": "Found near all types of standing or, less often, slowly flowing waters, such as peaty ponds, lakes, canals, oxbows, peat bogs and fenlands, and to a lesser extent water storage facilities, ditches and manmade peat excavations.
+Habitats mostly have several characteristics in common, typically being situated in forest areas and fringed by a belt of helophytes or peat moss, or having a dense floating or submerged vegetation. In the south of its European range, the species is absent from habitats in the early stages of succession, apparently requiring more mature habitats. Most of the population in central and northern Europe are found in lowlands up to 500  m in altitude, but in the west and the south of its range long-lasting populations are confined to higher altitudes, although in the Alps most populations are found below 1 000 m. Nevertheless, it's frequently found up to 2 00 m in Austria and the French Pyrenees and reproduction has been recorded up to 2 250 m.",
         "items_id": "f0264cd93fc96310d176cbde4c32be52",
         "local_names": Array [
           "Brown hawker",
@@ -236,35 +195,11 @@ It has a wide altitudal range, being most abundant up to 700 , but can still be 
         },
       },
       Object {
-        "behaviour": "Males patrol open grounds near water or over watery mashlands, ditches or the like. 
-They persecute and fight each other but spend more time perching than other aeshnids, 
-often directly on the ground or in lower vegetaion. 
-It can be hard to see perching and is only discovered when it flies up when nearly stepped upon.
-In those cases it usually takes height and quickly flies out of sight.
-Immature imagos can be found in nearby forest edges, glades, along forest roads or other sheltered places, 
-otherwise it is rarely found far away from their reproductive locales.",
-        "description": "Evenly colored in a reddish brown tone, with no typical aeshnid mosaik spots. 
-Abdomen has dark lines, dorsally along the length and across segments, with some minor dark spots on the sides.
-On the thorax sides are two yellow bands wich darkens with age and can be nearly invisible on older females.
-Dorsally on S2 is a distictive yellow triangluar marking, which gave it its scientific name.
-Eyes are vividly green and frons is yellow. 
-Frons is usually without any darker markings and if it is present it does not mark a distinctive \\"T\\".
-The combination of green eyes and yellow frons is diagnostic. 
-Wings are clear with a orange patch on the base of the hind wings.",
-        "distribution": "A. isoceles has a wide European range is found in the southernmost two-thirds of Europe. 
-In the British Islands stable populations are found only Norfolk and Suffolk.¨
-To the North the range reaches southern Sweden and Estonia.
-To the east it appears to be fairly common in easter Ukraine and scattered throughout southern European Russia.
-In large parts of its distribution it is rare or absent. 
-This could be explained by a preference for warmer areas combined with a habitat preference for extensive reed marshes 
-or well-developed beds of submerged aquatic vegetation. 
-Due to this it is absent from the highest mountain regions and most of northern Europe, 
-while it is rare in the Iberian Peninsula and parts of France due to a lack of extensive reed marshes.",
+        "behaviour": "Males patrol open grounds near water or over watery marshlands, ditches or the like. They persecute and fight each other but spend more time perching than other aeshnids, often directly on the ground or in lower vegetation. It can be hard to see perching and is only discovered when it flies up when nearly stepped upon. In those cases it usually takes height and quickly flies out of sight. Immature imagos can be found in nearby forest edges, glades, along forest roads or other sheltered places, otherwise it is rarely found far away from their reproductive locales.",
+        "description": "Evenly colored in a reddish brown tone, with no typical aeshnid mosaik spots. Abdomen has dark lines, dorsally along the length and across segments, with some minor dark spots on the sides. On the thorax sides are two yellow bands which darkens with age and can be nearly invisible on older females. Dorsally on S2 is a distinctive yellow triangular marking, which gave it its scientific name. Eyes are vividly green and frons is yellow. Frons is usually without any darker markings and if it is present it does not mark a distinctive \\"T\\". The combination of green eyes and yellow frons is diagnostic. Wings are clear with an orange patch on the base of the hind wings.",
+        "distribution": "A. isoceles has a wide European range is found in the southernmost two-thirds of Europe. In the British Islands stable populations are found only Norfolk and Suffolk. To the North the range reaches southern Sweden and Estonia. To the east it appears to be fairly common in easter Ukraine and scattered throughout southern European Russia. In large parts of its distribution it is rare or absent. This could be explained by a preference for warmer areas combined with a habitat preference for extensive reed marshes or well-developed beds of submerged aquatic vegetation.  Due to this it is absent from the highest mountain regions and most of northern Europe, while it is rare in the Iberian Peninsula and parts of France due to a lack of extensive reed marshes.",
         "flight_period": "May to August",
-        "habitat": "It prefers habitats with extensive belts of reeds, bulbrush, sedges or water soldier. 
-It reproduces at reed beds at standing water or along slow-flowing water. 
-It prefers sunny habitats offering some shelter from winds.
-A well developed aquatic vegetation provides shelter for the larvae from fish.",
+        "habitat": "It prefers habitats with extensive belts of reeds, bulrush, sedges or water soldier.  It reproduces at reed beds at standing water or along slow-flowing waters including canals, marshes, ponds and lakes. It prefers sunny habitats offering some shelter from winds. A well developed aquatic vegetation provides shelter for the larvae, enabling the species to co-occur with predatory fish.",
         "items_id": "59a29acd815cea9d95034ca51c2cee35",
         "local_names": Array [
           "Green-eyed hawker",
@@ -288,53 +223,15 @@ A well developed aquatic vegetation provides shelter for the larvae from fish.",
         },
       },
       Object {
-        "behaviour": "A large and powerfull flyer, and both sexes can be active even in bad weather. 
-
-Males patrol low over to water, searching along edges for females.
-Abdomens tend to hang slightly in flight, while A. juncea has a straighter posture.
-
-Both sexes hunt high up in treetops and is often seen far from waters, 
-and sometimes late in evenings.
-Insect-rich places like open sunlit, clearings, forest roads and forest edges are good places to look for this specie.",
-        "description": "A. juncea is one of the larger aeshnids and a powerfull flyer.
-
-As a typical aeshna the abdomen is dark with spots along sides and top of the abdomen 
-forming a coloured mosaic.
-On S3 two blue wedges can be found, bases oposing towards each other. 
-These can be used to distinguish from A. subarctica whose spots have broader shapes.
-
-Wings are clear with long pterostigmas and yellow leading margin. 
-On older individuals though, especially females, the wings can take on a light brown tone.
-
-Thorax is brown with narrow antehumeral stripes.
-Thorax sides have two broad bands, coloured blue, green or yellow. 
-Between the band are 1-3 smaller spots.
-The shape of them can be used in separating from similar species, 
-but they can be hard to see due to wear and age. 
-
-Frons is yellow with a black T-shaped marking. 
-This marking distinguishes it from simillar specie A. Serrata whose stem is less distinct.
-
-Eyes have a yellow spot on the backside, which distinguishes it from A. subarctica. 
-Variations occur with very small or indistinguishable spots.
-
-The male especially, is rather dark, compared to A. cyanea, 
-but often more vivid in colours compared to A. subarctica.
-
-Females have two colour forms, one dark body with blue and greyish markings 
-(a lot like the males) or with green spots on the sides of the abdomen and yellow spots on top.",
-        "distribution": "A. juncea is widespread in Europe and all over the northern hemisphere, present also in Asia as well as North America.
-In Europe it is common in the north, becomming scarcer and confined to higher altitudes in the south. 
-It is fairly common in the Alps and the Pyrenees, but it is scarce and known only from scattered 
-high altitude locales in south-east Europe and the Iberian Peninsula.",
+        "behaviour": "A large and powerful flyer, and both sexes can be active even in bad weather. Males patrol low over to water, searching along edges for females.
+Abdomens tend to hang slightly in flight, while A. juncea has a straighter posture. Both sexes hunt high up in treetops and is often seen far from waters, 
+and sometimes late in evenings. Insect-rich places like open sunlit, clearings, forest roads and forest edges are good places to look for this specie.",
+        "description": "A. juncea is one of the larger aeshnids and a powerful flyer. As a typical aeshna the abdomen is dark with spots along sides and top of the abdomen 
+forming a coloured mosaic. On S3 two blue wedges can be found, bases opposing towards each other. 
+These can be used to distinguish from A. subarctica whose spots have broader shapes. Wings are clear with long pterostigmas and yellow leading margin. On older individuals though, especially females, the wings can take on a light brown tone. Thorax is brown with narrow antehumeral stripes. Thorax sides have two broad bands, coloured blue, green or yellow. Between the band are 1-3 smaller spots. The shape of these spots can be used in separating from similar species, but they can be hard to see due to wear and age. Frons is yellow with a black T-shaped marking. This marking distinguishes it from simillar specie A. Serrata whose stem is less distinct. Eyes have a yellow spot on the backside, which distinguishes it from A. subarctica. Variations occur with very small or indistinguishable spots. The male especially, is rather dark, compared to A. cyanea, but often more vivid in colours compared to A. subarctica. Females have two colour forms, one dark body with blue and greyish markings (a lot like the males) or with green spots on the sides of the abdomen and yellow spots on top.",
+        "distribution": "A. juncea is widespread in Europe and all over the northern hemisphere, present also in Asia as well as North America. In Europe it is common in the north, becoming scarcer and confined to higher altitudes in the south. It is fairly common in the Alps and the Pyrenees, but it is scarce and known only from scattered high altitude locales in south-east Europe and the Iberian Peninsula.",
         "flight_period": "June to October",
-        "habitat": "It is mostly confined to nutrient-poor, standing and unshaded waters, having a preference for bogs and other standing 
-waters with well-developed Sphagnum vegetation.
-At lower altitudes in central and western Europe the largest populations are found in larger bogs with peat moss and sedges or rushes.
-With lesser dense populations it can be found in quarries, dune ponds, fens or peaty areas with fields of water soldier.
-
-In Fennoscandia and mountain areas it uses a wider range of waters, and can be found in slow-flowing water, 
-lakes or ponds with sparse vegetation.",
+        "habitat": "It is mostly confined to nutrient-poor, standing and unshaded waters, having a preference for bogs and other standing waters with well-developed Sphagnum vegetation. At lower altitudes in central and western Europe the largest populations are found in larger bogs with peat moss and sedges or rushes. With lesser dense populations it can be found in quarries, dune ponds, fens or peaty areas with fields of water soldier. In Fennoscandia and mountain areas it uses a wider range of waters, and can be found in slow-flowing water, lakes or ponds with sparse vegetation.",
         "items_id": "b35200c974163e5014a8a6442d0df5e2",
         "local_names": Array [
           "Common hawker",
@@ -363,37 +260,15 @@ lakes or ponds with sparse vegetation.",
         },
       },
       Object {
-        "behaviour": "A fast and agile flyer, and very curious. Might well come around and check you out.
-Often seen in parks and gardens. 
-  Highest individual density is found along coasts. 
-Some years found in great abundance, populations having been added to by migrating individuals 
-from across seas and land.
-
-Females oviposit on high grass near the water.",
+        "behaviour": "A fast and agile flyer, and very curious. Might well come around and check you out. Often seen in parks and gardens. Very high individual density can be found along coastlines, due to its migratory behaviours. Some years found in great abundance, populations having been added to by migrating individuals 
+from across seas and land. Females oviposit on high grass near the water.",
         "description": "One of the smaller aeshnids, with a size like A. caerulea, B. pratense or A. affinis.
 
-Males are rather dark with a base colour of brown, darkening to black.
-Females start out in a more reddish brown. 
-Males have blue spots, both sexes have yellow spots. Especially immature ones.
-
-Distinctive is the dorsal spot on S2, trangular shape, a.k.a the \\"golf peg\\".
-It is more visible on males but females have it too. 
-Thorax have conspicious yellow bands on the sides. 
-Antehumeral stripes are narrow, short and yellow.
-
-Eye colour varies but are all black on the back side. No yellow spots there like A. juncea.
-
-Upper appendages are long, at least as long as S9 + S10 together.",
-        "distribution": "A. mixta ha a wide spread range, extending from western Europe to Japan, but absent largely in Siberia.
-In Europe it is common in across the whole continent, apart from northern Fennoscandia, northern Russia, northern Ireland and Scotland.
-It is most abundant in southern and central Europe.
-A migratory species with a distribution range currently expanding northwards.",
+Males are rather dark with a base colour of brown, darkening to black. Females start out in a more reddish brown. Males have blue spots, both sexes have yellow spots. Especially immature ones. Distinctive is the dorsal spot on S2, triangular shape, a.k.a the \\"golf peg\\". It is more visible on males but females have it too. Thorax have conspicuous yellow bands on the sides. Antehumeral stripes are narrow, short and yellow. Eye colour varies but are all black on the back side, no yellow spots there like on A. juncea. Upper appendages are long, at least as long as S9 + S10 together.",
+        "distribution": "A. mixta has a wide spread range, extending from western Europe to Japan, but absent largely in Siberia. In Europe it is common in across the whole continent, apart from northern Fennoscandia, northern Russia, northern Ireland and Scotland. It is most abundant in southern and central Europe. A migratory species with a distribution range currently expanding northwards.",
         "flight_period": "One of the later aeshnids, mainly seen from August to September. 
 But it can emerge already in May in southern Europe and can be observed into December.",
-        "habitat": "Mainly reproducing in largely unshaded standing water, but also found in slow-flowing waters. 
-It is found in a wide range of habitats, including brackish water, as long as the water is not too acidic. 
-It is mainly found at large water bodies with abundant open riparian vegetation of reeds and bulrush.
-Large populations are found in both natural as artificial habitats.",
+        "habitat": "Mainly reproducing in largely unshaded standing water, but also found in slow-flowing waters. It is found in a wide range of habitats, including brackish water, as long as the water is not too acidic. It is mainly found at large water bodies with abundant open riparian vegetation of reeds and bulrush. Large populations are found in both natural as artificial habitats.",
         "items_id": "21fef92418e0e6dc9307ea6b6fbe0e9c",
         "local_names": Array [
           "Migrant hawker",
@@ -419,40 +294,11 @@ Large populations are found in both natural as artificial habitats.",
         },
       },
       Object {
-        "behaviour": "Not as fast and agile flyer as A. juncea.
-Both males and females can be seen patrolling over large belts of reed and can be very unavailable for netting. 
-Territories are defended aggressively.
-A. serrata, more than others, catches large prey, even other aeshnids.
-A. serrata can, like A. mixta, occur in large numbers. It can then be found in open sunlit spaces like glades and over fields.
-It tends to perch in thick vegetation around water bodies rathern than on trees.",
-        "description": "A large aeshnid, similar in size and looks to A. juncea, A. subarctica and A. crenata.
-
-Colors blue and yellow, generally in a vibrant tone.
-
-Wide yellow stripes on thorax sides. 
-The front stripe with even width, while the hind one is narrowing downwards, almost with a triangular shape.
-Between the stripes none or almost no spots.
-
-Conspicous yellow antehumeral stripes, even on females, which the other similar speceis are lacking.
-
-Abdomen black and blue spots in any event rectangular in shape and larger than A. juncea.
-
-Wings are clear with a visibly yellow leading margin, the costa. 
-Often more distinct on A. serrata than on A. juncea.
-
-Frons is yellow with a T-shaped black marking, but the stem of the T is less prominent.
-
-Eyes often vibrantly blue (but with variation), always with all black behinds. 
-No yellow spot as A. juncea.",
-        "distribution": "In Europe this species is found in Denmark, middle Sweden, Finland and Estonia, and around the southern Ural mountains. 
-Further east we find its main range betond the Urals to Lake Baikal and northen mongolia.",
+        "behaviour": "Not as fast and agile flyer as A. juncea. Both males and females can be seen patrolling over large belts of reed and can be very unavailable for netting. Territories are defended aggressively. A. serrata, more than others, catches large prey, even other aeshnids. A. serrata can, like A. mixta, occur in large numbers. It can then be found in open sunlit spaces like glades and over fields. It tends to perch in thick vegetation around water bodies rather than on trees.",
+        "description": "A large aeshnid, similar in size and looks to A. juncea, A. subarctica and A. crenata. Colors blue and yellow, generally in a vibrant tone. Wide yellow stripes on thorax sides. The front stripe has an even width, while the hind one is narrowing downwards, almost giving it a triangular shape. Between the stripes none or almost no spots. It has conspicuous yellow antehumeral stripes, even on females, which the other similar species are lacking. The abdomen is black with blue spots in any event rectangular in shape and larger than on A. juncea. Wings are clear with a visibly yellow leading margin, the costa.  Often more distinct on A. serrata than on A. juncea. Frons is yellow with a T-shaped black marking, but the stem of the T is less prominent. Eyes are often vibrantly blue (but with variation), always with completely black behinds. No yellow spots on the back sides as on A. juncea.",
+        "distribution": "In Europe this species is found in Denmark, middle Sweden, Finland and Estonia, and around the southern Ural mountains. Further east we find its main range beyond the Urals to Lake Baikal and northern Mongolia.",
         "flight_period": "July to September",
-        "habitat": "Aeshna serrata is found at standing water.
-It prefers more open landscapes than the closely related A. crenata.
-In inland Sweden it occurs at open, often eutropic lakes and ponds with extensive beds of reed or bulrush. 
-The species is relatively common around the Baltic Sea where it reproduces in brackish waters.
-In Denmark it occurs in large open marshlands dominated by reed beds and with slightly brackish waters.
-In russia it is found in steppe and forest-steppe lakes.",
+        "habitat": "Aeshna serrata is found at standing water. It prefers more open landscapes than the closely related A. crenata. In inland Sweden it occurs at open, often eutrophic lakes and ponds with extensive beds of reed or bulrush. The species is relatively common around the Baltic Sea where it reproduces in brackish waters. In Denmark it occurs in large open marshlands dominated by reed beds and with slightly brackish waters. In Russia it is found in steppe and forest-steppe lakes.",
         "items_id": "9d6c6fbbc963d5ff8e691fdfb7552ef8",
         "local_names": Array [
           "Baltic hawker",
@@ -478,46 +324,11 @@ In russia it is found in steppe and forest-steppe lakes.",
         },
       },
       Object {
-        "behaviour": "Fund near wet floating sphagnums in which the females lay their eggs and where the larvae lives.
-It can, and often does, coexist beside similar species on the same locales.",
-        "description": "Very similar to A. juncea and occurs in similar habitats.
-They are difficult to distinguish flying.
-
-A. subarctivca is in any event darker on the thorax and abdomen,
-has markings more uniform in colour, often a bit duller and paler.
-Generally bluish, instead of completely separated yellow and blue as A. juncea.
-
-Wings are clear with costa and main veins being more brown than yellow.
-
-The spot behind the eyes that A. juncea has is always absent on A. subarctica.
-
-On S3 on the abdomen, the male has rather big, wide spots, 
-unlike A. juncea who has narrow wedge-shaped spots here.
-
-Upper and lower appendages are wider and rounder than on A. juncea.
-
-Ventrally on thorax it has two large yellow spots, where A. juncea has smaller or missing spots.
-
-There are two forms of A. subarctica in Europe.
-The northern can be found from north of Scania, Sweden, and northwards. 
-It has thre lesser spots between the bands on the sides of the thorax.
-The southern form occurs on the European mainland, in Denmark and southern Scania. 
-It has larger spots or a narrow band where the northern form has three lesser spots.
-Variations between the forms occur.",
-        "distribution": "A circumpolar species with different subspecies in North America (A. s. subarctica) and Europe and Asia (A. s. elisabethae).
-In Europe it is found mainly in the north, where it reproduces in lowlands. It's common in 
-Fennoscandia, the Baltic states, Poland, Northern Germany, Denmark and the Netherlands. 
-Most likely it is common in all northern parts of European Russia.
-Only a handfull records are available from Belarus.
-In southern Europe the species is restricted to higher altitudes, occuring for example in the Hautes Fagnes (Hohes Venn, Belgium), 
-the Vosges and Jura mountains (France), the Black Forest (Germany), the Central Alps, the Bohemian forest and the western Carpathians.
-It has been recently discovered in the Italian Alps and the Romanian Carpathians. 
-The Romainan locality is at considerable distance from other known habitats, 
-suggesting the species has a wider distribution in south-east Europe than is currently known.",
+        "behaviour": "Fund near wet floating sphagnums in which the females lay their eggs and where the larvae lives. It can, and often does, coexist beside similar species on the same locales.",
+        "description": "Very similar to A. juncea and occurs in similar habitats. They are difficult to distinguish flying. A. subarctivca is in any event darker on the thorax and abdomen, has markings more uniform in colour, often a bit duller and paler. Generally bluish, instead of completely separated yellow and blue as A. juncea. Wings are clear with costa and main veins being more brown than yellow. The spot behind the eyes that A. juncea has is always absent on A. subarctica. On S3 on the abdomen, the male has rather big, wide spots, unlike A. juncea who has narrow wedge-shaped spots here. Upper and lower appendages are wider and rounder than on A. juncea. Ventrally on thorax it has two large yellow spots, where A. juncea has smaller or missing spots. There are two forms of A. subarctica in Europe. The northern can be found from north of Scania, Sweden, and northwards.  It has three lesser spots between the bands on the sides of the thorax. The southern form occurs on the European mainland, in Denmark and southern Scania. It has larger spots or a narrow band where the northern form has three lesser spots. Variations between the forms occur.",
+        "distribution": "A circumpolar species with different subspecies in North America (A. s. subarctica) and Europe and Asia (A. s. elisabethae). In Europe it is found mainly in the north, where it reproduces in lowlands. It's common in Fennoscandia, the Baltic states, Poland, Northern Germany, Denmark and the Netherlands. Most likely it is common in all northern parts of European Russia. Only a handfull records are available from Belarus. In southern Europe the species is restricted to higher altitudes, occurring for example in the Hautes Fagnes (Hohes Venn, Belgium), the Vosges and Jura mountains (France), the Black Forest (Germany), the Central Alps, the Bohemian forest and the western Carpathians. It has been recently discovered in the Italian Alps and the Romanian Carpathians. The Romanian locality is at considerable distance from other known habitats, suggesting the species has a wider distribution in south-east Europe than is currently known.",
         "flight_period": "June to September",
-        "habitat": "It oocurs at acidic moors and spagnum peat bogs, mires, overgrowing or vegetation rich peat graves and edges of lakes.
-It strongly favours habitats with floating peat-moss, so called Sphagnum-soup.
-Missing in open agricultural landscapes.",
+        "habitat": "It occurs at acidic moors and sphagnum peat bogs, mires, overgrowing or vegetation rich peat graves and edges of lakes. It strongly favours habitats with floating peat-moss, so called Sphagnum-soup. It is absent in open agricultural landscapes.",
         "items_id": "6a7ab88702084a3413c80d6fcd562418",
         "local_names": Array [
           "Bog hawker",
@@ -546,38 +357,13 @@ Missing in open agricultural landscapes.",
         },
       },
       Object {
-        "behaviour": "Tightly bound to waters with the Stratoides aloides, but often seen hunting far from the waters. 
-It can then be seen hunting over open areas, at high altitude.",
-        "description": "Looks a lot like a small Anax imperator thanks to its bright green thorax sides, 
-almost free of dark markings.
+        "behaviour": "Tightly bound to waters with the water soldier, Stratoides aloides, but often seen hunting far from the waters. It can then be seen hunting over open areas, at high altitude.",
+        "description": "Looks a lot like a small Anax imperator thanks to its bright green thorax sides, almost free of dark markings.
 
-The frons has a black marking, T-shaped or missing the stem, making it look like a crescent.
-It has wide bright green antehumeral stripes, like A. cyanea.
-Eyes are light blue in the mature males, and green in females and immature males.
-
-First segment on the abdomen has a diagnostic marking of two opposing U-shapes.
-Abdomen is mainly black with large spots of blue on males, 
-and some minor narrow green stripes only visible on close range.
-Females are brown with green spots.
-
-Wings have a yellow tint and a yellow leading margin. It has long yellow pterostigma, 
-distinguishing it from A. cyanea, which has a darker leading margin and pterostigmas.",
-        "distribution": "Found from the Netherlands to the western edge of the Central Siberian Plateau, but largely confined to the north and east of Europe.
-Relatively wide spread in northern European Russia, the Baltic States and Poland, and probably also Belarus and northern Ukraine.
-In Fennoscandia it is confined to southern Finland and Sweden.
-It is also found in the Netherlands, Denmark, and the north of Germany.
-Only isolated populations are found in the southern parts of central Europe, 
-with records from the floodplains of the Drava River on the border of Slovenia and Croatia, 
-and of the Tisza River in north-eastern Hungary.",
+The frons has a black marking, T-shaped or missing the stem, making it look like a crescent. It has wide bright green antehumeral stripes, like A. cyanea. Eyes are light blue in the mature males, and green in females and immature males. First segment on the abdomen has a diagnostic marking of two opposing U-shapes. Abdomen is mainly black with large spots of blue on males, and some minor narrow green stripes only visible on close range. Females are brown with green spots. Wings have a yellow tint and a yellow leading margin. It has long yellow pterostigma, distinguishing it from A. cyanea, which has a darker leading margin and pterostigmas.",
+        "distribution": "Found from the Netherlands to the western edge of the Central Siberian Plateau, but largely confined to the north and east of Europe. Relatively wide spread in northern European Russia, the Baltic States and Poland, and probably also Belarus and northern Ukraine. In Fennoscandia it is confined to southern Finland and Sweden. It is also found in the Netherlands, Denmark, and the north of Germany. Only isolated populations are found in the southern parts of central Europe, with records from the floodplains of the Drava River on the border of Slovenia and Croatia, and of the Tisza River in north-eastern Hungary.",
         "flight_period": "End of June through September, occationally later. Peak numbers in August.",
-        "habitat": "Tightly coupled to waters with large fields of Stratoides aloides, in which the females oviposit their eggs.
-These fields are found in standing or slowly flowing, largely unshaded, 
-waters with a mesotropic to moderately eutrophic status.
-Natural habitats include lakes and oxbow in the floodplains of large rivers. 
-It also inhabits man-made peat-excavation ponds in later stages of vegetation succesion.
-
-In western Europe th especies has become rare in natural habitats and is mainly found in man-made waters, 
-such as large ditches and canals in low peat areas.",
+        "habitat": "Tightly coupled to waters with large fields of water soldier, Stratoides aloides, in which the females oviposit their eggs. These fields are found in standing or slowly flowing, largely unshaded, waters with a mesotrophic to moderately eutrophic status. Natural habitats include lakes and oxbow in the floodplains of large rivers. It also inhabits man-made peat-excavation ponds in later stages of vegetation succession. In western Europe the species has become rare in natural habitats and is mainly found in man-made waters, such as large ditches and canals in low peat areas.",
         "items_id": "43cb4261fa3f4356274e44c863c27fe0",
         "local_names": Array [
           "Green hawker",
@@ -612,44 +398,14 @@ Object {
   "data": Object {
     "generaFromName": Array [
       Object {
-        "behaviour": "It is an obligte migrant and a good long distance flyer, often leaving its habitats even in early post-teneral stages.
-It's known to sometimes gather in swarms of large numbers.
-It flies even at night and can be attracted to light from street lamps and lighthouses.",
-        "description": "Slightly smaller than the other Anax species.
-It has a large head with huge brown and green eyes, yellow frons with two parallel black lines.
-Thorax is dark brown on top and greenish yellow on the lower part.
-
-Abdomen is long, slender and generally yellowish brown.
-Males have a conspicious blue \\"saddle\\", dorsally on S2 (where A. parthenope's saddle is blue all around). 
-Immature males and females have this too, only much paler and less conspicious.
-Lengthwise the abdomen has a black mid-dorsal band.
-The spots on the last segments of the abdomen can have a lighter colour, shifting towards cream-yellow, light blue.
-The abdomen is more slender than on A. parthenope.
-
-The males upper appendages are pointed, and the lower appendages has a number of denticles.
-The female appendages are large and pointed.
-
-Wings, especially hind wings, are often tinted in yellow. 
-Leading margin of the wings are yellow or orange.
-Pterostigmas are long and yellow or orange.",
-        "distribution": "This is a migratory species and originates from arid areas in Africa and Asia. 
-Every year it is recorded in Europe in the Mediterranean countries. 
-Larvae has a speedy growth and arrivals in spring regularly results in a new generation in August.
-However, successfull reproduction in the central and western Europe is rare.
-The larvae does not survive the European winters, except locally on the southern Mediterranean coast.
-Records exist of a teneral female from Doñana, Andalucia and a record of fresh exuviae, tenerals and immatures from the Rhône delta.
-It is one of very few species found on Iceland and Faeroe Islands.",
+        "behaviour": "It is an obligate migrant and a good long distance flyer, often leaving its habitats even in early post-teneral stages. It's known to sometimes gather in swarms of large numbers. It flies even at night and can be attracted to light from street lamps and lighthouses.",
+        "description": "Smaller than the other Anax species. It has a large head with huge brown and green eyes, yellow frons with two parallel black lines. Thorax is dark brown on top and greenish yellow on the lower part. Abdomen is long, slender and generally yellowish brown. Males have a conspicuous blue \\"saddle\\", dorsally on S2 (where A. parthenope's saddle is blue all around). Immature males and females have this too, only much paler and less conspicuous. Lengthwise the abdomen has a black mid-dorsal band. The spots on the last segments of the abdomen can have a lighter colour, shifting towards cream-yellow, light blue. The abdomen is more slender than on A. parthenope. The males upper appendages are pointed, and the lower appendages has a number of denticles. The female appendages are large and pointed. Wings, especially hind wings, are often tinted in yellow. Leading margin of the wings are yellow or orange. Pterostigmas are long and yellow or orange.",
+        "distribution": "This is a migratory species and originates from arid areas in Africa and Asia. Every year it is recorded in Europe in the Mediterranean countries. Larvae has a speedy growth and arrivals in spring regularly results in a new generation in August. However, successful reproduction in the central and western Europe is rare. The larvae does not survive the European winters, except locally on the southern Mediterranean coast. Records exists of a teneral female from Doñana, Andalucia and a record of fresh exuviae, tenerals and immatures from the Rhône delta. It is one of very few species found on Iceland and Faeroe Islands.",
         "flight_period": "In May individuals from Africa start to arrive in Mediterranean countries, where they reproduce.
 The new individualls emerge in August the same year and start to migrate towards nothern Europe.
 Most individuals die when the weather turns cold but it can be found any time around the year, 
 often making them the only credible species for observations off-season.",
-        "habitat": "The species is mostly indigenous to areas with distinctive wet and dry seasons, 
-where it reproduces in seasonal waters that dry out in most summers.
-The regional availability of these kinds of breeding habitats depends strongly on the amount of rain and varies between years.
-
-In Europe it prefers humid environments with warm shallow water, even temporary basins.
-It can however, be found in a wide variety of habitats.
-Often a good place to look for them is along coastlines.",
+        "habitat": "The species is mostly indigenous to areas with distinctive wet and dry seasons, where it reproduces in seasonal waters that dry out in most summers. The regional availability of these kinds of breeding habitats depends strongly on the amount of rain and varies between years. In Europe it prefers humid environments with warm shallow water, even temporary basins. It can however, be found in a wide variety of habitats. Often a good place to look for them is along coastlines.",
         "items_id": "513896e331e91375b98928f8b460562f",
         "local_names": Array [
           "Vagrant emperor",
@@ -674,23 +430,11 @@ Often a good place to look for them is along coastlines.",
       },
       Object {
         "behaviour": "Females oviposit the eggs into reeds emerging from waters.",
-        "description": "Immediately reconizable du to its large size and black abdomen and lighter coloured rings.
-The thorax is light in colour with two dark bands on the sides.
-Frons has no markings, which gives its scientific name.
-The eyes, the frons and the light-coloured portions of the body are greenish yellow in females and immature males.
-In the mature males , the rings on the abdomen turns pink beige, 
-while the light coloured portions on the thorax turn bluish and the eyes are bright blue. 
-The wings on the males have a strong brown tint.
-The wings on the females are at most only lightly tinted.",
-        "distribution": "Anax immaculifrons reaches its westernmost range limit in the east Mediterranean. 
-The species has been found on three Greek Islands, Karpathos, Ikaria and Rhodes. 
-It has also been found on Cyprus.
-On the Turkey mainland there are scattered populations along the south coast Mediterranean of Anatolia.",
+        "description": "Immediately recognisable due to its large size and black abdomen and lighter coloured rings. The thorax is light in colour with two dark bands on the sides.
+Frons has no markings, which gives its scientific name. The eyes, the frons and the light-coloured portions of the body are greenish yellow in females and immature males. In the mature males , the rings on the abdomen turns pink beige, while the light coloured portions on the thorax turn bluish and the eyes are bright blue. The wings on the males have a strong brown tint. The wings on the females are at most only lightly tinted.",
+        "distribution": "Anax immaculifrons reaches its westernmost range limit in the east Mediterranean. The species has been found on three Greek Islands, Karpathos, Ikaria and Rhodes. It has also been found on Cyprus. On the Turkey mainland there are scattered populations along the south coast Mediterranean of Anatolia.",
         "flight_period": "May to September",
-        "habitat": "All records from the eastern Mediterranean are from permanent rocky streams, a few meters wide.
-Unlike other European Anax species Anax immaculifrons does not breed in open stagnant waters.
-It has been found in both largely shaded and sunny habitats.
-The preferend substrate for the larvae seems to be gravel, sand and organic detrius sediments.",
+        "habitat": "All records from the eastern Mediterranean are from permanent rocky streams, a few meters wide. Unlike other European Anax species A, immaculifrons does not breed in open stagnant waters. It has been found in both largely shaded and sunny habitats. The preferred substrate for the larvae seems to be gravel, sand and organic detrius sediments.",
         "items_id": "4f3e9bdc8e9d563268c71d70d3fc1617",
         "local_names": Array [
           "Magnificent emperor",
@@ -708,6 +452,7 @@ The preferend substrate for the larvae seems to be gravel, sand and organic detr
         "scientific_name": "Anax immaculifrons",
         "similar_species": Array [
           "Cordulegaster sp.",
+          "Anax ephippiger",
         ],
         "size": Object {
           "length": "80-85 mm",
@@ -715,38 +460,15 @@ The preferend substrate for the larvae seems to be gravel, sand and organic detr
         },
       },
       Object {
-        "behaviour": "Restless patroller and very aggressive against any competition.
-Catches surprisingly large prey (like Libellula quadrimaculata) and often eats them in mid flight.
-Males patrol over open water, often further out and at higher altitudes than other Aeshna males.",
-        "description": "The thorax on Anax imperator is uniformly green, much like Aeshna viridis, but A. imprator is markedly bigger.
-No antehumeral stripes are to be found on either males or females.
+        "behaviour": "Restless patroller and very aggressive against any competition. Catches surprisingly large prey (like Libellula quadrimaculata) and often eats them in mid flight. Males patrol over open water, often further out and at higher altitudes than other Aeshna males.",
+        "description": "A large, common and conspicuous dragonfly. Patrolling males are easily recognised by their size, unmarked green thorax and blue abdomen with a black mid-dorsal stripe.
 
-The males have a blue abdomen with a dorsal black line.
-The females and immature males have a more greenish abdomen.
-Females might also have the same colouration as the males, with a blue abdomen.
-In some population this blue form is the norm among the females.
-S1 is always green, never brown or greysih (as on A. parthenope or A. ephippiger)
-A thin yellow ring on S2 characterizes the still immature individuals (but also present on mature malse of A. parthenope)
+The thorax on Anax imperator is uniformly green, much like Aeshna viridis, but A. imperator is markedly bigger. No antehumeral stripes are to be found on either males or females. The females and immature males have a more greenish abdomen. Females might also have the same colouration as the males, with a blue abdomen. In some population this blue form is the norm among the females. The eyes are green with at most a brown hue. Female eyes have a yellow hind edge. Wings are clear with a yellow leading margin. Pterostigmas are brown. 
 
-Males of A. imperator can be distinguished by the black pentagonal marking on the frons.
-####Females has an absence of occipital tubercles.
-
-The eyes are green with at most a brown hue. 
-Female eyes have a yellow hind edge.
-
-Wings are clear with a yellow leading margin.
-Pterostigmas are brown.s  ",
-        "distribution": "One of the most common and widespread species in southern and western Europe.
-It is still common in south-eastern Europe and parts of Turkey. 
-It is scattered in Russia and Kaukasus.
-In the north its range seems to be constrained mainly by summer temperatures 
-and it is absent from Ireland, Scotland and northern Fennoscandia.
-However it is currently expanding rapidly northwards with the climate warming.",
+S1 is always green, never brown or greyish (as on A. parthenope or A. ephippiger). A thin yellow ring on S2 characterises the still immature individuals (but is also present on mature males of A. parthenope). Males of A. imperator can be distinguished by the black pentagonal marking on the frons. Females has an absence of occipital tubercles. ",
+        "distribution": "One of the most common and widespread species in southern and western Europe. It is still common in south-eastern Europe and parts of Turkey. It is scattered in Russia and Kaukasus. In the north its range seems to be constrained mainly by summer temperatures and it is absent from Ireland, Scotland and northern Fennoscandia. However it is currently expanding rapidly northwards with the climate warming.",
         "flight_period": "May to October",
-        "habitat": "Generally common or very common in standing waters at low altitudes, 
-but also occurs in slowly running waters.
-Prefers unshaded and well-vegetated habitats.
-It is found in a wide variety of natural or man-made habitats such as lakes, fens, bogs, quarries and larger garden ponds.",
+        "habitat": "Generally common or very common in standing waters at low altitudes, but also occurs in slowly running waters. Prefers unshaded and well-vegetated habitats. It is found in a wide variety of natural or man-made habitats such as lakes, fens, bogs, quarries and larger garden ponds.",
         "items_id": "e6c59e854e27e43ade8c294ae91625e6",
         "local_names": Array [
           "Blue emperor",
@@ -774,24 +496,14 @@ It is found in a wide variety of natural or man-made habitats such as lakes, fen
       },
       Object {
         "behaviour": "Often seen feeding in large numbers over open areas.",
-        "description": "The male has green eyes.
-Frons is green with black spot encircled by green, then an outer blue ring forming a \\"bull's eye\\" pattern.
-Thorax is green.
-Wings are clear or tinted in amber on older individuals, femals more than males.
-Abdomen is colourful on the sides while being dark dorsally and ventrally.
-Males are blue and black where females often green and reddish brown, ",
-        "distribution": "This is one of the most common species in north American, where it migrates over great distances.
-It has managed to survive the passing over the Atlantic ocean at at least 
-two occasions. 
-In 1998 it was observed on the Isles of Scilly and in Cornwall, totalling 8 individulas, 
-and in 2003 one individual was observed in Nantes, France.",
+        "description": "The male has green eyes. Frons is green with black spot encircled by green, then an outer blue ring forming a \\"bull's eye\\" pattern. Thorax is green. Wings are clear or tinted in amber on older individuals, females more than males. Abdomen is colourful on the sides while being dark dorsally and ventrally. Males are blue and black where females often green and reddish brown.",
+        "distribution": "This is one of the most common species in north American, where it migrates over great distances. It has managed to survive the passing over the Atlantic ocean at at least two occasions.  In 1998 it was observed on the Isles of Scilly and in Cornwall, totalling 8 individuals, and in 2003 one individual was observed in Nantes, France.",
         "flight_period": "Adults fly all year round in Mexico and the southern states of USA.
 In early spring mature adults migrate northwards, and often arrive before local population start emerging.
 In the autumn the northern individuals start migrating south.
 All European records are from September, 
 which is a period when both southward migration and seasonal transatlantic storms occur.",
-        "habitat": "Reproduction takes place in permantent or temporary waters, lakes, ponds and slow-flowing streams with emergent vegetation.
-In migration it can be found in many habitats.",
+        "habitat": "Reproduction takes place in permanent or temporary waters, lakes, ponds and slow-flowing streams with emergent vegetation. In migration it can be found in many habitats.",
         "items_id": "5871cdb006fb3fb0f3fa042b65a43220",
         "local_names": Array [
           "Green darner",
@@ -807,38 +519,18 @@ In migration it can be found in many habitats.",
           "trend_europe": "Sporadic visitor",
         },
         "scientific_name": "Anax junius",
-        "similar_species": null,
+        "similar_species": Array [],
         "size": Object {
           "length": "68-84 mm",
           "wingspan": "90-120 mm",
         },
       },
       Object {
-        "behaviour": "Lays eggs in tandem, like A. imperator and A. affinis (but none of the other Aeshnidae).
-Can be ",
-        "description": "A large dragonfly with green eyes, contrasting to the thorax which is uniformly brown grey.
-Abdomen has a thick black line on a base of brown colour, except for a bright blue \\"saddle\\" on S2 and S3.
-A narrow yellow ring on S2 is diagnostic.
-Wings on older individuals clearly tinted in yellow but not as much as A. ephippiger.
-Can be distinguished from  A. ephippiger by the greener eye color, 
-the shape of the abdominal appendages, 
-the thicker width of the abdomen, 
-the different venation of the wings and in femals the presence of occipital tubercles.",
-        "distribution": "The species is common in large areas of western and south-western Europe. 
-Less common in central and eastern Europe.
-Most records from the Brittish Isles and the Netherlands are of vagrants and reproduction is still very rare
-in these areas.
-Reproduction is more common in northern Germany and even more so in Poland, where it is regionally abundant.
-Populations are expanding north in the warmer climate.",
+        "behaviour": "Lays eggs in tandem, like A. imperator and A. affinis, but none of the other Aeshnidae.",
+        "description": "A large dragonfly with green eyes, contrasting to the thorax which is uniformly brown grey. Abdomen has a thick black line on a base of brown colour, except for a bright blue \\"saddle\\" on S2 and S3. A narrow yellow ring on S2 is diagnostic. Wings on older individuals clearly tinted in yellow but not as much as A. ephippiger. Can be distinguished from  A. ephippiger by the greener eye color, the shape of the abdominal appendages, the thicker width of the abdomen,  the different venation of the wings and in females the presence of occipital tubercles.",
+        "distribution": "The species is common in large areas of western and south-western Europe. Less common in central and eastern Europe. Most records from the British Isles and the Netherlands are of vagrants and reproduction is still very rare in these areas. Reproduction is more common in northern Germany and even more so in Poland, where it is regionally abundant. Populations are expanding north in the warmer climate.",
         "flight_period": "In Mediterranean areas from March to November, farther up north from the end of May to Septemer-October.",
-        "habitat": "Occurs in standing, often expansive and sometimes brackish waters. 
-In the Mediterranean areas ometimes occuring in slow-flowing waters.
-Suitable habitats are largely unshadedand.
-Often co-occurs with A. imperator.
-In many cases a well-developed bank side vegetation and stretches with floating hydrophytes are present
-but more importantly the center of the water body is nearly always free of vegetation.
-Many records in temperate Europe are from large lakes, sand quarries and gravel pits.
-However, it also occurs at lesser habitats such as newly created ponds.",
+        "habitat": "Occurs in standing, often expansive and sometimes brackish waters. In the Mediterranean areas sometimes occurring in slow-flowing waters. Suitable habitats are largely unshaded and are on average of greater expanse than those of A. imperator, with which the species often co-occur. In many cases a well-developed bank side vegetation and stretches with floating hydrophytes are present but more importantly the center of the water body is nearly always free of vegetation. Many records in temperate Europe are from large lakes, sand quarries and gravel pits. However, it also occurs at lesser habitats such as newly created ponds.",
         "items_id": "cb7b55b2ca200d8e68537a0b9c1f8923",
         "local_names": Array [
           "Lesser emperor",
@@ -872,24 +564,11 @@ Object {
   "data": Object {
     "generaFromName": Array [
       Object {
-        "behaviour": "Like B. irene it is a powerfull and untiring flyer, capable of flying for long periods of time without perching.
-Just like B. irene and Calaeshna microstigma, it tends to be more active and visible late in the afternoon and has twilight habits.
-There are reports of it flying late in the evening and attratcted by artificial lights.",
-        "description": "This species is endemic to the island of Crete, where it replaces B. irene. 
-It is very similar in general appearance, size and behaviour to B. irene.
-It can be distinguished from B. irene by some details; 
-Colouration in general is darker and light portions on the body tends to be greenish yellow rathern than green.
-The pterostigma of the hind wing is slightly larger.
-The frons is more pointy seen in profile.",
-        "distribution": "Boyeria cretensis range is confined to the island of Crete, where it is know from fifteen river systems. 
-The populations are concentrated in two areas, with five populated rivers at Lefka Ori mountains in the westernmost 
-of Crete and nine populated rivers in the region between the Lefka Ori and the Psiloritis mountains (Mount Idi) 
-and north of the latter in central Crete.
-In addition to these, there is a single isolated locality known east of the Dikti mountains in the easternmost part of Crete.",
+        "behaviour": "Like B. irene it is a powerfull and untiring flyer, capable of flying for long periods of time without perching. Just like B. irene and Calaeshna microstigma, it tends to be more active and visible late in the afternoon and has twilight habits. There are reports of it flying late in the evening and attracted by artificial lights.",
+        "description": "This species is endemic to the island of Crete, where it replaces B. irene. It is very similar in general appearance, size and behaviour to B. irene. It can be distinguished from B. irene by some details; colouration in general is darker and light portions on the body tends to be greenish yellow rather than green. The pterostigma of the hind wing is slightly larger. The frons is more pointy seen in profile.",
+        "distribution": "Boyeria cretensis range is confined to the island of Crete, where it is know from fifteen river systems. The populations are concentrated in two areas, with five populated rivers at Lefka Ori mountains in the westernmost of Crete and nine populated rivers in the region between the Lefka Ori and the Psiloritis mountains (Mount Idi) and north of the latter in central Crete. In addition to these, there is a single isolated locality known east of the Dikti mountains in the easternmost part of Crete.",
         "flight_period": "From the end of May to August.",
-        "habitat": "Limited to running waters and is mainly found near the upper courses of permanent streams with a moderate to strong current.
-It is largely confined to streams with extensive gallery forests of Plane trees where the water is partly shaded.
-The species has been recorded up to 450 m.",
+        "habitat": "Limited to running waters and is mainly found near the upper courses of permanent streams with a moderate to strong current. It is largely confined to streams with extensive gallery forests of Plane trees where the water is partly shaded. The species has been recorded up to 450 m.",
         "items_id": "5b6c0ae4b77ec0e00d6795c0d7d59175",
         "local_names": Array [
           "Cretan spectre",
@@ -913,31 +592,11 @@ The species has been recorded up to 450 m.",
         },
       },
       Object {
-        "behaviour": "It is a powerfull and untiring flier, capable of flying for long periods without perching.
-It prefers shady areas and often flies late in the afternoon, so much it is considered a dusk species.
-It has twilight habits and can be found attracted to artificial lights.",
-        "description": "Buyeria irene is unmistakeable for its large size and the camouflage colouration; grey green with brown patterns.
-The males and rarely the females have darkened wing tips.
-The eyes in immature individuals are green.
-The frons is yellow with an indistinct black pattern.",
-        "distribution": "Endemic to western Europe, Morocco and along the northern fringe of Algeria and Tunisia.
-The species is widespread and common across most of the Iberian peninsula
-and southern France, becomming progressively scarcer in the north where its range goes up to Brittany, 
-Normandy, Champagne-Ardenne and north-east France.
-In Italy, it is largely confined to the western parts of the country, wher it is 
-generally uncommon.
-The species is reasonably common in Corsica and Sardinia.
-It is absent from the Balearic islands.
-In Switzerland it is found in the south and centre.
-Vagrants have been recorded in south Germany.",
+        "behaviour": "It is a powerful and untiring flier, capable of flying for long periods without perching. It prefers shady areas and often flies late in the afternoon, so much it is considered a dusk species. It has twilight habits and can be found attracted to artificial lights.",
+        "description": "Buyeria irene is unmistakeable for its large size and the camouflage colouration; grey green with brown patterns. The males and rarely the females have darkened wing tips. The eyes in immature individuals are green. The frons is yellow with an indistinct black pattern.",
+        "distribution": "Endemic to western Europe, Morocco and along the northern fringe of Algeria and Tunisia. The species is widespread and common across most of the Iberian peninsula and southern France, becoming progressively scarcer in the north where its range goes up to Brittany, Normandy, Champagne-Ardenne and north-east France. In Italy, it is largely confined to the western parts of the country, where it is generally uncommon. The species is reasonably common in Corsica and Sardinia. It is absent from the Balearic islands. In Switzerland it is found in the south and centre. Vagrants have been recorded in south Germany.",
         "flight_period": "June to September",
-        "habitat": "Boyeria irene is found on larger streams and rivers where the banks are at least partly shaded.
-In north-western Spain and northern Portugal it is also common at small streams,
-even those experiencing interrupted flow, due to summer drought.
-In Switzerland and French alps it reproduces in large lakes between 400 and 800 m in altitude, where wave commotions
-produces similar effcts to those of running waters.
-These lakes are deep and sometimes have rocky or steep man-made banks with little vegetation.
-The speceies is mainly found in lowlands and hilly countries but has been found breeding up to 1 300 m in the southern Alps of France.",
+        "habitat": "Boyeria irene is found on larger streams and rivers where the banks are at least partly shaded. In north-western Spain and northern Portugal it is also common at small streams, even those experiencing interrupted flow, due to summer drought. In Switzerland and French alps it reproduces in large lakes between 400 and 800 m in altitude, where wave commotions produces similar effects to those of running waters. These lakes are deep and sometimes have rocky or steep man-made banks with little vegetation. The species is mainly found in lowlands and hilly countries but has been found breeding up to 1 300 m in the southern Alps of France.",
         "items_id": "4b3ace8686742bbfaa123529d69e4ba2",
         "local_names": Array [
           "Western spectre",
@@ -970,33 +629,13 @@ Object {
   "data": Object {
     "generaFromName": Array [
       Object {
-        "behaviour": "Males patrol low and quite slowly through and between vegetation, over water or along water edges to find females or chase 
-away other males.
-Mating occurs in nearby vegetation.
-Females are shy and only visits waters when she is ready for mating.
-Both males and females are seldomly found far from waters.",
-        "description": "This dragonfly is similar to the Aeshna sp. in appearance, particularly to A. cyanea, 
-but it is more stout and has a hairy cylindrical abdomen with a more extensive black pattern.
-S1 has a central spot, whereas the other segments have two elongated spots which are yellow 
-in the females and immature males, and blue in mature males.
-The sides of the thorax are green with two complete black bands.
-Wings have a yellow leading margin.
-The pterostigma is long, thin and brown.
-The hind appendages are very long.",
-        "distribution": "Brachytron pratense is largely confined to Europe, absent from northern Africa and has a limited range in Asia.
-It is mainly found in western and central Europe, but there are strong regional differences in population densities, 
-being common only regionally.
-It's most northerly occurence is the south of Sweden and Finland. 
-In southern Europe it is generally rare, being largely absent from the Iberian Peninsula and
-the driest parts of Italy and the Balkan Peninsula.
-In the east it seems to be widespread but uncommon in Ukraine and Belarus, records from Russia are rare.",
+        "behaviour": "Males patrol low and quite slowly through and between vegetation, over water or along water edges to find females or chase away other males. Mating occurs in nearby vegetation. Females are shy and only visits waters when she is ready for mating. Both males and females are rarely found far from waters.",
+        "description": "This dragonfly is similar to the Aeshna sp. in appearance, particularly to A. cyanea, but it is more stout and has a hairy cylindrical abdomen with a more extensive black pattern. S1 has a central spot, whereas the other segments have two elongated spots which are yellow in the females and immature males, and blue in mature males. The sides of the thorax are green with two complete black bands. Wings have a yellow leading margin. The pterostigma is long, thin and brown. The hind appendages are very long.",
+        "distribution": "Brachytron pratense is largely confined to Europe, absent from northern Africa and has a limited range in Asia. It is mainly found in western and central Europe, but there are strong regional differences in population densities, being common only regionally. It's most northerly occurrence is the south of Sweden and Finland. In southern Europe it is generally rare, being largely absent from the Iberian Peninsula and the driest parts of Italy and the Balkan Peninsula. In the east it seems to be widespread but uncommon in Ukraine and Belarus, records from Russia are rare.",
         "flight_period": "One of the first dragonflies to fly, mostly in early May through August
 but can appear as early as March in the southern countries and as late as August in the central and north of 
 its range.",
-        "habitat": "Most populations are found at standing or slow-flowing waters, frequently with forests or bushes
-in the vincinity.
-The species is most often found around reed belts, bulrush, bur-reed, clubrush, high sedges and in parts of its
-range areas with stretches of water soldier.",
+        "habitat": "Most populations are found at standing or slow-flowing waters, frequently with forests or bushes in the vicinity. The species is most often found around reed belts, bulrush, bur-reed, clubrush, high sedges and in parts of its range areas with stretches of water soldier.",
         "items_id": "66a47c8c1cb0bfd782b8865a36c5f70d",
         "local_names": Array [
           "Hairy dragonfly",
@@ -1029,26 +668,11 @@ Object {
   "data": Object {
     "generaFromName": Array [
       Object {
-        "behaviour": "Together with the two Boyeria species it has twilight behaviours and is considered a dusk species.
-It tends to be more active and visible late in the afternoon.
-There are reports of this species flying late in the evening and attracted by artificial lights.",
-        "description": "Apart from being the smallest of all the Aeshnidae, 
-this species is characterised by a very short pterostigma that is much smaller than in the other members of this family.
-Also the antehumeral stripes on the males differ in having a boomerang shape to them.
-Males are brown black with light-blue markings.
-The dorsal light-blue markings on the abdomen are thin on S1-S7 and become larger
-and partly merged on S8-S10.
-The frons is whitish with a black line.
-the females are brown with yellow markings.",
-        "distribution": "In Europe this species is restricted to Cyprus, the Aegean islands and the Balkan Peninsula.
-It is widespread in mainland Greece and found on most of its larger islands, although absent from Crete.
-The northern limit runs through Bulgaria to south-western Croatia.",
+        "behaviour": "Together with the two Boyeria species it has twilight behaviours and is considered a dusk species. It tends to be more active and visible late in the afternoon. There are reports of this species flying late in the evening and attracted by artificial lights.",
+        "description": "Apart from being the smallest of all the Aeshnidae, this species is characterised by a very short pterostigma that is much smaller than in the other members of this family. Also the antehumeral stripes on the males differ in having a boomerang shape to them. Males are brown black with light-blue markings. The dorsal light-blue markings on the abdomen are thin on S1-S7 and become larger and partly merged on S8-S10. The frons is whitish with a black line. The females are brown with yellow markings.",
+        "distribution": "In Europe this species is restricted to Cyprus, the Aegean islands and the Balkan Peninsula. It is widespread in mainland Greece and found on most of its larger islands, although absent from Crete. The northern limit runs through Bulgaria to south-western Croatia.",
         "flight_period": "April to August",
-        "habitat": "Caliaeschna microstigma occurs at swift stony streams and small rivers which are at least partly shaded and where
-pools of calm water provide refuges for the larvae.
-The species occurs mainly in hilly or mountainous regions but most European populations are found below 500 m.
-Larvae are mainly found in dens mats of mosses and aquatic plants but also between roots along the banks 
-or in bundles of dead twigs and branches on the river bed.",
+        "habitat": "Caliaeschna microstigma occurs at swift stony streams and small rivers which are at least partly shaded and where pools of calm water provide refuges for the larvae. The species occurs mainly in hilly or mountainous regions but most European populations are found below 500 m. Larvae are mainly found in dens mats of mosses and aquatic plants but also between roots along the banks or in bundles of dead twigs and branches on the river bed.",
         "items_id": "7d04dfaeb7948cc2125a482eb9d12da7",
         "local_names": Array [
           "Shady hawker",

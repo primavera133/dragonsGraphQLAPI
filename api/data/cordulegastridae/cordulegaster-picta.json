@@ -4,5 +4,21 @@
     "local_names": [],
     "description": "",
     "distribution": "",
-    "flight_period": ""
+    "flight_period": "",
+    "behaviour": "",
+    "habitat": "",
+    "size": {
+        "length": "males 72-80 mm, females 80-90 mm",
+        "wingspan": "males 86-92 mm, females 96-106 mm"
+    },
+    "similar_species": [],
+    "red_list": {
+        "habitats_directive": "",
+        "red_list_EU27": "Vulnerable",
+        "red_list_europe": "Vulnerable",
+        "red_list_mediterranean": "Vulnerable",
+        "EU27_endemic": "",
+        "red_list_europe_endemic": "",
+        "trend_europe": "Stable"
+    }
 }

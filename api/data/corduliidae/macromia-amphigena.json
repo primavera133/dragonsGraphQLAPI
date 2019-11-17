@@ -1,6 +1,6 @@
 {
-    "items_id": "513ce482eaa301443c94704189786e8d",
-    "scientific_name": "Cordulegaster trinacriae",
+    "items_id": "cbcfb4ebc9b483fbc43069b1cde9bde1",
+    "scientific_name": "Macromia amphigena",
     "local_names": [],
     "description": "",
     "distribution": "",
@@ -8,15 +8,15 @@
     "behaviour": "",
     "habitat": "",
     "size": {
-        "length": "73-80 mm",
-        "wingspan": "90-110 mm"
+        "length": "mm",
+        "wingspan": "mm"
     },
     "similar_species": [],
     "red_list": {
         "habitats_directive": "II+IV",
-        "red_list_EU27": "Near threatened",
-        "red_list_europe": "Near threatened",
-        "red_list_mediterranean": "Near threatened",
+        "red_list_EU27": "Vulnerable",
+        "red_list_europe": "Vulnerable",
+        "red_list_mediterranean": "Least Concern",
         "EU27_endemic": "Endemic",
         "red_list_europe_endemic": "Endemic",
         "trend_europe": "Decreasing"

@@ -6,5 +6,21 @@
     ],
     "description": "",
     "distribution": "",
-    "flight_period": ""
+    "flight_period": "",
+    "behaviour": "",
+    "habitat": "",
+    "size": {
+        "length": "47-54 mm",
+        "wingspan": "66-72 mm"
+    },
+    "similar_species": [],
+    "red_list": {
+        "habitats_directive": "II+IV",
+        "red_list_EU27": "Near threatened",
+        "red_list_europe": "Near threatened",
+        "red_list_mediterranean": "Least Concern",
+        "EU27_endemic": "No",
+        "red_list_europe_endemic": "No",
+        "trend_europe": "Stable"
+    }
 }

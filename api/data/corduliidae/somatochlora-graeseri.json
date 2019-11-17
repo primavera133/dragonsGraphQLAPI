@@ -1,26 +1,24 @@
 {
-    "items_id": "a9098426e0c0190a40460e379ef9b9e3",
-    "scientific_name": "Somatochlora sahlbergi",
-    "local_names": [
-        "Treeline emerald"
-    ],
+    "items_id": "4f62d83d07b89f1ead3e60407d7d5c18",
+    "scientific_name": "Somatochlora graeseri",
+    "local_names": [],
     "description": "",
     "distribution": "",
     "flight_period": "",
     "behaviour": "",
     "habitat": "",
     "size": {
-        "length": "48-50 mm",
-        "wingspan": "60-65 mm"
+        "length": "mm",
+        "wingspan": "mm"
     },
     "similar_species": [],
     "red_list": {
         "habitats_directive": "No",
-        "red_list_EU27": "Data Deficient",
+        "red_list_EU27": "Not Evaluated",
         "red_list_europe": "Data Deficient",
         "red_list_mediterranean": "Not present",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
+        "EU27_endemic": "",
+        "red_list_europe_endemic": "",
         "trend_europe": "Unknown"
     }
 }

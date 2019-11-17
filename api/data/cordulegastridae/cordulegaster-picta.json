@@ -4,7 +4,7 @@
     "local_names": [],
     "description": "",
     "distribution": "",
-    "flight_period": "",
+    "flight_period": "End of May to mid-August",
     "behaviour": "",
     "habitat": "",
     "size": {
@@ -13,12 +13,12 @@
     },
     "similar_species": [],
     "red_list": {
-        "habitats_directive": "",
+        "habitats_directive": "No",
         "red_list_EU27": "Vulnerable",
         "red_list_europe": "Vulnerable",
         "red_list_mediterranean": "Vulnerable",
-        "EU27_endemic": "",
-        "red_list_europe_endemic": "",
+        "EU27_endemic": "No",
+        "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     }
 }

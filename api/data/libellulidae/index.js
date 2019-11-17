@@ -31,10 +31,10 @@ const sympetrumSanguineum = require('./sympetrum-sanguineum.json')
 const sympetrumSinaiticum = require('./sympetrum-sinaiticum.json')
 const sympetrumStriolatum = require('./sympetrum-striolatum.json')
 const sympetrumVulgatum = require('./sympetrum-vulgatum.json')
-const thrithemisAnnulata = require('./thrithemis-annulata.json')
-const thrithemisArteriosa = require('./thrithemis-arteriosa.json')
-const thrithemisFestiva = require('./thrithemis-festiva.json')
-const thrithemisKirbyi = require('./thrithemis-kirbyi.json')
+const trithemisAnnulata = require('./trithemis-annulata.json')
+const trithemisArteriosa = require('./trithemis-arteriosa.json')
+const trithemisFestiva = require('./trithemis-festiva.json')
+const trithemisKirbyi = require('./trithemis-kirbyi.json')
 const zygonyxTorridus = require('./zygonyx-torridus.json')
 
 module.exports = {
@@ -75,11 +75,11 @@ module.exports = {
     sympetrumStriolatum,
     sympetrumVulgatum
   ],
-  thrithemis: [
-    thrithemisAnnulata,
-    thrithemisArteriosa,
-    thrithemisFestiva,
-    thrithemisKirbyi
+  trithemis: [
+    trithemisAnnulata,
+    trithemisArteriosa,
+    trithemisFestiva,
+    trithemisKirbyi
   ],
   zygonyx: [zygonyxTorridus]
 }

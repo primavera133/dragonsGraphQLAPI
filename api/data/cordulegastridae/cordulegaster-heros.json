@@ -4,7 +4,7 @@
     "local_names": [],
     "description": "",
     "distribution": "",
-    "flight_period": "",
+    "flight_period": "June to July",
     "behaviour": "",
     "habitat": "",
     "size": {
@@ -17,7 +17,7 @@
         "red_list_EU27": "Near threatened",
         "red_list_europe": "Near threatened",
         "red_list_mediterranean": "Vulnerable",
-        "EU27_endemic": "",
+        "EU27_endemic": "No",
         "red_list_europe_endemic": "Endemic",
         "trend_europe": "Stable"
     }

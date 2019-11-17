@@ -1,5 +1,6 @@
 const brachythemisImpartita = require('./brachythemis-impartita.json')
 const crocothemisErythraea = require('./crocothemis-erythraea.json')
+const diplacodesLefebvrii = require('./diplacodes-lefebvrii.json')
 const leucorrhiniaAlbifrons = require('./leucorrhinia-albifrons.json')
 const leucorrhiniaCaudalis = require('./leucorrhinia-caudalis.json')
 const leucorrhiniaDubia = require('./leucorrhinia-dubia.json')
@@ -23,7 +24,6 @@ const sympetrumDanae = require('./sympetrum-danae.json')
 const sympetrumDepressiculum = require('./sympetrum-depressiculum.json')
 const sympetrumFlaveolum = require('./sympetrum-flaveolum.json')
 const sympetrumFonscolombii = require('./sympetrum-fonscolombii.json')
-const sympetrumLefebvrii = require('./sympetrum-lefebvrii.json')
 const sympetrumMeridionale = require('./sympetrum-meridionale.json')
 const sympetrumNigrifemur = require('./sympetrum-nigrifemur.json')
 const sympetrumPedemontanum = require('./sympetrum-pedemontanum.json')
@@ -40,6 +40,7 @@ const zygonyxTorridus = require('./zygonyx-torridus.json')
 module.exports = {
   brachythemis: [brachythemisImpartita],
   crocothemis: [crocothemisErythraea],
+  diplacodes: [diplacodesLefebvrii],
   leucorrhinia: [
     leucorrhiniaAlbifrons,
     leucorrhiniaCaudalis,
@@ -66,7 +67,6 @@ module.exports = {
     sympetrumDepressiculum,
     sympetrumFlaveolum,
     sympetrumFonscolombii,
-    sympetrumLefebvrii,
     sympetrumMeridionale,
     sympetrumNigrifemur,
     sympetrumPedemontanum,

@@ -4,5 +4,21 @@
     "local_names": [],
     "description": "",
     "distribution": "",
-    "flight_period": ""
+    "flight_period": "",
+    "behaviour": "",
+    "habitat": "",
+    "size": {
+        "length": "43-48 mm",
+        "wingspan": "60-66 mm"
+    },
+    "similar_species": [],
+    "red_list": {
+        "habitats_directive": "No",
+        "red_list_EU27": "Least Concern",
+        "red_list_europe": "Least Concern",
+        "red_list_mediterranean": "Not present",
+        "EU27_endemic": "Endemic",
+        "red_list_europe_endemic": "Endemic",
+        "trend_europe": "Stable"
+    }
 }

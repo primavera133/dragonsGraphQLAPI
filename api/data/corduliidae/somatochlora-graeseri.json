@@ -14,11 +14,11 @@
     "similar_species": [],
     "red_list": {
         "habitats_directive": "No",
-        "red_list_EU27": "Not Evaluated",
+        "red_list_EU27": "Not evaluated",
         "red_list_europe": "Data Deficient",
         "red_list_mediterranean": "Not present",
-        "EU27_endemic": "",
-        "red_list_europe_endemic": "",
+        "EU27_endemic": "No",
+        "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"
     }
 }

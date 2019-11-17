@@ -1,6 +1,6 @@
 {
-    "items_id": "b368f128350dc3a94090616862aa0171",
-    "scientific_name": "Pantala flaviscens",
+    "items_id": "edd3525f37d23368e7e3cd5e54bff655",
+    "scientific_name": "Platychnemis dealbata",
     "local_names": [],
     "description": "",
     "distribution": "",
@@ -8,15 +8,15 @@
     "behaviour": "",
     "habitat": "",
     "size": {
-        "length": "45-55 mm",
-        "wingspan": "85-90 mm"
+        "length": "mm",
+        "wingspan": "mm"
     },
     "similar_species": [],
     "red_list": {
         "habitats_directive": "No",
-        "red_list_EU27": "Not Applicable",
-        "red_list_europe": "Not Applicable",
-        "red_list_mediterranean": "Not Applicable",
+        "red_list_EU27": "Not Evaluated",
+        "red_list_europe": "Not Evaluated",
+        "red_list_mediterranean": "Not Evaluated",
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"

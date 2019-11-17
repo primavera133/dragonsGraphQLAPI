@@ -13,12 +13,12 @@
     },
     "similar_species": [],
     "red_list": {
-        "habitats_directive": "II+IV",
-        "red_list_EU27": "Vulnerable",
-        "red_list_europe": "Vulnerable",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "Endemic",
-        "red_list_europe_endemic": "Endemic",
-        "trend_europe": "Decreasing"
+        "habitats_directive": "No",
+        "red_list_EU27": "Not present",
+        "red_list_europe": "Not Evaluated",
+        "red_list_mediterranean": "Not present",
+        "EU27_endemic": "No",
+        "red_list_europe_endemic": "No",
+        "trend_europe": "Unknown"
     }
 }

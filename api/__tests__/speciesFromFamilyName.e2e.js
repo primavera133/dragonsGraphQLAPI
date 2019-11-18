@@ -36,43 +36,61 @@ const GET_SPECIES_FROM_FAMILY_NAME_QUERY = gql`
 describe('Server - e2e: SpecieFromFamilyName', () => {
   let service, graphql
 
-  beforeEach(async () => {
-    const testServer = await createServer({
-      path: '/graphql'
+  it('gets species from family names', async () => {
+    const familiesToTest = [
+      'Aeshnidae',
+      'Calopterygidae',
+      'Coenagrionidae',
+      'Cordulegastridae',
+      'Corduliidae',
+      'Euphaeidae',
+      'Gomphidae',
+      'Incerta_sedis',
+      'Lestidae',
+      'Libellulidae',
+      'Macromiidae',
+      'Platychnemididae'
+    ]
+    familiesToTest.forEach(async family => {
+      const testServer = await createServer({
+        path: '/graphql'
+      })
+      service = testServer.service
+      graphql = testServer.executeOperation
+
+      const res = await toPromise(
+        graphql({
+          query: GET_SPECIES_FROM_FAMILY_NAME_QUERY,
+          variables: { name: family }
+        })
+      )
+      expect(Object.keys(res.data.familyFromName[0])).toEqual([
+        'items_id',
+        'scientific_name',
+        'local_names',
+        'behaviour',
+        'description',
+        'distribution',
+        'habitat',
+        'flight_period',
+        'size',
+        'similar_species',
+        'red_list'
+      ])
+      expect(Object.keys(res.data.familyFromName[0].size)).toEqual([
+        'length',
+        'wingspan'
+      ])
+      expect(Object.keys(res.data.familyFromName[0].red_list)).toEqual([
+        'habitats_directive',
+        'red_list_EU27',
+        'red_list_europe',
+        'red_list_mediterranean',
+        'EU27_endemic',
+        'red_list_europe_endemic',
+        'trend_europe'
+      ])
+      service.close()
     })
-    service = testServer.service
-    graphql = testServer.executeOperation
-  })
-
-  afterEach(() => service.close())
-
-  it('gets species from family name: Aeshnidae', async () => {
-    const res = await toPromise(
-      graphql({
-        query: GET_SPECIES_FROM_FAMILY_NAME_QUERY,
-        variables: { name: 'Aeshnidae' }
-      })
-    )
-    expect(res).toMatchSnapshot()
-  })
-
-  it('gets species from family name: Calopterygidae', async () => {
-    const res = await toPromise(
-      graphql({
-        query: GET_SPECIES_FROM_FAMILY_NAME_QUERY,
-        variables: { name: 'Calopterygidae' }
-      })
-    )
-    expect(res).toMatchSnapshot()
-  })
-
-  it('gets species from family name: Coenagrionidae', async () => {
-    const res = await toPromise(
-      graphql({
-        query: GET_SPECIES_FROM_FAMILY_NAME_QUERY,
-        variables: { name: 'Coenagrionidae' }
-      })
-    )
-    expect(res).toMatchSnapshot()
   })
 })

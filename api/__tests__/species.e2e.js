@@ -53,6 +53,33 @@ describe('Server - e2e', () => {
       })
     )
 
-    expect(res).toMatchSnapshot()
+    expect(res.data.species).toBeDefined()
+    expect(res.data.species[0].items_id).toBeDefined()
+    expect(Object.keys(res.data.species[0])).toEqual([
+      'items_id',
+      'scientific_name',
+      'local_names',
+      'behaviour',
+      'description',
+      'distribution',
+      'habitat',
+      'flight_period',
+      'size',
+      'similar_species',
+      'red_list'
+    ])
+    expect(Object.keys(res.data.species[0].size)).toEqual([
+      'length',
+      'wingspan'
+    ])
+    expect(Object.keys(res.data.species[0].red_list)).toEqual([
+      'habitats_directive',
+      'red_list_EU27',
+      'red_list_europe',
+      'red_list_mediterranean',
+      'EU27_endemic',
+      'red_list_europe_endemic',
+      'trend_europe'
+    ])
   })
 })

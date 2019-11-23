@@ -12,7 +12,7 @@ class SpeciesAPI extends DataSource {
   }
 
   findFamilyFromName (name) {
-    const family = this.store.species[name.toLowerCase()]
+    const family = this.store.species[name.toLowerCase().replace(' ', '_')]
     if (!family) return new ApolloError(`Family not found: ${name}`)
 
     return Object.values(family).reduce((acc, genera) => acc.concat(genera), [])

@@ -74,20 +74,17 @@ describe('Server - e2e: speciesFromGeneraName no content', () => {
       'apor'
     ]
     generasToTest.forEach(async genera => {
-      console.log(genera)
       const testServer = await createServer({
         path: '/graphql'
       })
       service = testServer.service
       graphql = testServer.executeOperation
-      console.log(222)
       const res = await toPromise(
         graphql({
           query: GET_SPECIES_FROM_GENERA_NAME_QUERY,
           variables: { name: genera }
         })
       )
-      console.log(Object.keys(res.data.generaFromName[0]))
       expect(Object.keys(res.data.generaFromName[0])).toEqual([
         'items_id',
         'scientific_name',

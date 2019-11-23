@@ -1,17 +1,21 @@
 {
     "items_id": "513ce482eaa301443c94704189786e8d",
     "scientific_name": "Cordulegaster trinacriae",
-    "local_names": [],
-    "description": "",
-    "distribution": "",
+    "local_names": [
+        "Italian goldenring"
+    ],
+    "description": "Black with yellow markings. Green eyes with a yellow occipital triangle. Frons is yellow, males might have traces of black on it. Females always has a small black bar across the frons, but it does not reach the edges. Very similar to C. boltonii from wich it can be distinguished by the reduced extension of the yellow markings and the terminal appendages in the males that are as long as S10. At the junction of the last segments, there are no yellow rings unlike C. boltonii in which they are quite visible. Seen from the side the yellow spots on the abdomen are triangular in shape. Yellow markings on S4-S7 generally do not connect on the underside.",
+    "distribution": "Cordulegaster trinacriae is a European endemic restricted to the southern half of mainland Italy and Sicily. The species was described relatively recently and all records from southern Italy published as C. boltonii nowadays are considered to belong to C. trinacriae. It is restricted to the Italian regions of Lazio, Molise, Campania, Calabria, Basilicata and Sicily. Its range meets and seems to overlap slightly with C. boltonii in Lazio; the distribution of both species in this area is poorly studied. So far, around 70 localities have been reported for this species, which seems more common than previously thought. In mainland Italy C. trinacriae is locally abundant although many populations are small and isolated. The species is rare in Sicily.",
     "flight_period": "June to August",
     "behaviour": "",
-    "habitat": "",
+    "habitat": "Cordulegaster trinacriae is found at running waters ranging from mountain streams to rivers, and favour woodland areas up to around 1 600 m.",
     "size": {
         "length": "73-80 mm",
         "wingspan": "90-110 mm"
     },
-    "similar_species": [],
+    "similar_species": [
+        "Cordulegaster boltonii"
+    ],
     "red_list": {
         "habitats_directive": "II+IV",
         "red_list_EU27": "Near threatened",

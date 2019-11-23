@@ -4,16 +4,20 @@
     "local_names": [
         "Common goldenring"
     ],
-    "description": "",
-    "distribution": "",
+    "description": "Black and yellow in colour, with green eyes. Frons is yellow, with a small black bar. Similar to C. bidentata but slightly larger, more yellow in appearance and it has different shapes of yellow markings on S1 and the sides of the thorax. Occipital triangle is yellow, not black as on C. bidentata. The anal loop of the hind wing consists of 5 cells, not 3. It is also very similar to C. trinacriae but the males can be distinguished by different shape of the anal appendages. C. boltonii and C. trinacriae occurences only overlap in a small area in Italy.",
+    "distribution": "Almost endemic to Europe with the only populations outside in the north of Morocco and Algeria. In Europe the core of the range of Cordulegaster boltonii extends from western Europe to western and southern Poland, the southern part of Fennoscandia and the Baltic states. To the east it is scattered and apparently rare from the Ukraine and Belarus all the way to the Urals in Russia. Many old records now is believed to instead be from the closely related C. heros (only made into a species of its own in 1979). To the west is found only a few times on Ireland but more common in Scotland, England and Wales.",
     "flight_period": "May to September",
-    "behaviour": "",
-    "habitat": "",
+    "behaviour": "Males patrol relentlessly along suitable streams, chasing away any other competitors. Females oviposit in sandy or gravel bottoms of streams by, while still in flight, pushing their rear ends into the substrate over and over again.",
+    "habitat": "Cordulegaster boltonii favours woodlands, but also occurs along streams in open moorland and heath. The species is found in swift clear running waters including mountain torrents, runnels at headwaters, sand or sand-gravel streams, streams and small rivers. In small headwater streams and runnels it sometimes co-occurs with C. bidentata. In contrast with the latter, the larvae are able to cope with strong currents fairly well, enabling this species to colonise both upper and lower sections of rivers.",
     "size": {
         "length": "74-85 mm",
         "wingspan": "80-100 mm"
     },
-    "similar_species": [],
+    "similar_species": [
+        "Cordulegaster bidentata",
+        "Cordulegaster heros",
+        "Cordulegaster trinacriae"
+    ],
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",

@@ -4,16 +4,19 @@
     "local_names": [
         "Orange spotted emerald"
     ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
+    "description": "A dark, slender emerald. The general colouration of the body is metallic brown green with yellow dorsal spots along the clubbed abdomen. The eyes are bright light green in mature individuals, and pinkish in immature ones. The frons is entirely dark, while being yellow or white in Somatochlora species. The wings have an area suffused with yellow at the base that in females axtends along the margins. The abdomen of the males is expanded at S8. Oxygastra curtisii can be recognisedin flight by its abdomen being arched similarly to Onychogomphus species. It is darker and more slender than Cordulea aenea and Somatochlora metallica, the abdominal club lies closer to the tip (S8 is the widest segment).",
+    "distribution": "Oxygastra curtisii is, except for three isolated populations in Morocco, confined to south-west Europe. The highest densitiy of populations is found in the south-western Mediterranean parts of France, northern Portugal and western Spain. France harbours over 80% of currently known populations. In central and eastern Spain the species has a scattered distribution, generally being found in low densities. It is not uncommon in northern Italy and adjacent areas of Switzerland. Other Italian populations are mostly found in the western part of the country, a distribution mimicking that of Onychogomphus uncatus. The species occurs locally in the north and north-east of France and only one population remain in Belgium in the Ourthe River. In germany it was found in 1940 to 1943 along the Sieg river in northern Rhein-Westphalia, and a vigorous population has been known since 1997 along the Our river, which forms the border between Germany and Luxembourg. Oxygastra curtisii is extinct from Great Britain and the Netherlands.",
+    "flight_period": "Mid-May to mid-August",
+    "behaviour": "Males patrol short stretches, up to 20 m long, of calm, tree-lined rivers. Flying  in a straight or zig-zag manner, up to 1 m from the bank and rather low above the water. Eggs are oviposited near the waterline, often under overhanging trees and in crevices, but also on roots, soaked logs, mossy rocks and floating mats of algae.",
+    "habitat": "Oxygastra curtisii breeds mainly in slow-flowing, medium to large streams bordered by trees, and more rarely in standing waters such as large alpine lakes, ponds and abandoned gravel pits. The species favours situations where the water is surrounded by trees situated directly at the waters' edge, where larvae can remain within the extensive submerged root systems. Oxygastra curtisii favours lowlands and hilly regions below 800 m, although it is occasionally found up to 1 000 m in Spain.",
     "size": {
         "length": "47-54 mm",
         "wingspan": "66-72 mm"
     },
-    "similar_species": [],
+    "similar_species": [
+        "Somatochlora sp.",
+        "Cordulea aenea"
+    ],
     "red_list": {
         "habitats_directive": "II+IV",
         "red_list_EU27": "Near threatened",

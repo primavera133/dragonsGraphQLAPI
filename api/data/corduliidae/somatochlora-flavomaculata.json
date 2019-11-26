@@ -4,16 +4,19 @@
     "local_names": [
         "Yellow-spotted emerald"
     ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
+    "description": "A slender Somatochlora, easily distinguished from the other emeralds thanks to the yellow spots on the side of the abdomen and rear of thorax, larger on females and brighter in immature individuals. S2-S3 has large lateral spots and S4-S8 each has large yellow triangular paired spots. The spots tend to darken and in some mature individuals they become almost invisible. Males are metallic dark-green, females similar but more brown. Young individuals have yellow bands on the side of thorax, but these darken quickly and is most often invisible. Frons is dark with two big yellow spots on each side. Teneral and very fresh females can, due to the abdominal markings, be confused with Epitheca bimaculata, but the latter is bigger, has different terminal appendages and has dark patches on the base of the hind wings. Rarely, the wing bases of S. flavimaculata can have yellow patches. Oxygastra curtisii has dorsal yellow streaks on the abdomen but has no yellow spots on both side of the frons.",
+    "distribution": "Somatochlora flavimaculata is fairly common in southern Fennoscandia and central and north-eastern Europe. It is less common in western and southern parts of its range, where populations are often small and isolated. It occurs locally at high densities and in some areas it is the most common species of Somatochlora. Suitable habitats and climate seem to occur in Great Britain and the species absence from this country is surprising.",
+    "flight_period": "May to September",
+    "behaviour": "Somatochlora flavimaculata is good flyer, often to be found far from water. However it seems to avoid open landscapes and is rarely seen far from woodlands. Foraging individuals can be found in clearings or along forest roads. During foraging it often flies at head height or above. At the beginning of their mature life, males patrol territories over land, especially over open areas close to water. At this stage they fly at breast height within a limited area and often perches shortly fully exposed. Later they only patrol over water. It flies leisurely for being an emerald and can sometimes be distinguished by only this mode of flight. Mating wheels may circle low over reedbeds for minutes at a time. Larvae live in organic, decaying material at the bottom. Exuviae are found a few decimeters up on straws near the shores or on stems or branches a bit up on land.",
+    "habitat": "Somatochlora flavimaculata generally prefers oligotrophic to weakly eutrophic peaty water bodies with abundant and dense vegetation. Suitable habitats can be found at fens, marshes, oxbow lakes, wet meadows, ponds, peaty pools including abandoned excavations, Sphagnum peat bogs, and, more rarely, at slow-flowing waters such as ditches and canals. Most of its habitats have a reduced surface of open water due to the density and expanse of the vegetation. In many cases, a layer of at least 10 cm organic material is present at the bottom, while the water is generally shallow. Larvae are capable of surviving an absence of free water for a period of a few weeks. Favoured habitats are fish free and largely unshaded., but often near forest. At such sites, adults are mostly found at the periphery of their breeding habitat, often foraging in meadows and sunny spots in, or along, the forest edges. Most records are from below 600 m, but populations have been found up to 1 270 m in the south of its range.",
     "size": {
         "length": "45-55 mm",
         "wingspan": "64-78 mm"
     },
-    "similar_species": [],
+    "similar_species": [
+        "Cordulia aenea",
+        "Somatochlora metallica"
+    ],
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",

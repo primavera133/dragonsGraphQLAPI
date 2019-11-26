@@ -2,16 +2,18 @@
     "items_id": "4f62d83d07b89f1ead3e60407d7d5c18",
     "scientific_name": "Somatochlora graeseri",
     "local_names": [],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
+    "description": "A Somatochlora with eastern range, in Europe it is known only from eight localities in the Urals of Russia and a single more western locality.",
+    "distribution": "Somatochlora graeseri is common and widespread in the eastern Palearctic. In Europe it is restricted to Russia with a total of six localities known, one in the far north, namely in the Pinega region of the ARchangelsk Oblast, two in the western Ural foothills in the Komi Republic, and three from the Bashkirian Nature Reserve in the Bashkortostan Republic, on the western side of the Urals, where the species is not uncommon. It is at present unknown if the population in Archangelsk is connected to those of the Ural Mountains through northern European Russia.",
+    "flight_period": "May to August",
     "behaviour": "",
-    "habitat": "",
+    "habitat": "Throughout its range, Somatochlora graeseri favours marshy lakes, oxbows and ponds in the forested or scrubby parts of river flood plains. It is also present at slow flowing stretches of rivers and at large lakes. The species appears to be well adapted to cold climates as it was reported to be associated with rather deep and cold waters, and adults have been reported to patrol over ice-cold waters during the breeding season.",
     "size": {
         "length": "mm",
         "wingspan": "mm"
     },
-    "similar_species": [],
+    "similar_species": [
+        "Somatochlora sp."
+    ],
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Not evaluated",

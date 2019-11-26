@@ -4,16 +4,20 @@
     "local_names": [
         "Brilliant emerald"
     ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
+    "description": "Together with S. meridionalis it is the largest species of the emeralds. The body is entirely bright green except for two yellow spots at the base of the abdomen and a yellow U-shaped band across the frons. The band can sometimes be narrowly separated at the middle. In the females, the distinctive character is the long vulvular lamina at right angle to the abdomen. It can be distinguished from S. meridionalis by the pterostigma which is (usually) light brown instead of black and by the absence of yellow spots on the side of the thorax. The waist is narrow but the abdomen is less clubbed than Cordulia aenea, being widest at S6-S7. ",
+    "distribution": "Somatochlora metallica is common throughout most of Europe and reaches well north of the Arctic Circle. It is rare or absent in the Mediterranean area and the lowlands of the Baltic Peninsula. It is also absent from Ireland and occurs only at two, small disjunct areas in Great Britain, one in Scotland and the other one in south-east of England. To the south, it reaches the Pyrennes, both on the French and the Spanish sides, and the north of Italy. In south-east Europe it is confined to mountain lakes in Romania, Bosnia and Herzegovina, Montenegro and Bulgaria and is replaced by S. meridionalis at runnig water s in the lowlands. The situation in Hungary, where both species occur, is unclear.",
+    "flight_period": "June to September",
+    "behaviour": "Males patrols along shorelines, preferably in shaded areas in lowlands but in full sunshine at mountain lakes. It often flies higher and further from the shore than Cordulia aenea, and takes fewer hovering stops. Patrolling males are aggressive and battles other males frequently. Immature males can be found far from water, in glades, open scrubs or adjacent meadows. Mating, resting and foraging is done in nearby trees or shrubberies. Females oviposit by repeatedly hammering the end of the abdomen against the wet ground near the water or in floating vegetation. Larvae live in bottom material under overhanging trees or in other shaded areas. Development of the larvae takes at least two years. Exuviae is found in vegetation close to the water or a bit further away on bridges, towed boats, stoneworks or such.",
+    "habitat": "Somatochlora metallica occurs at stnding and slow-flowing waters, which may be partially or nearly completely shaded. Lowland and mid-elevation localities are often in forested or semi-forested areas. Suitable habitats include mostly standing waters such as lakes, ponds, large pools and open water in fenland and Sphagnum peatbogs. More rarely the species is found at slow-flowing to moderately swift streams and rivers., as well as man-made canals. Most habitats have a bank vegetation of trees, high reeds or Sphagnum rafts, with stretches of open water without vegetation. The water is generally over a meter deep and bottom sediments are rich in organic detritus and often muddy. In the highest European mountains, the species extend beyond the tree line and is well established in a number of lakes and large open bogs. It is present in low numbers in the tundra landscape of northern Fennoscandia, north of the taiga. The species has a wide altitudinal range and in temperate Europe it occurs from the lowlands up to 2 400 m. However, it is most common at middle elevations, with for example 70 percent of Swiss recordings coming from around 600 m. In the south of its range, the species becomes progressively more restricted to higher altitudes, being confirmed to mountain lakes between 850 m and 2 350 m in Spain and the Balkans.",
     "size": {
         "length": "50-55 mm",
         "wingspan": "70-76 mm"
     },
-    "similar_species": [],
+    "similar_species": [
+        "Somatochlora meridionalis",
+        "Cordulia aenea",
+        "Somatochlora sp."
+    ],
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",

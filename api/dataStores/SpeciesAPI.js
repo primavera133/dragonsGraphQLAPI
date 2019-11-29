@@ -11,14 +11,27 @@ class SpeciesAPI extends DataSource {
     this.context = config.context
   }
 
-  findFamilyFromName (name) {
-    const family = this.store.species[name.toLowerCase().replace(' ', '_')]
+  findFamilySpecies (familyName) {
+    const family = this.store.species[
+      familyName.toLowerCase().replace(' ', '_')
+    ]
     if (!family) return new ApolloError(`Family not found: ${name}`)
 
     return Object.values(family).reduce((acc, genera) => acc.concat(genera), [])
   }
 
-  findGeneraFromName (name) {
+  findGenerasFromFamilyName (familyName) {
+    const family = this.store.species[
+      familyName.toLowerCase().replace(' ', '_')
+    ]
+    if (!family) return new ApolloError(`Family not found: ${name}`)
+
+    return Object.keys(family).map(genera_name => ({
+      genera_name
+    }))
+  }
+
+  findGeneraSpecies (generaName) {
     const allGeneras = Object.values(this.store.species).reduce(
       (acc, family) => {
         Object.keys(family).forEach(key => (acc[key] = family[key]))
@@ -26,8 +39,8 @@ class SpeciesAPI extends DataSource {
       },
       {}
     )
-    const genera = allGeneras[name.toLowerCase()]
-    if (!genera) return new ApolloError(`Genera not found: ${name}`)
+    const genera = allGeneras[generaName.toLowerCase()]
+    if (!genera) return new ApolloError(`Genera not found: ${generaName}`)
     return genera
   }
 
@@ -53,6 +66,12 @@ class SpeciesAPI extends DataSource {
 
   getAllSpecies () {
     return this.store.allSpecies
+  }
+
+  // findGenerasFromFamilyName (family_name) {}
+
+  getAllFamilies () {
+    return this.store.allFamilies
   }
 }
 

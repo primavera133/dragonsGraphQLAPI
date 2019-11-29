@@ -5,8 +5,8 @@ const nock = require('nock')
 const { createServer, toPromise } = require('./__utils')
 
 const GET_SPECIES_FROM_GENERA_NAME_QUERY = gql`
-  query generaFromName($name: String!) {
-    generaFromName(name: $name) {
+  query generaSpecies($name: String!) {
+    generaSpecies(name: $name) {
       items_id
       scientific_name
       local_names
@@ -52,7 +52,7 @@ describe('Server - e2e: speciesFromGeneraName', () => {
     }
   }
   function expects (res) {
-    expect(Object.keys(res.data.generaFromName[0])).toEqual([
+    expect(Object.keys(res.data.generaSpecies[0])).toEqual([
       'items_id',
       'scientific_name',
       'local_names',
@@ -65,11 +65,11 @@ describe('Server - e2e: speciesFromGeneraName', () => {
       'similar_species',
       'red_list'
     ])
-    expect(Object.keys(res.data.generaFromName[0].size)).toEqual([
+    expect(Object.keys(res.data.generaSpecies[0].size)).toEqual([
       'length',
       'wingspan'
     ])
-    expect(Object.keys(res.data.generaFromName[0].red_list)).toEqual([
+    expect(Object.keys(res.data.generaSpecies[0].red_list)).toEqual([
       'habitats_directive',
       'red_list_EU27',
       'red_list_europe',

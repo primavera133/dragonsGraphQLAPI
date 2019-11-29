@@ -5,8 +5,8 @@ const nock = require('nock')
 const { createServer, toPromise } = require('./__utils')
 
 const GET_SPECIES_FROM_FAMILY_NAME_QUERY = gql`
-  query familyFromName($name: String!) {
-    familyFromName(name: $name) {
+  query familySpecies($name: String!) {
+    familySpecies(name: $name) {
       items_id
       scientific_name
       local_names
@@ -64,7 +64,7 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
           variables: { name: family }
         })
       )
-      expect(Object.keys(res.data.familyFromName[0])).toEqual([
+      expect(Object.keys(res.data.familySpecies[0])).toEqual([
         'items_id',
         'scientific_name',
         'local_names',
@@ -77,11 +77,11 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
         'similar_species',
         'red_list'
       ])
-      expect(Object.keys(res.data.familyFromName[0].size)).toEqual([
+      expect(Object.keys(res.data.familySpecies[0].size)).toEqual([
         'length',
         'wingspan'
       ])
-      expect(Object.keys(res.data.familyFromName[0].red_list)).toEqual([
+      expect(Object.keys(res.data.familySpecies[0].red_list)).toEqual([
         'habitats_directive',
         'red_list_EU27',
         'red_list_europe',

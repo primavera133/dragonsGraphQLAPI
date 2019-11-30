@@ -9,6 +9,7 @@ const GET_ALL_SPECIES_QUERY = gql`
     species {
       items_id
       scientific_name
+      author_citation
       local_names
       behaviour
       description
@@ -58,6 +59,7 @@ describe('Server - e2e', () => {
     expect(Object.keys(res.data.species[0])).toEqual([
       'items_id',
       'scientific_name',
+      'author_citation',
       'local_names',
       'behaviour',
       'description',

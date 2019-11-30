@@ -9,6 +9,7 @@ const GET_SPECIE_FROM_ID_QUERY = gql`
     specieFromId(items_id: $items_id) {
       items_id
       scientific_name
+      author_citation
       local_names
       behaviour
       description

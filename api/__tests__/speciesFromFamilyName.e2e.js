@@ -9,6 +9,7 @@ const GET_SPECIES_FROM_FAMILY_NAME_QUERY = gql`
     familySpecies(name: $name) {
       items_id
       scientific_name
+      author_citation
       local_names
       behaviour
       description
@@ -67,6 +68,7 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
       expect(Object.keys(res.data.familySpecies[0])).toEqual([
         'items_id',
         'scientific_name',
+        'author_citation',
         'local_names',
         'behaviour',
         'description',

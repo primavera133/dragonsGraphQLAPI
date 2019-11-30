@@ -9,6 +9,7 @@ const GET_SPECIES_FROM_GENERA_NAME_QUERY = gql`
     generaSpecies(name: $name) {
       items_id
       scientific_name
+      author_citation
       local_names
       behaviour
       description
@@ -55,6 +56,7 @@ describe('Server - e2e: speciesFromGeneraName', () => {
     expect(Object.keys(res.data.generaSpecies[0])).toEqual([
       'items_id',
       'scientific_name',
+      'author_citation',
       'local_names',
       'behaviour',
       'description',

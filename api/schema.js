@@ -22,6 +22,7 @@ const typeDefs = gql`
   type Specie {
     items_id: ID!
     scientific_name: ID!
+    author_citation: String
     local_names: [String]
     behaviour: String
     description: String

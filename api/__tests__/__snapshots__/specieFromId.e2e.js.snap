@@ -4,7 +4,7 @@ exports[`Server - e2e: SpecieFromId gets a specie from items_id 1`] = `
 Object {
   "data": Object {
     "specieFromId": Object {
-      "author_citation": null,
+      "author_citation": "Vander Linden, 1820",
       "behaviour": "This species is a powerfull flyer and often migrates from the southernmost areas of Europe far up to the north in good years. The male usually incessantly patrols its territory, flying low at about chest height, often beating to and fro over a small area. It frequently perches and alights on tall grass and bushes. IT's not easily disturbed. It is the only species of Aeshna in which the male stays attached to the female after mating, laying eggs in tandem.",
       "description": "A small Aeshna, similar in size to A. Mixta, which it resembles in many ways.
 

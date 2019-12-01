@@ -1,7 +1,9 @@
 {
     "items_id": "bc6d378baebf03f39d45010f2dac58d5",
-    "scientific_name": "Orthetrum trinacria",
-    "local_names": [],
+    "scientific_name": "Orthetrum taeniolatum",
+    "local_names": [
+        "Small skimmer"
+    ],
     "description": "",
     "distribution": "",
     "flight_period": "",
@@ -20,5 +22,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
-    }
+    },
+    "author_citation": "(Schneider, 1845)"
 }

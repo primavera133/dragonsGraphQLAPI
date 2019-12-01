@@ -1,7 +1,10 @@
 {
     "items_id": "e72839290e049e20c8f7101915811b07",
     "scientific_name": "Orthetrum sabina",
-    "local_names": [],
+    "local_names": [
+        "Slender skimmer",
+        "Green marsh hawk"
+    ],
     "description": "",
     "distribution": "",
     "flight_period": "",
@@ -20,5 +23,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
-    }
+    },
+    "author_citation": "(Drury, 1770)"
 }

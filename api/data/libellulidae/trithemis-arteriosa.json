@@ -1,7 +1,9 @@
 {
     "items_id": "b04d13468392606525b238877bfb0205",
     "scientific_name": "Trithemis arteriosa",
-    "local_names": [],
+    "local_names": [
+        "Red-veined dropwing"
+    ],
     "description": "",
     "distribution": "",
     "flight_period": "",
@@ -20,5 +22,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"
-    }
+    },
+    "author_citation": "(Burmeister, 1839)"
 }

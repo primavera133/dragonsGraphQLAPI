@@ -2,7 +2,10 @@
     "items_id": "e4df54a4cb80c34cf85abae65aa57698",
     "scientific_name": "Crocothemis erythraea",
     "local_names": [
-        "Broad scarlet"
+        "Broad scarlet",
+        "Common scarlet-darter",
+        "Scarlet darter",
+        "Scarlet dragonfly"
     ],
     "description": "",
     "distribution": "",
@@ -22,5 +25,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Increasing"
-    }
+    },
+    "author_citation": "(Brullé, 1832)"
 }

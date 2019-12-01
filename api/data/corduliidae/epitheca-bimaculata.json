@@ -1,6 +1,6 @@
 {
     "items_id": "0511d13b1aa7dde7c1123e5ec804c0fd",
-    "scientific_name": "Ephiteca bimaculata",
+    "scientific_name": "Epitheca bimaculata",
     "local_names": [
         "Eurasian baskettail"
     ],
@@ -25,5 +25,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
-    }
+    },
+    "author_citation": "(Charpentier, 1825)"
 }

@@ -22,5 +22,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable to Decreasing depending on subspecie"
-    }
+    },
+    "author_citation": "(Linnaeus, 1758)"
 }

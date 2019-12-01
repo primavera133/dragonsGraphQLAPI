@@ -1,7 +1,9 @@
 {
     "items_id": "4ca794844531ff98b8b6ae22bfced96e",
     "scientific_name": "Selysiothemis nigra",
-    "local_names": [],
+    "local_names": [
+        "Black pennant"
+    ],
     "description": "",
     "distribution": "",
     "flight_period": "",
@@ -20,5 +22,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Increasing"
-    }
+    },
+    "author_citation": "(Vander Linden, 1825)"
 }

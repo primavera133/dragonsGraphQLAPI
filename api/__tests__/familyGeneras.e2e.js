@@ -147,10 +147,10 @@ describe('Server - e2e: familyGeneras', () => {
     )
   })
 
-  it('gets genera names from family name: Platychnemididae', async () => {
-    const res = await toPromise(graphql(getQuery('Platychnemididae')))
+  it('gets genera names from family name: Platycnemididae', async () => {
+    const res = await toPromise(graphql(getQuery('Platycnemididae')))
     expect(res.data.familyGeneras).toEqual(
-      ['platychnemis'].map(genera_name => ({
+      ['platycnemis'].map(genera_name => ({
         genera_name
       }))
     )

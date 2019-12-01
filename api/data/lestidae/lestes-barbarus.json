@@ -1,8 +1,10 @@
 {
     "items_id": "2523eb23ee21d51ae1e1042c8bee1452",
-    "scientific_name": "Lestes dryas",
+    "scientific_name": "Lestes barbarus",
     "local_names": [
-        "Migrant spreadwing"
+        "Migrant spreadwing",
+        "Southern emerald damselfly",
+        "Shy emerald damselfly"
     ],
     "description": "",
     "distribution": "",
@@ -10,8 +12,8 @@
     "behaviour": "",
     "habitat": "",
     "size": {
-        "length": "40-45 mm",
-        "wingspan": "45-60 mm"
+        "length": "35-40 mm",
+        "wingspan": "45-55 mm"
     },
     "similar_species": [],
     "red_list": {
@@ -22,5 +24,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
-    }
+    },
+    "author_citation": "(Fabricius, 1798)"
 }

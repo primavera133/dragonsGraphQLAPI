@@ -2,7 +2,8 @@
     "items_id": "a530e7bcdc236d74223598e63f9e4c84",
     "scientific_name": "Libellula quadrimaculata",
     "local_names": [
-        "Four-spotted chaser"
+        "Four-spotted chaser",
+        "Four-spotted skimmer"
     ],
     "description": "",
     "distribution": "",
@@ -22,5 +23,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
-    }
+    },
+    "author_citation": "Linnaeus, 1758"
 }

@@ -2,7 +2,10 @@
     "items_id": "27e87377aabc199459b59828d7ffcaea",
     "scientific_name": "Trithemis annulata",
     "local_names": [
-        "Violet dropwing"
+        "Violet dropwing",
+        "Violet-marked darter",
+        "Purple-blushed darter",
+        "Plum-coloured dropwing"
     ],
     "description": "",
     "distribution": "",
@@ -22,5 +25,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Increasing"
-    }
+    },
+    "author_citation": "(Beauvois, 1807)"
 }

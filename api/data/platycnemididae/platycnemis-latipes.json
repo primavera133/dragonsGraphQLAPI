@@ -1,8 +1,8 @@
 {
-    "items_id": "a0115eb771b1eebd6b2ed840fa4e4561",
-    "scientific_name": "Platychnemis acutipennis",
+    "items_id": "2a3095fc1222a95f77f369fab04b7266",
+    "scientific_name": "Platycnemis latipes",
     "local_names": [
-        "Orange white-legged damselfly"
+        "White featherleg"
     ],
     "description": "",
     "distribution": "",
@@ -10,8 +10,8 @@
     "behaviour": "",
     "habitat": "",
     "size": {
-        "length": "34-37 mm",
-        "wingspan": "36-38 mm"
+        "length": "33-37 mm",
+        "wingspan": "36-44 mm"
     },
     "similar_species": [],
     "red_list": {
@@ -22,5 +22,6 @@
         "EU27_endemic": "Endemic",
         "red_list_europe_endemic": "Endemic",
         "trend_europe": "Stable"
-    }
+    },
+    "author_citation": "Rambur, 1842"
 }

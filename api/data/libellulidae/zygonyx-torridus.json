@@ -1,7 +1,9 @@
 {
     "items_id": "f36bf439ed7b31ddcffefd10ed545625",
     "scientific_name": "Zygonyx torridus",
-    "local_names": [],
+    "local_names": [
+        "Ringed cascader"
+    ],
     "description": "",
     "distribution": "",
     "flight_period": "",
@@ -20,5 +22,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Decreasing"
-    }
+    },
+    "author_citation": "(Kirby, 1889)"
 }

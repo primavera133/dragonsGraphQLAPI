@@ -24,5 +24,6 @@
         "EU27_endemic": "Endemic",
         "red_list_europe_endemic": "Endemic",
         "trend_europe": "Unknown"
-    }
+    },
+    "author_citation": "Lohmann, 1990"
 }

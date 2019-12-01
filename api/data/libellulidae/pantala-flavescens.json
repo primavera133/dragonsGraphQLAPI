@@ -1,7 +1,11 @@
 {
     "items_id": "b368f128350dc3a94090616862aa0171",
-    "scientific_name": "Pantala flaviscens",
-    "local_names": [],
+    "scientific_name": "Pantala flavescens",
+    "local_names": [
+        "Globe skimmer",
+        "Globe wanderer",
+        "Wandering glider"
+    ],
     "description": "",
     "distribution": "",
     "flight_period": "",
@@ -20,5 +24,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"
-    }
+    },
+    "author_citation": "(Fabricius, 1798)"
 }

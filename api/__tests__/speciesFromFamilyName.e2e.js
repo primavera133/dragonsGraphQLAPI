@@ -50,7 +50,7 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
       'Lestidae',
       'Libellulidae',
       'Macromiidae',
-      'Platychnemididae'
+      'Platycnemididae'
     ]
     familiesToTest.forEach(async family => {
       const testServer = await createServer({

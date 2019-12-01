@@ -18,7 +18,7 @@ const orthetrumNitidinerve = require('./orthetrum-nitidinerve.json')
 const orthetrumSabina = require('./orthetrum-sabina.json')
 const orthetrumTaeniolatum = require('./orthetrum-taeniolatum.json')
 const orthetrumTrinacria = require('./orthetrum-trinacria.json')
-const pantalaFlaviscens = require('./pantala-flaviscens.json')
+const pantalaFlavescens = require('./pantala-flavescens.json')
 const selysiothemisNigra = require('./selysiothemis-nigra.json')
 const sympetrumDanae = require('./sympetrum-danae.json')
 const sympetrumDepressiculum = require('./sympetrum-depressiculum.json')
@@ -60,7 +60,7 @@ module.exports = {
     orthetrumTaeniolatum,
     orthetrumTrinacria
   ],
-  pantala: [pantalaFlaviscens],
+  pantala: [pantalaFlavescens],
   selysiothemis: [selysiothemisNigra],
   sympetrum: [
     sympetrumDanae,

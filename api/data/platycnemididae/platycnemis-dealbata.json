@@ -1,7 +1,9 @@
 {
     "items_id": "edd3525f37d23368e7e3cd5e54bff655",
-    "scientific_name": "Platychnemis dealbata",
-    "local_names": [],
+    "scientific_name": "Platycnemis dealbata",
+    "local_names": [
+        "Ivory featherleg"
+    ],
     "description": "",
     "distribution": "",
     "flight_period": "",
@@ -20,5 +22,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"
-    }
+    },
+    "author_citation": "Selis in Selys & Hagen, 1850"
 }

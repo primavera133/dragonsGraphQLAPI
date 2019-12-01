@@ -1,8 +1,9 @@
 {
     "items_id": "b710284392e6afab580cf72913d7ff7b",
-    "scientific_name": "Libellula dipressa",
+    "scientific_name": "Libellula depressa",
     "local_names": [
-        "Broad bodied chaser"
+        "Broad bodied chaser",
+        "Broad bodied darter"
     ],
     "description": "",
     "distribution": "",
@@ -22,5 +23,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
-    }
+    },
+    "author_citation": "Linnaeus, 1758"
 }

@@ -1,7 +1,9 @@
 {
     "items_id": "6f36f5bc7778be01f8bc2a3a6dd9ce78",
     "scientific_name": "Orthetrum trinacria",
-    "local_names": [],
+    "local_names": [
+        "Long skimmer"
+    ],
     "description": "",
     "distribution": "",
     "flight_period": "",
@@ -20,5 +22,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
-    }
+    },
+    "author_citation": "(Selys, 1841)"
 }

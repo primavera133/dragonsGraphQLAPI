@@ -1,8 +1,8 @@
 {
     "items_id": "e4df54a4cb80c34cf85abae65aa57699",
-    "scientific_name": "Crocothemis erythraea",
+    "scientific_name": "Leucorrhinia albifrons",
     "local_names": [
-        "Broad scarlet"
+        "Dark whiteface"
     ],
     "description": "",
     "distribution": "",
@@ -10,8 +10,8 @@
     "behaviour": "",
     "habitat": "",
     "size": {
-        "length": "35-45 mm",
-        "wingspan": "50-70 mm"
+        "length": "",
+        "wingspan": ""
     },
     "similar_species": [],
     "red_list": {
@@ -22,5 +22,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Increasing"
-    }
+    },
+    "author_citation": "(Burmeister, 1839)"
 }

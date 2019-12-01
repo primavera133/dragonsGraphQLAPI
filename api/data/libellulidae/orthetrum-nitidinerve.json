@@ -1,7 +1,9 @@
 {
     "items_id": "6410b2c0cb6c3370962d6d1c3ac5503b",
     "scientific_name": "Orthetrum nitidinerve",
-    "local_names": [],
+    "local_names": [
+        "Yellow-veined skimmer"
+    ],
     "description": "",
     "distribution": "",
     "flight_period": "",
@@ -20,5 +22,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Decreasing"
-    }
+    },
+    "author_citation": "(Selys, 1841)"
 }

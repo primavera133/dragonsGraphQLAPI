@@ -1,7 +1,9 @@
 {
     "items_id": "f6664fad01c14f9bbd36bd08f560d768",
     "scientific_name": "Orthetrum chrysostigma",
-    "local_names": [],
+    "local_names": [
+        "Epaulet skimmer"
+    ],
     "description": "",
     "distribution": "",
     "flight_period": "",
@@ -20,5 +22,6 @@
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
-    }
+    },
+    "author_citation": "(Burmeister, 1839)"
 }

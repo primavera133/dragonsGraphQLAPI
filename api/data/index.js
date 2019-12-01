@@ -9,7 +9,7 @@ const incerta_sedis = require('./incerta_sedis')
 const lestidae = require('./lestidae')
 const libellulidae = require('./libellulidae')
 const macromiidae = require('./macromiidae')
-const platychnemididae = require('./platychnemididae')
+const platycnemididae = require('./platycnemididae')
 
 module.exports = {
   aeshnidae,
@@ -23,5 +23,5 @@ module.exports = {
   lestidae,
   libellulidae,
   macromiidae,
-  platychnemididae
+  platycnemididae
 }

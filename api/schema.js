@@ -9,14 +9,21 @@ const typeDefs = gql`
     familySpecies(name: String!): [Specie]
     families: [Family]
     familyGeneras(name: String!): [Genera]
+    taxonomy: Taxonomy
+  }
+
+  type Taxonomy {
+    families: [Family]
   }
 
   type Family {
     family_name: ID!
+    generas: [Genera]
   }
 
   type Genera {
     genera_name: ID!
+    species: [Specie]
   }
 
   type Specie {

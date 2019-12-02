@@ -18,6 +18,9 @@ module.exports = {
       dataSources.speciesAPI.findSpecieFromId(items_id),
 
     specieFromScientificName: (_, { scientific_name }, { dataSources }) =>
-      dataSources.speciesAPI.findSpecieFromScientificName(scientific_name)
+      dataSources.speciesAPI.findSpecieFromScientificName(scientific_name),
+
+    taxonomy: (_, __, { dataSources }) =>
+      dataSources.speciesAPI.getFullTaxonomy()
   }
 }

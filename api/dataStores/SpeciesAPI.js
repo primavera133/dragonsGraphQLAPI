@@ -73,6 +73,33 @@ class SpeciesAPI extends DataSource {
   getAllFamilies () {
     return this.store.allFamilies
   }
+
+  getFullTaxonomy () {
+    const families = this.getAllFamilies()
+    // console.log('families', families)
+    const taxonomy = {
+      families: families.map(({ family_name }) => {
+        // console.log('family_name', family_name)
+        const generas = this.findGenerasFromFamilyName(family_name).map(
+          ({ genera_name }) => {
+            // console.log('genera_name', genera_name)
+            const species = this.findGeneraSpecies(genera_name)
+            return {
+              genera_name,
+              species
+            }
+          }
+        )
+        return {
+          family_name,
+          generas
+        }
+      })
+    }
+
+    // console.log('taxonomy', JSON.stringify(taxonomy))
+    return taxonomy
+  }
 }
 
 module.exports = SpeciesAPI

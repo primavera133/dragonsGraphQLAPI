@@ -1,6 +1,7 @@
 {
     "items_id": "e34846050fbd521d6c58ef7e0121da2b",
     "scientific_name": "Aeshna cyanea",
+    "author_citation": "(Müller, 1764)",
     "local_names": [
         "Southern hawker"
     ],
@@ -26,5 +27,30 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Müller, 1764)"
+    "images": {
+        "cloudName": "dragonflies",
+        "all": [
+            {
+                "publicId": "dragonflies/aeshna-cyanea-male-go%CC%88ran-liljeberg-cc-by_umwzr2.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "publicId": "dragonflies/aeshna-cyanea-female-go%CC%88ran-liljeberg-cc-by_k1t5sw.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "publicId": "dragonflies/aeshna-cyanea-male-side-go%CC%88ran-liljeberg-cc-by_dgzmdo.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
+    }
 }

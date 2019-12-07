@@ -26,5 +26,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Rambur, 1842)"
+    "author_citation": "(Rambur, 1842)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

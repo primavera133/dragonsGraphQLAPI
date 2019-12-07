@@ -23,5 +23,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"
     },
-    "author_citation": "Selis in Selys & Hagen, 1850"
+    "author_citation": "Selis in Selys & Hagen, 1850",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

@@ -21,5 +21,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "Dumont, 1977"
+    "author_citation": "Dumont, 1977",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

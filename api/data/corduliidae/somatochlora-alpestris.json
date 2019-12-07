@@ -26,5 +26,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"
     },
-    "author_citation": "(Selys, 1840)"
+    "author_citation": "(Selys, 1840)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

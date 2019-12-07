@@ -23,5 +23,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Increasing"
     },
-    "author_citation": "(Vander Linden, 1820)"
+    "author_citation": "(Vander Linden, 1820)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

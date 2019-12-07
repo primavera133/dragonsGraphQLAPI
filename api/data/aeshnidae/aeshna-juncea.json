@@ -1,6 +1,7 @@
 {
     "items_id": "b35200c974163e5014a8a6442d0df5e2",
     "scientific_name": "Aeshna juncea",
+    "author_citation": "(Linnaeus, 1758)",
     "local_names": [
         "Common hawker"
     ],
@@ -30,5 +31,23 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Linnaeus, 1758)"
+    "images": {
+        "cloudName": "dragonflies",
+        "all": [
+            {
+                "publicId": "dragonflies/aeshna-juncea-male-go%CC%88ran-liljeberg-cc-by_zwvgxr.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "publicId": "dragonflies/aeshna-juncea-male-side-go%CC%88ran-liljeberg-cc-by_fsrk6b.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
+    }
 }

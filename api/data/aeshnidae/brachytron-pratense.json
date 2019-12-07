@@ -1,6 +1,7 @@
 {
     "items_id": "66a47c8c1cb0bfd782b8865a36c5f70d",
     "scientific_name": "Brachytron pratense",
+    "author_citation": "(Müller, 1764)",
     "local_names": [
         "Hairy dragonfly"
     ],
@@ -25,5 +26,16 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Müller, 1764)"
+    "images": {
+        "cloudName": "dragonflies",
+        "all": [
+            {
+                "publicId": "dragonflies/brachytron-pratense-male-go%CC%88ran-liljeberg-cc-by_pj8nmi.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
+    }
 }

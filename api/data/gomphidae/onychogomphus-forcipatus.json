@@ -23,5 +23,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable to Decreasing depending on subspecie"
     },
-    "author_citation": "(Linnaeus, 1758)"
+    "author_citation": "(Linnaeus, 1758)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

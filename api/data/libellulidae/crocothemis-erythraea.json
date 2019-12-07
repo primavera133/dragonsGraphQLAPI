@@ -26,5 +26,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Increasing"
     },
-    "author_citation": "(Brullé, 1832)"
+    "author_citation": "(Brullé, 1832)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

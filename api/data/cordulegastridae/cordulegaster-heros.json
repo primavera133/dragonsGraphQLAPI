@@ -29,5 +29,9 @@
         "red_list_europe_endemic": "Endemic",
         "trend_europe": "Stable"
     },
-    "author_citation": "Theischinger, 1979"
+    "author_citation": "Theischinger, 1979",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

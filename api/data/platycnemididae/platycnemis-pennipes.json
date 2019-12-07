@@ -23,5 +23,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Pallas, 1771)"
+    "author_citation": "(Pallas, 1771)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

@@ -27,5 +27,9 @@
         "red_list_europe_endemic": "Endemic",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Charpentier, 1825)"
+    "author_citation": "(Charpentier, 1825)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

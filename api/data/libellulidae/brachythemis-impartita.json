@@ -21,5 +21,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Increasing"
     },
-    "author_citation": "(Karsch, 1890)"
+    "author_citation": "(Karsch, 1890)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

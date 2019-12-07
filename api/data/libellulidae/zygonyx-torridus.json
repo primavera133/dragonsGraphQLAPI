@@ -23,5 +23,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Decreasing"
     },
-    "author_citation": "(Kirby, 1889)"
+    "author_citation": "(Kirby, 1889)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

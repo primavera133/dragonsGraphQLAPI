@@ -1,6 +1,7 @@
 {
     "items_id": "9d6c6fbbc963d5ff8e691fdfb7552ef8",
     "scientific_name": "Aeshna serrata",
+    "author_citation": "Hagen, 1856",
     "local_names": [
         "Baltic hawker"
     ],
@@ -27,5 +28,23 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "Hagen, 1856"
+    "images": {
+        "cloudName": "dragonflies",
+        "all": [
+            {
+                "publicId": "dragonflies/aeshna-serrata-male-go%CC%88ran-liljeberg-cc-by_l4d5qa.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "publicId": "dragonflies/aeshna-serrata-male-side-go%CC%88ran-liljeberg-cc-by_ly2aj5.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
+    }
 }

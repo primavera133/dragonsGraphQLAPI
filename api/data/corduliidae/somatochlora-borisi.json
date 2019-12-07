@@ -26,5 +26,9 @@
         "red_list_europe_endemic": "Endemic",
         "trend_europe": "Decreasing"
     },
-    "author_citation": "Marinov, 2001"
+    "author_citation": "Marinov, 2001",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

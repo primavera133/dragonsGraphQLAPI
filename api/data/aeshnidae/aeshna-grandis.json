@@ -1,6 +1,7 @@
 {
     "items_id": "f0264cd93fc96310d176cbde4c32be52",
     "scientific_name": "Aeshna grandis",
+    "author_citation": "(Linnaeus, 1758)",
     "local_names": [
         "Brown hawker"
     ],
@@ -25,5 +26,23 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Linnaeus, 1758)"
+    "images": {
+        "cloudName": "dragonflies",
+        "all": [
+            {
+                "publicId": "dragonflies/aeshna-grandis-male-go%CC%88ran-liljeberg-cc-by_zhylc2.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "publicId": "dragonflies/aeshna-grandis-male-side-go%CC%88ran-liljeberg-cc-by_c5nsxs.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
+    }
 }

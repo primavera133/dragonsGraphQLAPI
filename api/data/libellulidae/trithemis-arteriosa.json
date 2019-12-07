@@ -23,5 +23,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"
     },
-    "author_citation": "(Burmeister, 1839)"
+    "author_citation": "(Burmeister, 1839)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

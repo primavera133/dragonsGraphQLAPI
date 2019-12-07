@@ -25,5 +25,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "Wallengren, 1894"
+    "author_citation": "Wallengren, 1894",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

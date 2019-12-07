@@ -39,6 +39,20 @@ const typeDefs = gql`
     habitat: String
     flight_period: String
     red_list: RedList
+    images: Images
+  }
+
+  type Images {
+    cloudName: String
+    all: [ImageData]
+  }
+
+  type ImageData {
+    publicId: String!
+    license: String!
+    lic_url: String!
+    by: String!
+    url: String
   }
 
   type Size {

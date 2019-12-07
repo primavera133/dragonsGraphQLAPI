@@ -25,5 +25,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"
     },
-    "author_citation": "Nielsen, 1935"
+    "author_citation": "Nielsen, 1935",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

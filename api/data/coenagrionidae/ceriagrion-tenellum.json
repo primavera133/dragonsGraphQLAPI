@@ -26,5 +26,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(De Villers, 1789)"
+    "author_citation": "(De Villers, 1789)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

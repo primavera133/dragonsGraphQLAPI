@@ -1,6 +1,7 @@
 {
     "items_id": "43cb4261fa3f4356274e44c863c27fe0",
     "scientific_name": "Aeshna viridis",
+    "author_citation": "Eversmann, 1836",
     "local_names": [
         "Green hawker"
     ],
@@ -27,5 +28,30 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Decreasing"
     },
-    "author_citation": "Eversmann, 1836"
+    "images": {
+        "cloudName": "dragonflies",
+        "all": [
+            {
+                "publicId": "dragonflies/aeshna-viridis-male-go%CC%88ran-liljeberg-cc-by_ie3etq.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "publicId": "dragonflies/aeshna-viridis-female-go%CC%88ran-liljeberg-cc-by_cft9ks.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "publicId": "dragonflies/aeshna-viridis-male-side-go%CC%88ran-liljeberg-cc-by_f44cpy.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
+    }
 }

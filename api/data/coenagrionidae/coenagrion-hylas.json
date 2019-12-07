@@ -25,5 +25,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Trybom, 1889)"
+    "author_citation": "(Trybom, 1889)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

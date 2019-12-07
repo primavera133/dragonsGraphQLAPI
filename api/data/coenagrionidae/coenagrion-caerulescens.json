@@ -26,5 +26,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Decreasing"
     },
-    "author_citation": "(Fonscolombe, 1838)"
+    "author_citation": "(Fonscolombe, 1838)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

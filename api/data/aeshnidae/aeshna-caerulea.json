@@ -28,5 +28,24 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Decreasing"
     },
-    "author_citation": "(Strøm, 1783)"
+    "author_citation": "(Strøm, 1783)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": [
+            {
+                "publicId": "dragonflies/aeshna-caerulea-male-go%CC%88ran-liljeberg-cc-by_mnq4ol.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "publicId": "dragonflies/aeshna-caerulea-male-side-go%CC%88ran-liljeberg-cc-by_oh2dd1.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https: //creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http: //liljebergs.nu/"
+            }
+        ]
+    }
 }

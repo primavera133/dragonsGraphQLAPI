@@ -25,5 +25,9 @@
         "red_list_europe_endemic": "Endemic",
         "trend_europe": "Decreasing"
     },
-    "author_citation": "Peters, 1991"
+    "author_citation": "Peters, 1991",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

@@ -26,5 +26,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Dale, 1834)"
+    "author_citation": "(Dale, 1834)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

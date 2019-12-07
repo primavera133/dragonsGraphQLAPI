@@ -23,5 +23,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Decreasing"
     },
-    "author_citation": "(Eversmann, 1836)"
+    "author_citation": "(Eversmann, 1836)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

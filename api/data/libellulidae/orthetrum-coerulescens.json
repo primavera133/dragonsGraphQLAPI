@@ -23,5 +23,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Fabricius, 1798)"
+    "author_citation": "(Fabricius, 1798)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

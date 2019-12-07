@@ -1,6 +1,7 @@
 {
     "items_id": "21fef92418e0e6dc9307ea6b6fbe0e9c",
     "scientific_name": "Aeshna mixta",
+    "author_citation": "(Latreille, 1805)",
     "local_names": [
         "Migrant hawker"
     ],
@@ -27,5 +28,23 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Increasing"
     },
-    "author_citation": "(Latreille, 1805)"
+    "images": {
+        "cloudName": "dragonflies",
+        "all": [
+            {
+                "publicId": "dragonflies/aeshna-mixta-male-go%CC%88ran-liljeberg-cc-by_dx1sq7.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "publicId": "dragonflies/aeshna-mixta-male-side-go%CC%88ran-liljeberg-cc-by_yfafxh.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
+    }
 }

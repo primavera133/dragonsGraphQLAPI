@@ -23,5 +23,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Mueller in Allioni, 1776)"
+    "author_citation": "(Mueller in Allioni, 1776)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

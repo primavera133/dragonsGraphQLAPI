@@ -27,5 +27,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "Hagen, 1856"
+    "author_citation": "Hagen, 1856",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

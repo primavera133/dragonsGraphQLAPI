@@ -26,5 +26,9 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Increasing"
     },
-    "author_citation": "(Beauvois, 1807)"
+    "author_citation": "(Beauvois, 1807)",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

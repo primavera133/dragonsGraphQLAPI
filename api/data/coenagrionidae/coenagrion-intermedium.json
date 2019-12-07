@@ -25,5 +25,9 @@
         "red_list_europe_endemic": "Endemic",
         "trend_europe": "Unknown"
     },
-    "author_citation": "Lohmann, 1990"
+    "author_citation": "Lohmann, 1990",
+    "images": {
+        "cloudName": "dragonflies",
+        "all": []
+    }
 }

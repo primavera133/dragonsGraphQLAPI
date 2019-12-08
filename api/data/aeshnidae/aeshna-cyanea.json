@@ -28,24 +28,24 @@
         "trend_europe": "Stable"
     },
     "images": {
-        "cloudName": "dragonflies",
+        "cloud_name": "dragonflies",
         "all": [
             {
-                "publicId": "dragonflies/aeshna-cyanea-male-go%CC%88ran-liljeberg-cc-by_umwzr2.jpg",
+                "public_id": "dragonflies/aeshna-cyanea-male-go%CC%88ran-liljeberg-cc-by_umwzr2.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/aeshna-cyanea-female-go%CC%88ran-liljeberg-cc-by_k1t5sw.jpg",
+                "public_id": "dragonflies/aeshna-cyanea-female-go%CC%88ran-liljeberg-cc-by_k1t5sw.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/aeshna-cyanea-male-side-go%CC%88ran-liljeberg-cc-by_dgzmdo.jpg",
+                "public_id": "dragonflies/aeshna-cyanea-male-side-go%CC%88ran-liljeberg-cc-by_dgzmdo.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

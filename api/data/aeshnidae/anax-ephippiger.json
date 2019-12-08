@@ -27,17 +27,17 @@
         "trend_europe": "Increasing"
     },
     "images": {
-        "cloudName": "dragonflies",
+        "cloud_name": "dragonflies",
         "all": [
             {
-                "publicId": "dragonflies/anax-ephippiger-male-go%CC%88ran-liljeberg-cc-by_jl6xfa.jpg",
+                "public_id": "dragonflies/anax-ephippiger-male-go%CC%88ran-liljeberg-cc-by_jl6xfa.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/anax-ephippiger-male-side-go%CC%88ran-liljeberg-cc-by_wokqbr.jpg",
+                "public_id": "dragonflies/anax-ephippiger-male-side-go%CC%88ran-liljeberg-cc-by_wokqbr.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

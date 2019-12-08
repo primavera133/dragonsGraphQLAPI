@@ -27,10 +27,10 @@
         "trend_europe": "Stable"
     },
     "images": {
-        "cloudName": "dragonflies",
+        "cloud_name": "dragonflies",
         "all": [
             {
-                "publicId": "dragonflies/brachytron-pratense-male-go%CC%88ran-liljeberg-cc-by_pj8nmi.jpg",
+                "public_id": "dragonflies/brachytron-pratense-male-go%CC%88ran-liljeberg-cc-by_pj8nmi.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

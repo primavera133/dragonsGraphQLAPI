@@ -29,24 +29,24 @@
         "trend_europe": "Decreasing"
     },
     "images": {
-        "cloudName": "dragonflies",
+        "cloud_name": "dragonflies",
         "all": [
             {
-                "publicId": "dragonflies/aeshna-viridis-male-go%CC%88ran-liljeberg-cc-by_ie3etq.jpg",
+                "public_id": "dragonflies/aeshna-viridis-male-go%CC%88ran-liljeberg-cc-by_ie3etq.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/aeshna-viridis-female-go%CC%88ran-liljeberg-cc-by_cft9ks.jpg",
+                "public_id": "dragonflies/aeshna-viridis-female-go%CC%88ran-liljeberg-cc-by_cft9ks.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/aeshna-viridis-male-side-go%CC%88ran-liljeberg-cc-by_f44cpy.jpg",
+                "public_id": "dragonflies/aeshna-viridis-male-side-go%CC%88ran-liljeberg-cc-by_f44cpy.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

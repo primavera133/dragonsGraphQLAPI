@@ -27,17 +27,17 @@
         "trend_europe": "Stable"
     },
     "images": {
-        "cloudName": "dragonflies",
+        "cloud_name": "dragonflies",
         "all": [
             {
-                "publicId": "dragonflies/aeshna-grandis-male-go%CC%88ran-liljeberg-cc-by_zhylc2.jpg",
+                "public_id": "dragonflies/aeshna-grandis-male-go%CC%88ran-liljeberg-cc-by_zhylc2.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/aeshna-grandis-male-side-go%CC%88ran-liljeberg-cc-by_c5nsxs.jpg",
+                "public_id": "dragonflies/aeshna-grandis-male-side-go%CC%88ran-liljeberg-cc-by_c5nsxs.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

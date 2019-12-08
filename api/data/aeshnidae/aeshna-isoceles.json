@@ -27,17 +27,17 @@
         "trend_europe": "Stable, increasing in the north"
     },
     "images": {
-        "cloudName": "dragonflies",
+        "cloud_name": "dragonflies",
         "all": [
             {
-                "publicId": "dragonflies/aeshna-isoceles-male-go%CC%88ran-liljeberg-cc-by-cc-by_r3t9wq.jpg",
+                "public_id": "dragonflies/aeshna-isoceles-male-go%CC%88ran-liljeberg-cc-by-cc-by_r3t9wq.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/aeshna-isoceles-male-side-go%CC%88ran-liljeberg-cc-by_vum1ba.jpg",
+                "public_id": "dragonflies/aeshna-isoceles-male-side-go%CC%88ran-liljeberg-cc-by_vum1ba.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

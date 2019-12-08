@@ -43,12 +43,12 @@ const typeDefs = gql`
   }
 
   type Images {
-    cloudName: String
+    cloud_name: String
     all: [ImageData]
   }
 
   type ImageData {
-    publicId: String!
+    public_id: String!
     license: String!
     lic_url: String!
     by: String!

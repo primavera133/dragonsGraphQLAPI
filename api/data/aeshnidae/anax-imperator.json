@@ -30,24 +30,24 @@
     },
     "author_citation": "Leach, 1815",
     "images": {
-        "cloudName": "dragonflies",
+        "cloud_name": "dragonflies",
         "all": [
             {
-                "publicId": "dragonflies/anax-imperator-male-go%CC%88ran-liljeberg-cc-by_vqa0pn.jpg",
+                "public_id": "dragonflies/anax-imperator-male-go%CC%88ran-liljeberg-cc-by_vqa0pn.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/anax-imperator-male-side-go%CC%88ran-liljeberg-cc-by_yqzbfv.jpg",
+                "public_id": "dragonflies/anax-imperator-male-side-go%CC%88ran-liljeberg-cc-by_yqzbfv.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/anax-imperator-teneral-female-ha%CC%8Akan-elmquist-cc-by-sa_lhobkv.jpg",
+                "public_id": "dragonflies/anax-imperator-teneral-female-ha%CC%8Akan-elmquist-cc-by-sa_lhobkv.jpg",
                 "license": "CC BY-SA 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
                 "by": "Håkan Elmquist",

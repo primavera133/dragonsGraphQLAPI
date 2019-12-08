@@ -29,17 +29,17 @@
         "trend_europe": "Stable"
     },
     "images": {
-        "cloudName": "dragonflies",
+        "cloud_name": "dragonflies",
         "all": [
             {
-                "publicId": "dragonflies/aeshna-serrata-male-go%CC%88ran-liljeberg-cc-by_l4d5qa.jpg",
+                "public_id": "dragonflies/aeshna-serrata-male-go%CC%88ran-liljeberg-cc-by_l4d5qa.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/aeshna-serrata-male-side-go%CC%88ran-liljeberg-cc-by_ly2aj5.jpg",
+                "public_id": "dragonflies/aeshna-serrata-male-side-go%CC%88ran-liljeberg-cc-by_ly2aj5.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

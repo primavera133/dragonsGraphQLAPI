@@ -31,9 +31,9 @@ const GET_ALL_SPECIES_QUERY = gql`
         trend_europe
       }
       images {
-        cloudName
+        cloud_name
         all {
-          publicId
+          public_id
           license
           lic_url
           by
@@ -95,12 +95,12 @@ describe('Server - e2e', () => {
       'trend_europe'
     ])
     expect(Object.keys(res.data.species[0].images)).toEqual([
-      'cloudName',
+      'cloud_name',
       'all'
     ])
     if (res.data.species[0].images.all[0]) {
       expect(Object.keys(res.data.species[0].images.all[0])).toEqual([
-        'publicId',
+        'public_id',
         'license',
         'lic_url',
         'by',

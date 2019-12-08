@@ -29,17 +29,17 @@
         "trend_europe": "Increasing"
     },
     "images": {
-        "cloudName": "dragonflies",
+        "cloud_name": "dragonflies",
         "all": [
             {
-                "publicId": "dragonflies/aeshna-mixta-male-go%CC%88ran-liljeberg-cc-by_dx1sq7.jpg",
+                "public_id": "dragonflies/aeshna-mixta-male-go%CC%88ran-liljeberg-cc-by_dx1sq7.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "publicId": "dragonflies/aeshna-mixta-male-side-go%CC%88ran-liljeberg-cc-by_yfafxh.jpg",
+                "public_id": "dragonflies/aeshna-mixta-male-side-go%CC%88ran-liljeberg-cc-by_yfafxh.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

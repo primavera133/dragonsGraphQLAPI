@@ -1,6 +1,7 @@
 {
     "items_id": "9b7f6a14818f928c4d96a0fdcb939a52",
     "scientific_name": "Calopteryx virgo",
+    "author_citation": "Linné, 1758",
     "local_names": [
         "Beautiful demoiselle"
     ],
@@ -27,9 +28,23 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "Linné, 1758",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "public_id": "dragonflies/calopteryx-virgo-male-go%CC%88ran-liljeberg-cc-by_yoahaq.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "public_id": "dragonflies/calopteryx-virgo-female-go%CC%88ran-liljeberg-cc-by_au7tdn.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

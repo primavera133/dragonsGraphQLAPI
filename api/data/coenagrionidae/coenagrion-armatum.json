@@ -1,6 +1,7 @@
 {
     "items_id": "eadb0fa9464293ce086daf4659c39a49",
     "scientific_name": "Coenagrion armatum",
+    "author_citation": "(Charpentier, 1840)",
     "local_names": [
         "Dark bluet",
         "Norfolk damselfly"
@@ -27,9 +28,16 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Decreasing"
     },
-    "author_citation": "(Charpentier, 1840)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "public_id": "dragonflies/coenagrion-armatum-male-go%CC%88ran-liljeberg-cc-by_htlvrz.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

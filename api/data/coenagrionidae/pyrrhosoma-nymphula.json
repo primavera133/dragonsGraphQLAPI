@@ -1,20 +1,19 @@
 {
-    "items_id": "025396979034d78088dc576247842f9a",
-    "scientific_name": "Sympetrum sanguineum",
-    "author_citation": "(Müller, 1764)",
+    "items_id": "04a8b550c6086dedf6e667d060529148",
+    "scientific_name": "Pyrrhosoma nymphula",
     "local_names": [
-        "Ruddy darter"
+        "Large red damselfly"
     ],
     "description": "",
     "behaviour": "",
     "size": {
-        "length": "35-40 mm",
-        "wingspan": "45-62 mm"
+        "length": "33-36 mm",
+        "wingspan": "38-48 mm"
     },
     "similar_species": [],
     "distribution": "",
     "habitat": "",
-    "flight_period": "",
+    "flight_period": "April to August",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -24,12 +23,12 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
+    "author_citation": "(Sulzer, 1776)",
     "images": {
         "cloud_name": "dragonflies",
         "all": [
             {
-                "alt": "",
-                "public_id": "dragonflies/sympetrum-sanguineum-male-go%CC%88ran-liljeberg-cc-by_t0nbyt.jpg",
+                "public_id": "dragonflies/pyrrhosoma-nymphula-male-go%CC%88ran-liljeberg-cc-by_ng4bri.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

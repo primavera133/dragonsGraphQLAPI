@@ -1,6 +1,7 @@
 {
     "items_id": "01ef1f5767aa225df985e2661e6989d9",
     "scientific_name": "Calopteryx splendens",
+    "author_citation": "(Harris, 1780)",
     "local_names": [
         "Banded demoiselle"
     ],
@@ -27,9 +28,23 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Harris, 1780)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "public_id": "dragonflies/calopteryx-splendens-male-go%CC%88ran-liljeberg-cc-by_qhflj0.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "public_id": "dragonflies/calopteryx-splendens-female-go%CC%88ran-liljeberg-cc-by_qsl5as.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

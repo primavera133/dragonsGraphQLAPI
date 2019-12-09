@@ -1,19 +1,20 @@
 {
     "items_id": "a543021f01f2c2e0ec472aef783f1645",
     "scientific_name": "Leucorrhinia rubicunda",
+    "author_citation": "Brittinger, 1850",
     "local_names": [
         "Ruby whiteface"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "30-38 mm",
         "wingspan": "55-62 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -23,9 +24,23 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Decreasing"
     },
-    "author_citation": "Brittinger, 1850",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "public_id": "dragonflies/leucorrhinia-rubicunda-male-go%CC%88ran-liljeberg-cc-by_yllxly.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "public_id": "dragonflies/leucorrhinia-rubicunda-female-go%CC%88ran-liljeberg-cc-by_uq4kg0.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

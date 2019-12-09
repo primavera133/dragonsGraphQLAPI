@@ -132,6 +132,16 @@ describe('Server - e2e: speciesFromGeneraName', () => {
     expects(res)
   })
 
+  it('gets species from genera name: Nehalennia', async () => {
+    const res = await toPromise(graphql(getQuery('Nehalennia')))
+    expects(res)
+  })
+
+  it('gets species from genera name: Pyrrhosoma', async () => {
+    const res = await toPromise(graphql(getQuery('Pyrrhosoma')))
+    expects(res)
+  })
+
   it('gets species from genera name: Cordulegaster', async () => {
     const res = await toPromise(graphql(getQuery('Cordulegaster')))
     expects(res)

@@ -1,19 +1,20 @@
 {
     "items_id": "0162e21210816c54d41f094c982504f1",
     "scientific_name": "Libellula fulva",
+    "author_citation": "(Müller, 1764)",
     "local_names": [
         "Scarce chaser"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "42-45 mm",
         "wingspan": "65-76 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -23,9 +24,25 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Müller, 1764)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "alt": "",
+                "public_id": "dragonflies/libellula-fulva-male-go%CC%88ran-liljeberg-cc-by_ljzfcy.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "alt": "",
+                "public_id": "dragonflies/libellula-fulva-female-go%CC%88ran-liljeberg-cc-by_hugveh.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

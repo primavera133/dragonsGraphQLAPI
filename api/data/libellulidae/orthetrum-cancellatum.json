@@ -1,19 +1,20 @@
 {
     "items_id": "fc85a796c16dc65c8ccad963f6fb3904",
     "scientific_name": "Orthetrum cancellatum",
+    "author_citation": "(Linnaeus, 1758)",
     "local_names": [
         "Black-tailed skimmer"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "45-50 mm",
         "wingspan": "70-80 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -23,9 +24,25 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Linnaeus, 1758)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "alt": "",
+                "public_id": "dragonflies/orthetrum-cancellatum-male-go%CC%88ran-liljeberg-cc-by_fsg3fs.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "alt": "",
+                "public_id": "dragonflies/orthetrum-cancellatum-female-go%CC%88ran-liljeberg-cc-by_ot19cc.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

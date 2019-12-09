@@ -1,19 +1,20 @@
 {
     "items_id": "24dc7b4413b2aaedb30e373e2e0488d6",
     "scientific_name": "Leucorrhinia caudalis",
+    "author_citation": "(Charpentier, 1840)",
     "local_names": [
         "Lilypad whiteface"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "33-37 mm",
         "wingspan": "60-64 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "IV",
         "red_list_EU27": "Near threatened",
@@ -23,9 +24,23 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Charpentier, 1840)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "public_id": "dragonflies/leucorrhinia-caudalis-male-go%CC%88ran-liljeberg-cc-by_ayngvm.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "public_id": "dragonflies/leucorrhinia-caudalis-female-go%CC%88ran-liljeberg-cc-by_owefzj.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

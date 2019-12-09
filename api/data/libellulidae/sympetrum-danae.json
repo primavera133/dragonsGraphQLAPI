@@ -1,19 +1,20 @@
 {
     "items_id": "275b149c9b8efdb2c3cbb6a9a5fa7b31",
     "scientific_name": "Sympetrum danae",
+    "author_citation": "(Sulzer, 1776)",
     "local_names": [
         "Black darter"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "35-40 mm",
         "wingspan": "50-60 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -23,9 +24,25 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Sulzer, 1776)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "alt": "",
+                "public_id": "dragonflies/sympetrum-danae-male-go%CC%88ran-liljeberg-cc-by_hydtzl.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "alt": "",
+                "public_id": "dragonflies/sympetrum-danae-female-go%CC%88ran-liljeberg-cc-by_qbntg0.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

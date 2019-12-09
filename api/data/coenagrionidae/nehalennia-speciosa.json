@@ -1,35 +1,36 @@
 {
-    "items_id": "025396979034d78088dc576247842f9a",
-    "scientific_name": "Sympetrum sanguineum",
-    "author_citation": "(Müller, 1764)",
+    "items_id": "04a8b550c6086dedf6e667d060529148",
+    "scientific_name": "Nehalennia speciosa",
     "local_names": [
-        "Ruddy darter"
+        "Pygmy damselfly",
+        "sedgeling",
+        "sedgling"
     ],
     "description": "",
     "behaviour": "",
     "size": {
-        "length": "35-40 mm",
-        "wingspan": "45-62 mm"
+        "length": "24-26 mm",
+        "wingspan": "22-32mm"
     },
     "similar_species": [],
     "distribution": "",
     "habitat": "",
-    "flight_period": "",
+    "flight_period": "May to August",
     "red_list": {
         "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
+        "red_list_EU27": "Vulnerable",
+        "red_list_europe": "Near Threatened",
+        "red_list_mediterranean": "Critically Endangered",
         "EU27_endemic": "No",
         "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
+        "trend_europe": "Decreasing"
     },
+    "author_citation": "(Charpentier, 1840)",
     "images": {
         "cloud_name": "dragonflies",
         "all": [
             {
-                "alt": "",
-                "public_id": "dragonflies/sympetrum-sanguineum-male-go%CC%88ran-liljeberg-cc-by_t0nbyt.jpg",
+                "public_id": "dragonflies/nehalenna-speciosa-male-go%CC%88ran-liljeberg-cc-by_cve50u.jpg",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

@@ -1,14 +1,12 @@
 {
     "items_id": "345ff1a7572a82e5ebbe942952a6fa12",
     "scientific_name": "Somatochlora arctica",
+    "author_citation": "(Zetterstedt, 1840)",
     "local_names": [
         "Northern emerald"
     ],
     "description": "Somatochlora arctica is a small dark emerald with a shiny black body and yellow spots on the first abdominal segments and bright-green eyes. More slender than S. alpestris, with which it often co-occurs. The male waist (S3) is narrower and it lacks the white conspicuous ring of S. alpestris. Instead the males have a thin yellow ring, often broken. It is most like S. flavimaculata in abdominal slenderness but lacks yellow spots along the sides of the abdomen. Females have two large yellow spots at the side of the base of the abdomen, like the females of S. metallica and S. flavimaculata, but unlike S. alpestris and A. Sahlbergi who does not sport these spots.\n\nEyes are bright-green and greatly contrasts the dark body. Female and immature male eyes can sometimes be brown. S. arctica as well as S. alpestris and A. sahlbergi has a grey spot on the side of the eye. Frons is black with small yellow spots on each side. Wings are hyalene but can have a slight yellow tint, especially close to the wing base. It has only one cubito-anal crossvein in the hind wing, where S. alpestris has two. The male upper terminal appendages are distinctive, in the shape of callipers, rather like an earwig. The females have a slightly protruding vulvar lamina. ",
-    "distribution": "Somatochlora arctica is mainly found in Fennoskandia and in west to central European mountains and foothills. Contrary to S. alpestris it is not confined to high elevations in central Europe and occurs in the central and northern lowlands, and is found in both Scotland and Ireland. In the latter country, it is remarkably rare considering the amount of habitat available and its relatively wide distribution in Scotland. It is widespread in the Alps, the French massif Central and the Vosges mountains and foothills. Further south, it is rare and local in the eastern parts of the Pyrenees and in the mountains of Romania and Bulgaria. The low number of records from Belarus and the north of Ukraine is at least partly the result of low recording intensity in these areas. Somatochlora arctis is an elusive species, and adults are often seen in low numbers even at places where exuviae are numerous.",
-    "flight_period": "May to early September",
     "behaviour": "Somatochlora arctica is often found in sunlit edge-zones on open mires where birch and pine from the adjacent forest is sparser. Or on forest roads where they hunt low, in waist height or lower, wile flying back and forth along the roadsides. They can also hunt higher up in the air and you can se tens of individuals hunt together shortly after they left the water. Mating is done low and perching individuals like to sit low, often directly on the ground, in contrast to most other emerald dragonflies. Younger individuals stray into the surrounding forests before they mature and return to the waters. Sometimes indiciduals of S. arctica can be found very far from suitable breeding habitats.\n\nMales fly low and jerky over moss puddles and wet areas on mires where they can be seen fighting short territorial fights with other males. Out in the open areas it can be far between suitable small waters and the males fly back and forth between these. \n\nFemales oviposit in floating Sphagnums or natural watery depressions or such made from footprints beside footpaths. The larvae live in wet Sphagnum moss, often no deeper than 15-30 cm. Larva development normally takes at least 2 years. Exuviae is left directly on or close to wet Sphagnum moss.",
-    "habitat": "Somatochlora arctica favours Sphagnum peat bogs and transitional mires where the larvae are generally found in places with only very small amounts of open water, often around one square meter and sometimes just a few square decimeters. These situations can be found at small depressions and runnels in active peat bogs, abandoned peat diggings and small water holes in marshes, moorlands and tundra. Occasionally there is some barely visible flow of ground or surface water. It is one of the few species that can survive in peat bogs where the vegetation approaches the climax stage. Suitable breeding habitats are nearly always free of fish, often devoid of Amphibians and support a limited amount of other dragonfly species. The key for success for S. arctica seems to be that it is able to occur in marginal habitats and so avoid competition with other species. Adults typically rest in, or hunt near trees, and populations are often found near forests, although populations in largely open landscapes also commonly occur. This specie is found from sea level in the north of its range to 2 000 m in the extreme south of its range, where it is restricted to mountains.",
     "size": {
         "length": "45-50 mm",
         "wingspan": "56-70 mm"
@@ -18,6 +16,9 @@
         "Somatochlora sahlbergi",
         "Somatochlora sp."
     ],
+    "distribution": "Somatochlora arctica is mainly found in Fennoskandia and in west to central European mountains and foothills. Contrary to S. alpestris it is not confined to high elevations in central Europe and occurs in the central and northern lowlands, and is found in both Scotland and Ireland. In the latter country, it is remarkably rare considering the amount of habitat available and its relatively wide distribution in Scotland. It is widespread in the Alps, the French massif Central and the Vosges mountains and foothills. Further south, it is rare and local in the eastern parts of the Pyrenees and in the mountains of Romania and Bulgaria. The low number of records from Belarus and the north of Ukraine is at least partly the result of low recording intensity in these areas. Somatochlora arctis is an elusive species, and adults are often seen in low numbers even at places where exuviae are numerous.",
+    "habitat": "Somatochlora arctica favours Sphagnum peat bogs and transitional mires where the larvae are generally found in places with only very small amounts of open water, often around one square meter and sometimes just a few square decimeters. These situations can be found at small depressions and runnels in active peat bogs, abandoned peat diggings and small water holes in marshes, moorlands and tundra. Occasionally there is some barely visible flow of ground or surface water. It is one of the few species that can survive in peat bogs where the vegetation approaches the climax stage. Suitable breeding habitats are nearly always free of fish, often devoid of Amphibians and support a limited amount of other dragonfly species. The key for success for S. arctica seems to be that it is able to occur in marginal habitats and so avoid competition with other species. Adults typically rest in, or hunt near trees, and populations are often found near forests, although populations in largely open landscapes also commonly occur. This specie is found from sea level in the north of its range to 2 000 m in the extreme south of its range, where it is restricted to mountains.",
+    "flight_period": "May to early September",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -27,9 +28,17 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"
     },
-    "author_citation": "(Zetterstedt, 1840)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "alt": "",
+                "public_id": "dragonflies/somatochlora-arctica-male-go%CC%88ran-liljeberg-cc-by_ozbrxw.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

@@ -1,20 +1,21 @@
 {
     "items_id": "a530e7bcdc236d74223598e63f9e4c84",
     "scientific_name": "Libellula quadrimaculata",
+    "author_citation": "Linnaeus, 1758",
     "local_names": [
         "Four-spotted chaser",
         "Four-spotted skimmer"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "40-50 mm",
         "wingspan": "70-85 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -24,9 +25,17 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "Linnaeus, 1758",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "alt": "",
+                "public_id": "dragonflies/libellula-quadrimaculata-male-go%CC%88ran-liljeberg-cc-by_nedxsv.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

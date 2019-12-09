@@ -7,7 +7,7 @@ const CoenagrionGlaciale = require('./coenagrion-glaciale.json')
 const CoenagrionHastulatum = require('./coenagrion-hastulatum.json')
 const CoenagrionHylas = require('./coenagrion-hylas.json')
 const CoenagrionIntermedium = require('./coenagrion-intermedium.json')
-const CoenagrionJohanssonii = require('./coenagrion-johanssonii.json')
+const CoenagrionJohanssoni = require('./coenagrion-johanssoni.json')
 const CoenagrionLunulatum = require('./coenagrion-lunulatum.json')
 const CoenagrionMercuriale = require('./coenagrion-mercuriale.json')
 const CoenagrionOrnatum = require('./coenagrion-ornatum.json')
@@ -18,6 +18,9 @@ const EnallagmaCyathigerum = require('./enallagma-cyathigerum.json')
 const ErythrommaLindenii = require('./erythromma-lindenii.json')
 const ErythrommaNajas = require('./erythromma-najas.json')
 const ErythrommaViridulum = require('./erythromma-viridulum.json')
+const NehalenniaSpeciosa = require('./nehalennia-speciosa.json')
+const PyrrhosomaNymphula = require('./pyrrhosoma-nymphula.json')
+const PyrrhosomaElisabethae = require('./pyrrhosoma-elisabethae.json')
 
 module.exports = {
   ceriagrion: [CeriagrionGeorgifreyi, CeriagrionTenellum],
@@ -29,7 +32,7 @@ module.exports = {
     CoenagrionHastulatum,
     CoenagrionHylas,
     CoenagrionIntermedium,
-    CoenagrionJohanssonii,
+    CoenagrionJohanssoni,
     CoenagrionLunulatum,
     CoenagrionMercuriale,
     CoenagrionOrnatum,
@@ -38,5 +41,7 @@ module.exports = {
     CoenagrionScitulum
   ],
   enallagma: [EnallagmaCyathigerum],
-  erythromma: [ErythrommaLindenii, ErythrommaNajas, ErythrommaViridulum]
+  erythromma: [ErythrommaLindenii, ErythrommaNajas, ErythrommaViridulum],
+  nehalennia: [NehalenniaSpeciosa],
+  pyrrhosoma: [PyrrhosomaNymphula, PyrrhosomaElisabethae]
 }

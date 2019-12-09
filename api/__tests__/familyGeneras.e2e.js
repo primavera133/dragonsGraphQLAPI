@@ -53,9 +53,14 @@ describe('Server - e2e: familyGeneras', () => {
   it('gets genera names from family name: Coenagrionidae', async () => {
     const res = await toPromise(graphql(getQuery('Coenagrionidae')))
     expect(res.data.familyGeneras).toEqual(
-      ['ceriagrion', 'coenagrion', 'enallagma', 'erythromma'].map(
-        genera_name => ({ genera_name })
-      )
+      [
+        'ceriagrion',
+        'coenagrion',
+        'enallagma',
+        'erythromma',
+        'nehalennia',
+        'pyrrhosoma'
+      ].map(genera_name => ({ genera_name }))
     )
   })
 

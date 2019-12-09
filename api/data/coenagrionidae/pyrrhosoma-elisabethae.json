@@ -1,0 +1,31 @@
+{
+    "items_id": "04a8b550c6086dedf6e667d060529148",
+    "scientific_name": "Pyrrhosoma elisabethae",
+    "local_names": [
+        "Large red damselfly"
+    ],
+    "description": "",
+    "behaviour": "",
+    "size": {
+        "length": "36-38 mm",
+        "wingspan": "40-48 mm"
+    },
+    "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "From the end of April to mid June",
+    "red_list": {
+        "habitats_directive": "No",
+        "red_list_EU27": "Critically Endangered",
+        "red_list_europe": "Critically Endangered",
+        "red_list_mediterranean": "Endangered",
+        "EU27_endemic": "No",
+        "red_list_europe_endemic": "Endemic",
+        "trend_europe": "Decreasing"
+    },
+    "author_citation": "(Sulzer, 1776)",
+    "images": {
+        "cloud_name": "dragonflies",
+        "all": []
+    }
+}

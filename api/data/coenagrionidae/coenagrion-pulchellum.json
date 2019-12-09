@@ -1,6 +1,7 @@
 {
     "items_id": "63793274e52e88f91ada8b809ef9da1d",
     "scientific_name": "Coenagrion pulchellum",
+    "author_citation": "(Vander Linden, 1825)",
     "local_names": [
         "Variable damselfly"
     ],
@@ -25,9 +26,16 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Vander Linden, 1825)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "public_id": "dragonflies/coenagrion-pulchellum-male-go%CC%88ran-liljeberg-cc-by_jnylfy.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

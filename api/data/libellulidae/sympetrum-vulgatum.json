@@ -1,19 +1,20 @@
 {
     "items_id": "fb57474aaa24082d6bab1138c35d872f",
     "scientific_name": "Sympetrum vulgatum",
+    "author_citation": "(Linnaeus, 1758)",
     "local_names": [
         "Vagrant darter"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "35-40 mm",
         "wingspan": "48-58 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -23,9 +24,25 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Linnaeus, 1758)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "alt": "",
+                "public_id": "dragonflies/sympetrum-vulgatum-male-go%CC%88ran-liljeberg-cc-by_dbwb0x.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "alt": "",
+                "public_id": "dragonflies/sympetrum-vulgatum-female-go%CC%88ran-liljeberg-cc-by_vz9k7h.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

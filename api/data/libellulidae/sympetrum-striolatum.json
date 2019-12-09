@@ -1,19 +1,20 @@
 {
     "items_id": "be00bb3fd7e64501b749a190077e54b1",
     "scientific_name": "Sympetrum striolatum",
+    "author_citation": "(Charpentier, 1840)",
     "local_names": [
         "Common darter"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "35-45 mm",
         "wingspan": "50-60 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -23,9 +24,17 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Charpentier, 1840)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "alt": "",
+                "public_id": "dragonflies/sympetrum-striolatum-male-go%CC%88ran-liljeberg-cc-by_ratbzk.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

@@ -1,20 +1,21 @@
 {
     "items_id": "b710284392e6afab580cf72913d7ff7b",
     "scientific_name": "Libellula depressa",
+    "author_citation": "Linnaeus, 1758",
     "local_names": [
         "Broad bodied chaser",
         "Broad bodied darter"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "40-48 mm",
         "wingspan": "66-74 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -24,9 +25,23 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "Linnaeus, 1758",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "public_id": "dragonflies/libellula-depressa-male-go%CC%88ran-liljeberg-cc-by_ai9jcp.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "public_id": "dragonflies/libellula-depressa-female-go%CC%88ran-liljeberg-cc-by_nf4huq.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

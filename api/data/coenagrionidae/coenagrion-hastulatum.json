@@ -1,6 +1,7 @@
 {
     "items_id": "42596c578c5ccf580ea3672d50776fca",
     "scientific_name": "Coenagrion hastulatum",
+    "author_citation": "Charpentier, 1825",
     "local_names": [
         "Northern damselfly",
         "Spearhead bluet"
@@ -27,9 +28,16 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Unknown"
     },
-    "author_citation": "Charpentier, 1825",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "public_id": "dragonflies/coenagrion-hastulatum-male-go%CC%88ran-liljeberg-cc-by_ivlnpm.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

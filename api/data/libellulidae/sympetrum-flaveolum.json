@@ -1,19 +1,20 @@
 {
     "items_id": "e76ff4864f4979b0efa6fb39260b79fc",
     "scientific_name": "Sympetrum flaveolum",
+    "author_citation": "(Linnaeus, 1758)",
     "local_names": [
         "Yellow-winged darter"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "32-37 mm",
         "wingspan": "46-64 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -23,9 +24,25 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Linnaeus, 1758)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "alt": "",
+                "public_id": "dragonflies/sympetrum-flaveolum-male-go%CC%88ran-liljeberg-cc-by_anmtlg.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "alt": "",
+                "public_id": "dragonflies/sympetrum-flaveolum-female-go%CC%88ran-liljeberg-cc-by_i1qnjy.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

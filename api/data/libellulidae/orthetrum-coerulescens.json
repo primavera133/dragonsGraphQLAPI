@@ -1,19 +1,20 @@
 {
     "items_id": "8659c5a50e27caa4075176dd12f719a8",
     "scientific_name": "Orthetrum coerulescens",
+    "author_citation": "(Fabricius, 1798)",
     "local_names": [
         "Keeled skimmer"
     ],
     "description": "",
-    "distribution": "",
-    "flight_period": "",
     "behaviour": "",
-    "habitat": "",
     "size": {
         "length": "35-45 mm",
         "wingspan": "55-65 mm"
     },
     "similar_species": [],
+    "distribution": "",
+    "habitat": "",
+    "flight_period": "",
     "red_list": {
         "habitats_directive": "No",
         "red_list_EU27": "Least Concern",
@@ -23,9 +24,25 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Fabricius, 1798)",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "alt": "",
+                "public_id": "dragonflies/orthetrum-coerulescens-male-go%CC%88ran-liljeberg-cc-by_c1du4z.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            },
+            {
+                "alt": "",
+                "public_id": "dragonflies/orthetrum-coerulescens-female-go%CC%88ran-liljeberg-cc-by_fbf2sg.jpg",
+                "license": "CC BY 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+                "by": "Göran Liljeberg",
+                "url": "http://liljebergs.nu/"
+            }
+        ]
     }
 }

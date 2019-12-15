@@ -30,6 +30,21 @@
     "author_citation": "Vander Linden, 1820",
     "images": {
         "cloud_name": "dragonflies",
-        "all": []
+        "all": [
+            {
+                "public_id": "dragonflies/Aeshna_affinis_qurrkd.jpg",
+                "license": "CC BY-SA 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "by": "JvdSchans",
+                "url": "https://nl.wikipedia.org/wiki/Bestand:Zuidelijke_glazenmaker_-_Aeshna_affinis.jpg"
+            },
+            {
+                "public_id": "dragonflies/Aeshna-affinis-male_tief8c.jpg",
+                "license": "CC BY-SA 3.0",
+                "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "by": "JvdSchans",
+                "url": "https://commons.wikimedia.org/wiki/File:Aeshna-affinis-male-top-www.jpg"
+            }
+        ]
     }
 }

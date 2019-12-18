@@ -33,6 +33,7 @@
         "all": [
             {
                 "public_id": "dragonflies/aeshna-mixta-male-go%CC%88ran-liljeberg-cc-by_dx1sq7.jpg",
+                "caption": "Aeshna mixta, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -40,6 +41,7 @@
             },
             {
                 "public_id": "dragonflies/aeshna-mixta-male-side-go%CC%88ran-liljeberg-cc-by_yfafxh.jpg",
+                "caption": "Aeshna mixta, male side view",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

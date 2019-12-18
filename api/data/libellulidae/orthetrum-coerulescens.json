@@ -28,16 +28,16 @@
         "cloud_name": "dragonflies",
         "all": [
             {
-                "alt": "",
                 "public_id": "dragonflies/orthetrum-coerulescens-male-go%CC%88ran-liljeberg-cc-by_c1du4z.jpg",
+                "caption": "Orthetrum coerulescens, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "alt": "",
                 "public_id": "dragonflies/orthetrum-coerulescens-female-go%CC%88ran-liljeberg-cc-by_fbf2sg.jpg",
+                "caption": "Orthetrum coerulescens, female",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

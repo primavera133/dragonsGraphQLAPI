@@ -33,6 +33,7 @@
         "all": [
             {
                 "public_id": "dragonflies/aeshna-serrata-male-go%CC%88ran-liljeberg-cc-by_l4d5qa.jpg",
+                "caption": "Aeshna serrata, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -40,6 +41,7 @@
             },
             {
                 "public_id": "dragonflies/aeshna-serrata-male-side-go%CC%88ran-liljeberg-cc-by_ly2aj5.jpg",
+                "caption": "Aeshna serrata, male side view",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

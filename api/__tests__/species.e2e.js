@@ -34,6 +34,7 @@ const GET_ALL_SPECIES_QUERY = gql`
         cloud_name
         all {
           public_id
+          caption
           license
           lic_url
           by
@@ -101,6 +102,7 @@ describe('Server - e2e', () => {
     if (res.data.species[0].images.all[0]) {
       expect(Object.keys(res.data.species[0].images.all[0])).toEqual([
         'public_id',
+        'caption',
         'license',
         'lic_url',
         'by',

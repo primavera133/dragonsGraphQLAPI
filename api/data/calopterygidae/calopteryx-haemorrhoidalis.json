@@ -33,6 +33,7 @@
         "all": [
             {
                 "public_id": "dragonflies/Calopteryx_haemorrhoidalis_gailhampshire_egdasr.jpg",
+                "caption": "Calopteryx haemorrhoidalis, male and female locked in mating.",
                 "license": "CC BY 2.0",
                 "lic_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
                 "by": "gailhampshire",
@@ -40,17 +41,19 @@
             },
             {
                 "public_id": "dragonflies/Calopteryx_haemorrhoidalis__female_rskxbt.jpg",
+                "caption": "Calopteryx haemorrhoidalis, female",
                 "license": "CC BY-SA 3.0",
                 "lic_url": "https: //creativecommons.org/licenses/by-sa/3.0/",
                 "by": "Lucarelli",
-                "url": "https: //commons.wikimedia.org/wiki/File:Calopteryx_haemorrhoidalis,_female.JPG"
+                "url": "https://commons.wikimedia.org/wiki/File:Calopteryx_haemorrhoidalis,_female.JPG"
             },
             {
                 "public_id": "dragonflies/Calopteryx_haemorrhoidalis_occasi_male_immature_zypl1e.jpg",
+                "caption": "Calopteryx haemorrhoidalis, immature male",
                 "license": "CC BY-SA 4.0",
                 "lic-url": "https: //creativecommons.org/licenses/by-sa/4.0/deed.en",
                 "by": "Hectonichus",
-                "url": "https: //en.wikipedia.org/wiki/File:Calopterygidae_-_Calopteryx_haemorrhoidalis_occasi_(male_-_immature).jpg"
+                "url": "https://en.wikipedia.org/wiki/File:Calopterygidae_-_Calopteryx_haemorrhoidalis_occasi_(male_-_immature).jpg"
             }
         ]
     }

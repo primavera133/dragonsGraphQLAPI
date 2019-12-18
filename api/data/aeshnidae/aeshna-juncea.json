@@ -36,6 +36,7 @@
         "all": [
             {
                 "public_id": "dragonflies/aeshna-juncea-male-go%CC%88ran-liljeberg-cc-by_zwvgxr.jpg",
+                "caption": "Aeshna juncea, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -43,6 +44,7 @@
             },
             {
                 "public_id": "dragonflies/aeshna-juncea-male-side-go%CC%88ran-liljeberg-cc-by_fsrk6b.jpg",
+                "caption": "Aeshna juncea, male side view",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

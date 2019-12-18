@@ -33,6 +33,7 @@
         "all": [
             {
                 "public_id": "dragonflies/aeshna-viridis-male-go%CC%88ran-liljeberg-cc-by_ie3etq.jpg",
+                "caption": "Aeshna viridis, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -40,6 +41,7 @@
             },
             {
                 "public_id": "dragonflies/aeshna-viridis-female-go%CC%88ran-liljeberg-cc-by_cft9ks.jpg",
+                "caption": "Aeshna viridis, female",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -47,6 +49,7 @@
             },
             {
                 "public_id": "dragonflies/aeshna-viridis-male-side-go%CC%88ran-liljeberg-cc-by_f44cpy.jpg",
+                "caption": "Aeshna viridis, male side view",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

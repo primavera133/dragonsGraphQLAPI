@@ -33,6 +33,7 @@
         "all": [
             {
                 "public_id": "dragonflies/calopteryx-virgo-male-go%CC%88ran-liljeberg-cc-by_yoahaq.jpg",
+                "caption": "Calopteryx virgo, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -40,6 +41,7 @@
             },
             {
                 "public_id": "dragonflies/calopteryx-virgo-female-go%CC%88ran-liljeberg-cc-by_au7tdn.jpg",
+                "caption": "Calopteryx virgo, female",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

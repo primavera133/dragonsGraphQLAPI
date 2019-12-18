@@ -31,6 +31,7 @@
         "all": [
             {
                 "public_id": "dragonflies/aeshna-isoceles-male-go%CC%88ran-liljeberg-cc-by-cc-by_r3t9wq.jpg",
+                "caption": "Aeshna isoceles, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -38,6 +39,7 @@
             },
             {
                 "public_id": "dragonflies/aeshna-isoceles-male-side-go%CC%88ran-liljeberg-cc-by_vum1ba.jpg",
+                "caption": "Aeshna isoceles, male side view",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

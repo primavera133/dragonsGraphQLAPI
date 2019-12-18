@@ -29,6 +29,7 @@
         "all": [
             {
                 "public_id": "dragonflies/leucorrhinia-pectoralis-male-go%CC%88ran-liljeberg-cc-by_v72wew.jpg",
+                "caption": "Leucorrhinia pectoralis, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -36,6 +37,7 @@
             },
             {
                 "public_id": "dragonflies/leucorrhinia-pectoralis-female-go%CC%88ran-liljeberg-cc-by_njk3g3.jpg",
+                "caption": "Leucorrhinia pectoralis, female",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

@@ -29,6 +29,7 @@
         "all": [
             {
                 "public_id": "dragonflies/leucorrhinia-rubicunda-male-go%CC%88ran-liljeberg-cc-by_yllxly.jpg",
+                "caption": "Leucorrhinia rubicunda, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -36,6 +37,7 @@
             },
             {
                 "public_id": "dragonflies/leucorrhinia-rubicunda-female-go%CC%88ran-liljeberg-cc-by_uq4kg0.jpg",
+                "caption": "Leucorrhinia rubicunda, female",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

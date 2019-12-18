@@ -30,6 +30,7 @@
         "all": [
             {
                 "public_id": "dragonflies/libellula-depressa-male-go%CC%88ran-liljeberg-cc-by_ai9jcp.jpg",
+                "caption": "Libellula depressa, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -37,6 +38,7 @@
             },
             {
                 "public_id": "dragonflies/libellula-depressa-female-go%CC%88ran-liljeberg-cc-by_nf4huq.jpg",
+                "caption": "Libellula depressa, female",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

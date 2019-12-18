@@ -32,6 +32,7 @@
         "all": [
             {
                 "public_id": "dragonflies/epitheca-bimaculata-male-go%CC%88ran-liljeberg-cc-by_ix6ihy.jpg",
+                "caption": "",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -39,6 +40,7 @@
             },
             {
                 "public_id": "dragonflies/epitheca-bimaculata-female-go%CC%88ran-liljeberg-cc-by_wcr6a7.jpg",
+                "caption": "",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

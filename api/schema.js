@@ -49,6 +49,7 @@ const typeDefs = gql`
 
   type ImageData {
     public_id: String!
+    caption: String!
     license: String!
     lic_url: String!
     by: String!

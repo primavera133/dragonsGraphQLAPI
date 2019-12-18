@@ -31,6 +31,7 @@
         "all": [
             {
                 "public_id": "dragonflies/aeshna-grandis-male-go%CC%88ran-liljeberg-cc-by_zhylc2.jpg",
+                "caption": "Aeshna grandis, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -38,6 +39,7 @@
             },
             {
                 "public_id": "dragonflies/aeshna-grandis-male-side-go%CC%88ran-liljeberg-cc-by_c5nsxs.jpg",
+                "caption": "Aeshna grandis, male side view",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

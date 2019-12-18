@@ -33,6 +33,7 @@
         "all": [
             {
                 "public_id": "dragonflies/calopteryx-splendens-male-go%CC%88ran-liljeberg-cc-by_qhflj0.jpg",
+                "caption": "Calopteryx splendens, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -40,6 +41,7 @@
             },
             {
                 "public_id": "dragonflies/calopteryx-splendens-female-go%CC%88ran-liljeberg-cc-by_qsl5as.jpg",
+                "caption": "Calopteryx splendens, female",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

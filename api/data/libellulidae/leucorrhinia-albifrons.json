@@ -29,6 +29,7 @@
         "all": [
             {
                 "public_id": "dragonflies/leucorrhinia-albifrons-male-go%CC%88ran-liljeberg-cc-by_jc1man.jpg",
+                "caption": "Leucorrhinia albifrons, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -36,6 +37,7 @@
             },
             {
                 "public_id": "dragonflies/leucorrhinia-albifrons-female-go%CC%88ran-liljeberg-cc-by_cqwv35.jpg",
+                "caption": "Leucorrhinia albifrons, female",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

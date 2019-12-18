@@ -28,16 +28,16 @@
         "cloud_name": "dragonflies",
         "all": [
             {
-                "alt": "",
                 "public_id": "dragonflies/sympetrum-flaveolum-male-go%CC%88ran-liljeberg-cc-by_anmtlg.jpg",
+                "caption": "Sympetrum flaveolum, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "alt": "",
                 "public_id": "dragonflies/sympetrum-flaveolum-female-go%CC%88ran-liljeberg-cc-by_i1qnjy.jpg",
+                "caption": "Sympetrum flaveolum, female",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

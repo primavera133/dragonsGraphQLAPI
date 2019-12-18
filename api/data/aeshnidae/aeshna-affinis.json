@@ -33,6 +33,7 @@
         "all": [
             {
                 "public_id": "dragonflies/Aeshna_affinis_qurrkd.jpg",
+                "caption": "Aeshna affinis, flying male",
                 "license": "CC BY-SA 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
                 "by": "JvdSchans",
@@ -40,9 +41,10 @@
             },
             {
                 "public_id": "dragonflies/Aeshna-affinis-male_tief8c.jpg",
+                "caption": "Aeshna affinis, perching male ",
                 "license": "CC BY-SA 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-                "by": "JvdSchans",
+                "by": "Robert Geerts",
                 "url": "https://commons.wikimedia.org/wiki/File:Aeshna-affinis-male-top-www.jpg"
             }
         ]

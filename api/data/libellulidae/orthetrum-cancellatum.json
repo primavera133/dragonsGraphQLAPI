@@ -28,16 +28,16 @@
         "cloud_name": "dragonflies",
         "all": [
             {
-                "alt": "",
                 "public_id": "dragonflies/orthetrum-cancellatum-male-go%CC%88ran-liljeberg-cc-by_fsg3fs.jpg",
+                "caption": "Orthetrum cancellatum, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
                 "url": "http://liljebergs.nu/"
             },
             {
-                "alt": "",
                 "public_id": "dragonflies/orthetrum-cancellatum-female-go%CC%88ran-liljeberg-cc-by_ot19cc.jpg",
+                "caption": "Orthetrum cancellatum, female",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",

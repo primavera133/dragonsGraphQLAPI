@@ -34,6 +34,7 @@
         "all": [
             {
                 "public_id": "dragonflies/anax-imperator-male-go%CC%88ran-liljeberg-cc-by_vqa0pn.jpg",
+                "caption": "Anax imperator, male",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -41,6 +42,7 @@
             },
             {
                 "public_id": "dragonflies/anax-imperator-male-side-go%CC%88ran-liljeberg-cc-by_yqzbfv.jpg",
+                "caption": "Anax imperator, male side view",
                 "license": "CC BY 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by/3.0/",
                 "by": "Göran Liljeberg",
@@ -48,6 +50,7 @@
             },
             {
                 "public_id": "dragonflies/anax-imperator-teneral-female-ha%CC%8Akan-elmquist-cc-by-sa_lhobkv.jpg",
+                "caption": "Anax imperator, female",
                 "license": "CC BY-SA 3.0",
                 "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
                 "by": "Håkan Elmquist",

@@ -1,17 +1,21 @@
 {
     "items_id": "04a8b550c6086dedf6e667d060529146",
     "scientific_name": "Pyrrhosoma nymphula",
+    "author_citation": "(Sulzer, 1776)",
     "local_names": [
         "Large red damselfly"
     ],
-    "description": "",
-    "behaviour": "",
+    "description": "A rather large and robust, all together distinctly red damselfly, Pyrrhosoma nymphula is one of the first signs of spring in many parts of Europe. It is directly recognisable, being the only pyrrhosoma in most parts of Europe, but it is very similar to P. Elisabethae, occuring in parts of the balkans and Greece, and cannot be separated from it in flight. \n\nBoth males and females are over all red with red eyes, abdomen and antehumeral lines.  Male is deep red with bronze black markings on S7-S9 and the upper side of thorax. On the side of thorax there are yellow and black bands and the legs are all black. Females vary more but is always distinct against other damselflies (except P. elisabethae). Females come in three main forms, with different amount of black on their abdomen. The most common is named *typica* and is much like the males, but has more dark and yellow parts on the abdominal segments. *fulvies* is intensely red with less black on the abdomen than *typica*. Third form *melanotum* is very dark and some has only red or yellow on the antehumeral stripes. This form can be very similar to Erythromma najas (but they have only red eyes, never any red on the thorax). females seem to be blacker in the south of Europe but this is probably regional.\n\nImmature and teneral individuals are often light brown and can be harder to distinguish from other species. However they quickly get their red colour on the body even if the eyes can sty brown for a while. The antehumeral stripes are yellow on immature individuals.",
+    "behaviour": "This is one of the earliest damselflies to emerge in the spring. Males fly in greater numbers and emerge somewhat earlier than females. He is aggressive and go for any other damselfly and often tries to chase any other male away. Females and younger males can often be found a bit away from water. They can be found in lesser amounts amongst gatherings of other damselflies in glades, along vegetation edge zones, in open areas among higher vegetation and even in forests if the sun can get down and light up smaller areas. \n\nIt is not shy and can often perch upon observing humans if they only keep somewhat calm. \n\nLarvae live in rather thick loose bottom vegetational debris. Larvae development is two years. Exuviae can be found in or near water on straws or directly on low vegetation.",
     "size": {
         "length": "33-36 mm",
         "wingspan": "38-48 mm"
     },
-    "similar_species": [],
-    "distribution": "",
+    "similar_species": [
+        "Pyrrhosoma elisabethae",
+        "Erythromma najas"
+    ],
+    "distribution": "Pyrrhosoma nymphula is almost completely confined to Europe with only a small number of sites in the Moroccan mountains, Tunisia and sout-west Asia. In Europe it is one of the most widespread and common damselflies. In Fennoscandia it just reaches the Arctic Circle. The species is absent from most of the Mediterranean islands although populations are known from the mountains of northern Sicily. It is patchy in the Balkan Peninsula and seem to be absent from large parts of European Russia and Ukraine and does not reach the Ural Mountains.",
     "habitat": "",
     "flight_period": "April to August",
     "red_list": {
@@ -23,7 +27,6 @@
         "red_list_europe_endemic": "No",
         "trend_europe": "Stable"
     },
-    "author_citation": "(Sulzer, 1776)",
     "images": {
         "cloud_name": "dragonflies",
         "all": [

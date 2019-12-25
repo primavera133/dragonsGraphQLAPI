@@ -1,31 +1,23 @@
 {
-    "items_id": "00746adcdbef384490687faf548602bb",
-    "scientific_name": "Epallage fatime",
-    "local_names": [
-        "Odalisque"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "40-50 mm",
-        "wingspan": "60-68 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Near threatened",
-        "red_list_europe": "Near threatened",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "(Charpentier, 1840)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "00746adcdbef384490687faf548602bb",
+  "scientific_name": "Epallage fatime",
+  "author_citation": "(Charpentier, 1840)",
+  "local_names": ["Odalisque"],
+  "description": "A large and robust damselfly, similar in size to *Calopteryx splendens*. It tends to keep its wings spread out when perched. These characteristics give it an 'Anisopteran' build and posture. Both sexes have short and stout legs, dark eyes, wings with very long pterostigma and black-tinted wing tips. The latter characteristics can be extremely variable within the same population., both for extension and intensity: in some individuals the wings are almost completely suffused with black. \n\nImmature males are black with light coloured bands at the sides of the thorax and abdomen. This pattern is unmistakably unique in european damselflies.  However, within days of emergence they become completely covered with a light-blue pruinosity. The pterostigma colour varies from whitish grey to dark blue. \n\nFemales have a whitish-yellow or light bluish body with black markings that get larger with age. The pterostigma is white-grey. The wings of females are often suffused with light yellow colour with amber coloured patches at the base of the wings.",
+  "behaviour": "Both sexes are most often seen perched on twigs or stones above or near the water, sometimes in high densities, showing little interaction. It is the only damselfly in Europe to regularly sit with wings spread and the abdomen held horizontally, or even raised. The short and fast flight also appears 'Anisopteran'. It oviposits in tandem, in organic material such as roots, or on twigs, and pine needles jammed between boulders or vegetation.",
+  "size": { "length": "40-50 mm", "wingspan": "60-68 mm" },
+  "similar_species": [],
+  "distribution": "*Epallage fatime* is largely confined to the hilly and mountainous areas of south-western Asia. The European range is limited to Cyprus, European Turkey, continental Greece, the Aegean islands, south-east Bulgaria and Macedonia. In addition it has been recorded in Dagestan in the European part of Caucasus region. Over most of its European range, *E. fatime* is uncommon although it has been found at almost two hundred streams and rivers. It has a scattered distribution in Turkey in Europe and in continental Greece, but is absent from Crete and from most of the smaller Greek islands, being only known from Lefkada, Evia, Limnos, Samothraki, Lesbos, Samos, Kos and Rhodes. In Bulgaria and Macedonia, the species is limited to areas adjacent to Turkey and Greece. In Macedonia it was for a long time known from only two old records but several small populations have been found since 2010. It has not been recorded from Albania but may occur in the south of the country. Suitable habitats seem to be present in areas further north in Macedonia and Bulgaria where *E. fatime* is currently absent, making it likely that the northern limit of its European range is largely determined by climate.",
+  "habitat": "*Epallage fatime* is largely limited to permanent running waters and only rarely occurs at streams that become intermittent during summer. The species is mostly found along streams, although it can also occur at rivers. It is generally found at swift flowing habitats in hilly areas and has a strong preference for clear streams with pebbles and rocks bordered with grasses, herbs and low bushes. It occurs only in small numbers on shady streams.\n\nThe larvae are rather sturdy and have short and flattened legs, which seem to be an adaptation for living in swift waters. They are usually found among gravel and under stones.",
+  "flight_period": "mid April to end of July, can fly a bit into August in Turkey.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Near threatened",
+    "red_list_europe": "Near threatened",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Decreasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

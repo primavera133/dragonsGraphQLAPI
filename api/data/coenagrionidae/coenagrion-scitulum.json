@@ -1,34 +1,29 @@
 {
-    "items_id": "be802f01dba8b235c7d37fc0888c3436",
-    "scientific_name": "Coenagrion scitulum",
-    "local_names": [
-        "Dainty bluet"
-    ],
-    "description": "One of the smaller Coenagrions. The males are light blue with black markings and bands on the abdomen. The pterostigma is shaped like a diamond (lozenge) and is brown-grey to yellowish in colour. S2 is characterised by a pattern like a Y with arms tending to open. The stem of the Y is always connected to the hind margin of the segment. It is very similar to C. caerulescens.\n\nThe females are blue-green with black markings. A correct identification of the females is difficult and can best be done by checking the shape of the pronotum.",
-    "behaviour": "",
-    "size": {
-        "length": "30-35 mm",
-        "wingspan": "28-40 mm"
-    },
-    "similar_species": [
-        "Coenagrion caerulescens",
-        "Coenagrion sp."
-    ],
-    "distribution": "Coenagrion scitulum is widespread in the southern half of Europe, being fairly common in mainland France, parts of the Iberian Peninsula and the largest western Mediterranean islands. It is scarce but increasing in Belgium, the Netherlands and parts of Germany. In Italy and on the Balkan Peninsula it is widespread but scarcer than in most of western Europe. The species is scattered and uncommon in the south of both Ukraine and European Russia.",
-    "habitat": "Coenagrion scitulum is found at sunny, standing, and, more rarely, slow-flowing habitats with generally shallow water rich in hudrophytes. The presence of extensive aquatic vegetation is important and the species is most common at habitats with mats of watermilfoil and hornworths. The bank-side vegetation seems to be of minor importance and often consists of grasses or is largely lacking. Suitable habitats include oxbox lakes, ditches, cattle ponds and quarries. In the south of its range, where larval development takes place within six months, the species is also found in temporary waters. It is most common in the lowlands but has been found up to 1 100 m in the south of its range.",
-    "flight_period": "April-May to August",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Rambur, 1842)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "be802f01dba8b235c7d37fc0888c3436",
+  "scientific_name": "Coenagrion scitulum",
+  "local_names": ["Dainty bluet"],
+  "description": "One of the smaller *Coenagrions*. The males are light blue with black markings and bands on the abdomen. The pterostigma is shaped like a diamond (lozenge) and is brown-grey to yellowish in colour. S2 is characterised by a pattern like a Y with arms tending to open. The stem of the Y is always connected to the hind margin of the segment. It is very similar to *C. caerulescens*.\n\nThe females are blue-green with black markings. A correct identification of the females is difficult and can best be done by checking the shape of the pronotum.",
+  "behaviour": "",
+  "size": {
+    "length": "30-35 mm",
+    "wingspan": "28-40 mm"
+  },
+  "similar_species": ["Coenagrion caerulescens", "Coenagrion sp."],
+  "distribution": "*Coenagrion scitulum* is widespread in the southern half of Europe, being fairly common in mainland France, parts of the Iberian Peninsula and the largest western Mediterranean islands. It is scarce but increasing in Belgium, the Netherlands and parts of Germany. In Italy and on the Balkan Peninsula it is widespread but scarcer than in most of western Europe. The species is scattered and uncommon in the south of both Ukraine and European Russia.",
+  "habitat": "*Coenagrion scitulum* is found at sunny, standing, and, more rarely, slow-flowing habitats with generally shallow water rich in hudrophytes. The presence of extensive aquatic vegetation is important and the species is most common at habitats with mats of watermilfoil and hornworths. The bank-side vegetation seems to be of minor importance and often consists of grasses or is largely lacking. Suitable habitats include oxbox lakes, ditches, cattle ponds and quarries. In the south of its range, where larval development takes place within six months, the species is also found in temporary waters. It is most common in the lowlands but has been found up to 1 100 m in the south of its range.",
+  "flight_period": "April-May to August",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "author_citation": "(Rambur, 1842)",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
 }

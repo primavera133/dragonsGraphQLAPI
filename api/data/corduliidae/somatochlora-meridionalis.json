@@ -1,33 +1,29 @@
 {
-    "items_id": "71fa0c48a4653fa89e20c2e07b1f2b50",
-    "scientific_name": "Somatochlora meridionalis",
-    "local_names": [
-        "Balkan emerald"
-    ],
-    "description": "Very similar to Somatochlora metallica, with the same metallic green shine, and which it replaces in south-eastern Europe. In practice it can be identified by the presence of one or rarely two yellow spots at the sides of the thorax. The pterostigma is usually darker than on other emeralds, black rather than brown (however black pterostigmas occur on some S. metallica). The yellow spots on S2 and S3 are larger, but this character is variable and should not be used without other characteristics in identifying. ",
-    "distribution": "Somatochlora meridionalis ranges from south-east France to western Turkey. The species is nearly endemic to Europe, with only a handfull of populations known from the western half of Turkey. High densities of populations are being found in Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, Bulgaria and the European part of Turkey. The species has a more scattered occurrence in Albania, Macedonia, Serbia, Romania and Greece (including Crete). Further north it is known from mostly isolated populations in Austria and the Czech Republic. The situation in Hungary is unclear as most national Somatochlora records are based on larvae that were not identified to species. Confirmed Somatochlora meridionalis adults have been found in western Hungary, but these records were either unpublished or published under S. metallica. A review of records of S. metallica and S. meridionalis in central Europe is essential to properly understand their respective distributions in this area. It is unclear how far east the species  can be found and future work might show the species to be present in Moldova and southwest Ukraine. In the western Mediterranean, disjunct populations of S. meridionalis are known from central Italy, Corsica and from an area running from north-west Italy to south-east France.",
-    "flight_period": "June to August",
-    "behaviour": "Males patrol long stretches of streams, following precisely its course at low height, often in deep shade, avoiding sunny spots and clearings. The fast flight is interspersed by hovering stops. May also be active in overcast weather.",
-    "habitat": "Somatochlora meridionalis is found at largely or completely shaded streams and small rivers, and is mainly confined to running waters, although there are reports of reproduction in standing waters in Italy. Most breeding habitats are small to large streams or small rivers with clear water and generally sparse vegetation. The species is also found at runnels and small irrigation canals in agricultural landscapes in northern Italy. It can be common in intermittently flowing streams that become fragmented into residual, largely disconnected pools during summer, where the larvae are able to survive the dry season. Adults are mostly seen along shaded stretches of watercourses and the presence of shade on most of the water surface is an important habitat characteristic. S. meridionalis is mainly a lowland species most common below 500 m. It can, however, occur at higher elevations and was, for example, found between 1 200 m and 1 600 m in the Rhodope Mountains in Bulgaria.",
-    "size": {
-        "length": "50-55 mm",
-        "wingspan": "68-76 mm"
-    },
-    "similar_species": [
-        "Somatochlora metallica"
-    ],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Unknown"
-    },
-    "author_citation": "Nielsen, 1935",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "71fa0c48a4653fa89e20c2e07b1f2b50",
+  "scientific_name": "Somatochlora meridionalis",
+  "local_names": ["Balkan emerald"],
+  "description": "Very similar to *Somatochlora metallica*, with the same metallic green shine, and which it replaces in south-eastern Europe. In practice it can be identified by the presence of one or rarely two yellow spots at the sides of the thorax. The pterostigma is usually darker than on other emeralds, black rather than brown (however black pterostigmas occur on some *S. metallica*). The yellow spots on S2 and S3 are larger, but this character is variable and should not be used without other characteristics in identifying. ",
+  "distribution": "*Somatochlora meridionalis* ranges from south-east France to western Turkey. The species is nearly endemic to Europe, with only a handfull of populations known from the western half of Turkey. High densities of populations are being found in Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, Bulgaria and the European part of Turkey. The species has a more scattered occurrence in Albania, Macedonia, Serbia, Romania and Greece (including Crete). Further north it is known from mostly isolated populations in Austria and the Czech Republic. The situation in Hungary is unclear as most national Somatochlora records are based on larvae that were not identified to species. Confirmed *Somatochlora meridionalis* adults have been found in western Hungary, but these records were either unpublished or published under *S. metallica*. A review of records of *S. metallica* and *S. meridionalis* in central Europe is essential to properly understand their respective distributions in this area. It is unclear how far east the species  can be found and future work might show the species to be present in Moldova and southwest Ukraine. In the western Mediterranean, disjunct populations of *S. meridionalis* are known from central Italy, Corsica and from an area running from north-west Italy to south-east France.",
+  "flight_period": "June to August",
+  "behaviour": "Males patrol long stretches of streams, following precisely its course at low height, often in deep shade, avoiding sunny spots and clearings. The fast flight is interspersed by hovering stops. May also be active in overcast weather.",
+  "habitat": "*Somatochlora meridionalis* is found at largely or completely shaded streams and small rivers, and is mainly confined to running waters, although there are reports of reproduction in standing waters in Italy. Most breeding habitats are small to large streams or small rivers with clear water and generally sparse vegetation. The species is also found at runnels and small irrigation canals in agricultural landscapes in northern Italy. It can be common in intermittently flowing streams that become fragmented into residual, largely disconnected pools during summer, where the larvae are able to survive the dry season. Adults are mostly seen along shaded stretches of watercourses and the presence of shade on most of the water surface is an important habitat characteristic. *S. meridionalis* is mainly a lowland species most common below 500 m. It can, however, occur at higher elevations and was, for example, found between 1 200 m and 1 600 m in the Rhodope Mountains in Bulgaria.",
+  "size": {
+    "length": "50-55 mm",
+    "wingspan": "68-76 mm"
+  },
+  "similar_species": ["Somatochlora *metallica"],
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "author_citation": "Nielsen, 1935",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
 }

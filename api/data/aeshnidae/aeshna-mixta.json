@@ -1,52 +1,50 @@
 {
-    "items_id": "21fef92418e0e6dc9307ea6b6fbe0e9c",
-    "scientific_name": "Aeshna mixta",
-    "author_citation": "(Latreille, 1805)",
-    "local_names": [
-        "Migrant hawker"
-    ],
-    "description": "One of the smaller aeshnids, with a size like A. caerulea, B. pratense or A. affinis.\n\nMales are rather dark with a base colour of brown, darkening to black. Females start out in a more reddish brown. Males have blue spots, both sexes have yellow spots. Especially immature ones. Distinctive is the dorsal spot on S2, triangular shape, a.k.a the \"golf peg\". It is more visible on males but females have it too. Thorax have conspicuous yellow bands on the sides. Antehumeral stripes are narrow, short and yellow. Eye colour varies but are all black on the back side, no yellow spots there like on A. juncea. Upper appendages are long, at least as long as S9 + S10 together.",
-    "behaviour": "A fast and agile flyer, and very curious. Might well come around and check you out. Often seen in parks and gardens. Very high individual density can be found along coastlines, due to its migratory behaviours. Some years found in great abundance, populations having been added to by migrating individuals \nfrom across seas and land. Females oviposit on high grass near the water.",
-    "size": {
-        "length": "55-65 mm",
-        "wingspan": "70-85 mm"
-    },
-    "similar_species": [
-        "Aeshna affinis",
-        "Aeshna caerulea",
-        "Brachytron pratense"
-    ],
-    "distribution": "A. mixta has a wide spread range, extending from western Europe to Japan, but absent largely in Siberia. In Europe it is common in across the whole continent, apart from northern Fennoscandia, northern Russia, northern Ireland and Scotland. It is most abundant in southern and central Europe. A migratory species with a distribution range currently expanding northwards.",
-    "habitat": "Mainly reproducing in largely unshaded standing water, but also found in slow-flowing waters. It is found in a wide range of habitats, including brackish water, as long as the water is not too acidic. It is mainly found at large water bodies with abundant open riparian vegetation of reeds and bulrush. Large populations are found in both natural as artificial habitats.",
-    "flight_period": "One of the later aeshnids, mainly seen from August to September. \nBut it can emerge already in May in southern Europe and can be observed into December.",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/aeshna-mixta-male-go%CC%88ran-liljeberg-cc-by_dx1sq7.jpg",
-                "caption": "Aeshna mixta, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/aeshna-mixta-male-side-go%CC%88ran-liljeberg-cc-by_yfafxh.jpg",
-                "caption": "Aeshna mixta, male side view",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "21fef92418e0e6dc9307ea6b6fbe0e9c",
+  "scientific_name": "Aeshna mixta",
+  "author_citation": "(Latreille, 1805)",
+  "local_names": ["Migrant hawker"],
+  "description": "One of the smaller aeshnids, with a size like *A. caerulea*, B. pratense or *A. affinis*.\n\nMales are rather dark with a base colour of brown, darkening to black. Females start out in a more reddish brown. Males have blue spots, both sexes have yellow spots. Especially immature ones. Distinctive is the dorsal spot on S2, triangular shape, a.k.a the \"golf peg\". It is more visible on males but females have it too. Thorax have conspicuous yellow bands on the sides. Antehumeral stripes are narrow, short and yellow. Eye colour varies but are all black on the back side, no yellow spots there like on *A. juncea*. Upper appendages are long, at least as long as S9 + S10 together.",
+  "behaviour": "A fast and agile flyer, and very curious. Might well come around and check you out. Often seen in parks and gardens. Very high individual density can be found along coastlines, due to its migratory behaviours. Some years found in great abundance, populations having been added to by migrating individuals \nfrom across seas and land. Females oviposit on high grass near the water.",
+  "size": {
+    "length": "55-65 mm",
+    "wingspan": "70-85 mm"
+  },
+  "similar_species": [
+    "Aeshna affinis",
+    "Aeshna caerulea",
+    "Brachytron pratense"
+  ],
+  "distribution": "*A. mixta* has a wide spread range, extending from western Europe to Japan, but absent largely in Siberia. In Europe it is common in across the whole continent, apart from northern Fennoscandia, northern Russia, northern Ireland and Scotland. It is most abundant in southern and central Europe. A migratory species with a distribution range currently expanding northwards.",
+  "habitat": "Mainly reproducing in largely unshaded standing water, but also found in slow-flowing waters. It is found in a wide range of habitats, including brackish water, as long as the water is not too acidic. It is mainly found at large water bodies with abundant open riparian vegetation of reeds and bulrush. Large populations are found in both natural as artificial habitats.",
+  "flight_period": "One of the later hawkers, mainly seen from August to September. \nBut it can emerge already in May in southern Europe and can be observed into December.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/aeshna-mixta-male-go%CC%88ran-liljeberg-cc-by_dx1sq7.jpg",
+        "caption": "Aeshna mixta, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/aeshna-mixta-male-side-go%CC%88ran-liljeberg-cc-by_yfafxh.jpg",
+        "caption": "Aeshna mixta, male side view",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

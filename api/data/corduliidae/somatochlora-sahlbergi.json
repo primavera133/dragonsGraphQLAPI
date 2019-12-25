@@ -1,42 +1,38 @@
 {
-    "items_id": "a9098426e0c0190a40460e379ef9b9e3",
-    "scientific_name": "Somatochlora sahlbergi",
-    "author_citation": "Trybom, 1889",
-    "local_names": [
-        "Treeline emerald"
-    ],
-    "description": "Somatochlora sahlbergi is substantially identical to S. alpestris, which it co-occurs with. Small differences can be found in the appendages of the males, that are more angled. This characteristic can be hard to see without very good photos or having them in the hand. It is, together with s. alpestris, the only emerald to have no yellow markings except the two spots on each side of the frons. It appears as more robust than S. arctica and has not its narrow waist. It can be distingushed from many other Somatochloras (except S. alpestris) by its dark, almost black green colour and its white, not yellow, ring between S2 and S3. The white ring is often clearly visible from above. Females can have a second white, thinner and broken, ring on the segment after the first ring. It can appear as slightly more robust than S. alpestris, partly due to even darker color. Even the eyes on the males are often just as dark as the body and does not contrast. Older females can have red-brown eyes. Immature individuals have lighter eye colours.  Eyes have a grey patch on the side, as on S. alpestris and S. arctica, where the other Somatochloras have a yelow-green patch. Pterostigmas are light. Female pterostigma can be almost orange, and can be compared to S. alpestris and S. arcticas darker pterostigma. To be completely sure in identification one must control the male appendages or the female valvula. The male appendages are hairy and abruptly angled. The female valvula is deeply notched, rather than rounded or pointed.",
-    "behaviour": "Many have tried but few have seen this almost mythological dragonfly. It only occurs at the very north, often at remote inaccessible localities, where the weather is unpredictable. Somatochlora sahlbergi is rarely seen in greater numbers than a few at a time, more than ten at a time is exceptional. Flying period is short and varies greatly from season to season. Lately it has been established that it usually starts to fly the first or second week in July but it is all over after a few weeks only. At warm weather they are very active and shy. To be able to see the species one should look for it on warm, sunny, wind-setting afternoons. Males are then patrolling over open water, often far from the shore. Foraging is done in sheltered warmer openings in adjacent birch forests. At lower temperatures they are easier to come close but harder to find. They might not lift from perching positions even if disturbed. The species rest directly on the ground but for night it takes place at head-height in some birch adjacent to the water. \n\nFemales oviposit flying or sitting by the water, in shallow water or floating Sphagnum moss. Larvae are found on shallow depth and locally in very shallow running waters. Larvae development is probably between two or four years. Exuviae is left high on strands growing out in water or along shores.",
-    "size": {
-        "length": "48-50 mm",
-        "wingspan": "60-65 mm"
-    },
-    "similar_species": [
-        "Somatochlora alpestris"
-    ],
-    "distribution": "Somatochlora sahbergi is a Holarctic species of which most localities are found near or north of the Arctic Circle., with a few others occurring in areas of cold climate. The species is often referred to as the northernmost dragonfly in the world. Despite its large range, it is rather poorly known and less than eighty sites are currently documented worldwide. Most of these are found around the tree line in the transition area between taiga and tundra. In north America, it extends from Alaska to to north-west Canada. In Eurasia it is found in several apparently disjunct areas, one in the extreme north of Fennoscandia and Russia, another extending from the Altai across the south of Siberia with isolated records in Amurland and a relatively small area of occurrence in Kamtjatka. Siberia is however poorly explored and the presence of populations in the intervening areas, particularly at higher altitudes, cannot be ruled out. \n\nFewer then 30 localities ar known from Europe, all found in the region from the north of Fennoscandia to the north-east of European Russia. All European populations are found in areas with permafrost, near and north of the Arctic Circle, in either the tundra or the northern part of the taiga. To the east those localities are contiguous with those found in the north of central and western Siberia. Most populations of the species are either small, or fluctuate greatly in the number of adults present annually. In large parts of its range the habitats of S. sahlbergi are difficult to access and, as adult activity is largely restricted to sunny periods, poor weather conditions often limit the chances of finding the species on the wing. Most of the regions where S. sahlbergi occurs are poorly surveyed and many populations probably remain to be discovered.",
-    "habitat": "All European populations of S. sahlbergi are found north of 67 ° N in the transition zone between the taiga and the tundra and further north. These landscapes are either open or covered by open bush formations of stunted subarctic Mountain Birch. It is found at small lakes and pools.Water should be at least 50 cm deep. There should be shelter from wind nearby like groves of Mountain Birch, low hills or palsa and there should be floating Sphagnum moss. At its only locality in Sweden the water is connected to slowly trickling cold springs. The species seem to be confined to areas with long and cold winters and short summers in regions with a moderate amount of summer precipitation. These conditions allow the formation of palsa mires and bogs, ice lenses covered by peat hummocks giving rise to flooded bogs and peaty pools after melting. S. sahlbergi is in Europe largely restricted to such habitats, which ensure permanent cold water throughout the year, although it does not occur over the whole palsa area. In eastern Russia, the species also occur in areas without palsa mires, showing that it is not restricted to this kind of habitat. The overall picture is that S. sahlbergi si more a climatic specialist than a habitat specialist.",
-    "flight_period": "July to mid-August",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Data Deficient",
-        "red_list_europe": "Data Deficient",
-        "red_list_mediterranean": "Not present",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Unknown"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/somatochlora-sahlbergi-male-go%CC%88ran-liljeberg-cc-by_sykixp.jpg",
-                "caption": "Somatochlora flavomaculata, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "a9098426e0c0190a40460e379ef9b9e3",
+  "scientific_name": "Somatochlora sahlbergi",
+  "author_citation": "Trybom, 1889",
+  "local_names": ["Treeline emerald"],
+  "description": "*Somatochlora sahlbergi* is substantially identical to *S. alpestris*, which it co-occurs with. Small differences can be found in the appendages of the males, that are more angled. This characteristic can be hard to see without very good photos or having them in the hand. It is, together with s. alpestris, the only emerald to have no yellow markings except the two spots on each side of the frons. It appears as more robust than *S. arctica* and has not its narrow waist. It can be distingushed from many other Somatochloras (except *S. alpestris*) by its dark, almost black green colour and its white, not yellow, ring between S2 and S3. The white ring is often clearly visible from above. Females can have a second white, thinner and broken, ring on the segment after the first ring. It can appear as slightly more robust than *S. alpestris*, partly due to even darker color. Even the eyes on the males are often just as dark as the body and does not contrast. Older females can have red-brown eyes. Immature individuals have lighter eye colours.  Eyes have a grey patch on the side, as on *S. alpestris* and *S. arctica*, where the other Somatochloras have a yelow-green patch. Pterostigmas are light. Female pterostigma can be almost orange, and can be compared to *S. alpestris* and *S. arcticas* darker pterostigma. To be completely sure in identification one must control the male appendages or the female valvula. The male appendages are hairy and abruptly angled. The female valvula is deeply notched, rather than rounded or pointed.",
+  "behaviour": "Many have tried but few have seen this almost mythological dragonfly. It only occurs at the very north, often at remote inaccessible localities, where the weather is unpredictable. *Somatochlora sahlbergi* is rarely seen in greater numbers than a few at a time, more than ten at a time is exceptional. Flying period is short and varies greatly from season to season. Lately it has been established that it usually starts to fly the first or second week in July but it is all over after a few weeks only. At warm weather they are very active and shy. To be able to see the species one should look for it on warm, sunny, wind-setting afternoons. Males are then patrolling over open water, often far from the shore. Foraging is done in sheltered warmer openings in adjacent birch forests. At lower temperatures they are easier to come close but harder to find. They might not lift from perching positions even if disturbed. The species rest directly on the ground but for night it takes place at head-height in some birch adjacent to the water. \n\nFemales oviposit flying or sitting by the water, in shallow water or floating Sphagnum moss. Larvae are found on shallow depth and locally in very shallow running waters. Larvae development is probably between two or four years. Exuviae is left high on strands growing out in water or along shores.",
+  "size": {
+    "length": "48-50 mm",
+    "wingspan": "60-65 mm"
+  },
+  "similar_species": ["Somatochlora alpestris"],
+  "distribution": "Somatochlora sahbergi is a Holarctic species of which most localities are found near or north of the Arctic Circle., with a few others occurring in areas of cold climate. The species is often referred to as the northernmost dragonfly in the world. Despite its large range, it is rather poorly known and less than eighty sites are currently documented worldwide. Most of these are found around the tree line in the transition area between taiga and tundra. In north America, it extends from Alaska to to north-west Canada. In Eurasia it is found in several apparently disjunct areas, one in the extreme north of Fennoscandia and Russia, another extending from the Altai across the south of Siberia with isolated records in Amurland and a relatively small area of occurrence in Kamtjatka. Siberia is however poorly explored and the presence of populations in the intervening areas, particularly at higher altitudes, cannot be ruled out. \n\nFewer then 30 localities ar known from Europe, all found in the region from the north of Fennoscandia to the north-east of European Russia. All European populations are found in areas with permafrost, near and north of the Arctic Circle, in either the tundra or the northern part of the taiga. To the east those localities are contiguous with those found in the north of central and western Siberia. Most populations of the species are either small, or fluctuate greatly in the number of adults present annually. In large parts of its range the habitats of *S. sahlbergi* are difficult to access and, as adult activity is largely restricted to sunny periods, poor weather conditions often limit the chances of finding the species on the wing. Most of the regions where *S. sahlbergi* occurs are poorly surveyed and many populations probably remain to be discovered.",
+  "habitat": "All European populations of *S. sahlbergi* are found north of 67 ° N in the transition zone between the taiga and the tundra and further north. These landscapes are either open or covered by open bush formations of stunted subarctic Mountain Birch. It is found at small lakes and pools.Water should be at least 50 cm deep. There should be shelter from wind nearby like groves of Mountain Birch, low hills or palsa and there should be floating Sphagnum moss. At its only locality in Sweden the water is connected to slowly trickling cold springs. The species seem to be confined to areas with long and cold winters and short summers in regions with a moderate amount of summer precipitation. These conditions allow the formation of palsa mires and bogs, ice lenses covered by peat hummocks giving rise to flooded bogs and peaty pools after melting. *S. sahlbergi* is in Europe largely restricted to such habitats, which ensure permanent cold water throughout the year, although it does not occur over the whole palsa area. In eastern Russia, the species also occur in areas without palsa mires, showing that it is not restricted to this kind of habitat. The overall picture is that *S. sahlbergi* si more a climatic specialist than a habitat specialist.",
+  "flight_period": "July to mid-August",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Data Deficient",
+    "red_list_europe": "Data Deficient",
+    "red_list_mediterranean": "Not present",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/somatochlora-sahlbergi-male-go%CC%88ran-liljeberg-cc-by_sykixp.jpg",
+        "caption": "Somatochlora flavomaculata, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

@@ -1,31 +1,29 @@
 {
-    "items_id": "5fbe0fb7ce14cfcd1567723689f72147",
-    "scientific_name": "Gomphus flavipes",
-    "local_names": [
-        "River clubtail"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "50-55 mm",
-        "wingspan": "60-70 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "II+IV",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Near threatened",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "author_citation": "Selys, 1840",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "5fbe0fb7ce14cfcd1567723689f72147",
+  "scientific_name": "Gomphus flavipes",
+  "local_names": ["River clubtail"],
+  "description": "",
+  "distribution": "",
+  "flight_period": "",
+  "behaviour": "",
+  "habitat": "",
+  "size": {
+    "length": "50-55 mm",
+    "wingspan": "60-70 mm"
+  },
+  "similar_species": [],
+  "red_list": {
+    "habitats_directive": "II+IV",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Near threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "author_citation": "Selys, 1840",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
 }

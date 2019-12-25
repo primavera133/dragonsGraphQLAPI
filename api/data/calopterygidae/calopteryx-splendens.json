@@ -1,52 +1,50 @@
 {
-    "items_id": "01ef1f5767aa225df985e2661e6989d9",
-    "scientific_name": "Calopteryx splendens",
-    "author_citation": "(Harris, 1780)",
-    "local_names": [
-        "Banded demoiselle"
-    ],
-    "description": "Slender and metallic coloured damselfly with a rather wobbly flight, much resembling a butterfly. Wings taper gradually towards the base. \n\nThe male is metallic blue in colour and has wings with a dark band (pale blue in tenerals) extending up to the node (note that C. haemmorhoidalis coloured portion extend well beyond the node). The apical part of the wing is hyaline and even in those subspecies with a larger blue portion, at least the two or three rows of cells furthest toward the tip are hyaline. The females are metallic green in colour, with pale green-brown wings and white pseudopterostigma (false wing spot). In males the pterostigma is absent. Female wings are notably less transparen than C. virgo and has no darker band like C. haemorrhoidalis. Both sexes have completely black legs, also the thibiae (unlike C. haemorrhoidalis).",
-    "behaviour": "Mostly found near running waters where it can be found in large numbers. Isolated adults can be found far from water, in clearings and woods.",
-    "size": {
-        "length": "45-48 mm",
-        "wingspan": "50-70 mm"
-    },
-    "similar_species": [
-        "Calopteryx haemorrhoidalis",
-        "Calopteryx virgo",
-        "Calopteryx xanthosthoma"
-    ],
-    "distribution": "Wide-spread in the Western Palearctic, from the Atlantic coast of Europe to central Siberia. In Europe it is common in most parts, however absent from Scotland and northern Fennoscandia and on the Iberian Peninsula, where it is replaced by C. xanthostoma.",
-    "habitat": "The species favours unshaded streams and rivers and is generally absent from torrents and shaded waters.\nThe highest densities occur when the watercourse is relatively natural, \nalthough the species can also be found on sections that are more man-made as long as \nsufficient bank side vegetation is present.\nMore rarely it is found in ditches and canals with some current as well as in \nseepage-fed backwaters of rivers.\nThe species is restricted to low and middle elevations below 1 200 m.\nSummer water temperature ideally ranges from 18 to 24 degree Celsius.",
-    "flight_period": "April to September",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Vulnerable",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/calopteryx-splendens-male-go%CC%88ran-liljeberg-cc-by_qhflj0.jpg",
-                "caption": "Calopteryx splendens, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/calopteryx-splendens-female-go%CC%88ran-liljeberg-cc-by_qsl5as.jpg",
-                "caption": "Calopteryx splendens, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "01ef1f5767aa225df985e2661e6989d9",
+  "scientific_name": "Calopteryx splendens",
+  "author_citation": "(Harris, 1780)",
+  "local_names": ["Banded demoiselle"],
+  "description": "Slender and metallic coloured damselfly with a rather wobbly flight, much resembling a butterfly. Wings taper gradually towards the base. \n\nThe male is metallic blue in colour and has wings with a dark band (pale blue in tenerals) extending up to the node (note that *C. haemorrhoidalis* coloured portion extend well beyond the node). The apical part of the wing is hyaline and even in those subspecies with a larger blue portion, at least the two or three rows of cells furthest toward the tip are hyaline. The females are metallic green in colour, with pale green-brown wings and white pseudopterostigma (false wing spot). In males the pterostigma is absent. Female wings are notably less transparen than *C. virgo* and has no darker band like *C. haemorrhoidalis*. Both sexes have completely black legs, also the thibiae (unlike *C. haemorrhoidalis*).",
+  "behaviour": "Mostly found near running waters where it can be found in large numbers. Isolated adults can be found far from water, in clearings and woods.",
+  "size": {
+    "length": "45-48 mm",
+    "wingspan": "50-70 mm"
+  },
+  "similar_species": [
+    "Calopteryx haemorrhoidalis",
+    "Calopteryx virgo",
+    "Calopteryx xanthosthoma"
+  ],
+  "distribution": "Wide-spread in the Western Palearctic, from the Atlantic coast of Europe to central Siberia. In Europe it is common in most parts, however absent from Scotland and northern Fennoscandia and on the Iberian Peninsula, where it is replaced by *C. xanthostoma*.",
+  "habitat": "The species favours unshaded streams and rivers and is generally absent from torrents and shaded waters.\nThe highest densities occur when the watercourse is relatively natural, \nalthough the species can also be found on sections that are more man-made as long as \nsufficient bank side vegetation is present.\nMore rarely it is found in ditches and canals with some current as well as in \nseepage-fed backwaters of rivers.\nThe species is restricted to low and middle elevations below 1 200 m.\nSummer water temperature ideally ranges from 18 to 24 degree Celsius.",
+  "flight_period": "April to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Vulnerable",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/calopteryx-splendens-male-go%CC%88ran-liljeberg-cc-by_qhflj0.jpg",
+        "caption": "Calopteryx splendens, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/calopteryx-splendens-female-go%CC%88ran-liljeberg-cc-by_qsl5as.jpg",
+        "caption": "Calopteryx splendens, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

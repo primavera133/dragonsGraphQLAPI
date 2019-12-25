@@ -1,33 +1,29 @@
 {
-    "items_id": "67a04c3216415e75949ee83a7fef69df",
-    "scientific_name": "Cordulegaster helladica",
-    "local_names": [
-        "Greek goldenring"
-    ],
-    "description": "Endemic to southern Greece, Cordulegaster halladica is black and yellow with green eyes like most other Cordulegaster. Very similar to C. insignis but with a different distribution range. Frons is yellow with a reduced or absent black band. The yellow markings on the abdomen are very large, median rings are dorsally connected on S2-S6(7) and it has apical spots on S2-S5. The anal loop of the hind wing is formed by 3 cells. The occipital triangle is usually black. In Greece and south-eastern Europe the identification of the various species of Cordulegaster can only be made with certainty by examining the male terminal appendages.",
-    "distribution": "Cordulegaster helladica is endemic to Greece. It has three subspecies, and the nominotypical subspecies is by far the most widespread, with its range including the Peloponnese, Euboea island and Attica in the south-east of mainland Greece. Cordulegaster h. buchholzi is restricted to the Cyclades Islands of Andros, Tinos and Naxos. Cordulegaster h. kastalia is known from the Kastalian spring, a karstic outflow at the Delphi archaeological site, and from another remote locality on the eastern coast of mainland Greece.",
-    "flight_period": "Mid May to mid-August",
-    "behaviour": "",
-    "habitat": "Cordulegaster helladica is known from hilly and mountainous forests or open woodlands with mediterranean scrub, and occurs up to 1 400 m. It inhabits the upper reaches of rocky and boulder streams. As usual in Mediterranean streams, these habitats often show strong fluctuations in flow rates.",
-    "size": {
-        "length": "males 68-78 mm, females 78-82 mm",
-        "wingspan": "males 82-92 mm, females 92-98 mm"
-    },
-    "similar_species": [
-        "Cordulegaster insignis"
-    ],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Endangered to Critically Endangered depending on subspecies",
-        "red_list_europe": "Endangered to Critically Endangered depending on subspecies",
-        "red_list_mediterranean": "Endangered",
-        "EU27_endemic": "Endemic",
-        "red_list_europe_endemic": "Endemic",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "(Lohmann, 1993)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "67a04c3216415e75949ee83a7fef69df",
+  "scientific_name": "Cordulegaster helladica",
+  "local_names": ["Greek goldenring"],
+  "description": "Endemic to southern Greece, *Cordulegaster helladica* is black and yellow with green eyes like most other Cordulegaster. Very similar to *C. insignis* but with a different distribution range. Frons is yellow with a reduced or absent black band. The yellow markings on the abdomen are very large, median rings are dorsally connected on S2-S6(7) and it has apical spots on S2-S5. The anal loop of the hind wing is formed by 3 cells. The occipital triangle is usually black. In Greece and south-eastern Europe the identification of the various species of Cordulegaster can only be made with certainty by examining the male terminal appendages.",
+  "distribution": "*Cordulegaster helladica* is endemic to Greece. It has three subspecies, and the nominotypical subspecies is by far the most widespread, with its range including the Peloponnese, Euboea island and Attica in the south-east of mainland Greece. *Cordulegaster h. buchholzi* is restricted to the Cyclades Islands of Andros, Tinos and Naxos. *Cordulegaster h. kastalia* is known from the Kastalian spring, a karstic outflow at the Delphi archaeological site, and from another remote locality on the eastern coast of mainland Greece.",
+  "flight_period": "Mid May to mid-August",
+  "behaviour": "",
+  "habitat": "*Cordulegaster helladica* is known from hilly and mountainous forests or open woodlands with mediterranean scrub, and occurs up to 1 400 m. It inhabits the upper reaches of rocky and boulder streams. As usual in Mediterranean streams, these habitats often show strong fluctuations in flow rates.",
+  "size": {
+    "length": "males 68-78 mm, females 78-82 mm",
+    "wingspan": "males 82-92 mm, females 92-98 mm"
+  },
+  "similar_species": ["Cordulegaster insignis"],
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Endangered to Critically Endangered depending on subspecies",
+    "red_list_europe": "Endangered to Critically Endangered depending on subspecies",
+    "red_list_mediterranean": "Endangered",
+    "EU27_endemic": "Endemic",
+    "red_list_europe_endemic": "Endemic",
+    "trend_europe": "Decreasing"
+  },
+  "author_citation": "(Lohmann, 1993)",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
 }

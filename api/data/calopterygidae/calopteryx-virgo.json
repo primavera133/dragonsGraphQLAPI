@@ -1,52 +1,50 @@
 {
-    "items_id": "9b7f6a14818f928c4d96a0fdcb939a52",
-    "scientific_name": "Calopteryx virgo",
-    "author_citation": "Linné, 1758",
-    "local_names": [
-        "Beautiful demoiselle"
-    ],
-    "description": "Males are blue in colour with green metallic shine. The last two segments of the abdomen are ventrally light pink. Wings are wider, more rounded and almost completely coloured blue-purple than on the males from other speceis in the same genus.\n\nFemales are metallic green-brown with light brown wings, less transparent than on those of the females of the other species of Calopteryx. The females have a white pseudopterostigma, slightly closer to the apex than in C. splendens.",
-    "behaviour": "Males are territorial and often perches in tress or bushes with a good view over their part of the flowing waters. It repeatedly leaves the spot for hunting small insects, chasing away males or pursuing females, but often return to the same spot over and over. If a female enters the scene, the male courts her with a special swirling flight, much different from normal flight behaviour.\n\nYounger males and females can often be found a bit away from the waters. Also mature males can be found foraging far away from normal territories, even in darker shaded areas.",
-    "size": {
-        "length": "45-50 mm",
-        "wingspan": "48-72 mm"
-    },
-    "similar_species": [
-        "Calopteryx splendens",
-        "Calopteryx haemorrhoidalis",
-        "Calopteryx xanthosthoma"
-    ],
-    "distribution": "Widespread and common over most of Europe, however its eastern range limit is unclear. Calopteryx virgo underwent a decline in parts of central and western Europe in the second part of the 20th century, especially in the lowlands. A recovery was noted in recent decades, although not so marked as C. splendens.",
-    "habitat": "Calopteryx virgo reproduces in flowing waters, particularly in hilly and mountainous areas. It prefers small and medium-sized, partly shaded, streams and rivers. It is generally less common in lowlands, where the current is slower, and where there are often fewer well-shaded streams with high oxygen levels. The species is often rare in agricultural landscapes. It breeds up to elevations of 1 600 m.\n\nSummer water temperatures are optimally between 13 and 18 degrees Celsius. This gives that C. virgos has a higher tolerance for cooler water than C. splendens, but it also has a greater demand for higher oxygen levels.\n\nThe species is more susceptible to organic polution than C. splendens, often disappearing when streams become contaminated.",
-    "flight_period": "April to September",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/calopteryx-virgo-male-go%CC%88ran-liljeberg-cc-by_yoahaq.jpg",
-                "caption": "Calopteryx virgo, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/calopteryx-virgo-female-go%CC%88ran-liljeberg-cc-by_au7tdn.jpg",
-                "caption": "Calopteryx virgo, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "9b7f6a14818f928c4d96a0fdcb939a52",
+  "scientific_name": "Calopteryx virgo",
+  "author_citation": "Linné, 1758",
+  "local_names": ["Beautiful demoiselle"],
+  "description": "Males are blue in colour with green metallic shine. The last two segments of the abdomen are ventrally light pink. Wings are wider, more rounded and almost completely coloured blue-purple than on the males from other speceis in the same genus.\n\nFemales are metallic green-brown with light brown wings, less transparent than on those of the females of the other species of Calopteryx. The females have a white pseudopterostigma, slightly closer to the apex than in C. splendens.",
+  "behaviour": "Males are territorial and often perches in tress or bushes with a good view over their part of the flowing waters. It repeatedly leaves the spot for hunting small insects, chasing away males or pursuing females, but often return to the same spot over and over. If a female enters the scene, the male courts her with a special swirling flight, much different from normal flight behaviour.\n\nYounger males and females can often be found a bit away from the waters. Also mature males can be found foraging far away from normal territories, even in darker shaded areas.",
+  "size": {
+    "length": "45-50 mm",
+    "wingspan": "48-72 mm"
+  },
+  "similar_species": [
+    "Calopteryx splendens",
+    "Calopteryx haemorrhoidalis",
+    "Calopteryx xanthosthoma"
+  ],
+  "distribution": "Widespread and common over most of Europe, however its eastern range limit is unclear. Calopteryx virgo underwent a decline in parts of central and western Europe in the second part of the 20th century, especially in the lowlands. A recovery was noted in recent decades, although not so marked as *C. splendens*.",
+  "habitat": "Calopteryx virgo reproduces in flowing waters, particularly in hilly and mountainous areas. It prefers small and medium-sized, partly shaded, streams and rivers. It is generally less common in lowlands, where the current is slower, and where there are often fewer well-shaded streams with high oxygen levels. The species is often rare in agricultural landscapes. It breeds up to elevations of 1 600 m.\n\nSummer water temperatures are optimally between 13 and 18 degrees Celsius. This gives that *C. virgos* has a higher tolerance for cooler water than *C. splendens*, but it also has a greater demand for higher oxygen levels.\n\nThe species is more susceptible to organic polution than *C. splendens*, often disappearing when streams become contaminated.",
+  "flight_period": "April to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/calopteryx-virgo-male-go%CC%88ran-liljeberg-cc-by_yoahaq.jpg",
+        "caption": "Calopteryx virgo, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/calopteryx-virgo-female-go%CC%88ran-liljeberg-cc-by_au7tdn.jpg",
+        "caption": "Calopteryx virgo, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

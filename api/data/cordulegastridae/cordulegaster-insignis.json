@@ -1,33 +1,29 @@
 {
-    "items_id": "e5dae1ca53b9fa2fd42b6ebdcf542136",
-    "scientific_name": "Cordulegaster insignis",
-    "local_names": [
-        "Blue-eyed goldenring"
-    ],
-    "description": "The only Cordulegaster with bluish eyes. Similar to C. bidentata but with a yellow occipital triangle. The frons is entirely yellow or at most with a small black spot. It also has larger yellow markings on the abdomen and altogether it is lighter and paler in colour than C. bidentata. However, there are populations in Turkey and on the Greek island of Ikaria with green eyes or a black occipital triangle. The anal loop of the hid wing has 3 cells. In Greece and south-eastern Europe the identification of the various Cordulegaster species can only be made with certainty by examining the the male terminal appendages.",
-    "distribution": "Cordulegaster insignis extend from the Balkan Peninsula to Lebanon and Iran and is the most common species of Cordulegaster in Turkey. It does not cross the Caucasus to the north and is replaced by C. coronata in Central Asia. It has a small European distribution, being found in Bulgaria, southern Romania, Macedonia, Serbia and the European part of Turkey. In addition it occurs on a number of northern and eastern Aegean islands (Thasos, Samothraki, Göckceada, Lesbos, Hios, Samos, Ikaria). It is generally uncommon in the European part of its range.",
-    "flight_period": "End of May to mid-August",
-    "behaviour": "",
-    "habitat": "Cordulegaster insignis is found at small shaded streams and trickles with rocky pools and sandy beds, ditches along roads, spring areas and seepage waters. The larvae are not capable to cope with strong water currents and consequently are not found in the lower courses of rivers. When present near large rivers such as the Danube, it breeds only in seepage areas and springs near the riverbanks. As in several Cordulegaster species, the larvae seem to be able to resist short drought periods by burying themselves in moist sediment. The species occurs up to 2 100 m in south-west Asia but has not been found over 750 m in Europe.",
-    "size": {
-        "length": "males 70-78 mm, females 70-83 mm",
-        "wingspan": "males 80-92 mm, females 82-98 mm"
-    },
-    "similar_species": [
-        "Cordulegaster bidentata"
-    ],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Endangered",
-        "red_list_europe": "Endangered",
-        "red_list_mediterranean": "Near threatened",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Unknown"
-    },
-    "author_citation": "Schneider, 1845",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "e5dae1ca53b9fa2fd42b6ebdcf542136",
+  "scientific_name": "Cordulegaster insignis",
+  "local_names": ["Blue-eyed goldenring"],
+  "description": "The only *Cordulegaster* with bluish eyes. Similar to *C. bidentata* but with a yellow occipital triangle. The frons is entirely yellow or at most with a small black spot. It also has larger yellow markings on the abdomen and altogether it is lighter and paler in colour than *C. bidentata*. However, there are populations in Turkey and on the Greek island of Ikaria with green eyes or a black occipital triangle. The anal loop of the hid wing has 3 cells. In Greece and south-eastern Europe the identification of the various * species* can only be made with certainty by examining the the male terminal appendages.",
+  "distribution": "*Cordulegaster insignis* extend from the Balkan Peninsula to Lebanon and Iran and is the most common species of *Cordulegaster* in Turkey. It does not cross the Caucasus to the north and is replaced by *C. coronata* in Central Asia. It has a small European distribution, being found in Bulgaria, southern Romania, Macedonia, Serbia and the European part of Turkey. In addition it occurs on a number of northern and eastern Aegean islands (Thasos, Samothraki, Göckceada, Lesbos, Hios, Samos, Ikaria). It is generally uncommon in the European part of its range.",
+  "flight_period": "End of May to mid-August",
+  "behaviour": "",
+  "habitat": "*Cordulegaster insignis* is found at small shaded streams and trickles with rocky pools and sandy beds, ditches along roads, spring areas and seepage waters. The larvae are not capable to cope with strong water currents and consequently are not found in the lower courses of rivers. When present near large rivers such as the Danube, it breeds only in seepage areas and springs near the riverbanks. As in several *Cordulegaster* species, the larvae seem to be able to resist short drought periods by burying themselves in moist sediment. The species occurs up to 2 100 m in south-west Asia but has not been found over 750 m in Europe.",
+  "size": {
+    "length": "males 70-78 mm, females 70-83 mm",
+    "wingspan": "males 80-92 mm, females 82-98 mm"
+  },
+  "similar_species": ["Cordulegaster bidentata"],
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Endangered",
+    "red_list_europe": "Endangered",
+    "red_list_mediterranean": "Near threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "author_citation": "Schneider, 1845",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
 }

@@ -1,38 +1,36 @@
 {
-    "items_id": "c46eeed5e629fbcacd2556fd0e0d94f4",
-    "scientific_name": "Cordulegaster picta",
-    "local_names": [
-        "Turkish goldenring"
-    ],
-    "description": "Black and yellow with green eyes, this cordulegaster replaces C. heros in southeastern Balkans and Turkey. It is highly variable but it is possible to distinguish this species with certainty by observing the markings on the thorax and the terminal appendages. The thin yellow line between the two wide bands on the side of the thorax has a straight rear margin. This is bent in C. heros. The upper appendages are thinner and more divergent in comparison to those of C. heros. The occipital triangle is not completely black in C. picta, instead it has two small yellow spots. The anal loop in the hind wing is made up of 5 cells. In Greece and south-eastern Europe the identification of the various species of Cordulegaster can only be made with certainty by examining the male terminal appendages. It is very variable in colour pattern with regional differences.",
-    "distribution": "Cordulegaster picta ranges from south-east Europe to the east of Georgia and the western part of Azerbaijan, though the core range is relatively small, being largely limited to eastern Greece, southern and eastern Bulgaria and and the west and north-west of Turkey. It is reasonably common in west and northwest of Turkey. In Europe it is known from some Greek Aegean islands (Samos, Lesbos, Thasos), north-eastern Greece, European Turkey and southern and south-eastern Bulgaria. ",
-    "flight_period": "End of May to mid-August",
-    "behaviour": "",
-    "habitat": "The species breeds in running waters, ranging from tiny shaded trickles and streamlets to medium-sized semi-open rivers, in hilly or mountainous areas. It breeds from sea level up to 1 100 m in Europe but has been found up to 1 800 m in Turkey. At seepage areas and springs, as well as on the upper reaches of rivers, it sometimes co-occurs with C. insignis.",
-    "size": {
-        "length": "males 72-80 mm, females 80-90 mm",
-        "wingspan": "males 86-92 mm, females 96-106 mm"
-    },
-    "similar_species": [
-        "Cordulegaster bidentata",
-        "Cordulegaster boltonii",
-        "Cordulegaster trinacria",
-        "Cordulegaster helladica",
-        "Cordulegaster insignis",
-        "Cordulegaster heros"
-    ],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Vulnerable",
-        "red_list_europe": "Vulnerable",
-        "red_list_mediterranean": "Vulnerable",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "Selys, 1854",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "c46eeed5e629fbcacd2556fd0e0d94f4",
+  "scientific_name": "Cordulegaster picta",
+  "local_names": ["Turkish goldenring"],
+  "description": "Black and yellow with green eyes, this cordulegaster replaces *C. heros* in southeastern Balkans and Turkey. It is highly variable but it is possible to distinguish this species with certainty by observing the markings on the thorax and the terminal appendages. The thin yellow line between the two wide bands on the side of the thorax has a straight rear margin. This is bent in *C. heros*. The upper appendages are thinner and more divergent in comparison to those of *C. heros*. The occipital triangle is not completely black in *C. picta*, instead it has two small yellow spots. The anal loop in the hind wing is made up of 5 cells. In Greece and south-eastern Europe the identification of the various species of Cordulegaster can only be made with certainty by examining the male terminal appendages. It is very variable in colour pattern with regional differences.",
+  "distribution": "*Cordulegaster picta* ranges from south-east Europe to the east of Georgia and the western part of Azerbaijan, though the core range is relatively small, being largely limited to eastern Greece, southern and eastern Bulgaria and and the west and north-west of Turkey. It is reasonably common in west and northwest of Turkey. In Europe it is known from some Greek Aegean islands (Samos, Lesbos, Thasos), north-eastern Greece, European Turkey and southern and south-eastern Bulgaria. ",
+  "flight_period": "End of May to mid-August",
+  "behaviour": "",
+  "habitat": "The species breeds in running waters, ranging from tiny shaded trickles and streamlets to medium-sized semi-open rivers, in hilly or mountainous areas. It breeds from sea level up to 1 100 m in Europe but has been found up to 1 800 m in Turkey. At seepage areas and springs, as well as on the upper reaches of rivers, it sometimes co-occurs with C. insignis.",
+  "size": {
+    "length": "males 72-80 mm, females 80-90 mm",
+    "wingspan": "males 86-92 mm, females 96-106 mm"
+  },
+  "similar_species": [
+    "Cordulegaster bidentata",
+    "Cordulegaster boltonii",
+    "Cordulegaster trinacria",
+    "Cordulegaster helladica",
+    "Cordulegaster insignis",
+    "Cordulegaster heros"
+  ],
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Vulnerable",
+    "red_list_europe": "Vulnerable",
+    "red_list_mediterranean": "Vulnerable",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "author_citation": "Selys, 1854",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
 }

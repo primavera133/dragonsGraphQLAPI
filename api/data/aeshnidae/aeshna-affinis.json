@@ -1,52 +1,46 @@
 {
-    "items_id": "f2acd97bbac584258f1a680bf206653b",
-    "scientific_name": "Aeshna affinis",
-    "local_names": [
-        "Southern migrant hawker",
-        "Blue-eyed hawker"
-    ],
-    "description": "A small Aeshna, similar in size to A. Mixta, which it resembles in many ways.\n\nThe males have bright blue eyes and facial suture barely marked. The thorax is yellow-brown with blue hues in mature males, and has only fine black lines along the sutures on the sides. Antehumeral stripes are short and narrow, in contrast with other species of the family Aeshnidae like A. cyanea and A. viridis. The abdomen is characterised by large light-blue spots, brighter and more extensive than on A. mixta. The second abdominal segment, S2, is all blue except for a distinctive black mask-like pattern. The pterostigma is relatively long, longer than on A. mixta. The leading wing margin, the costa, has a light colour.\n\nFemales can be very similar to males. Generally a more lightly yellow jizz compared to other Aeshna females can be noted. Lighter and paler than A. mixta but can resemble Brachytron pratense in size and colour. Also, the rather uni-coloured sides of the abdomen of females make them similar to females of A. viridis. They can be distinguished from those of A. mixta by the relatively short abdominal appendages, shorter than S9-10 combined.",
-    "behaviour": "This species is a powerfull flyer and often migrates from the southernmost areas of Europe far up to the north in good years. The male usually incessantly patrols its territory, flying low at about chest height, often beating to and fro over a small area. It frequently perches and alights on tall grass and bushes. IT's not easily disturbed. It is the only species of Aeshna in which the male stays attached to the female after mating, laying eggs in tandem.",
-    "size": {
-        "length": "57-66 mm",
-        "wingspan": "74-84 mm"
-    },
-    "similar_species": [
-        "Aeshna mixta",
-        "Aeshna viridis (females)"
-    ],
-    "distribution": "A largely Western Palaearctic specie, confined to north-west Africa, Europe and south-western Asia. In Europe it is widespread in southern Europe and parts of central Europe, becoming scarcer to the north.It is relatively uncommon in many areas, including lerge parts of the Iberian peninsula, and to a lesser extent, Italy. It is common in much of south-east Europe and locally abundant i Ukraine.",
-    "habitat": "The species reproduces exclusively in standing waters, preferring shallow well-vegetated waters sheltered from the wind and exposed to the sun. Many habitats dry up partially or fully during the summer and have patches of mud often bordered by loose to dense vegetation of rushes, sedges, Black bogrush or low reeds. A wide selection of water types can support habitats for A. affinis, incuding marshes temporarily flooded depressions in agricultural landscapes, old oxbows, small (dune) lakes and ponds or shallow edges of larger lakes with helophytes belts. Despite of the broad array of habitats, suitable habitats are generally scarce. Many of the habitats where A. affinis occurs become unsuitable after several decades or even a few years due to natural succession of vegetation, for example, following inundation of floodplains. In other situations, management such as grazing or mowing is needed to maintain suitable habitat. In contrast with other species with a strong preference for warm climatic conditions, it is rarely found in quarries or gravel pits. In Italy it is also found in rice fields, but it has decreased in this habitat. \n\nAeshna Affinis is mainly found in lowlands and in central Europe it is seldom found above 700 m.",
-    "flight_period": "May to August",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "author_citation": "Vander Linden, 1820",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/Aeshna_affinis_qurrkd.jpg",
-                "caption": "Aeshna affinis, flying male",
-                "license": "CC BY-SA 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-                "by": "JvdSchans",
-                "url": "https://nl.wikipedia.org/wiki/Bestand:Zuidelijke_glazenmaker_-_Aeshna_affinis.jpg"
-            },
-            {
-                "public_id": "dragonflies/Aeshna-affinis-male_tief8c.jpg",
-                "caption": "Aeshna affinis, perching male ",
-                "license": "CC BY-SA 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-                "by": "Robert Geerts",
-                "url": "https://commons.wikimedia.org/wiki/File:Aeshna-affinis-male-top-www.jpg"
-            }
-        ]
-    }
+  "items_id": "f2acd97bbac584258f1a680bf206653b",
+  "scientific_name": "Aeshna affinis",
+  "local_names": ["Southern migrant hawker", "Blue-eyed hawker"],
+  "description": "A small hawker, similar in size to *A. Mixta*, which it resembles in many ways.\n\nThe males have bright blue eyes and facial suture barely marked. The thorax is yellow-brown with blue hues in mature males, and has only fine black lines along the sutures on the sides. Antehumeral stripes are short and narrow, in contrast with other species of the family Aeshnidae like *A. cyanea* and *A. viridis*. The abdomen is characterised by large light-blue spots, brighter and more extensive than on *A. mixta*. The second abdominal segment, S2, is all blue except for a distinctive black mask-like pattern. The pterostigma is relatively long, longer than on *A. mixta*. The leading wing margin, the costa, has a light colour.\n\nFemales can be very similar to males. Generally a more lightly yellow jizz compared to other Hawker females can be noted. Lighter and paler than *A. mixta* but can resemble *Brachytron pratense* in size and colour. Also, the rather uni-coloured sides of the abdomen of females make them similar to females of *A. viridis*. They can be distinguished from those of A. mixta by the relatively short abdominal appendages, shorter than S9-10 combined.",
+  "behaviour": "This species is a powerfull flyer and often migrates from the southernmost areas of Europe far up to the north in good years. The male usually incessantly patrols its territory, flying low at about chest height, often beating back and forth over a small area. It frequently perches and alights on tall grass and bushes. It's not easily disturbed. It is the only species of the hawkers in which the male stays attached to the female after mating, laying eggs in tandem.",
+  "size": {
+    "length": "57-66 mm",
+    "wingspan": "74-84 mm"
+  },
+  "similar_species": ["Aeshna mixta", "Aeshna viridis (females)"],
+  "distribution": "A largely Western Palaearctic specie, confined to north-west Africa, Europe and south-western Asia. In Europe it is widespread in southern Europe and parts of central Europe, becoming scarcer to the north. It is relatively uncommon in many areas, including lerge parts of the Iberian peninsula, and to a lesser extent, Italy. It is common in much of south-east Europe and locally abundant i Ukraine.",
+  "habitat": "The species reproduces exclusively in standing waters, preferring shallow well-vegetated waters sheltered from the wind and exposed to the sun. Many habitats dry up partially or fully during the summer and have patches of mud often bordered by loose to dense vegetation of rushes, sedges, Black bogrush or low reeds. A wide selection of water types can support habitats for *A. affinis*, incuding marshes temporarily flooded depressions in agricultural landscapes, old oxbows, small (dune) lakes and ponds or shallow edges of larger lakes with helophytes belts. Despite of the broad array of habitats, suitable habitats are generally scarce. Many of the habitats where *A. affinis* occurs become unsuitable after several decades or even a few years due to natural succession of vegetation, for example, following inundation of floodplains. In other situations, management such as grazing or mowing is needed to maintain suitable habitat. In contrast with other species with a strong preference for warm climatic conditions, it is rarely found in quarries or gravel pits. In Italy it is also found in rice fields, but it has decreased in this habitat. \n\n*Aeshna Affinis* is mainly found in lowlands and in central Europe it is seldom found above 700 m.",
+  "flight_period": "May to August",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "author_citation": "Vander Linden, 1820",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Aeshna_affinis_qurrkd.jpg",
+        "caption": "Aeshna affinis, flying male",
+        "license": "CC BY-SA 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "by": "JvdSchans",
+        "url": "https://nl.wikipedia.org/wiki/Bestand:Zuidelijke_glazenmaker_-_Aeshna_affinis.jpg"
+      },
+      {
+        "public_id": "dragonflies/Aeshna-affinis-male_tief8c.jpg",
+        "caption": "Aeshna affinis, perching male ",
+        "license": "CC BY-SA 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "by": "Robert Geerts",
+        "url": "https://commons.wikimedia.org/wiki/File:Aeshna-affinis-male-top-www.jpg"
+      }
+    ]
+  }
 }

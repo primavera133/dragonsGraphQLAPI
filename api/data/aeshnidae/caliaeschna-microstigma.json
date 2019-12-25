@@ -1,31 +1,29 @@
 {
-    "items_id": "7d04dfaeb7948cc2125a482eb9d12da7",
-    "scientific_name": "Caliaeschna microstigma",
-    "local_names": [
-        "Shady hawker"
-    ],
-    "description": "Apart from being the smallest of all the Aeshnidae, this species is characterised by a very short pterostigma that is much smaller than in the other members of this family. Also the antehumeral stripes on the males differ in having a boomerang shape to them. Males are brown black with light-blue markings. The dorsal light-blue markings on the abdomen are thin on S1-S7 and become larger and partly merged on S8-S10. The frons is whitish with a black line. The females are brown with yellow markings.",
-    "behaviour": "Together with the two Boyeria species it has twilight behaviours and is considered a dusk species. It tends to be more active and visible late in the afternoon. There are reports of this species flying late in the evening and attracted by artificial lights.",
-    "size": {
-        "length": "50-60 mm",
-        "wingspan": "70-82 mm"
-    },
-    "similar_species": [],
-    "distribution": "In Europe this species is restricted to Cyprus, the Aegean islands and the Balkan Peninsula. It is widespread in mainland Greece and found on most of its larger islands, although absent from Crete. The northern limit runs through Bulgaria to south-western Croatia.",
-    "habitat": "Caliaeschna microstigma occurs at swift stony streams and small rivers which are at least partly shaded and where pools of calm water provide refuges for the larvae. The species occurs mainly in hilly or mountainous regions but most European populations are found below 500 m. Larvae are mainly found in dens mats of mosses and aquatic plants but also between roots along the banks or in bundles of dead twigs and branches on the river bed.",
-    "flight_period": "April to August",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Near threatened",
-        "red_list_europe": "Near threatened",
-        "red_list_mediterranean": "Near threatened",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "(Schneider, 1845)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "7d04dfaeb7948cc2125a482eb9d12da7",
+  "scientific_name": "*Caliaeschna microstigma*",
+  "local_names": ["Shady hawker"],
+  "description": "Apart from being the smallest of all the hawkers, this species is characterised by a very short pterostigma that is much smaller than in the other members of this family. Also the antehumeral stripes on the males differ in having a boomerang shape to them. Males are brown black with light-blue markings. The light-blue markings on the upper side of the abdomen are thin on S1-S7 and become larger and partly merged on S8-S10. The frons is whitish with a black line. The females are brown with yellow markings.",
+  "behaviour": "Together with the two *Boyeria* species it has twilight behaviours and is considered a dusk species. It tends to be more active and visible late in the afternoon. There are reports of this species flying late in the evening and attracted by artificial lights.",
+  "size": {
+    "length": "50-60 mm",
+    "wingspan": "70-82 mm"
+  },
+  "similar_species": [],
+  "distribution": "In Europe this species is restricted to Cyprus, the Aegean islands and the Balkan Peninsula. It is widespread in mainland Greece and found on most of its larger islands, although absent from Crete. The northern limit runs through Bulgaria to south-western Croatia.",
+  "habitat": "*Caliaeschna microstigma* occurs at swift stony streams and small rivers which are at least partly shaded and where pools of calm water provide refuges for the larvae. The species occurs mainly in hilly or mountainous regions but most European populations are found below 500 m. Larvae are mainly found in dens mats of mosses and aquatic plants but also between roots along the banks or in bundles of dead twigs and branches on the river bed.",
+  "flight_period": "April to August",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Near threatened",
+    "red_list_europe": "Near threatened",
+    "red_list_mediterranean": "Near threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Decreasing"
+  },
+  "author_citation": "(Schneider, 1845)",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
 }

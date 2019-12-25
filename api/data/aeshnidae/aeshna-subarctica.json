@@ -1,47 +1,45 @@
 {
-    "items_id": "6a7ab88702084a3413c80d6fcd562418",
-    "scientific_name": "Aeshna subarctica",
-    "author_citation": "Walker, 1908",
-    "local_names": [
-        "Bog hawker"
-    ],
-    "description": "Very similar to A. juncea and occurs in similar habitats. They are difficult to distinguish flying. A. subarctivca is in any event darker on the thorax and abdomen, has markings more uniform in colour, often a bit duller and paler. Generally bluish, instead of completely separated yellow and blue as A. juncea. Wings are clear with costa and main veins being more brown than yellow. The spot behind the eyes that A. juncea has is always absent on A. subarctica. On S3 on the abdomen, the male has rather big, wide spots, unlike A. juncea who has narrow wedge-shaped spots here. Upper and lower appendages are wider and rounder than on A. juncea. Ventrally on thorax it has two large yellow spots, where A. juncea has smaller or missing spots. There are two forms of A. subarctica in Europe. The northern can be found from north of Scania, Sweden, and northwards.  It has three lesser spots between the bands on the sides of the thorax. The southern form occurs on the European mainland, in Denmark and southern Scania. It has larger spots or a narrow band where the northern form has three lesser spots. Variations between the forms occur.",
-    "behaviour": "Fund near wet floating sphagnums in which the females lay their eggs and where the larvae lives. It can, and often does, coexist beside similar species on the same locales.",
-    "size": {
-        "length": "70-76 mm",
-        "wingspan": "78-92 mm"
-    },
-    "similar_species": [
-        "Aeshna juncea",
-        "Aeshna serrata",
-        "Aeshna crenata",
-        "Aeshna cyanea",
-        "Aeshna mixta",
-        "Aeshna caerulea"
-    ],
-    "distribution": "A circumpolar species with different subspecies in North America (A. s. subarctica) and Europe and Asia (A. s. elisabethae). In Europe it is found mainly in the north, where it reproduces in lowlands. It's common in Fennoscandia, the Baltic states, Poland, Northern Germany, Denmark and the Netherlands. Most likely it is common in all northern parts of European Russia. Only a handfull records are available from Belarus. In southern Europe the species is restricted to higher altitudes, occurring for example in the Hautes Fagnes (Hohes Venn, Belgium), the Vosges and Jura mountains (France), the Black Forest (Germany), the Central Alps, the Bohemian forest and the western Carpathians. It has been recently discovered in the Italian Alps and the Romanian Carpathians. The Romanian locality is at considerable distance from other known habitats, suggesting the species has a wider distribution in south-east Europe than is currently known.",
-    "habitat": "It occurs at acidic moors and sphagnum peat bogs, mires, overgrowing or vegetation rich peat graves and edges of lakes. It strongly favours habitats with floating peat-moss, so called Sphagnum-soup. It is absent in open agricultural landscapes.",
-    "flight_period": "June to September",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Near threatened",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Decreasing"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/aeshna-subarctica-male-go%CC%88ran-liljeberg-cc-by_s2kxzr.jpg",
-                "caption": "Aeshna subarctica, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "6a7ab88702084a3413c80d6fcd562418",
+  "scientific_name": "Aeshna subarctica",
+  "author_citation": "Walker, 1908",
+  "local_names": ["Bog hawker"],
+  "description": "Very similar to *A. juncea* and occurs in similar habitats. They are difficult to distinguish flying. *A. subarctica* is in any event darker on the thorax and abdomen, has markings more uniform in colour, often a bit duller and paler. Generally bluish, instead of completely separated yellow and blue as *A. juncea*. Wings are clear with costa and main veins being more brown than yellow. The spot behind the eyes that *A. juncea* has is always absent on *A. subarctica*. On S3 on the abdomen, the male has rather big, wide spots, unlike *A. juncea* who has narrow wedge-shaped spots here. Upper and lower appendages are wider and rounder than on *A. juncea*. Ventrally on thorax it has two large yellow spots, where *A. juncea* has smaller or missing spots. There are two forms of *A. subarctica* in Europe. The northern can be found from north of Scania, Sweden, and northwards.  It has three lesser spots between the bands on the sides of the thorax. The southern form occurs on the European mainland, in Denmark and southern Scania. It has larger spots or a narrow band where the northern form has three lesser spots. Variations between the forms occur.",
+  "behaviour": "Fund near wet floating sphagnums in which the females lay their eggs and where the larvae lives. It can, and often does, coexist beside similar species on the same locales.",
+  "size": {
+    "length": "70-76 mm",
+    "wingspan": "78-92 mm"
+  },
+  "similar_species": [
+    "Aeshna juncea",
+    "Aeshna serrata",
+    "Aeshna crenata",
+    "Aeshna cyanea",
+    "Aeshna mixta",
+    "Aeshna caerulea"
+  ],
+  "distribution": "A circumpolar species with different subspecies in North America (*A. s. subarctica*) and Europe and Asia (*A. s. elisabethae*). In Europe it is found mainly in the north, where it reproduces in lowlands. It's common in Fennoscandia, the Baltic states, Poland, Northern Germany, Denmark and the Netherlands. Most likely it is common in all northern parts of European Russia. Only a handfull records are available from Belarus. In southern Europe the species is restricted to higher altitudes, occurring for example in the Hautes Fagnes (Hohes Venn, Belgium), the Vosges and Jura mountains (France), the Black Forest (Germany), the Central Alps, the Bohemian forest and the western Carpathians. It has been recently discovered in the Italian Alps and the Romanian Carpathians. The Romanian locality is at considerable distance from other known habitats, suggesting the species has a wider distribution in south-east Europe than is currently known.",
+  "habitat": "It occurs at acidic moors and sphagnum peat bogs, mires, overgrowing or vegetation rich peat graves and edges of lakes. It strongly favours habitats with floating peat-moss, so called Sphagnum-soup. It is absent in open agricultural landscapes.",
+  "flight_period": "June to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Near threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Decreasing"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/aeshna-subarctica-male-go%CC%88ran-liljeberg-cc-by_s2kxzr.jpg",
+        "caption": "Aeshna subarctica, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

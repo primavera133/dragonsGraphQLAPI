@@ -1,44 +1,38 @@
 {
-    "items_id": "42596c578c5ccf580ea3672d50776fca",
-    "scientific_name": "Coenagrion hastulatum",
-    "author_citation": "Charpentier, 1825",
-    "local_names": [
-        "Northern damselfly",
-        "Spearhead bluet"
-    ],
-    "description": "Like so many other Coenagrions, the males are light blue with black markings and bands. The males colouration can vary from light blue to yellowish-green. The side of the thorax has the typical black markings of the Coenagrion genera. The marking dorsally on S2 is likened to a spearhead, hence the latin name hastulatum, also there are black lines forwardly positioned on along each side of S2. The black markings has a metallic green shine to them in certain lights and angles. Postocular spots are oval and joined centrally by a blue line. The pterostigma is black and small.\n\nThe females are dorsally black-bronze in colour, and ventrally distictly yellowish-green, often distinguishing her from other females of Coenagrion species. \n They can rather be confused with immature Erythromma najas, but these should fairly early get their distinctive red eyes. However, a correct identification of the female is often difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum.",
-    "behaviour": "Look for this species close to the shoreline or in between and among vegetation growing in the water like sedges, Water horsetail or bulrushes. It can also be found away from the water, low in glades, bushes or edge zones of mashes and mires, but it rarely moves far away from water.",
-    "size": {
-        "length": "31-33 mm",
-        "wingspan": "32-44 mm"
-    },
-    "similar_species": [
-        "Coenagrion lunulatum",
-        "Coenagrion sp."
-    ],
-    "distribution": "Coenagrion hasulatum is widespread in northern and central Europe. In the south of its range it becomes restricted to higher altitudes. The species is rare in the lowlands of south Germany but is reasonably widespread in the Alps and other mountains of central Europe. To the southwest disjunct occurrences are found in the Massif Central and the Pyrenees. In the latter, less than fifteen localities are known. The species is very rare in the Balkan Peninsula with about a dozen localities known. The westernmost populations of its main range is found in the southeast of the Netherlands and Belgium. In the British Isles it is only found in north-eastern Scotland. In Fennoscandia it is widespread and locally common and can be one of the most numerous species.",
-    "habitat": "In the core of its European range it is found in a wide range of habitats including largely unshaded ponds, lakes and bogs. The species favours slightly acidic water bodies with narrow-leaved sedged and peat mosses on peat, sandy, sandstone or granite substrates. In many cases breeding habitats are formed by pooled rainwater. It can also, but more rarely, be found in slow-flowing waters. In the west of its range and in the mountains of the south and south-east Europe, the species is largely limited to peat bogs and oligotrophic to mesotrophic lakes and ponds often in or near forests and nearly always with a well-developed belt of sedges. It is rarely found in agricultural landscapes.\n\nIn the north the species is mostly found in the lowlands but, in the south populations is often confined to higher elevations up to 2 500 m. For example, in Switzerland 80% of the localities are found between 900 and 1 900 m.",
-    "flight_period": "May to August",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Unknown"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/coenagrion-hastulatum-male-go%CC%88ran-liljeberg-cc-by_ivlnpm.jpg",
-                "caption": "Coenagrion hastulatum, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "42596c578c5ccf580ea3672d50776fca",
+  "scientific_name": "Coenagrion hastulatum",
+  "author_citation": "Charpentier, 1825",
+  "local_names": ["Northern damselfly", "Spearhead bluet"],
+  "description": "Like so many other *Coenagrions*, the males are light blue with black markings and bands. The males colouration can vary from light blue to yellowish-green. The side of the thorax has the typical black markings of the *Coenagrion* genera. The marking dorsally on S2 is likened to a spearhead, hence the latin name hastulatum, also there are black lines forwardly positioned on along each side of S2. The black markings has a metallic green shine to them in certain lights and angles. Postocular spots are oval and joined centrally by a blue line. The pterostigma is black and small.\n\nThe females are dorsally black-bronze in colour, and ventrally distictly yellowish-green, often distinguishing her from other females of *Coenagrion* species. \n They can rather be confused with immature Erythromma najas, but these should fairly early get their distinctive red eyes. However, a correct identification of the female is often difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum.",
+  "behaviour": "Look for this species close to the shoreline or in between and among vegetation growing in the water like sedges, Water horsetail or bulrushes. It can also be found away from the water, low in glades, bushes or edge zones of mashes and mires, but it rarely moves far away from water.",
+  "size": {
+    "length": "31-33 mm",
+    "wingspan": "32-44 mm"
+  },
+  "similar_species": ["Coenagrion lunulatum", "Coenagrion sp."],
+  "distribution": "*Coenagrion hasulatum* is widespread in northern and central Europe. In the south of its range it becomes restricted to higher altitudes. The species is rare in the lowlands of south Germany but is reasonably widespread in the Alps and other mountains of central Europe. To the southwest disjunct occurrences are found in the Massif Central and the Pyrenees. In the latter, less than fifteen localities are known. The species is very rare in the Balkan Peninsula with about a dozen localities known. The westernmost populations of its main range is found in the southeast of the Netherlands and Belgium. In the British Isles it is only found in north-eastern Scotland. In Fennoscandia it is widespread and locally common and can be one of the most numerous species.",
+  "habitat": "In the core of its European range it is found in a wide range of habitats including largely unshaded ponds, lakes and bogs. The species favours slightly acidic water bodies with narrow-leaved sedged and peat mosses on peat, sandy, sandstone or granite substrates. In many cases breeding habitats are formed by pooled rainwater. It can also, but more rarely, be found in slow-flowing waters. In the west of its range and in the mountains of the south and south-east Europe, the species is largely limited to peat bogs and oligotrophic to mesotrophic lakes and ponds often in or near forests and nearly always with a well-developed belt of sedges. It is rarely found in agricultural landscapes.\n\nIn the north the species is mostly found in the lowlands but, in the south populations is often confined to higher elevations up to 2 500 m. For example, in Switzerland 80% of the localities are found between 900 and 1 900 m.",
+  "flight_period": "May to August",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/coenagrion-hastulatum-male-go%CC%88ran-liljeberg-cc-by_ivlnpm.jpg",
+        "caption": "Coenagrion hastulatum, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

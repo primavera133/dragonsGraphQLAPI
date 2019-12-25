@@ -1,34 +1,29 @@
 {
-    "items_id": "40558a5f77f00ef63c92cecf493a7c3e",
-    "scientific_name": "Ceriagrion tenellum",
-    "local_names": [
-        "Small red damselfly"
-    ],
-    "description": "Species is characterised by red abdomen, eyes, legs and pterostigma. At most, legs and pterostigma might be reddish or yellowish, not black. The females have different colouration: abdomen partly black (form typica), totally black (form melanogastrum) or totally red (form erythrogastrum). It might be confused with C. georgifreyi wich is practically identical in general appearance, colouration and pattern.",
-    "behaviour": "",
-    "size": {
-        "length": "25-35 mm",
-        "wingspan": "30-42 mm"
-    },
-    "similar_species": [
-        "Ceriagrion georgifreyi",
-        "Pyrrhosoma nymphula"
-    ],
-    "distribution": "Widespread in the western Mediterranean basin, the range spreading into north-west Europe . To the north it reaches the south of Great Britain, the Netherlands and northern Germany. It is widespread in Italy but becomes rare east of the Adriatic sea in the western balkan. Occurence on mainland Greece and Lesbos is uncertain (published records may have been C. georgifreyi). It is found with certainty on Crete and Ios.",
-    "habitat": "In the south of its range, C. tenellum is mainly found at seepages, streams, small rivers and standing waters with a rich aquatic vegetation. Further north, in the west and east of France, northern Belgium, the Netherlands, Germany and Great Britain, the species is mainly found in acidic Sphagnum peat bogs and heaths. In this area, it has proliferated since 2000 and is now increasingly found in other types of habitats such as small streams.\n\nMany of the micro-habitats where the larvae are found have the following factors in common: the water temperature can rise quickly in summer and teh dense vegetation, the acidity and/or a low water table limit predation by other dragonflies or fish. The species mainly occurs at lower altitudes and is not found above 1000 m.",
-    "flight_period": "May to September.",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(De Villers, 1789)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "40558a5f77f00ef63c92cecf493a7c3e",
+  "scientific_name": "Ceriagrion tenellum",
+  "local_names": ["Small red damselfly"],
+  "description": "Species is characterised by red abdomen, eyes, legs and pterostigma. At most, legs and pterostigma might be reddish or yellowish, not black. The females have different colouration: abdomen partly black (form typica), totally black (form melanogastrum) or totally red (form erythrogastrum). It might be confused with *C. georgifreyi* wich is practically identical in general appearance, colouration and pattern.",
+  "behaviour": "",
+  "size": {
+    "length": "25-35 mm",
+    "wingspan": "30-42 mm"
+  },
+  "similar_species": ["Ceriagrion georgifreyi", "Pyrrhosoma nymphula"],
+  "distribution": "Widespread in the western Mediterranean basin, the range spreading into north-west Europe . To the north it reaches the south of Great Britain, the Netherlands and northern Germany. It is widespread in Italy but becomes rare east of the Adriatic sea in the western balkan. Occurence on mainland Greece and Lesbos is uncertain (published records may have been *C. georgifreyi*). It is found with certainty on Crete and Ios.",
+  "habitat": "In the south of its range, *C. tenellum* is mainly found at seepages, streams, small rivers and standing waters with a rich aquatic vegetation. Further north, in the west and east of France, northern Belgium, the Netherlands, Germany and Great Britain, the species is mainly found in acidic Sphagnum peat bogs and heaths. In this area, it has proliferated since 2000 and is now increasingly found in other types of habitats such as small streams.\n\nMany of the micro-habitats where the larvae are found have the following factors in common: the water temperature can rise quickly in summer and teh dense vegetation, the acidity and/or a low water table limit predation by other dragonflies or fish. The species mainly occurs at lower altitudes and is not found above 1000 m.",
+  "flight_period": "May to September.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "author_citation": "(De Villers, 1789)",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
 }

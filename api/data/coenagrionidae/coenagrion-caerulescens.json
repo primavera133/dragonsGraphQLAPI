@@ -1,34 +1,29 @@
 {
-    "items_id": "39beca5b66bbc9209844d7a240c15f6f",
-    "scientific_name": "Coenagrion caerulaescens",
-    "local_names": [
-        "Mediterranean bluet"
-    ],
-    "description": "The males of Coenagrion caerulaescens are light blue with black markings and bands on the abdomen. The second segment, S2, has a black marking in the shape of a cup or U, the bottom of which is always connected to the hind margin of the segment by a thick stem. S6-S7 are mainly black, but the extent of the black markings vary strongly between and within populations. This has historically led to the desription of various subspecies, none of which presently is regarded as valid. The pterostigma is small and substantioally triangular in shape and light brown in colour. The females are green-blue with black markings. A correct identification of the females is difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum.",
-    "behaviour": "",
-    "size": {
-        "length": "25-35 mm",
-        "wingspan": "30-42 mm"
-    },
-    "similar_species": [
-        "Coenagrion scitulum",
-        "Coenagrion sp."
-    ],
-    "distribution": "Endemic to the western Mediterranean. Widespread and reasonably common in large parts of Spain, Sardinia, Sicily and the southern tip of Italy. It has scattered populations, genrally being very rare, in Portugal, Corsica, southern France and northern half of Italy. A single population on Menorca is the only known on the Balearic islands.",
-    "habitat": "Coenagrion caerulaescens is found on sunlit running waters with hydrophotes and/or bordered by herbacous plants. These habitats vary from small streams and seepages to medium-sized rivers. The aquatic vegetation ofter consists of submerged watermilfoil. In Europe, it is restricted to the warmer regions and generally found below 600 m, although it may reach up to 1 100 m. In the Maghreb, north-west Africa, it can be found up to 2 300 m. It is replaced by C. Scitulum in standing  and slow-flowing waters.",
-    "flight_period": "May to August.",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Near threatened",
-        "red_list_europe": "Near threatened",
-        "red_list_mediterranean": "Near threatened",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "(Fonscolombe, 1838)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "39beca5b66bbc9209844d7a240c15f6f",
+  "scientific_name": "Coenagrion caerulaescens",
+  "local_names": ["Mediterranean bluet"],
+  "description": "The males of *Coenagrion caerulaescens* are light blue with black markings and bands on the abdomen. The second segment, S2, has a black marking in the shape of a cup or U, the bottom of which is always connected to the hind margin of the segment by a thick stem. S6-S7 are mainly black, but the extent of the black markings vary strongly between and within populations. This has historically led to the desription of various subspecies, none of which presently is regarded as valid. The pterostigma is small and substantioally triangular in shape and light brown in colour. The females are green-blue with black markings. A correct identification of the females is difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum.",
+  "behaviour": "",
+  "size": {
+    "length": "25-35 mm",
+    "wingspan": "30-42 mm"
+  },
+  "similar_species": ["Coenagrion scitulum", "Coenagrion sp."],
+  "distribution": "Endemic to the western Mediterranean. Widespread and reasonably common in large parts of Spain, Sardinia, Sicily and the southern tip of Italy. It has scattered populations, genrally being very rare, in Portugal, Corsica, southern France and northern half of Italy. A single population on Menorca is the only known on the Balearic islands.",
+  "habitat": "*Coenagrion caerulaescens* is found on sunlit running waters with hydrophotes and/or bordered by herbacous plants. These habitats vary from small streams and seepages to medium-sized rivers. The aquatic vegetation ofter consists of submerged watermilfoil. In Europe, it is restricted to the warmer regions and generally found below 600 m, although it may reach up to 1 100 m. In the Maghreb, north-west Africa, it can be found up to 2 300 m. It is replaced by *C. Scitulum* in standing  and slow-flowing waters.",
+  "flight_period": "May to August.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Near threatened",
+    "red_list_europe": "Near threatened",
+    "red_list_mediterranean": "Near threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Decreasing"
+  },
+  "author_citation": "(Fonscolombe, 1838)",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
 }

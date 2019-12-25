@@ -1,51 +1,46 @@
 {
-    "items_id": "0511d13b1aa7dde7c1123e5ec804c0fd",
-    "scientific_name": "Epitheca bimaculata",
-    "author_citation": "(Charpentier, 1825)",
-    "local_names": [
-        "Eurasian baskettail"
-    ],
-    "description": "A large brown, yellow-orange and black dragonfly with no metallic sheen and without the typical green colour of the Corduliidae. Eyes on males are greyish blue-green, females reddish-brown and immature individuals can have more light grey-beige eyes. Face is yellow and black. With regards to its appearance it is similar to Libellula quadrimaculata and L. fulva from which it can be distinguished by the wings being entirely yellowish with a large patch at the base of the hind wings and by the different extension of the pattern on the abdomen., besides the shape of the abdomen itself. In the males the abdomen is more tapered than in the females, its dark pattern is dorsally wider and longer, and the terminal appendages are divergent to form a V, whereas in the females they are parallell. Young individuals have a brighter yellow-orange colouration that darkens to a brownish yellow. The females have a vulvar lamina which is long and protruding, though not at right angle to the body as on other Corduliids. ",
-    "behaviour": "Large strong fliers, mostly seen cruising over water, one meter or more over the surface and rarely perching. When it bumps into a kindred, they fall out up in the air. If it bumps into a female they tumble around for a short while until the male takes up his patrolling again. Patrolling males rarely comes close to the shores and is often best observed with binoculars. ",
-    "size": {
-        "length": "60-65 mm",
-        "wingspan": "75-90 mm"
-    },
-    "similar_species": [
-        "Libellula quadrimaculata",
-        "Libellula fulva"
-    ],
-    "distribution": "Epitheca bimaculata has a wide distribution in Europe but is nowhere common, instead it is rare and scattered in large parts of its range. Concentrations of records are found in Germany, northern and easter Poland, southern Sweden and Finland, the Baltic states, the Hungarian lowland and adjacent regions. Mature adults are difficult to detect, so the species is frequently overlooked, and in some regions it might be more common than currently believed. The species becomes more common to the east and is probably more widely distributed in European Russia than suggested by available records. Only old records are known from Italy, the Netherlands, Bosnia and Herzegovina, but E. bimaculata has always been rare in these countries. Several new localities for Serbia has been found since the turn of the millenium and a sight record from Lake Skadar in Montenegro has been published, suggesting that the species might be more widely distributed in the states of former Yugoslavia than previously known. Adults are generally difficult to find as they spend much time away from water and, when at their breeding habitat, tend to fly over the water surface away from the bank. Searching for exuviae is therefore the best method to find the species, and further surveys might show it to be more widely distributed than currently known. ",
-    "habitat": "Epitheca bimaculata is most often found at medium to large, oligotrophic to eutrophic, forest lakes, oxbows and abandoned gravel pits, and, more rarely, at fish-ponds. Regionally, for example in the Baltic region, it also occurs in small peaty lakes, even slightly acidic ones. The species occurs mostly in lowlands although it has been found up to 1 000 m in Switzerland. Many habitats have a mosaic of open water and areas of abundant submerged and floating vegetation such as waterlilies, watermilfoil and pondweeds, but there are also localities with little to no aquatic vegetation. Most localities are at leat partially surrounded by trees or bushes. Banks can be open or densely vegetated with helophytes, for instance reeds, bulrush and sedges. Population densities vary strongly between sites and between years, with counts of exuviae in France ranging from single records to more than 5 000 at seemingly similar sites.",
-    "flight_period": "May to July",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Data deficient",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/epitheca-bimaculata-male-go%CC%88ran-liljeberg-cc-by_ix6ihy.jpg",
-                "caption": "",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/epitheca-bimaculata-female-go%CC%88ran-liljeberg-cc-by_wcr6a7.jpg",
-                "caption": "",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "0511d13b1aa7dde7c1123e5ec804c0fd",
+  "scientific_name": "Epitheca bimaculata",
+  "author_citation": "(Charpentier, 1825)",
+  "local_names": ["Eurasian baskettail"],
+  "description": "A large brown, yellow-orange and black dragonfly with no metallic sheen and without the typical green colour of the *Corduliidae*. Eyes on males are greyish blue-green, females reddish-brown and immature individuals can have more light grey-beige eyes. Face is yellow and black. With regards to its appearance it is similar to *Libellula quadrimaculata* and *L. fulva* from which it can be distinguished by the wings being entirely yellowish with a large patch at the base of the hind wings and by the different extension of the pattern on the abdomen., besides the shape of the abdomen itself. In the males the abdomen is more tapered than in the females, its dark pattern is dorsally wider and longer, and the terminal appendages are divergent to form a V, whereas in the females they are parallell. Young individuals have a brighter yellow-orange colouration that darkens to a brownish yellow. The females have a vulvar lamina which is long and protruding, though not at right angle to the body as on other Corduliids. ",
+  "behaviour": "Large strong fliers, mostly seen cruising over water, one meter or more over the surface and rarely perching. When it bumps into a kindred, they fall out up in the air. If it bumps into a female they tumble around for a short while until the male takes up his patrolling again. Patrolling males rarely comes close to the shores and is often best observed with binoculars. ",
+  "size": {
+    "length": "60-65 mm",
+    "wingspan": "75-90 mm"
+  },
+  "similar_species": ["Libellula quadrimaculata", "Libellula fulva"],
+  "distribution": "*Epitheca bimaculata* has a wide distribution in Europe but is nowhere common, instead it is rare and scattered in large parts of its range. Concentrations of records are found in Germany, northern and easter Poland, southern Sweden and Finland, the Baltic states, the Hungarian lowland and adjacent regions. Mature adults are difficult to detect, so the species is frequently overlooked, and in some regions it might be more common than currently believed. The species becomes more common to the east and is probably more widely distributed in European Russia than suggested by available records. Only old records are known from Italy, the Netherlands, Bosnia and Herzegovina, but *E. bimaculata* has always been rare in these countries. Several new localities for Serbia has been found since the turn of the millenium and a sight record from Lake Skadar in Montenegro has been published, suggesting that the species might be more widely distributed in the states of former Yugoslavia than previously known. Adults are generally difficult to find as they spend much time away from water and, when at their breeding habitat, tend to fly over the water surface away from the bank. Searching for exuviae is therefore the best method to find the species, and further surveys might show it to be more widely distributed than currently known. ",
+  "habitat": "*Epitheca bimaculata* is most often found at medium to large, oligotrophic to eutrophic, forest lakes, oxbows and abandoned gravel pits, and, more rarely, at fish-ponds. Regionally, for example in the Baltic region, it also occurs in small peaty lakes, even slightly acidic ones. The species occurs mostly in lowlands although it has been found up to 1 000 m in Switzerland. Many habitats have a mosaic of open water and areas of abundant submerged and floating vegetation such as waterlilies, watermilfoil and pondweeds, but there are also localities with little to no aquatic vegetation. Most localities are at leat partially surrounded by trees or bushes. Banks can be open or densely vegetated with helophytes, for instance reeds, bulrush and sedges. Population densities vary strongly between sites and between years, with counts of exuviae in France ranging from single records to more than 5 000 at seemingly similar sites.",
+  "flight_period": "May to July",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Data deficient",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/epitheca-bimaculata-male-go%CC%88ran-liljeberg-cc-by_ix6ihy.jpg",
+        "caption": "",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/epitheca-bimaculata-female-go%CC%88ran-liljeberg-cc-by_wcr6a7.jpg",
+        "caption": "",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

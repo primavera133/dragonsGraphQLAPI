@@ -1,31 +1,29 @@
 {
-    "items_id": "2dd94c243981483771abe3ac64173815",
-    "scientific_name": "Gomphus pulchellus",
-    "local_names": [
-        "Western clubtail"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "46-50 mm",
-        "wingspan": "55-65 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "Endemic",
-        "red_list_europe_endemic": "Endemic",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "Selys, 1840",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "2dd94c243981483771abe3ac64173815",
+  "scientific_name": "Gomphus pulchellus",
+  "author_citation": "Selys, 1840",
+  "local_names": ["Western clubtail"],
+  "description": "A clubtail with yelow or yellow to light-olive-green body with black pattern. Eyes are rather pale blue. The wings have yellow costa and sub-costa, while the other veins are black. The pterostigmas are long and yellowish brown in colour. The legs are yellow with black lines, and the tarsi are mainly black. All the segments of the abdomen, the last three included, are on the upper side crossed by a yellow line.\n\nDistinctive with respect to the other clubails are the black pattern with very thin lines on the thorax, both on the upper side and on the sides. Also the intrapleural line; a thin and wavy black line extending from the base of the fore wings to the second legs. \n\nAnother unique characteristic of the males is the terminal part of the abdomen, not being clubbed like other clubtails, but cylindrical like in the females. Males and females can be distinguished by the shape of the abdominal appendages: divergent in the males and straight as an extension of the abdomen in the females.\n\n*G. graslinii*, *G. flavipes*, *G. simillimus* and *G. vulgatissimus* may co-occur with *G. pulchellum*, but are brighter in colour, with thicker thorax black markings and a more club-shaped abdomen. Their interpleural stripe always stop just above the metastigma. The thin thorax lines resemble *Onychogomphus cecilia*, which has a bright green thorax.",
+  "behaviour": "Males search along the shoreline for females, flying in a wave-like flight; constantly varying their height but staying just a few centimeters above the water.",
+  "size": { "length": "46-50 mm", "wingspan": "55-65 mm" },
+  "similar_species": [
+    "Gomphus graslinii",
+    "Gomphus flavipes",
+    "Gomphus simillimus",
+    "Gomphus vulgatissimus",
+    "Onychogomphus cecilia"
+  ],
+  "distribution": "*Gomphus pulchellum* is a west Europe endemic ranging from the Iberian Peninsula to the Netherlands and to the western and southern parts of Germany. During recent decades it has expanded northwards and eastwards, and is presently known from the westernmost of Austria and the western two-thirds of Germany. The species is widespread in the south-western half of the Iberian Peninsula but is has a much more scattered occurrence in other parts of Spain. Two old records from Italy and one from Croatia may refer to vagrants.",
+  "habitat": "*Gomphus pulchellum* breeds in many different kinds of standing and slow to moderately fast flowing habitats, including large rivers, canals, oxbows, lakes, gravel pits, larger cattle ponds and occasional mountain peat bogs. The species is absent from rocky or faster flowing streams and is rarely found in mountains although breeding has been recorded up to 1 500 m.",
+  "flight_period": "April to August. Most abundant from mid-May to mid-August.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "Endemic",
+    "red_list_europe_endemic": "Endemic",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

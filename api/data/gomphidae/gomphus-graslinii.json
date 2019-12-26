@@ -1,31 +1,27 @@
 {
-    "items_id": "af95a78d508f8d277d0f6ccd992e7b1a",
-    "scientific_name": "Gomphus graslinii",
-    "local_names": [
-        "Pronged clubtail"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "47-50 mm",
-        "wingspan": "55-60 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "II+IV",
-        "red_list_EU27": "Near threatened",
-        "red_list_europe": "Near threatened",
-        "red_list_mediterranean": "Endangered",
-        "EU27_endemic": "Endemic",
-        "red_list_europe_endemic": "Endemic",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "Rambur, 1842",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "af95a78d508f8d277d0f6ccd992e7b1a",
+  "scientific_name": "Gomphus graslinii",
+  "author_citation": "Rambur, 1842",
+  "local_names": ["Pronged clubtail"],
+  "description": "A bright yellow and black clubtail with such characteristically forked male upper appendages that it can be identified by this feature without capture. The terminal part of the abdomen is less clubbed than of the other species of *Gomphus*, S8-S9 is only slightly expanded. Eyes are light blue. The antehumeral stripes are pale and narrower than the adjacent black bands, in particular the adjacent inner black band is quite wide and often connected dorsally with the black pattern on the thorax. This configuration recalls that of *G. vulgatissimus*. In *G. simillimus* the antehumeral and it's flanking stripes are alla bout equally thick, and the anterior one is dorsally unconnected.\n\nAll the segments of the upper side of the abdomen are longitudinally crossed by a yellow line. Distinctive in the males is the yellow marking in the form of a goblet on S9. *G. vulgatissimus* is all black dorsally on S9. In *G. simillimus* the posterior border of s) is black, although sometimes the central yellow marking reaches it.\n\nLegs are black with yellow stripes on the femurs. Tibiae often entirely black. *G. simillimus* har yellow stripes also on the tibiae. *G. vulgatissimus* typically has all-black legs.",
+  "behaviour": "",
+  "size": { "length": "47-50 mm", "wingspan": "55-60 mm" },
+  "similar_species": [
+    "Gomphus vulgatissimus",
+    "Gomphus simillimus",
+    "Gomphus pulchellus"
+  ],
+  "distribution": "*Gomphus graslinii* is endemic to the south-west Europe. Most of the populations are found in two areas, one in south-west France and the other in the western Iberian Peninsula. In France this species is common only in an area extending from the lower Rhône River through the southern part of the Massif Central to the Charente-Maritime department. Here large populations are found in the rivers and tributaries of the Hérault, Tarn and Lot. This species is rare in other areas in France and has become extinct in some regions. It is very rare in most of the Iberian Peninsula but is reasonably widespread in the west, with several new localities having recently been found Portugal, Valencia, Catalonia and Aragon. Most of the Iberian Peninsula populations are small.",
+  "habitat": "*Gomphus graslinii* favours slow-flowing parts of large streams and rivers surrounded by low forests and bushes, but can also be found along small permanent streams. Larvae favours sandy stretches covered with organic detritus. Several strong populations are known from hydroelectric dams on the rivers of the Massif central in France, however recently these were found to have strongly decreased probably due to the high amounts of accumulated sediments. The species is found up to 300-400 m in France and has been found up to 1 000 m in Spain.",
+  "flight_period": "end of May to mid-August",
+  "red_list": {
+    "habitats_directive": "II+IV",
+    "red_list_EU27": "Near threatened",
+    "red_list_europe": "Near threatened",
+    "red_list_mediterranean": "Endangered",
+    "EU27_endemic": "Endemic",
+    "red_list_europe_endemic": "Endemic",
+    "trend_europe": "Decreasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

@@ -1,29 +1,28 @@
 {
-    "items_id": "0ee918852968f8cb37df4522c68e8ebc",
-    "scientific_name": "Lindenia tetraphylla",
-    "local_names": [],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "70-80 mm",
-        "wingspan": "72-80 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "II+IV",
-        "red_list_EU27": "Vulnerable",
-        "red_list_europe": "Vulnerable",
-        "red_list_mediterranean": "Near threatened",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "(Vander Linden, 1825)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "0ee918852968f8cb37df4522c68e8ebc",
+  "scientific_name": "Lindenia tetraphylla",
+  "author_citation": "(Vander Linden, 1825)",
+  "local_names": ["Bladetail", "Lobe-tailed dragonfly", "Arabian lobetail"],
+  "description": "This species is the largest European *Gomphid*. It is whitish or yellowish in colour and has, mainly on the upper part of the abdomen, black or brown markings. However its colouration varies greatly, from largely sandy to almost black. The males look darker due to the presence of tiny black spines on the abdomen, particularly between S3 and S7. Distinctive are the leaf-shaped extensions on the lower sides of S7 and S8. The abdomen thus look quite expanded on its terminal part. The pterostigmas are relatively long and wide, and are yellow to pale-brown in colour. \n\nThe length and the flaps on S7 rule out any other species. *Paragomphus* and *Onychogomphus* have flaps on S8-S9 instead of S7-8, but only in *Paragomphus* are they similarly large. Both these genera are no longer than 60 cm. At a glance, *L. tetraphylla* can be mistaken for the long-bodied skimmers *Orthretum sabina* or *O. trinacriae*, but they lack wide flaps and separated eyes.",
+  "behaviour": "Often perches on the ground with the abdomen slightly raised above horizontal. It has some migratory tendencies, which otherwise is very unusual for a *gomphid*.",
+  "size": { "length": "70-80 mm", "wingspan": "72-80 mm" },
+  "similar_species": [
+    "Paragomphus sp.",
+    "Onychogomphus sp.",
+    "Orthretum sabina",
+    "Orthretum trinacriae"
+  ],
+  "distribution": "*Lindenia tetrapylla* is predominantly a central and south-west Asian species which extends over the Arabian peninsula and the Mediterranean. All European records with the exception of those from Russia are confined to the Mediterranean, and most populations are found in coastal lowlands. The species is regularly found away from suitable habitat and some records indicate to vagrants. In the eastern Mediterranean islands, it was found breeding at several barrage lakes (Gökçeada Turkey, Thasos and Crete Greece). It seems likely that *L. tetraphylla* is a recent arrival on the east Mediterranean islands, establishing itself only after suitable open water habitats were created. In continental Greece, the species is known to have a large population at the natural Lake Vólvi (mainland) and the man-made Lake Doxis (Peloponnese). Several other records near lakes probably also pertain to populations (e.g. Lake Stimfalia on the Peloponnese and Lake Distos on Euboea). It seems likely that additional surveys will reveal populations on several other large lakes in Greece. \n\nProbably the larges European population, and possibly the largest population in worldwide, is found on Lake Skadar in Albania and Montenegro.  An extrapolation of sample counts of exuviae on four stretches on the Montenegrin part of this lake in 2011 led to an estimated total of over one million exuviae. The only other site in Montenegro where this is assumed to breed regularly is Lake Šasko. *Lindenia tetrapylla* was recently found in Bosnia and Herzegovina with populations in Hutovo Blato Nature Park. The species is present at several coastal sites in Croatia, including a population on the island of Cres. The northernmost record in the Balkan Peninsula is from Slovenia, where a single female was captured in the 1960s.\n\n*L. tetraphylla* was formerly considered very rare in mainland Italy and Sardinia, but new records showed that it is presently regionally well established and locally abundant. A presumably vagrant individual was found in 2009 in the south of Corsica. There are a few old records from Spain, all around Valencia (1960-65). The large coastal lake that is part of Parque Natural de la Albufera south of Valencia seems the most probable origin of these specimens. \n\nEast of the Mediterranean region, the species is well distributed north-west of the Caspian Sea in the south of European Russia, occuring in semi-desert and often brackish habitats. In 2013 it was discovered in the Crimean Peninsula.",
+  "habitat": "In Europe, *Lindenia tetraphylla* is mostly found on large lakes and more rarely at large slow-flowing waters. Most populations in Greece, Croatia and Italy are found on lakes with extensive beds of reed or mats of hydrophytes over which the females were observed to oviposit. The species also occurs in abandoned gravel pits and habitats with scarcely any vegetation. It was found breeding in barrage lakes with rocky shores on both the Turkish island of Gökçeada and in Crete. Some of these barrage lakes on Crete were only a few years old (as little as three years in one case), showing that the species is readily able to colonise new, isolated habitats thanks to its nomadic behaviour. In Srdinia and Syria, it occurs in brackish habitats, but the majority of the European habitats are freshwater.",
+  "flight_period": "End of May to early August.",
+  "red_list": {
+    "habitats_directive": "II+IV",
+    "red_list_EU27": "Vulnerable",
+    "red_list_europe": "Vulnerable",
+    "red_list_mediterranean": "Near threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Decreasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

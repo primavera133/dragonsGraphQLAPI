@@ -1,31 +1,23 @@
 {
-    "items_id": "090770977deade83389f93f47c7bd625",
-    "scientific_name": "Onychogomphus uncatus",
-    "local_names": [
-        "Large pincertail"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "50-53 mm",
-        "wingspan": "58-66 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Charpentier, 1840)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "090770977deade83389f93f47c7bd625",
+  "scientific_name": "Onychogomphus uncatus",
+  "author_citation": "(Charpentier, 1840)",
+  "local_names": ["Large pincertail"],
+  "description": "Yellow and black pincertail similar to *Onychogomphus forcipatus*. Eyes are light blue in females and blue-green or green in males. The males are easily recognised by the appendages that are shaped like pincers.\n\n*O. forcipatus* and *O. uncatus* is best distinguished as follows:\n1. The vertex of *O. forcipatus* is not all black. There is a yellow bar between the frons and occiput. However, this is sometimes unclear.\n2. The lower appendage on males bears a subterminal knob in *O. forcipatus* but not in *O. uncatus*.\n3. On *O. uncatus*, The 'collar' (the transverse yellow area on the anterior ridge of the thorax)  is severed by the black area along the mid-dorsal keel.\n4. On *O. uncatus*, The yellow antehumeral stripe dorsally connects with the broader yellow stripe before it. Thus the black stripe separating them is not connected with the black along the mid-dorsal keel.\n5. The black on the side of the thorax is more extensive on *O. uncatus*; the stripes are not broken, but often partly confluent. Especially in southern *O. forcipatus* these stripes are reduced. \n6. On females the distinctive character is the absence of two small yellow tubercles behind the eyes on *O. uncatus* ",
+  "behaviour": "",
+  "size": { "length": "50-53 mm", "wingspan": "58-66 mm" },
+  "similar_species": ["Onychogomphus forcipatus"],
+  "distribution": "*Onychogomphus uncatus* is endemic to the Western Mediterranean. In north Africa it is found in the hills and mountains of northern Morocco, Algeria and Tunisia. The main range in Europe is from the south-western half of France west to the Iberian Peninsula and east to Italy. It is absent from the Mediterranean islands with the exception of Sicily. The highest density of populations is found in the south-west of France and parts of the Iberian Peninsula, and in these areas the species is generally common. It has a scattered distribution in the Iberian Peninsula, being regionally absent in the driest parts. It is relatively uncommon in Italy, with populations confined to areas in the north and the western half of the country.",
+  "habitat": "*Onychogomphus uncatus* tolearates higher water velocity than *O. forcipatus*, and is more frequently found in fast-flowing stony streams and rivers than the latter, with a preference for partially shaded habitats. It is common in rapid headwaters in hilly and mountainous landscapes usually up to 800 m, locally up to 1 300 m in Europe and 2 340 m in Morocco, but it also often occurs in large slow-flowing, lowland rivers in the west of its range.",
+  "flight_period": "May to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

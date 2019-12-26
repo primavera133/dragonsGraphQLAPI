@@ -1,40 +1,39 @@
 {
-    "items_id": "c883100a86a587dcabbffaae9c0a4a41",
-    "scientific_name": "Onychogomphus forcipatus",
-    "author_citation": "(Linnaeus, 1758)",
-    "local_names": [
-        "Green-eyed hooktail"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "45-50 mm",
-        "wingspan": "50-60 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern to Near threatened depending on subspecies",
-        "red_list_europe": "Least Concern to Near threatened depending on subspecies",
-        "red_list_mediterranean": "Least Concern to Near threatened depending on subspecies",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable to Decreasing depending on subspecie"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/onychogomphus-forcipatus-male-go%CC%88ran-liljeberg-cc-by_waonad.jpg",
-                "caption": "Onychogomphus forcipatus, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "c883100a86a587dcabbffaae9c0a4a41",
+  "scientific_name": "Onychogomphus forcipatus",
+  "author_citation": "(Linnaeus, 1758)",
+  "local_names": ["Green-eyed hooktail", "Small pincertail"],
+  "description": "The most common and widespread pincertail, *Onychogomphus forcipatus* is a very particular species with yellow and black colouration. Eyes are light blue in females and blue-green or green in males. The males are easily recognised by the appendages that are shaped like pincers. The colours and the pattern on the thorax and abdomen are rather variable and are not always reliable criterion for identification. \n\nIn case co-occurring of other congeners it can be distinguished from those by:\n1. In Turkey, *O. flexuosus* and *O. macrodon* are much paler, with a 'double-ringed' abdomen and pale pterostigma, while *O. assimilis* has a clearly different thorax pattern. *O. lefebvrii* can best be separated in the hand, but hardly overlaps. \n2. In south-west Europe and north-west Africa, *O. costae* is almost devoid of black, while *O. uncatus* differs mainly in details of the thorax.\n\n*O. forcipatus* and *O. uncatus* is best distinguished as follows:\n1. The vertex of *O. forcipatus* is not all black. There is a yellow bar between the frons and occiput. However, this is sometimes unclear.\n2. On *O. uncatus*, The 'collar' (the transverse yellow area on the anterior ridge of the thorax)  is severed by the black area along the mid-dorsal keel.\n3. On *O. uncatus*, The yellow antehumeral stripe dorsally connects with the broader yellow stripe before it. Thus the black stripe separating them is not connected with the black along the mid-dorsal keel.\n4. The black on the side of the thorax is more extensive on *O. uncatus*; the stripes are not broken, but often partly confluent. Especially in southern *O. forcipatus* these stripes are reduced. \n\nThree subspecies have been identified, based on different shape of the male lower appendage. Genetic studies however have failed to find any genetic differentiation between the three subspecies.",
+  "behaviour": "Males perched on a streamside rock, with their claspers raised, are a typical sight in summer, especially in the south. Females oviposit alone by dropping them in the water. Larvae live partly submerged in the bottom substrates, like sand or gravel and the development typically takes 3-5 years. Exuviae are left on anything protruding the water; stones, branches, or directly on the ground at the shore.",
+  "size": { "length": "45-50 mm", "wingspan": "50-60 mm" },
+  "similar_species": [
+    "Onychogomphus uncatus",
+    "Onychogomphus flexuosus",
+    "Onychogomphus macrodon"
+  ],
+  "distribution": "*Onychogomphus forcipatus* is largely confined to the Western Palearctic, reaching eastwards to northern Kazhakstan and south-western Turkmenistan. In Europe it is the most common and widespread species of *Gomphidae*. Nevertheless its distribution shows a remarkable gap in parts of central Europe, where it is absent from large parts of northern France, Belgium, the Netherlands, Germany and Poland. As the species is again common in large areas further north, climatic limitation is unlikely and its absence is probably due to a combination of the lack of suitable habitats and poor water quality. The nominotypical subspecies is found in most Europe. It is replaced by *O. f. unguiculatus* in the western Mediterranean, including the northern Maghreb. This subspecies is widespread and common in the Iberian Peninsula, the French Mediterranean fringes, and, except for the north-east, most of mainland Italy. Surpisingly, species from Sicily belong to the nominotypical subspecies based on the structure of the appendages. The species is absent from Corsica and Sardinia although there are suitable habitats. *O. f. albotibialis* is largely confined to south-western Asia, reaching Cyprus and the eastern Aegean islands to the west. The Caucasus might form the border between the nominotypical subspecies and *O. f. albotibialis*, which seem to be confirmed by recent fieldwork in Transcaucasia.",
+  "habitat": "*Onychogomphus forcipatus* is mainly found at unshaded or partially shaded swift to slow-flowing streams and rivers. These are most often sandy, with or without sandy gravel or stones, and sometimes predominately clayey. The species is also locally found at open beaches of large lakes, where the breaking of waves creates conditions similar to those found in running water, and at ponded backwaters fed with well oxygenated groundwater. The occurrence of the species at lakes seems to be relatively common in the north-east and the south-east of its range (Poland and Turkey). \n\n*Onychogomphus forcipatus* is found in lowlands and hilly regions, but breeding occurs up to 1 200 m in the south of Europe and to 1 600 m in Morocco.",
+  "flight_period": "",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern to Near threatened depending on subspecies",
+    "red_list_europe": "Least Concern to Near threatened depending on subspecies",
+    "red_list_mediterranean": "Least Concern to Near threatened depending on subspecies",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable to Decreasing depending on subspecie"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/onychogomphus-forcipatus-male-go%CC%88ran-liljeberg-cc-by_waonad.jpg",
+        "caption": "Onychogomphus forcipatus, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

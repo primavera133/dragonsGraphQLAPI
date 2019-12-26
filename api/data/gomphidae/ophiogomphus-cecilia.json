@@ -1,40 +1,39 @@
 {
-    "items_id": "a659cc316e4fe8ad6dea46da6bc9f39d",
-    "scientific_name": "Ophiogomphus cecilia",
-    "author_citation": "(Geoffroy in Fourcroy, 1785)",
-    "local_names": [
-        "Green gomphid"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "50-60 mm",
-        "wingspan": "60-72 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "II+IV",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/ophiogomphus-cecilia-male-go%CC%88ran-liljeberg-cc-by_reomxt.jpg",
-                "caption": "Ophiogomphus cecilia, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "a659cc316e4fe8ad6dea46da6bc9f39d",
+  "scientific_name": "Ophiogomphus cecilia",
+  "author_citation": "(Geoffroy in Fourcroy, 1785)",
+  "local_names": ["Green gomphid"],
+  "description": "The only *Ophiogomphus* in Europe. Very similar to the clubtails of the genus *Gomphus* but larger, more robust and different in colour. The eyes, frons, thorax and first segments of the abdomen are apple-green with black markings, the rest of the abdomen being yellwo and black. The legs are yellow with thin black lines. The males have parallell instead of divergent appendages. The upper appendages are yellow, not black as on *Gomphus*. The males is clearly club-tailed, with S8-S9 thickened. The females have two distinctive toothed crests on the occiput, between the eyes.",
+  "behaviour": "The species is most easily found by looking for territorial males, sitting on rocks in streams. Territories are not big so many males can, in good conditions, be spotted within a small area, especially if there is suitable perching stones. In smaller streams it is easily spotted but in larger rivers binoculars can be needed. In the morning, before they mark their territories, they may perch on the shores and can then be well approached.\n\nResting or hunting individuals are more shy and rarely let you come close. Look for them in sunny areas such as glades or clearings nearby the water. Like other *Gomphidae* they often perch directly on the ground, on rocks or in higher grass, rather than up in higher vegetation. Often they are found on sun-exposed and heated areas like footpaths, roads or exposed sand. If they perch down in high grass they might be very hard to spot before they fly up in front of you.\n\nLarvae development is 2-4 years. Exuviae are left a few decimeters up on straws near the shore, a bit up on land or on foundation of bridges or piers. Often exuviae can be found on places where no imago are seen and vice versa.",
+  "size": { "length": "50-60 mm", "wingspan": "60-72 mm" },
+  "similar_species": [
+    "Gomphus flavipes",
+    "Gompus vulgatissimus",
+    "Onychogomphus forcipatus"
+  ],
+  "distribution": "*Ophiogomphus cecilia* has a Palearctic distribution, ranging from Europe, west Siberia, Kazakhstan eastwards to Lake Baikal. The species is widespread in central and north-eastern Europe, but is generally scarce in the west and rare to absent in the south. In the core of its European range, it has a semi-continuous distribution and occurs on both streams and larger rivers. In France and Italy, however, it is largely confined to the river systems of the Loire, Rhine and Po, respectively. It is absent from the Iberian Peninsula and the southern parts of Italy, and becomes progressively rarer to the south in the Balkan Peninsula, with the southernmost populations found in the north-east of Greece and European Turkey. In eastern Europe, the species is probably more widely distributed than currently known in Belarus, north-western Ukraine and large parts of European Russia.",
+  "habitat": "*ophiogomphus cecilia* is mainly found on rivers and large streams, less frequently on small streams and sporadically on canals. In most cases the water's edge is at least partly unshaded, although bushes and trees often grow in the vicinity. Most populations of *O. cecilia* are found on rivers and streams which have a large natural geomorphology in which meanders, wild flow paths and an uncontrolled regime result in a mosaic of sand and gravel. Aquatic vegetation is largely absent due to swift water currents and the frequent changes in channels during spates. The species is absent when sand deposits are lacking, and is seldom found in fast-flowing stony mountain streams or in slow-flowing muddy or clayey rivers.",
+  "flight_period": "May to September",
+  "red_list": {
+    "habitats_directive": "II+IV",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/ophiogomphus-cecilia-male-go%CC%88ran-liljeberg-cc-by_reomxt.jpg",
+        "caption": "Ophiogomphus cecilia, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

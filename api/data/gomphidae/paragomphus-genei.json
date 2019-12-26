@@ -1,31 +1,23 @@
 {
-    "items_id": "922bb2de83769d86cd0fa8238b9d3ea8",
-    "scientific_name": "Paragomphus genei",
-    "local_names": [
-        "Common hooktail"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "37-50 mm",
-        "wingspan": "45-55 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Selys, 1841)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "922bb2de83769d86cd0fa8238b9d3ea8",
+  "scientific_name": "Paragomphus genei",
+  "author_citation": "(Selys, 1841)",
+  "local_names": ["Common hooktail"],
+  "description": "This species is small but unmistakable for its colouration and shape. It has a green thorax with two brown bands on the sides, and the abdomen is beige to brick red with black markings. The eyes are brown on top and grey light blue underneath. The wings have costa and subcosta yellowish, the other veins are blackish. The pterostigma is beige in the middle with black edges. In the males, the abdomen is slender with conspicuous flaps on S8-S10, expanded laterally and ventrally. The upper appendages are very long, light in colour and form a hook facing downwards whereas the lower appendage is half as long, is blackish and turns upwards.\n\nThe females have a colouration similar to that of the males but their abdomen is substantially cylindrical, the last three segments not being expanded.\n\nSize and colouration are similar to *Onychogomphus costae* but unlike that species *P. genei* has a pale green face and thorax with indistinct dark markings, a sandy to straw-coloured abdomen, mottled with brown and black, giving a somewhat indistinct pattern. *O. costae* has virtually no black markings and the males lack the flaps on S8-S9 that *P. genei* carries.",
+  "behaviour": "Often perches with the abdomen raised in obelisk position.",
+  "size": { "length": "37-50 mm", "wingspan": "45-55 mm" },
+  "similar_species": ["Onychogomphus costae"],
+  "distribution": "*Paragomphus genei* is the most common species of *Gomphidae* in Africa, occurring throughout a large part of the continent. In Europe it has a limited range and is known only from the south-west of the Iberian Peninsula, Sicily, Sardinia and Corsica. It is presently rather common in Sardinia and the south-west of the Iberian Peninsula, but remains rare in Corsica. The last Sicilian records dates from 1978.",
+  "habitat": "The species inhabits a very wide range of habitats, and is found throughout its range in both standing and running waters. These include perennial streams and rivers, intermittent streams, backwaters of permanent rivers, cattle ponds, pools, large lakes and man-made reservoirs. Standing waters where the species breeds often have bare shores of sand or gravel with sparse aquatic and fringing vegetation, but on rivers *P. genei* can also be found at places with well-vegetated banks. In Europe, this species is mainly restricted to lowlands and is not found over 500 m.",
+  "flight_period": "April to October",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

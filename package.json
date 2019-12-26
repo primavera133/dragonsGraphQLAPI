@@ -28,8 +28,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm test",
-      "pre-push": "npm test"
+      "pre-commit": "npm test"
     }
   },
   "repository": {
@@ -42,10 +41,7 @@
     "update-snaps": "jest --updateSnapshot",
     "lockfile-lint": "lockfile-lint --path package-lock.json --type npm --validate-https --allowed-hosts npm"
   },
-  "keywords": [
-    "Dragonflies",
-    "graphql"
-  ],
+  "keywords": ["Dragonflies", "graphql"],
   "author": "Jonas Myrenås",
   "license": "ISC"
 }

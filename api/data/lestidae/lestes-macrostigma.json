@@ -1,31 +1,23 @@
 {
-    "items_id": "6fb5ea5bde7e40d13c4b13e0ff185c59",
-    "scientific_name": "Lestes macrostigma",
-    "local_names": [
-        "Dark spreadwing"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "40-45 mm",
-        "wingspan": "45-60 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Endangered",
-        "red_list_europe": "Vulnerable",
-        "red_list_mediterranean": "Near threatened",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "(Eversmann, 1836)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "6fb5ea5bde7e40d13c4b13e0ff185c59",
+  "scientific_name": "Lestes macrostigma",
+  "author_citation": "(Eversmann, 1836)",
+  "local_names": ["Dark spreadwing"],
+  "description": "This is the largest species in the genus *Lestes*. Larger and more robust than most congeners. In young individuals, the body is bright green and with age, it gets entirely covered with light blue pruinosity. At most S3-7 are bronzy green, otherwise it is dark overall and heavily pruinose on head, entire thorax, S1-2 and S8-S10. This pruinosity has a distinctive purple to bluish hue and is extensive in both sexes and already present shortly after emergence. The pterostigma is notably large and black, bordering about three adjacent underlying cells. \n\nImmature individuals have pale brown pterostigma. Their body is more metallic when teneral, giving overlying pruinosity a peculiar lustre.\n\nOther *Lestes* has at least the upper part of the thorax bright metallic green and smaller and/or paler pterostigma.\n\nMales have distinctive short and simple lower appendages. Females ovipositor is moderately heavy, and entirely dark and pruinose, with rounded sheath.",
+  "behaviour": "",
+  "size": { "length": "40-45 mm", "wingspan": "45-60 mm" },
+  "similar_species": [],
+  "distribution": "*Lestes macrostigma* ranges from wester Europe to Mongolia. It has a fragmented distribution with locally strong populations interspersed with large areas where the species is rare or absent. The European distribution of *L. macrostigma* is largely restricted to coastal areas, the Pannonian Plain of eastern Austria and Hungary, and to small areas in the Balkans, Moldova, Ukraine and southern Russia. A small number of populations exist along the Atlantic coast of France, Portugal and Spain. The majority of the European populations occur in Mediterranean wetlands with the greatest densities of settlements found in the east, especially in Greece, where many strong populations are known. Large inland populations are found in the Pannonian Plain of eastern Austria around Neusiedler See, and, formerly, in Hungary. Other records in central Europe are rare and mostly relate to wandering individuals (e.g. Germany, Poland, Slovenia). The psecies seem to be reasonably common in the wetlands of north-western Black Sea coast, with most records coming from Ukraine. Information from the southern Urals and European Russia suggests that *L. macrostigma* is relatively widespread in the south of the European Russia, although inland records from Ukraine are rare.",
+  "habitat": "*Lestes macrostigma* is largely confined to large coastal and inland brackish wetlands with low rainfall and high evaporation, mostly in lowland areas. Reproduction takes place mostly in shallow brackish waters with a dense vegetation of Sea clubrush, Common clubrush or Sea rush. Larvae develop in temporary waters such as abandoned salt-pans, salt marshes and dune and steppe lakes with salinity up to 20-22%. The combination of salinity and desiccation makes the habitat unsuitable for many other species of invertebrates or vertebrates, hence interspecies competition and predation is reduced. The larvae grow quickly in the warm waters and emergence take place before the habitat is desiccated. Either the early desiccation of breeding sites or an above average amount of rainfall in the summer can make the habitat unsuitable for the species, resulting in strong annual fluctuations in population density. Successful reproduction of the species in freshwater has been confirmed by chemical analysis in Corsica, but the resulting populations seem to be rather short-lived.",
+  "flight_period": "March to August in the Mediterranean, later in central European regions.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Endangered",
+    "red_list_europe": "Vulnerable",
+    "red_list_mediterranean": "Near threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Decreasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

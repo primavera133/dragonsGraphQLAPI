@@ -1,31 +1,23 @@
 {
-    "items_id": "7673b84f4a35fafa1abd83ed6bd4e830",
-    "scientific_name": "Lestes virens",
-    "local_names": [
-        "Small spreadwing"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "30-40 mm",
-        "wingspan": "38-45 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Charpentier, 1825)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "7673b84f4a35fafa1abd83ed6bd4e830",
+  "scientific_name": "Lestes virens",
+  "author_citation": "(Charpentier, 1825)",
+  "local_names": ["Small spreadwing"],
+  "description": "Our most delicate *Lestes*, and normally easily separated by stature and colouration, although some Iberian populations recall *L. barbarus*. Most easily distinguished from the other *Lestes* species, except *L. barbarus* by the bi-coloured back of the head; it has a yellow lower part, a metallic green upper part with a sharp contrasting edge between the both. The body is brown-green and in males the abdomen has, uniquely, light blue pruinosity limited to S9 and S10 and absent from the base (S1 and S2). The lower abdominal appendages are light in colour. \n\nThe pterostigma is rectangular, light brown and outline with white. \n\nMales lower abdominal appendages are noticeably short and straight. Females ovipositor is fairly weak; its pale sheath is more pointed than on *L. barbarus* but less than *L. dryas* and *L. sponsa*.\n\nSome Iberian populations have the outer third part of the pterostigma pale yellow and are deceptively close-looking to *Lestes barbarus* (although *L. barbarus* has no blue pruinosity). Species from Africa, Iberian Peninsula, southern France and the Tyrrhenean islands have reduced dark markings, most clearly on the thorax.\n",
+  "behaviour": "",
+  "size": { "length": "30-40 mm", "wingspan": "38-45 mm" },
+  "similar_species": ["Lestes barbarus", "Lestes sponsa", "Lestes dryas"],
+  "distribution": "*Lestes virens* range from western France, Iberia and northern Africa to Central Asia.In Europe it is widespread but the density of the populations vary greatly between regions and the species is rare in relatively large areas. Its northern limit reaches the south of Sweden and the Baltic states with a single record known from the south coast of Finland. Remarkably, it is absent from Great Britain and Ireland although suitable habitats and climate seem to be present in these countries.",
+  "habitat": "*Lestes virens* is found in a variety of standing waters, either seasonal or permanent, particularly in lakes, ponds bordered with bushes, reeds, rushes, sedges and grasses, marshes and brackish swamps, and also in acidic peat bogs. The water bodies are often located in the vicinity of forests, where they are sheltered from the wind. They need to be exposed to direct sunlight and are often shallow. The species is most common in lowlands, although it has been found up to 1 40 m in the south of its range.",
+  "flight_period": "May to November in the southern part of the range, June to August up north.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

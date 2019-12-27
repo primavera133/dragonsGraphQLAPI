@@ -1,33 +1,27 @@
 {
-    "items_id": "2523eb23ee21d51ae1e1042c8bee1452",
-    "scientific_name": "Lestes barbarus",
-    "local_names": [
-        "Migrant spreadwing",
-        "Southern emerald damselfly",
-        "Shy emerald damselfly"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "35-40 mm",
-        "wingspan": "45-55 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Fabricius, 1798)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "2523eb23ee21d51ae1e1042c8bee1452",
+  "scientific_name": "Lestes barbarus",
+  "author_citation": "(Fabricius, 1798)",
+  "local_names": [
+    "Migrant spreadwing",
+    "Southern emerald damselfly",
+    "Shy emerald damselfly"
+  ],
+  "description": "Like all of the other representatives of the family *Lestidae* it has the typical resting position with wings spread halfway open. The species can be directly identified by the bi-coloured pterostigma in the mature adults. The body is metallic green, yellowish underneath with the back part of the head light yellow and and the end of the abdomen and upper terminal appendages light in colour. \n\n*Lestes barbarus* and *Lestes virens* are the only species in this family having the lower back of the head yellow (with a sharp contrast to the green upper part, distinguishing it from light-coloured tenerals of other species). The lower abdominal appendages of the male have thin and divergent tips. The ovipositor of the female is completely white with rounded valves. \n\nDiffers from *L. virens* and others by:\n1. Pale brown pterostigma, with outer half pale yellow.\n2. Pale yellow markings more extensive, most notably in the wide antehumeral stripes, pale-sided S9-S10 and whitish appendages.\n3. Male is barely pruinose; at most lightly and notably white on S10. \n\nIn parts of Iberia *L. virens* also has a two-tone pterostigma, but its pale portion occupies only about one-third, and bluish pruinosity is usually present on S9-10 of males.",
+  "behaviour": "A strong wanderer and opportunist, good years it can migrate far away into new territories. Adults can thus be found far away from water, in theory just about anywhere. It typically choses habitats prone to desiccation, often seen ovipositing in completely dry areas. Look for it in and around very small waters even if they have desiccated. Search in medium-high vegetation where the sun reaches the ground in coastal regions as shallow lagoons, among dunes and other intermittent waters, created by floods. \n\nEggs are laid in dry vegetation and is hatched in spring if they become flooded. Exuviae are found low in vegetation on the shore or on straws out in the water.",
+  "size": { "length": "35-40 mm", "wingspan": "45-55 mm" },
+  "similar_species": ["Lestes virens"],
+  "distribution": "*Lestes barbatus* is common in southern and central Europe and is at presently common in Belgium, the Netherlands, northern Germany and Poland. Up to the 1990s it was rare in large parts of central and west Europe, being largely dependent on sporadic invasion from the south. Since 2000 it has expanded its range further northwards reaching Denmark, Lithuania and the south of both Great Britain and Sweden. ",
+  "habitat": "*Lestes barbatus* favours sunny and shallow, often temporary, soft and brackish standing waters.The larvae are able to survive at salinity levels of 13%. Suitable habitats include large coastal wetlands, inland lakes, ponds, gravel pits, dune lakes and shallow bogs. The species is quick to colonise new habitats and often occurs at temporary ponds that are flooded in spring and desiccate during summer. Oviposition often takes place when the habitat is dry and eggs remain in diapause until the habitat is flooded again in spring.",
+  "flight_period": "April to October in the southern parts, June to early September in the north.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

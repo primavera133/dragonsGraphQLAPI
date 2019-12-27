@@ -1,31 +1,23 @@
 {
-    "items_id": "2db406c7a6d68e417b511d6019c883b3",
-    "scientific_name": "Lestes sponsa",
-    "local_names": [
-        "Common spreadwing"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "35-40 mm",
-        "wingspan": "40-45 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Hansemann, 1823)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "2db406c7a6d68e417b511d6019c883b3",
+  "scientific_name": "Lestes sponsa",
+  "author_citation": "(Hansemann, 1823)",
+  "local_names": ["Common spreadwing"],
+  "description": "The most widespread and numerous *Lestes* in many areas, probably due to less partial to ephemeral habitats. This damselfly is metallic green in colour with light blue pruinosity in male adults. It is very similar to *Lestes dryas* and it is difficult to distinguish them at first sight, though *L. dryas* is usually more robust. In females the distinctive characters are a couple of spots forming a sort of semicircle on the first abdominal segment, S1, while on *L. dryas* the spots are rectangular. The ovipositor does not extend beyond S10 on *L. sponsa*, while on *L. dryas* it does extend beyond S10. The pronotum is metallic in colour on *L. sponsa*. \n\nThe males have the first and second segments with light blue pruinosity, while in *L. dryas* they are only partly blue. The lower appendages are unique, long and straight, with narrow tips. On *L. dryas* they are curved and have enlarged tips. \n\nIn immature individuals of both sexes, the pterostigmas are whitish and get darker until becoming brown or blackish. \n\nSeparated from *L. barbarus* and *L. virens* by the dark underside of the head, dark pterostigma (when mature) and more extensive pruinosity. *Chalcolestes parvidens* and *C. viridis* lack pruinosity, have whitish appendages, a larger and paler pterostigma and a diagnostic thorax marking. *L. macrostigma* has a larger pterostigma and a darker more pruinose body with almost no hint of green.",
+  "behaviour": "After mating, the female, in tandem with the male, lay eggs in the tissues of water plants, starting from the emerged part and ending in submerged part, even submerging herself completely in the process.",
+  "size": { "length": "35-40 mm", "wingspan": "40-45 mm" },
+  "similar_species": ["Lestes dryas", "Lestes virens", "Lestes barbarus"],
+  "distribution": "*Lestes sponsa* is found from western Europe to Japan and is generally common within its range. IT is common and widespread throughout Europe with the exception of the Mediterranean and northern Fennoscandia. It is rare on the MEditerranean coasts and is often confined to higher altitudes in the south of its range.",
+  "habitat": "*Lestes sponsa* inhabits a wide range of standing, largely unshaded waters with emergent vegetation, including ditches, ponds, lakes and peat bogs. This includes both permanent and temporary waters and waters that are acidic, alkaline or brackish. It can be numerous at newly created shallow habitats but most often occurs at well-vegetated waters. *Lestes sponsa* has a wide altitudinal range and reproduces from sea level up to 2 500 m.",
+  "flight_period": "May to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

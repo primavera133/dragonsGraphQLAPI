@@ -1,31 +1,23 @@
 {
-    "items_id": "abd0084146e8e6bf18191bf44c39c0cc",
-    "scientific_name": "Sympecma paedisca",
-    "local_names": [
-        "Siberian winter damselfly"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "35-40 mm",
-        "wingspan": "35-45 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "IV",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Endangered",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "Burmeister, 1839",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "abd0084146e8e6bf18191bf44c39c0cc",
+  "scientific_name": "Sympecma paedisca",
+  "author_citation": "Burmeister, 1839",
+  "local_names": ["Siberian winter damselfly"],
+  "description": "This species is light brown with portions of the head, thorax and abdomen darker and with a metallic shine. In Europe it can only be confused with *Sympecma fusca* from which it differs by the pattern on the thorax. On *S. fusca* the upper dark band's outer edge on the thorax is straight, whereas on *S. paedisca* it has a bulge. The lower dark band of the thorax is narrower on *S. paedisca* than on *S. fusca* and at times not continuous. The two species of this genus are also different in the shape of the male abdominal appendages. The lower appendages are slim, and their tips reach as far as or longer than the tips of the basal teeth of the upper appendages. In spring the eyes turn blue on the males.\n\nCharacteristic of this genus is the position of the wings at rest: often kept close to one side of the abdomen. Pterostigma are long and brown, and occupying a different position on the wings; closer to the tip on the fore wing, farther from the tip on the hind wing.",
+  "behaviour": "Belonging to the only genus to hibernate as imagos, *Sympecma paedisca* leaves water at the end of the summer to sit on a grass straw and wait for the spring. It seems these overwintering areas must not be too humid. In the spring it is one of the first to return to the water again.",
+  "size": { "length": "35-40 mm", "wingspan": "35-45 mm" },
+  "similar_species": ["Sympecma fusca"],
+  "distribution": "*Sympecma paedisca* is rare to uncommon in most of its European range with the exception of the north-east. The latter area include large parts of Poland, the Baltic states and the southern margin of Finland. The species is probably under-recorded in Belarus, northern Ukraine and European Russia. In western Europe, it is limited to a narrow strip running from the Netherlands across northern Germany to Poland. In central Europe it occurs on the northern side of the Alps, in Bavaria, Baden Württemberg and Austria, with additional relict populations found in the south-west of Switzerland and in the western mountains of the Czech Republic. South of the Alps, the species survives in northern Italy but is extinct in lower alpine area of south-eastern France.",
+  "habitat": "Considering its scarcity, *S. paedisca* is found in a remarkably wide variety of habitats. In Europe, it occurs in mesotrophic to hypertrophic standing or, seldom, slow-flowing waters. These range from large lakes, fenlands and peat-bogs to gravel pits. In the Netherlands it is restricted to mesotrophic fenlands but in north-eastern Germany and Poland it is mainly found in small forest lakes which are often eutrophic or hypertrophic. The species behaves more like a generalist to the east and in eastern Poland it is found in all kinds of standing waters. The habitats always have an abundance of bank side and aquatic vegetation. \n\nAs in *S. fusca* the adults hibernate and mate and lay eggs in spring. Emergence of the new generation takes place in the second half of the summer, after which the adults leave the reproduction site to hibernate often far from their larval habitat. Different habitat types can be suitable for overwintering as long as there is knee-high herbs or grasses protected by higher bushes or trees. This low vegetation is used in autumn for foraging perches and in winter as a refuge, with the surrounding higher vegetation providing shelter from the wind. In the Netherlands it was noted that the adults prefer relatively dry conditions during winter, suggesting that they are sensitive to moisture.",
+  "flight_period": "August-September first year and then April-May the next year.",
+  "red_list": {
+    "habitats_directive": "IV",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Endangered",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Decreasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

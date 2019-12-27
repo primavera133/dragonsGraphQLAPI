@@ -1,31 +1,23 @@
 {
-    "items_id": "0ff9e5bf13aa0b67d051f5a47818d268",
-    "scientific_name": "Chalcolestes parvidens",
-    "local_names": [
-        "Eastern willow spreadwing"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "40-48 mm",
-        "wingspan": "46-56 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Data Deficient",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Unknown"
-    },
-    "author_citation": "(Artobolevsky, 1929)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "0ff9e5bf13aa0b67d051f5a47818d268",
+  "scientific_name": "Chalcolestes parvidens",
+  "author_citation": "(Artobolevsky, 1929)",
+  "local_names": ["Eastern willow spreadwing"],
+  "description": "First described as a subspecies of *Chalcolestes viridis*, but the species was recently properly split into a specie of its own. The two species were found to be overlapping in Italy and the Balkans. \n\nThe difference between the two species are quite small. In *C. parvidens* the pterostigma is darker than in *C. viridis*, in which it is light brown with a black border. However, in immature individuals it is in any event very light in colour and therefore it is not a reliable character for identification. The scientific difference is based on the different shape of the upper terminal abdominal appendages in males: the inner surface has a small tooth which is well developed in *C. viridis* but hardly noticable in *C. parvidens*, in which it rather has a laminar shape. In addition, the lower end of the upper abdominal appendages in *C. viridis* has a rather large dark portion, whereas in *C. parvidens* the black portion is limited to a spot at the tip.\n\nFemales are characterised by having 6-8 denticles on the lower margin of the ovipositor valves, whereas females of *C. viridis* have 10-14 such denticles.",
+  "behaviour": "Behaves much like *Chalcolestes viridis* but may oviposit in non-woody materials. In mixed populations in Italy, most activity of *C. parvidens* was observed in the morning, while *C. viridis* was more active in the afternoon. *C. parvidens* is also active earlier in the season than *C. viridis*.\n\nIn Bulgaria and Greece there has been noted a dip in numbers near water in August. It has been suggested that this is due to adults leaving the water during the hottest period of the year.\n\nIn September numbers rise again and the flight season last well into November.",
+  "size": { "length": "40-48 mm", "wingspan": "46-56 mm" },
+  "similar_species": ["Chalcolestes viridis"],
+  "distribution": "The species is limited to the Western Palearctic, where it extends from Italy across south-eastern Europe to the Levant, Turkey, Transcaucasia, Ukraine and the north-west of Iran. Due to the recent split its exact distribution is still not precisely known. In Europe the species is known from Corsica, Sicily, mainland Italy, central and south-east Europe and Ukraine. The northernmost record are from Slovenia, south-east Austria, Hungary and the south of Slovakia. Most of the records of *chalcolestes* from Hungary refer to larvae and has not been identified down to species level, thus the extent of *C. parvidens* in Hungary might be greater than what is currently known. In Romania the species is only known from lowlands in the west, the south and the east, but it is probably more widespread. It has not been recorded with certainty from Moldova. It is regionally common in the marshlands along the Danube and the Dnieper Rivers in southern Ukraine, but seems to be scattered in other parts of this country.",
+  "habitat": "*Chalcolestes parvidens* seem to have the same habitat preferences as *C. viridis* and reproduces both in standing and slow-flowing waters surrounded by trees and bushes. These should have soft bark and wood to be used by the females for laying eggs (even though *C. parvidens* can oviposit in other non-woody material as well). The species is rare to absent in fast-flowing streams and acidic waters such as bogs.",
+  "flight_period": "Early May to November. It becomes easier to spot in September when the adults return to the water for reproduction.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Data Deficient",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

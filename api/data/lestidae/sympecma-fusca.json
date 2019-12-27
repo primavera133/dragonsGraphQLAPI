@@ -1,31 +1,23 @@
 {
-    "items_id": "be7aae3041e500439e9fde5c307eb4d8",
-    "scientific_name": "Sympecma fusca",
-    "local_names": [
-        "Common winter damselfly"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "35-40 mm",
-        "wingspan": "35-45 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "author_citation": "(Vander Linden, 1820)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "be7aae3041e500439e9fde5c307eb4d8",
+  "scientific_name": "Sympecma fusca",
+  "author_citation": "(Vander Linden, 1820)",
+  "local_names": ["Common winter damselfly"],
+  "description": "This species is light brown with portions of the head, thorax and abdomen darker and with a metallic shine. In Europe it can only be confused with *Sympecma paedisca* from which it differs by the pattern on the thorax. On *S. fusca* the upper dark band's outer edge on the thorax is straight, whereas on *S. paedisca* it has a bulge. The lower dark band of the thorax is narrower on *S. paedisca* than on *S. fusca* and at times not continuous. The two species of this genus are also different in the shape of the male abdominal appendages. The lower appendages are slim, and their tips reach as far as or longer than the tips of the basal teeth of the upper appendages. In spring the eyes turn blue on the males.\n\nCharacteristic of this genus is the position of the wings at rest: often kept close to one side of the abdomen. Pterostigma are long and brown, and occupying a different position on the wings; closer to the tip on the fore wing, farther from the tip on the hind wing.",
+  "behaviour": "Belonging to the only genus to hibernate as imagos, *Sympecma fusca* leaves water at the end of the summer to sit on a grass straw and wait for the spring. It seems these overwintering areas must not be too humid. In the spring it is one of the first to return to the water again.",
+  "size": { "length": "35-40 mm", "wingspan": "35-45 mm" },
+  "similar_species": ["Sympecma paedisca"],
+  "distribution": "*Sympecma fusca* is common in southern and central Europe. The species becomes scarcer to the north through the Netherlands, Germany and Poland. North of these countries it is generally rare although presently increasing, and is found in Sweden, Belarus and the Baltic states.A vagrant was found in Great Britain in 2008.",
+  "habitat": "*Sympecma fusca* occurs at fairly shallow, standing or slow-flowing waters with abundant bank-side vegetation. The presence in spring of floating plant remains is essential as these are used for oviposition. The species use a variety of habitats, such as bogs, marshes, ponds, large lakes and gravel pits. It mates and lay eggs throughout the spring, and the new adults emerge in summer and hibernate before before reproducing the next spring. The habitat needs to have a sufficiently warm local climate that allows the adults to be active in the spring and larvae to develop over a period of several weeks to three months. After emergence, the adults feed until autumn, after which they disperse to find overwintering sites. The latter are often several kilometers from the reproduction site and often include vegetation of tall (0.5 m to 1 m) dead herbs or grasses near or in open forests. *Sympecma fusca* is most common in the lowlands, but has also been found up to 1 600 m in southern Europe.",
+  "flight_period": "August-September first year and then April-May the next year.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

@@ -1,34 +1,28 @@
 {
-    "items_id": "d3380daf3b484f58046d9ea581d64cec",
-    "scientific_name": "Lestes dryas",
-    "local_names": [
-        "Emerald spreadwing",
-        "Scarce emerald damselfly",
-        "Robust spreadwing",
-        "Turlough spreadwing"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "40-45 mm",
-        "wingspan": "45-60 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "Kirby, 1890",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "d3380daf3b484f58046d9ea581d64cec",
+  "scientific_name": "Lestes dryas",
+  "author_citation": "Kirby, 1890",
+  "local_names": [
+    "Emerald spreadwing",
+    "Scarce emerald damselfly",
+    "Robust spreadwing",
+    "Turlough spreadwing"
+  ],
+  "description": "This damselfly is metallic green to bronze-green in colour with light blue pruinosity in mature adults. This species is very similar to *Lestes sponsa* from which it is difficult to distinguish at first sight, though *L. dryas* is usually more robust, especially females. In females the distinctive characters are two rectangular spots on the first abdominal segment (S1). The shape being a semi-circle in *L. sponsa*. The ovipositor is large and extends beyond S10 (in *L. sponsa the ovipositor does not extend beyond S10). The pronotum is metallic in colour. \n\nMales have part of the second segment (S2) without the blue pruinosity, unlike *L. sponsa* which has the whole of S2 pruinose. The lower appendages have curved and enlarged tips, while being straight and narrow in *L. sponsa*. Rarely some females are blue like the males with blue eyes.\n\nTeneral individuals first have a matte green colour which gives the impression of having a thin grey film covering the green. Soon the green parts become more vivid while the yellow parts become more unsaturated.\n\nSeparated from *L. barbarus* and *L. virens* by the dark underside of the head, dark pterostigma (when mature) and more extensive pruinosity. *Chalcolestes parvidens* and *C. viridis* lack pruinosity, have whitish appendages, a larger and paler pterostigma and a diagnostic thorax marking. *L. macrostigma* has a larger pterostigma and a darker more pruinose body with almost no hint of green.\n\n",
+  "behaviour": "Not a species to make any spectacular show and can be easily overlooked. Often it occurs in lesser numbers than similar species and numbers fluctuate a lot between years. However, it can locally be abundant. It usually emerges slightly earlier than the other *Lestes* species. To find it you might need to find areas where water is hardly seen between the vegetation, like in high grass or between tufts.",
+  "size": { "length": "40-45 mm", "wingspan": "45-60 mm" },
+  "similar_species": ["Lestes sponsa"],
+  "distribution": "*Lestes dryas* is a Holarctic species occuring in both the northern part of Eurasia and North America. In Africa it is found only in the north of Morocco. It is widespread in most of Europe although it is absent from the northern parts of Fennoscandia and has a more scattered occurrence in the Mediterranean region. It is absent from most of the Mediterranean islands. It is common in the lowlands of central Europe but large populations in the south of its range are mostly found in higher altitudes.",
+  "habitat": "*Lestes dryas* is found at standing waters such as ponds, small lakes, bogs and occasionally gravel pits, and is mostly found in habitats with a dense growth of rushes and sedges. It favours standing waters and swamps that partially or completely dry out in the course of summer, but is also found at permanent waters that have shallow edges with rushes or grasses providing warm micro-habitat for the larvae.",
+  "flight_period": "April to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

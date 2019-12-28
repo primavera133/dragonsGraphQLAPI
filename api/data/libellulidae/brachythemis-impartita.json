@@ -1,29 +1,23 @@
 {
-    "items_id": "1fdfb87b2e86754310fdbbd81731b6c0",
-    "scientific_name": "Brachythemis impartita",
-    "local_names": [],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "25-34 mm",
-        "wingspan": "45-57 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "author_citation": "(Karsch, 1890)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "1fdfb87b2e86754310fdbbd81731b6c0",
+  "scientific_name": "Brachythemis impartita",
+  "author_citation": "(Karsch, 1890)",
+  "local_names": ["Northern banded groundling"],
+  "description": "This dragonfly is common in Africa but also present in some parts of Europe. It is rather small, about the size of *Sympetrum sanguineum*, but more robust.\n\nThe males can easily be identified by the dark body, almost black, and the dark bands crossing the wings between node and pterostigma. In both sexes, the pterostigma is rather long, whitish in colour with the outer end dark. The legs are yellowish with black lines. The females are sandy coloured with dark line on the thorax, the abdomen has a black carina (a keel-like ridge along the upper side) and blackish lines on the side of each segment. The eyes are grey on the lower part and light brown on the upper part with dark crosswise striations. Unlike the males, usually the females have hyaline wings. The immature males have a colour similar to that of the females and also lack the bands on the wings. In fact, the latter are not present at the emergence but appear and gradually darken during the maturation, like the rest of the body, eyes included. At times, even the old females have the wing bands, but in any event they are lighter in colour than those of the males. \n\nOnly *Sympetrum pedemontanum* has similar bands on the wings but different in colour and closer to the pterostigma. However, the species are immediately distinguishable since the females of *S. pedemontanum* are bright yellow and the males are red with pterostigmas also red. Furthermore, the two species are not knowing to overlap.\n\nIn Turkey, immature individuals can be similar to *Brachythemis fuscopalita*, but that species has uniformly coloured pterostigma.",
+  "behaviour": "In Africa this species is commonly found at waterholes fluttering in the footsteps of big game. Prefers to fly over and to perch on bare ground, frequently following large mammals, such as cattle or humans, probably to prey on disturbed insects. Often found in dense aggregations in the shade during midday heat.",
+  "size": { "length": "25-34 mm", "wingspan": "45-57 mm" },
+  "similar_species": ["Sympetrum pedemontanum"],
+  "distribution": "*Brachythemis impartita* is a newcomer to Europe, being first recorded in Portugal in 1957. Further findings remained rare until the beginning of the eighties, with first records in Spain in 1961, Sardinia 1979 and Sicily in 1980. Since then, the species has expanded to Cyprus and Corsica. At present, it is locally common in southern Sicily, Sardinia and the south-west of the Iberian Peninsula. Scattered records are known from central and eastern parts of Spain. Densities can be locally very high and the species is, for example, the most common summer dragonfly on Sardinia. Over 10 000 adults were recently seen along several hundred meters of the shoreline of a Portuguese barrage dam and the lake itself was estimated to be home to millions of individuals. For Cyprus there is only one record of three individuals observed in August 2006 and it is unclear if the species has established on the island.",
+  "habitat": "*Brachythemis impartita* breeds in a wide range of stagnant water bodies with a preference for large lakes. Many European populations established on large manmade barrage lakes. the species is also found onslow flowing rivers. Preferred habitats have open water with varying level and are surrounded by gentle sloping and fully sun-exposed dirt banks with little or no vegetation. The species often occurs in high densities and shows nomadic behaviour, resulting in a readily colonisation of newly created water bodies and in records of vagrants outside of its breeding range.",
+  "flight_period": "April to October",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

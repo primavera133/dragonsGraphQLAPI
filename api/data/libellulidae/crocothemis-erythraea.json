@@ -1,34 +1,28 @@
 {
-    "items_id": "e4df54a4cb80c34cf85abae65aa57698",
-    "scientific_name": "Crocothemis erythraea",
-    "local_names": [
-        "Broad scarlet",
-        "Common scarlet-darter",
-        "Scarlet darter",
-        "Scarlet dragonfly"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "35-45 mm",
-        "wingspan": "50-70 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "author_citation": "(Brullé, 1832)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "e4df54a4cb80c34cf85abae65aa57698",
+  "scientific_name": "Crocothemis erythraea",
+  "author_citation": "(Brullé, 1832)",
+  "local_names": [
+    "Broad scarlet",
+    "Common scarlet-darter",
+    "Scarlet darter",
+    "Scarlet dragonfly"
+  ],
+  "description": "The males in this species are completely red, with head, eyes and abdomen bright red and thorax red to brown red. The immature males and females are brown-yellow with yellow legs. In some rare cases, the females have a colour similar to the males, in any event with some parts being brown yellow. The abdomen of *Crocothemis erythraea* is widened at the base and flattened and is often crossed by a thin dark line. The terminal appendages are closely spaced in the males and spaced apart in the females. The wings are transparent with a large amber-yellow patch at the base of the hind wings and a small one on the fore wings. Pterostigma are very long and light-brown in colour. This species tends to mate in flight, although it might happen that the couple lands or perches. However, unlike most of the other species in the family *Libellulidae*, the mating only lasts a short time and immediately afterwards the females lay their eggs with the male flying around protecting her.\n\nThe amber-yellow patch on the wings, the broad body and the absence of black on the legs, head and thorax separate this species from all others except *Crocothemis servilia*.",
+  "behaviour": "",
+  "size": { "length": "35-45 mm", "wingspan": "50-70 mm" },
+  "similar_species": ["Crocothemis servilia"],
+  "distribution": "An African and south-east Asian species extending its range into Europe. Once only common in the Mediterranean region but is now becoming an increasingly common sight further north. It is now common in most of southern and central Europe. The lack of records parts of south-east Europe is largely due to insufficient fieldwork. The species has expanded northwards in recent decades and had a first sighting in Sweden in 2019 and is expected to continue its expansion northwards in the coming decades.\n",
+  "habitat": "The species occurs in a wide range of running and standing unshaded waters, including rice paddies and brackish lagoons. In the northern part of its range, it is mostly found in well-vegetated waters of reasonably shallow depth. Seeks out warmer micro-climates in the north.",
+  "flight_period": "April to October",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

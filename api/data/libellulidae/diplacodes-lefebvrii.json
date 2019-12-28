@@ -1,32 +1,27 @@
 {
-    "items_id": "e0447276af6e61642f7267ffc4ec04d1",
-    "scientific_name": "Diplacodes lefebvrii",
-    "local_names": [
-        "Black percher",
-        "Black ground skimmer"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "mm",
-        "wingspan": "mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "",
-        "red_list_EU27": "",
-        "red_list_europe": "",
-        "red_list_mediterranean": "",
-        "EU27_endemic": "",
-        "red_list_europe_endemic": "",
-        "trend_europe": ""
-    },
-    "author_citation": "(Rambur, 1842)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "e0447276af6e61642f7267ffc4ec04d1",
+  "scientific_name": "Diplacodes lefebvrii",
+  "author_citation": "(Rambur, 1842)",
+  "local_names": ["Black percher", "Black ground skimmer"],
+  "description": "Small dragonfly in which the mature males are completely black with purple eyes and terminal appendages which are lighter in colour. The colour of the body is very variable depending on age and sex. The wings have rounded tips and a large pterostigma that is light-brown in colour. The the base of the hind wings is a small brown-yellow to dark brown triangular patch. Appendages are the last to turn black, resulting in a characteristic white tip on an otherwise all black dragonfly.\n\nThe immature males and females are black and straw-coloured with some yellow at the hindwing base. The abdomen is black with triangular light-yellow spots on the sides up to S8, sometimes S9. The old females tend to darken like the males, but are more opaque. Some tenerals in arid areas can appear almost uniformly yellow.\n\nMost likely to be confused with *Trithemis festiva* in the east of its range, but this species is larger and has pointed tips on the wings, a small black pterostigma and a body that is dark blue, rather than all black.\n\nAll stages can be confused with *Selysiothemis nigra*, but that species has broad, pale-veined wings, with a short pterostigma and no basal markings. \n\nIn general appearance similar to *sympetrum danae* but very unlikely to co-occur.",
+  "behaviour": "Males perch among marsh vegetation and are quite aggressive, but are easily overlooked on account of their small size and dark colour.",
+  "size": { "length": "25-32 mm", "wingspan": "40-58 mm" },
+  "similar_species": [
+    "Trithemis festiva",
+    "Selysiothemis nigra",
+    "Sympetrum danae"
+  ],
+  "distribution": "*Diplacodes lefevbrii* is a widespread and common Afrotropical species wich extends eastwards over southern Arabia, the Persian Gulf coasts and to inland Iran to Pakistan and south-western India. The European range is confined to Rhodes, Cyprus and the south-west of the Iberian Peninsula. The first Italian population was discovered in 2014 at a pond on Carloforte Island, south-west Sardinia. As in the western Maghreb, the species remain rare in southern Europe.",
+  "habitat": "*Diplacodes lefevbrii* inhabits unshaded fresh and brackish standing waters, drainage ditches and sometimes quiet reaches of streams. It is mostly found in natural or man-made pools and at well vegetated lakes and flooded depressions with stretches of marshy vegetation, in both inland and coastal situations. Primary habitats for the European populations seem to be (brackish) coastal wetlands and dune ponds. The creation of inland ponds and barrage lakes seem to have favoured the expansion of the species away from their coastal habitats, which is also the case with *Orthretum trinacria*. In most localitites dense and relatively low vegetation is present, often consisting of grasses and sedges. In Cyprus, the species was found at a man-made lake fringed with reed and Reed-mace. In Tunisia it is frequent in brackish drainage ditches in oases. In Namibia the species is often observed at waters with grass-like vegetation and mats of floating algae.",
+  "flight_period": "April to November",
+  "red_list": {
+    "habitats_directive": "",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "",
+    "trend_europe": ""
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

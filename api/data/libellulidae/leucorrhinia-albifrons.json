@@ -1,48 +1,43 @@
 {
-    "items_id": "e4df54a4cb80c34cf85abae65aa57699",
-    "scientific_name": "Leucorrhinia albifrons",
-    "author_citation": "(Burmeister, 1839)",
-    "local_names": [
-        "Dark whiteface"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "",
-        "wingspan": ""
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/leucorrhinia-albifrons-male-go%CC%88ran-liljeberg-cc-by_jc1man.jpg",
-                "caption": "Leucorrhinia albifrons, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/leucorrhinia-albifrons-female-go%CC%88ran-liljeberg-cc-by_cqwv35.jpg",
-                "caption": "Leucorrhinia albifrons, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "e4df54a4cb80c34cf85abae65aa57699",
+  "scientific_name": "Leucorrhinia albifrons",
+  "author_citation": "(Burmeister, 1839)",
+  "local_names": ["Dark whiteface"],
+  "description": "*Leucorrhinia albifrons* males are the darkest and dullest of the *Leucorrhinia* species. It is dark grey, their abdomen is slender and cylindrical with the base covered in light-blue pruinosity. The pterostigma is dark and the appendages are white in both the sexes. The immature males and females are black with small yellow spots. The frons is white and light-coloured spots are present on the sides of the labium. \n\nIt can be distinguished from *L. caudalis* by the dark pterostigma and the abdomen which is not clubbed in the males and by the very small yellow spots on the abdomen on the females.\n\nIt can be distinguished from the other *Leucorrhinia* species by:\n1. Largely dark without reddish spots; yellow markings restricted and visible only in females and immature males.\n2. Abdominal spots small and confined to S2-S6, at most a trace on S7.\n3. Appendages white in both sexes.\n4. Mature males are all-dark with bluish-grey pruinosity, especially at the abdomen base and wing joints. The thickest pruinosity covers S3-4, but thin pruinosity may also cover the thorax (e.g. between the wings). \n",
+  "behaviour": "OFten perches in bankside bushes or trees. Unlike *L. caudalis* seldom perches on lilypads.",
+  "size": { "length": "33-39 mm", "wingspan": "46-56 mm" },
+  "similar_species": ["Leucorrhinia caudalis"],
+  "distribution": "*Leucorrhinia albifrons* is a Palearctic species ranging from western and northern Europe to the north-east of the Altai mountains. Although relatively few records are available from its Asian range, the species is probably more widely distributed in the region, but generally uncommon. Despite its relatively large range, *L. albifrons* is one of the rarest European odonate species and throughout its range population density is low. The principal area of occurrence runs from eastern Germany and southern Fennoscandia to the Ural Mountains. The paucity of records from Belarus and Russia, in contrast to the numerous sites known from the Baltic states and southern Urals, is probably due to limited surveys. In this case, the majority of the European populations are probably to be found in Russia. To the south, only a few localities are known from Ukraine, including the Crimean Peninsula. In central Europe, the species' range continues through the Czech Republic, Austria, Germany, the Netherlands and Switzerland to the Jura and the Alpine regions of eastern France. In this part of its range, the species is generally rare with widely scattered and generally small populations. An exception is the area in western France along the Atlantic coast of Aquitaine, where *L. albifrons* is widespread in acid peaty bogs and dune lakes in the Pine forest.",
+  "habitat": "*Leucorrhinia albifrons* is mainly found at oligotrophic to mesotrophic acidic lakes which are largely unshaded but often surrounded by forests. Many populations occurs at *Sphagnum* peat bogs and in lakes which are part of larger bog systems. Suitable habitats often have dark, organic-rich but non-turbid, water and genrally have extensive bank side vegetation including peat rafts and moderately dense emergent and floating vegetation. More rarely the species is found at oligotrophic alkaline or weakly eutrophic lakes, oxbows with clear water or flooded quarries. It can coexist with fish in habitats where the vegetation offers shelter against predation; otherwise it is restricted to acidic waters, where fish are absent. It is largely confined to lowlands and rarely occures above 500 m, although it has been found up to 1 150 m in the Jura Plateau and up to 1 400 m in the French Alps.",
+  "flight_period": "End of April to mid-August, with peak in June",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/leucorrhinia-albifrons-male-go%CC%88ran-liljeberg-cc-by_jc1man.jpg",
+        "caption": "Leucorrhinia albifrons, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/leucorrhinia-albifrons-female-go%CC%88ran-liljeberg-cc-by_cqwv35.jpg",
+        "caption": "Leucorrhinia albifrons, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

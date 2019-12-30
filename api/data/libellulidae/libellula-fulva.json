@@ -1,48 +1,47 @@
 {
-    "items_id": "0162e21210816c54d41f094c982504f1",
-    "scientific_name": "Libellula fulva",
-    "author_citation": "(Müller, 1764)",
-    "local_names": [
-        "Scarce chaser"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "42-45 mm",
-        "wingspan": "65-76 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/libellula-fulva-male-go%CC%88ran-liljeberg-cc-by_ljzfcy.jpg",
-                "caption": "Libellula fulva, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/libellula-fulva-female-go%CC%88ran-liljeberg-cc-by_hugveh.jpg",
-                "caption": "Libellula fulva, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "0162e21210816c54d41f094c982504f1",
+  "scientific_name": "Libellula fulva",
+  "author_citation": "(Müller, 1764)",
+  "local_names": ["Scarce chaser"],
+  "description": "In immature stages, both sexes are orange in colour with a dorsal black band along the length of the abdomen. The central veins of the wings are yellow. The mature females remain orange brown, getting very dark when old, while the males become dark with blue eyes, black face and frons and their abdomen becomes covered in light-blue pruinosity, except for the last three segments. Some yellow can still be seen on the sides of the abdomen. The blue pruinosity often get characteristically worn away on the mid segments, due to the females grabbing the males on that part of the abdomen.\n\nMale eyes are blue-grey as in the *Orthretum* species. With age the eyes become almost grey-white. The abdomen is visibly broader than on the *Orthretrum* species.\n\nIn both sexes, but especially on the females, the wings usually have dark tips. The hind wings have a conspicuous triangular black patch. These characteristics are usefull in distinguishing them from *Orthretrum cancellatum* or *O. coerulescens* in which the entire wings are transparent. *Libellula fulva* is easily distinguished from *L. dipressa* thanks to the abdomen being less wide and not flattened, and to not having any black patches on the fore wings. Females can look a bit like *Libellula quadrimaculata* but lack their extra black nodes on the fore edge of the wings.",
+  "behaviour": "*Libellula fulva* males keep territories but not very aggressively. Therefore many males can often be found rather densely. The male typically perches on a reed straw protruding over water and to which he comes back to after short dashes in the air. He can maintain his territory in small gaps and openings in the shoreline vegetation or perhaps in the opening made from a boat pulled up on land. \n\nImmature and female individuals are often found just about anywhere, sometimes very far from water. But most commonly they are hunting along mature males near water. Look for them in meadows, between tufts out in pasture and on edge zones along running water.\n\nMating is done sitting in a tree or a bush and can go on for hours. Afterwards ovipositioning is done with the male guarding jealously. Larvae live in bottom detritus among vegetation. Larvae development is two years. Exuviae are found up to half a meter up in vegetation close to the water.",
+  "size": { "length": "42-45 mm", "wingspan": "65-76 mm" },
+  "similar_species": [
+    "Orthretum cancellatum",
+    "Orthretum coerulescens",
+    "Libellula dipressa"
+  ],
+  "distribution": "The species is widespread in large parts of Europe but has in many areas a patchy distribution, being uncommon or even rare in parts of its range. It is absent from lost of Fennoscandia where it is restricted to southeastern Sweden and southern Finland. The species is very rare in the Iberian Peninsula and is known only from a handful of locations, although suitable habitats seem to be present. In Great Britain it is only found in the south. The only Irish record was probably a vagrant.",
+  "habitat": "*Librellula fulva* is a rather ubiquitous species and occurs at lakes, ponds, pools, low peat marshes, coastal wetlands, drainage ditches and slow-flowing canals and rivers. Occasionally it is also found at quarries. The species prefers largely unshaded mesotrophic to eutrophic non-acidic waters. It is mainly present, but not always, at places where banks are fringed with an extensive, high and dense riparian vegetation such as beds of reed, reed mace, Bullrush and/or tall sedges. It is often found near forests but is absent from shaded waters. *Libellula fulva* is a lowland species and is mainly found below 500 m.",
+  "flight_period": "From the end of April to August.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/libellula-fulva-male-go%CC%88ran-liljeberg-cc-by_ljzfcy.jpg",
+        "caption": "Libellula fulva, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/libellula-fulva-female-go%CC%88ran-liljeberg-cc-by_hugveh.jpg",
+        "caption": "Libellula fulva, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

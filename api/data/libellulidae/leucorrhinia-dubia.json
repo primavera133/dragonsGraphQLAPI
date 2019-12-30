@@ -1,48 +1,49 @@
 {
-    "items_id": "63c5f2a4e7e17a72190b3291703df24c",
-    "scientific_name": "Leucorrhinia dubia",
-    "author_citation": "(Vander Linden, 1825)",
-    "local_names": [
-        "White-faced darter"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "30-36 mm",
-        "wingspan": "45-60 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Near threatened",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/leucorrhinia-dubia-male-go%CC%88ran-liljeberg-cc-by_uf7ptj.jpg",
-                "caption": "Leucorrhinia dubia, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/leucorrhinia-dubia-female-go%CC%88ran-liljeberg-cc-by_y0maox.jpg",
-                "caption": "Leucorrhinia dubia, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "63c5f2a4e7e17a72190b3291703df24c",
+  "scientific_name": "Leucorrhinia dubia",
+  "author_citation": "(Vander Linden, 1825)",
+  "local_names": ["White-faced darter"],
+  "description": "This is a rather small dragonfly with the females slightly smaller than the males. It is often the dominant whiteface in many areas but widely overlapping in range with *L. rubicunda* and also *L. pectoralis* from whom it can be hard to differ.\n\nIt is characterised by a white face, eyes brown on the upper part and greyish on the lower part, body black and wings with black venation and black or dark red-brown patches at the base which are large on the hind wings and very small on the fore wings. The mature males have red markings between head and thorax and also between the wings at the insertion point of the wings themselves. \nThe male abdomen is slender with a tendency to waist. They have red spots on S1 to S7 who vary in size and extent. S4-S6 often lack red spots, unlike *L. rubicunda*. The coloured spot on S7 often only reach halfway over the segment, unlike *L. rubicunda* on which the spot often reaches all the way to S8. The male secondary sexual organ is more pointed and straighter than on *L. rubicunda* on which it is rounder and more bent. On both species the red can on old individuals wear off and make them look more like *S. danae*. Some older males get an orange tone to the colour of the spot on S7, but it never gets as yellow as on *L. pectoralis*.\n\nTeneral individuals have light coloured pterostigma. The immature males and females have yellow spots, larger in females, and that turn red in the males and whitish-yellow on females. The females have larger yellow spots on S1-S7 than the males have red spots but is less yellow than females of *L. rubicunda* and *L. pectoralis*. The combination of whitish-yellow rather than warm yellow and segments of visibly smaller yellow spots on the abdomen makes the female look rather more like *L. albifrons* or *L. caudalis* (than *L. rubicunda* or *L. pectoralis*), but in any event it lacks the whitish appendages of those. The shape of the spot on S2 is often diamond-shaped with a point towards the head. Older females can get a darker tone to the colour of their spots, turning reddish.\n\n*Sympetrum danae* is also small and black but the face and markings are at most yellowish, not white and red. Females and immature males can be mistaken for *L. caudalis* or *L. albifrons* but these species both lack the large spot on S7 and have whitish appendages.",
+  "behaviour": "Most easily found by scouting its water habitats for territorial males. They often perch at spots with a good view, like straws or twigs protruding over water. Immature individuals leave the water for nearby glades or clearings in nearby forests or shrubberies. The mature individuals can be found in the same environments when hunting or resting. They spend a lot of time perching in the open areas around the water, sunbathing directly on the ground or on fallen tree-trunks or stones.\n\nEggs are oviposited in small open water in floating *Sphagnum* moss where the larvae subsequently live. Larvae development is usually two years. Exuviae are found on straws low nearby water.",
+  "size": { "length": "30-36 mm", "wingspan": "45-60 mm" },
+  "similar_species": [
+    "Leucorrhinia rubicunda",
+    "Leucorrhinia pectoralis",
+    "Leucorrhinia albifrons",
+    "Leucorrhinia caudalis",
+    "Sympetrum danae"
+  ],
+  "distribution": "*Leucorrhinia dubia* has the widest range of all the whitefaces and is found from Europe to eastwards to Japan and Kamchatka. Most of the populations from central and eastern Siberia are referable subspecies *L. dubia orientalis*, which extend westwards up to the boreal Urals across the north of western Siberia, while European populations to the west of this area refer to *L. dubia dubia*. In large parts of northern Europe and Russia, it is among the most common and widespread spring species. The species is common in central and northern Europe. It is expected to be much more common than presently known in large parts of Belarus and northern and central European Russia. It is absent from the southern lowlands of Ukraine and Russia. An isolated locality is known from the western Caucasus and it seems likely that the species is more widely distributed throughout this mountain range. \n\nIn the south of Europe, *L. dubia* is rare and populations are mostly confined to mountainous areas and their foothills. By way of example, long-lasting populations are lacking in the French lowlands, rare in the lowlands of Belgium, southern Germany, the Czech Republic and Slovakia, but become more common in the Vosges Mountains, the Jura Plateau, the northern Alps and the core of the Massif Central in France. In Switzerland and Austria, it is almost completely confined to higher altitudes, mostly above 1 000 m, where it is generally common. Further south, it is uncommon and mostly local on both sides of the Pyrenees. A small number of isolated populations are known from the Carpathians and the mountainous regions of the Balkan Peninsula. \n\nThe distribution of the species in Great Britain mirrors that of the mainland, with the species widespread in Scotland but rare and more scattered in the south. Strangely, it is absent from Ireland although suitable habitats and climate seem to be present.",
+  "habitat": "*Leucorrhinia dubia* occurs at bogs and acidic ponds, and also at lakes in the north of its range. Habitats are generally acidic and oligotrophic, with abundant stretches of *Sphagnum* peat moss, rushes and sedges. Most sites are unshaded despite being often found in woodland. The water depth varies from a few centimetre to well over a meter. The extent of the habitat can be small (a few square decimetres to square metres) and generally includes either seasonally flooded depressions with *Sphagnum* peat moss or sections with open water with or without floating *Sphagnum* peat moss. In contrast to *L. rubicunda*, it is generally absent, or present only in low numbers, in waters with fish populations. In the past, populations in Fennoscandia  has increased when acid precipitation led to a decrease in fish numbers.",
+  "flight_period": "May to August",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Near threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/leucorrhinia-dubia-male-go%CC%88ran-liljeberg-cc-by_uf7ptj.jpg",
+        "caption": "Leucorrhinia dubia, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/leucorrhinia-dubia-female-go%CC%88ran-liljeberg-cc-by_y0maox.jpg",
+        "caption": "Leucorrhinia dubia, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

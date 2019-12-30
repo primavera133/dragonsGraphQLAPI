@@ -1,48 +1,48 @@
 {
-    "items_id": "84f53f2d941820d2b73a837b40b6f2dc",
-    "scientific_name": "Leucorrhinia pectoralis",
-    "author_citation": "(Charpentier, 1825)",
-    "local_names": [
-        "Yellow-spotted whiteface"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "32-39 mm",
-        "wingspan": "65-70 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "II+IV",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Decreasing"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/leucorrhinia-pectoralis-male-go%CC%88ran-liljeberg-cc-by_v72wew.jpg",
-                "caption": "Leucorrhinia pectoralis, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/leucorrhinia-pectoralis-female-go%CC%88ran-liljeberg-cc-by_njk3g3.jpg",
-                "caption": "Leucorrhinia pectoralis, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "84f53f2d941820d2b73a837b40b6f2dc",
+  "scientific_name": "Leucorrhinia pectoralis",
+  "author_citation": "(Charpentier, 1825)",
+  "local_names": ["Yellow-spotted whiteface"],
+  "description": "This dragonfly is slightly larger than the cogener *Leucorrhinia dubia*. As well as in that species the females of *L. pectoralis* are slightly smaller than the males. Both the males and females have white faces contrasting with the rest of the darker, mainly black body. The abdomen is club-shaped with an enlargement at S6 conspicuous in the males but less evident in the females. The wings have black venation and black patches at the base of the wings, larger on the hind than on the fore wings but in any event smaller than those of *L. dubia* (a character hard to make good use of in field).  The pterostigma is blackish with whitish veins extending toward the tip of the wing. \n\nThe immature males and females are black with yellow dorsal spots on S1-S7, light in colour at the beginning and gradually darker with age. In the females the spots are uniformly wide. On maturation, the spots of the male darkens to brick red and are barely visible against the background colour of the rest of the abdomen. Only the last spot on S7 remains yellow in colour and is thus particularly conspicuous. Note that *L. dubia* also can have a difference in colour on the last spot, though that will be more orange than yellow. Also that spot is smaller than on *L. pectoralis*.\n\nMature males and females are characteristically marked while teneral and immature individuals can be hard to differ from cogeners such as *L. dubia* and *L. rubicunda*. It is generally larger than them, but that can be hard to make use of in field. It is also more robust, both sexes has a wider abdomen, swelling around S6. Especially males. They both have more yellow on the abdomen than on *L. dubia* or *L. rubicunda*. Although, that makes them look similar to immature males or females of *L. albifrons* or *L. caudalis*, these both have white appendages.\n\nOlder females become much like the males, that is reddish brown spots with a conspicuous last \"lemmon-spot\". The female can also stick to having yellow spots on S3-S7.",
+  "behaviour": "The male is often seen perching on straws or sticks protruding over or out of water. He can also sit on floating vegetation, like lilypads a bit out on the water. Both sexes hunt in sunny areas near the water, like clearings or nearby meadows and open or half-open landscapes. There they perch in low vegetation, in or among tufts of grass rather than directly on the ground. \n\nFemales usually oviposit alone but can sometimes be joined by a guardian male. Larvae development vary from one to three years, two years likely most common. Exuviae sit a few decimetres up on e.g. reed straws out in the water or along the shore.",
+  "size": { "length": "32-39 mm", "wingspan": "65-70 mm" },
+  "similar_species": [
+    "Leucorrhinia dubia",
+    "Leucorrhinia rubicunda",
+    "Leucorrhinia albifrons",
+    "Leucorrhinia caudalis"
+  ],
+  "distribution": "*Leucorrhinia pectoralis* is widely distributed in central Europe and the south of Fennoscandia but is rare in many countries. It is relatively common in the south of Sweden and in the north of central Europe and is probably widely distributed in Belarus, northern Ukraine and large parts of European Russia, although the records in these regions are few due to a lack of surveys. In the southern parts of western and central Europe, enduring populations become increasingly rare and are lacking in large parts in e.g. France and southern Germany. Nonetheless the species shows a more southerly distribution than its cogeners, with scattered populations found down as far as south-western France, northern Italy, Slovenia and Croatia. Some of these southern localities might pertain to short-lived colonisations by migrants from more northern areas. Further south, there are scattered records partly belonging to vagrants from both sides of the Pyrenees, Bosnia and Herzegovina, Bulgaria, Macedonia, Romania and Serbia. ",
+  "habitat": "The optimal habitat of *Leucorrhinia pectoralis* varies strongly between regions and compared with other *Leucorrhinia* species this species is found in a relatively wide array of habitat types, such as borders of *Sphagnum* bogs, gravel pits, forest lakes, fish ponds with large stands of reed, fenlands, marshy ditches, oxbows and even sluggish canals. The water surface of the larval habitat is typically unshaded and dominated by submerged vegetation, e.g. bladderworts and hornworts in early and middle stages of succession. This species is considered to be a specialist of shallow swampy and peaty habitats with black water in parts of central and eastern Europe, with the water varying from acidic to neutral. Larvae are sensitive to predation by fish and populations reach their highest density in fish-free waters. Larvae can co-exist with fish, depending on fish species and density, but larval numbers are generally low in these situations. Nonetheless flourishing populations can be found in ponds with fish when surrounding belts of reed and reed maces provide the larvae with adequate shelter. ",
+  "flight_period": "From May to end of August, peaking in June.",
+  "red_list": {
+    "habitats_directive": "II+IV",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Decreasing"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/leucorrhinia-pectoralis-male-go%CC%88ran-liljeberg-cc-by_v72wew.jpg",
+        "caption": "Leucorrhinia pectoralis, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/leucorrhinia-pectoralis-female-go%CC%88ran-liljeberg-cc-by_njk3g3.jpg",
+        "caption": "Leucorrhinia pectoralis, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

@@ -1,48 +1,43 @@
 {
-    "items_id": "24dc7b4413b2aaedb30e373e2e0488d6",
-    "scientific_name": "Leucorrhinia caudalis",
-    "author_citation": "(Charpentier, 1840)",
-    "local_names": [
-        "Lilypad whiteface"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "33-37 mm",
-        "wingspan": "60-64 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "IV",
-        "red_list_EU27": "Near threatened",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Near threatened",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/leucorrhinia-caudalis-male-go%CC%88ran-liljeberg-cc-by_ayngvm.jpg",
-                "caption": "Leucorrhinia caudalis, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/leucorrhinia-caudalis-female-go%CC%88ran-liljeberg-cc-by_owefzj.jpg",
-                "caption": "Leucorrhinia caudalis, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "24dc7b4413b2aaedb30e373e2e0488d6",
+  "scientific_name": "Leucorrhinia caudalis",
+  "author_citation": "(Charpentier, 1840)",
+  "local_names": ["Lilypad whiteface"],
+  "description": "This species looks rather short, plumped and wide-winged. Males often likes to perch on lilypads, hence the english common name. *Leucorrhinia* they have black patches at the base of the hind wings and a visibly white frons.\n\nUnlike most other species of *Leucorrhinia* the mature males are dark with very light-blue pruinosity and no red spots on the abdomen (older individuals can get red markings on the side of the thorax). Both males and females have white appendages. These characteristics it share only with *L. albifrons* but compared to that species *L. caudalis* has a more clubbed abdomen, S7-S8 is broadest. The male pterostigma are white on the upper surface and dark only on the lower surface, whereas *L. albifrons* has dark pterostigma on both sides. Like all \n\nThe immature males and females of *L. caudalis* has yellow spots and look similar to all females of *Leucorrhinia*. The clubbed shape of the abdomen and the whitish appendages are still telling that these are *L. caudalis*. The spots on the abdomen are larger than those of *L. albifrons* and often those on S3 and S4 are merged together. Unlike *L. albifrons* the labium is all-dark. Female pterostigma are dark. Older females can get very dark and even get some pruinosity. \n\nThe width of the abdomen can vary from a wide abdomen with not so marked club to narrow abdomens with a very noticeable club. Male pterostigma colouring can vary some and the dark underside can in some angles of observation confuse the observer.",
+  "behaviour": "Most easily found by looking for territorial males. These sit open and exposed on floating vegetation, preferably lilypads but also pontoons, jettys and other floating devices. Immature and female individuals can be found a bit away from water in sunlit sheltered areas, like edge zones, glades, clearings between bushes or larger trees. They often perch low in vegetation or directly on the ground. \n\nEggs are oviposited by the female without male company but sometimes he stick around and guard her. Larvae development is probably three years in the north. Exuviae can be found in direct connection to water on vegetation a couple of decimeter up.",
+  "size": { "length": "33-37 mm", "wingspan": "60-64 mm" },
+  "similar_species": ["Leucorrhinia albifrons"],
+  "distribution": "*Leucorrhinia caudalis* has a reasonably large European range but is only regionally common. The core of its European range includes northern France and north-east Germany to the Baltic states and southern Fennoscandia. Few records are available from European Russia, Belarus and Ukraine but this probably reflects a lack of surveys in this region, with the species expected to be present at many more sites in these countries than are previously known. In central Europe it is rare and populations are confined to the lower Alpine region and the Pannonian lowlands. In southeast Europe records are scattered along the Danube, Tisza and Drava rivers, the latter forming the border between Hungary and Croatia. Further south only isolated populations are known from Croatia and the north of Serbia. In western Europe the species is well established from western Germany along the Rhine to the Atlantic coast in France, reaching an area running from northern Aquitaine to southern Brittany.",
+  "habitat": "*Leucorrhinia caudalis* is most frequently found at mesotrophic to weakly eutrophic lakes or bogs with a rich submerged vegetation often including hornworts, watermilfoil or Stoneworts. The species is often found at places with floating hydrophytes such as Waterlily on which males tend to perch; however it also occurs at waters in which floating hydrophytes are largely absent. Most waters where the species occur are relatively deep (1-3 m) and have clear water. The banks are steep or shallow and are usually unshaded despite most populations being found in forested or semi-forested areas. Such habitats include lakes and oxbows fed with phreatic water, fishponds, peat excavations, gravel pits and lakes in quarries, mostly in lowland (rarely above 500 m). This species is much less sensitive to fish predation than the other *Leucorrhinia* thanks to their well-developed mid-dorsal spines, which increase their survival chances in attacks from behind.",
+  "flight_period": "Mid-May to the beginning of August, with peak in June.",
+  "red_list": {
+    "habitats_directive": "IV",
+    "red_list_EU27": "Near threatened",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Near threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/leucorrhinia-caudalis-male-go%CC%88ran-liljeberg-cc-by_ayngvm.jpg",
+        "caption": "Leucorrhinia caudalis, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/leucorrhinia-caudalis-female-go%CC%88ran-liljeberg-cc-by_owefzj.jpg",
+        "caption": "Leucorrhinia caudalis, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

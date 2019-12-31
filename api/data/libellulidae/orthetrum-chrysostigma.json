@@ -1,31 +1,28 @@
 {
-    "items_id": "f6664fad01c14f9bbd36bd08f560d768",
-    "scientific_name": "Orthetrum chrysostigma",
-    "local_names": [
-        "Epaulet skimmer"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "40-48 mm",
-        "wingspan": "55-65 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Burmeister, 1839)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "f6664fad01c14f9bbd36bd08f560d768",
+  "scientific_name": "Orthetrum chrysostigma",
+  "author_citation": "(Burmeister, 1839)",
+  "local_names": ["Epaulet skimmer"],
+  "description": "One of Africas most common dragonflies, extending to some southern parts of Europe. It is brown yellow in colour with light-blue pruinosity in the mature males. It is similar in size and appearance to *O. coerulecens* for the abundant light-blue pruinosity covering the bodies of the males and the yellowish pterostigma. It can be distinguished from the other skimmers thanks to the abdomen that is rather slender and further narrows down at S3 and S4. The thorax of both males and females has a single distinctive whitish band bordered with black that becomes less visible in older males. The sides of the thorax and abdomen in females tend to take on a pink colouration.\n\nDiagnostic features are:\n1. Abdomen rather slender and waisted near base (S3-S4).\n2. Thorax with a conspicuous whitish stripe beneath each forewing base, accentuated by black outline (obscured in males).\n3. Membranules are sooty and usually bordered by a yellow patch. On other species the base of the wing is generally clear. The larger, broader-bodied *O. brunneum* and *O. nitiderve* lack stripes on the thorax, and have whitish membranules. In the smaller *O. coerulescens*, the stripes lie more anteriorly and are less white. In the even smaller *O. taeniolatum* there are three stripes on each side, and these are accentuated by black only on one side. Both smaller species are un-waisted and have grey-brown membranules.",
+  "behaviour": "In Turkey it is said to perch rarely on the ground or on rocks, and never in the obelisk position (in contrast to *O. taeniolatum*)",
+  "size": { "length": "40-48 mm", "wingspan": "55-65 mm" },
+  "similar_species": [
+    "Orthetrum coerulecens",
+    "Orthetrum nitiderve",
+    "Orthetrum brunneum",
+    "Orthetrum taeniolatum"
+  ],
+  "distribution": "*Orthetrum chrysostigma* is found throughout Africa and Madagascar and is common in the northern Maghreb. It reaches the Canary Islands, Iberian Peninsula, Cyprus and the east Aegean Islands. In south-east Asia it is restricted to Turkey, the Levant, parts of the Arabian Peninsula and the southern half of Iran. The European range includes the Iberian Peninsula, the Maltese Islands, a small number of east Mediterranean islands and the Canary archipelago. The species is widely distributed and common at low elevations in the south-west and the east of the Iberian Peninsula. It is the most common Skimmer in southern Portugal. It is comparatively rare in the eastern Mediterranean islands where it is known from about 30 river systems and standing water bodies from Rhodes, Kos, Lesbos and Cyprus. ",
+  "habitat": "In Europe, *Orthetrum chrysostigma* favours warm, open and sunlit running and standing waters in arid to semi-arid lowlands. Habitats range from small streams which dry out in summer to large permanent rivers, and from natural ponds and lakes to large man-made reservoirs. Preferred habitats have little aquatic vegetation with rocky, stony or sandy banks that heat up quickly. These habitat requirements restrict the species to standing waters where considerable changes in water level limit the establishment of extensive aquatic or bank side vegetation. In Africa, however, *O. chrysostigma* also reproduces in overgrown habitats. In Namibia, it exhibits rapid larval development of less than 50 days, allowing it to occur in temporary waters and to produce several generation a year in perennial waters.",
+  "flight_period": "April to August",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

@@ -1,48 +1,48 @@
 {
-    "items_id": "fc85a796c16dc65c8ccad963f6fb3904",
-    "scientific_name": "Orthetrum cancellatum",
-    "author_citation": "(Linnaeus, 1758)",
-    "local_names": [
-        "Black-tailed skimmer"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "45-50 mm",
-        "wingspan": "70-80 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/orthetrum-cancellatum-male-go%CC%88ran-liljeberg-cc-by_fsg3fs.jpg",
-                "caption": "Orthetrum cancellatum, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/orthetrum-cancellatum-female-go%CC%88ran-liljeberg-cc-by_ot19cc.jpg",
-                "caption": "Orthetrum cancellatum, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "fc85a796c16dc65c8ccad963f6fb3904",
+  "scientific_name": "Orthetrum cancellatum",
+  "author_citation": "(Linnaeus, 1758)",
+  "local_names": ["Black-tailed skimmer"],
+  "description": "This is a mid-sized to large species that is yellow and black in colour and has a robust and somewhat flattened abdomen with two longitudinal black lines down the upper side. Near the end of each segment there is a black cross-line, making the black look like a ladder. In the mature males, the abdomen develops a light-blue pruinosity, except for the first two segments at the base and the terminal portion, that become black. \n\nThe abdomen is narrowing and not as wide as in *Libellula* species. The thorax is olive brown with short non-conspicuous shoulder lines. The wings are completely transparent with yellow costa and black pterostigma. It completely lack any dark patches at the base of the wings (unlike the *Libellula* and *Epitheca* species). Legs are all dark on the males but females can have yellow parts of the legs.\n\nThis species is very similar to *O. albistylum* from which it can be separated by having dark appendages instead of white. The abdomen is also more flattened and robust. On the sides of the thorax it lacks the distinctively light bands that *O. albistylum* features. It has dark ptersostigmas separating it from *O. brunneum*, *O. coerulescens* and *O. nitderve*.\n\n",
+  "behaviour": "It is a rather aggressive species, though less so than *O. albistylum*. Males patrol from a suitable perch, making dashes out over the water, flying close to the surface in a particular jerky style. Individuals can be found far from water, even in open landscapes totally lacking water. The males tend to perch in the open, on the ground or on rocks, fallen trunks or even on man-made structures.\n\nThe mating begins in flight and the couple might fly for a while together until they find a suitable perch, often with other couples nearby. After mating, the female will lay her eggs in flight, with the male guarding her. The clashes between males to defend the female is less frequent in this species.\n\nLarvae live in shallow, warm water. Larvae development is two years. Exuviae is found low some meter away from water.",
+  "size": { "length": "45-50 mm", "wingspan": "70-80 mm" },
+  "similar_species": [
+    "Orthetrum albistylum",
+    "Orthetrum brunneum",
+    "Orthetrum cancellatum",
+    "Orthetrum nitiderve"
+  ],
+  "distribution": "*Orthretum cancellatum* is one of the most common and widespread species in Europe. It is found throughout the southern two-thirds of Europe, including all large and many small Mediterranean islands. In the north, its range is limited by climatic conditions, resulting in the species being absent from most of Scotland and northern Fennoscandia. In the Baltic states, southern Finland and Sweden, *O. cancellatum* is common in ocastal areas and breeds in the Baltic sea, frequenting reed beds and brackish lagoons along the shores. Locally it either visits or colonises more inland water bodies. The northernmost Finnish populations are confined to brackish coastal localities, suggesting that the higher water temperature of the Baltic Sea during winter allows the species to develop more readily in such habitats than in inland lakes and ponds at such northern latitudes.",
+  "habitat": "*Orthetrum cancellatum* is an ubiquitous species occuring in all kinds of standing and slow-flowing waters. Habitats include ponds, natural and man-made lakes, fens, larger garden ponds, rivers, concrete basins and brackish coastal lagoons and swamps. The species is rare to absent from largely shaded waters, fast running rivers and oligotrophic acidic habitats, but is often very abundant at large water bodies with banks of sand or stones with or without vegetation. In many locations it is a pioneer species and is often abundant at newly created habitats. It is mainly confined to lowlands and most common below 500 m. Breeding populations above 1 000 m are rare in Europe but are known up to 2 265 m in Morocco.",
+  "flight_period": "May to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/orthetrum-cancellatum-male-go%CC%88ran-liljeberg-cc-by_fsg3fs.jpg",
+        "caption": "Orthetrum cancellatum, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/orthetrum-cancellatum-female-go%CC%88ran-liljeberg-cc-by_ot19cc.jpg",
+        "caption": "Orthetrum cancellatum, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

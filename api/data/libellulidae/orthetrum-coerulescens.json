@@ -1,48 +1,47 @@
 {
-    "items_id": "8659c5a50e27caa4075176dd12f719a8",
-    "scientific_name": "Orthetrum coerulescens",
-    "author_citation": "(Fabricius, 1798)",
-    "local_names": [
-        "Keeled skimmer"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "35-45 mm",
-        "wingspan": "55-65 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/orthetrum-coerulescens-male-go%CC%88ran-liljeberg-cc-by_c1du4z.jpg",
-                "caption": "Orthetrum coerulescens, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/orthetrum-coerulescens-female-go%CC%88ran-liljeberg-cc-by_fbf2sg.jpg",
-                "caption": "Orthetrum coerulescens, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "8659c5a50e27caa4075176dd12f719a8",
+  "scientific_name": "Orthetrum coerulescens",
+  "author_citation": "(Fabricius, 1798)",
+  "local_names": ["Keeled skimmer"],
+  "description": "A common small skimmer around flowing water throughout much of Europe. The light-coloured pterostigma distinguishes this species from *Orthetrum albistylum* and *O. cancellatum*. It could be confused with *O. brunneum*, and often co-occurs with that species, but is slightly smaller, the abdomen is more slender, the pterostigma is longer and yellow rather than light brown. In the males the frons is yellow rather than pale blue. In the mature males covered in light blue pruinosity, the thorax is darker than the abdomen and the yellow base colour shows through. Usually two pale stripes on the front of the thorax are visible, but the sides are uniform in colour.\n\nOn the wings, above the radial vein, there is a single row of cells, whereas in *O. brunneum* the row consists of double cells. The ventation of the wings is entirely black. Wing bases are often suffused with amber but it never has any dark patches near the base as on *Libellula* species.\n\nImmature and female individuals can be confused with *Sympetrum* species. ",
+  "behaviour": "The behaviour of this species is different from *O. brunneum* and *O. nitiderve*. It tends to perch on small bushes and on top of low vegetation, unlike the two other that almost always will alight on the bare soil or rocks. It frequently is found far from waters and young individuals has been measured to fly over 20 km from the water they emerged from. \n\nMature males keep a small territory that is controlled from a lookout perch out in the water or some protruding branch. Often he returns to the same perching spot after dashes. Flight is somewhat jerky, like *O. coerulescens*. Males can share a territory with *Cordulegaster boltonii* or  *Onychogomphus forcipatus*.\n\nOviposition is done in flight, sometimes with the male guarding the female. Larva live in detritus or silty bottom material. Larvae development is two years. Exuviae is usually found low on vegetation in the water.",
+  "size": { "length": "35-45 mm", "wingspan": "55-65 mm" },
+  "similar_species": [
+    "Orthetrum brunneum",
+    "Orthetrum nitiderve",
+    "Orthetrum taeniolatum"
+  ],
+  "distribution": "*Orthetrum coerulescens* is largely a West Palearctic species and is widespread in Europe and the Mahgreb. It is widespread in the southern two-thirds of Europe , including most of the Mediterranean islands. It becomes progressively scarcer to the north and the north-east with large gaps in its distribution, for example in the British Isles where it occurs mainly in the south and western half, as well as in Poland and the Baltic States. As in the case of *O. brunneum*, *O. coerulescens* is much scarcer in the northern areas of eastern Europe. It is widespread in the east of Ukraine but appears to be rare in the south of Russia, and has not been found north of the Caspian Sea or in the well explored southern Urals. \n\nThe nominotypical subspecies extends from the Iberian Peninsula to central Europe, mainland Italy, southern Fennoscandia and the British Isles, whereas pure populations of typical *O. c. anceps* are found from northern Africa to the Middle East, Asia minor, Kashmir, Central Asia, the southern parts of the Balkan Peninsula and southern Ukraine. Intermediate forms between *O. c. anceps* and *O. c. coerulescens* are known from the Balkan Peninsula and most Mediterranean islands (Cyklades, Cyprus, Crete, Sicily, Sardinia)",
+  "habitat": "The species is most often found at largely unshaded small running waters like streams, runnels or ditches with moderately dense or no vegetation. It also inhabits *Sphagnum* peat bogs, spring-fed marshes, springs, seepage waters and quarries. In the Mediterranean it is largely restricted to rocky or stony streams and rivers while in parts of central and north-west Europe, including Great Britain, it is confined to shallow open and sunny waters such as ditches, bogs and runnels in quarries and heathlands. The species is most common in lowlands but populations are found up to 1 700 m in the Alps and up to 2 040 m in southern Spain.",
+  "flight_period": "June to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/orthetrum-coerulescens-male-go%CC%88ran-liljeberg-cc-by_c1du4z.jpg",
+        "caption": "Orthetrum coerulescens, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/orthetrum-coerulescens-female-go%CC%88ran-liljeberg-cc-by_fbf2sg.jpg",
+        "caption": "Orthetrum coerulescens, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

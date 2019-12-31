@@ -1,31 +1,23 @@
 {
-    "items_id": "6410b2c0cb6c3370962d6d1c3ac5503b",
-    "scientific_name": "Orthetrum nitidinerve",
-    "local_names": [
-        "Yellow-veined skimmer"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "46-50 mm",
-        "wingspan": "65-70 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Vulnerable",
-        "red_list_europe": "Vulnerable",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "(Selys, 1841)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "6410b2c0cb6c3370962d6d1c3ac5503b",
+  "scientific_name": "Orthetrum nitidinerve",
+  "author_citation": "(Selys, 1841)",
+  "local_names": ["Yellow-veined skimmer"],
+  "description": "It is a rather large dragonfly, similar in shape, size and general appearance to *O. brunneum*,  with a pterostigma that is very long and pale in colour. As the name 'nitiderve' suggests, costa and radius, which are yellow from the base to the node, contrast with the colour of the other veins of the wings. Also the rear part of the head behind the eyes is yellowish. The above-mentioned characteristics allow to distinguish this species from the cogeners *O. coerulescens* and *O. brunneum* that also has lightly coloured pterostigma. \n\nThe immature and female individuals have a similar pale-yellow colour, with reduced black markings, except for a dark thin line underneath the abdomen. Unlike the females of *O. coerulescens* and *O. brunneum* the females of *O. nitiderve* does not have the enlargement underneath S8 so that the abdomen is substantially straight.\n\nThe mature males are characterised by a light-blue pruinosity, a shade lighter in colour than the other skimmers. This pruinosity covers the thorax and abdomen entirely except for a yellowish band that form a sort of \"belt\" on S1.",
+  "behaviour": "",
+  "size": { "length": "46-50 mm", "wingspan": "65-70 mm" },
+  "similar_species": ["Orthetrum brunneum", "Orthetrum coerulescens"],
+  "distribution": "*Orthetrum nitiderve* is a west Mediterranean endemic species. It is relatively common in Morocco, northern Algeria and Tunisia, becoming scarcer towards the Sahara. The south-easternmost records are from north-west Libya. It is scattered in the Iberian Peninsula, Sardinia and Sicily and very local in mainland Italy, where all records come from Campania, and the species was last recorded in the 1980s. Records from Sicily are mostly old but several recent records are available from Sardinia. The first records from the Maltese islands was made in 2008 with an additional one in 2010. However, there is no evidence of breeding so these appear to be vagrants. The species is scattered and uncommon within the warmest parts of the Iberian Peninsula, with the most recent records being from the south-west of the region, the eastern coast and arid Ebro valley. It is absent from the cooler and more humid north-west.",
+  "habitat": "*Orthetrum nitiderve* readches its highest densities in springs, seepages and small streams in marshy open areas with an abundance of grassy vegetation. It is mostly found at fresh waters, but large populations have been encountered in brackish conditions. It also occurs, but mostly in lower densities at slow- to relatively fast-flowing rivers and streams. The species is also regularly found at intermittent streams which are reduced to residual stagnant pools in summer. Some records are from stagnant waters but it is doubtful that the species can reproduce at sites that are stagnant throughout the year. It is possible that small streams and marshy springs and seepages with trickles are the main habitat for this species and that its occurrence at large rivers is dependant on either re-colonisation or vagrancy from core habitats. *Orthetrum nitiderve* occupies a wide altitudinal range with stable populations found up to 2 020 m in Morocco and up to 1 100 m in Sardinia.",
+  "flight_period": "April to October",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Vulnerable",
+    "red_list_europe": "Vulnerable",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Decreasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

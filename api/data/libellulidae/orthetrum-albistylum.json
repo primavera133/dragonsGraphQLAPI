@@ -1,31 +1,27 @@
 {
-    "items_id": "64aa6629268081fefe72290bbfff075a",
-    "scientific_name": "Orthetrum albistylum",
-    "local_names": [
-        "White-tailed skimmer"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "45-50 mm",
-        "wingspan": "65-75 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "author_citation": "(Selys, 1848)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "64aa6629268081fefe72290bbfff075a",
+  "scientific_name": "Orthetrum albistylum",
+  "author_citation": "(Selys, 1848)",
+  "local_names": ["White-tailed skimmer"],
+  "description": "The females and immature males are black and yellow, the abdomen has two longitudinal black lines. \nThe mature males get the abdomen covered in light-blue pruinosity, except for the last segments that darken into black. The blue pruinosity get lighter in colour with age. The species has black pterostigma like *Orthetrum cancellatum* from which it can instead be distinguished by the white appendages (hence the name of the species) and also the more slender abdomen. Besides the white appendages, in the females also the last segment is white. On the sides of the thorax there is two light-coloured bands.",
+  "behaviour": "It is a very aggressive species that often preys on large insects and even other dragonflies. The mating starts in flight and the couple might even fly for some distance in the mating wheel. The end of the mating is marked by the male finding a suitable place to perch. Immediately afterwards the female will begin to oviposit while the male clashes with other males and jealously guards her. In this species the dragonflies tend to congregate at the places suitable for oviposition and it is not unusual for the female to be grabbed several times before she can start to lay her eggs. The males often perch directly on the ground or on man-made structures.",
+  "size": { "length": "45-50 mm", "wingspan": "65-75 mm" },
+  "similar_species": [
+    "Orthetrum cancellatum",
+    "Orthetrum brunneum",
+    "Orthetrum coerulescens"
+  ],
+  "distribution": "The core of the European distribution range of *Orthetrum albistylum* runs from south-west France to the southern half of Poland, the Balkans and Ukraine. In some regions, for instance the Pannonian Basin and south-western Ukraine, it is among the most abundant *Orthetrum* species, outnumbering its close relative, *O. cancellatum*. The species appear to be widespread in eastern Ukraine and, at least in the past, the south of European Russia, reaching both sides of the Caucasian and connecting with Turkish and the few north Iranian populations. It is virtually absent from the Mediterranean islands, although two records are known from Crete. Its near-absence from the Iberian Peninsula and central and southern Italy is notewothy (one record each) and cannot be readily explained by the lack of suitable habitats or by climatic conditions. Its northern distribution within Europe seems, to a large extent, to be determined by summer temperatures and the species is currently exhibiting a continued northwards expansion.",
+  "habitat": "*Orthetrum albistylum* is found at a wide range of sunny standing and , more rarely, at slow-flowing waters. In the Mediterranean region, it is also found at small intermittent streams with residual ponds in the summer. It favours relatively shallow areas where part of the fringes dry up in the summer, but can also be found in deeper waters with steep banks such as fish ponds. This species appears to have a preference for man-made habitats, including quarries, sandpits and fish pond and is largely confined to such areas in its northern range, where it often acts as pioneer species. ITs occurrence in more natural habitats includes oxbows, pools in floodplains, shallow ponds with extensive reed beds and peaty ponds and lakes surrounded with banks and rafts of *Sphagnum* peat moss, sedges and rushes. The water quality can vary from acidic and mesotrophic to neutral and eutrophic with low transparency. The water bodies often have submerged or floating vegetation such as watermilfoil and/or waterlilies. The species appear not to be dependent on bank side vegetation and is able to cope with the presence of fish, although it does require high water temperature, which is probably a key factor for its establishment. It is mainly confined to areas below 500 m but has been found breeding up to 860 m in Switzerland.",
+  "flight_period": "June to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

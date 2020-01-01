@@ -1,33 +1,23 @@
 {
-    "items_id": "b368f128350dc3a94090616862aa0171",
-    "scientific_name": "Pantala flavescens",
-    "local_names": [
-        "Globe skimmer",
-        "Globe wanderer",
-        "Wandering glider"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "45-55 mm",
-        "wingspan": "85-90 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Not Applicable",
-        "red_list_europe": "Not Applicable",
-        "red_list_mediterranean": "Not Applicable",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Unknown"
-    },
-    "author_citation": "(Fabricius, 1798)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "b368f128350dc3a94090616862aa0171",
+  "scientific_name": "Pantala flavescens",
+  "author_citation": "(Fabricius, 1798)",
+  "local_names": ["Globe skimmer", "Globe wanderer", "Wandering glider"],
+  "description": "Arguably the most successful dragonfly in the world, present on all continents except Antarctica, but surprisingly rare in Europe. Shape and behaviour renders it unmistakeable.\n\nIt is a rather large dragonfly, about the size of *Orthetrum cancellatum*, characterised by long wings that are quite narrow at the tip, thus looking pointed. The hind wing is triangular with a very broad base and capable of sustaining long flight. In flight, the abdomen is usually angled downward. Both the males and females have eyes that are brown in the upper part and grey light blue on the bottom part. The body is cylindrical and slightly tapered with a dorsal pattern that turns black toward the end. It has very long appendages. Thorax is light brown with yellowish sides without any black markings. The wings have dark veins, a small yellow patch at the base of the hind wings and a red brown pterostigma. The pterostigma is longer in the fore wing than in the hind wing.\n\nThe males also have a dark area, variable is size, near the tip of the wing. Tenerals of both sexes are yellow.The males then turn ochre yellow with the upper side of the abdomen orange red. The females take on a duller colouration that tends towards orange only in some androchrome females.\n\nThe black markings on the abdomen, the yellow wash of the hind wing and brown wing-tips may vary considerably. It may just have a central spot on S8-S9 and be clear winged. Tint of the abdomen also varies: males can be deep red, although most are orange.\n\nThe Wheeling, or Keyhole glider, *Tramea basilaris* might appear in southern north Africa. It is similar to *P. flavescens* by shape and behaviour, but has two brown blotches at the base of each hind wing.",
+  "behaviour": "A strong migrant that is superbly equipped to colonise temporary habitats, being able to complete its life-cycle in a month. An effortless flier, often seen hang-gliding tree-top height along lanes or in sustained patrol over a puddle. Unlike most of our libellulids it seldom perches. If it does so it hangs vertically, never horizontally.",
+  "size": { "length": "45-55 mm", "wingspan": "85-90 mm" },
+  "similar_species": ["Tramea basilaris"],
+  "distribution": "The circumtropical *Pantala flaviscens* is common and often abundant in the tropics and subtropics of both the Old and New World. It is in large parts of its range a migratory species which appears in huge swarms along the monsoon fronts. Beyond the intertropical range, the species migrates as far north as Canada, northern Europe, Central Asia and the Kamchatka Peninsula. These migrations are complex. Isotope studies suggest that annual appearance of millions of adults on the Maldive Islands is part of a two-way, multi-generational migratory circuit, 14 000-18 000 km in length, involving north Indian or even trans-Himalayan insects traversing the Indian Ocean to eastern Africa, with the following generation making the return flight. According to studies from 2012 the Central Asian populations are dependent on immigration from the south in the spring. The incoming adults breed, larval development takes two months and the emerging adults contribute to a much larger summer population. Records from Central Asia suggests that adults migrate southwards in late summer and early autumn. \n\nEuropean records are very rare and no southern return migration has yet been recorded from Europe to Africa. Despite its very wide distribution, the species is rare in most of the Western Palearctic. In the north of Africa, a few records, probably mostly migrants, are available from each country, except Libya. Swarms are regularly observed in Lower Egypt from May to August and a single find of a final instar larva at a small desert pool in north-western Egypt indicates that the species is capable of breed in successfully in this country. *Pantala flavescens* is not uncommon and sometimes abundant in Central Asia and occasionally reaches the south of Siberia and Kamchatka. A few dozen records are known from the Levant, Turkey and Transcaucasia, but breeding was observed only in a few cases.\n\nIn Europe it is one of the rarest species to be observed with records form Cyprus (four 1957, 2010), Rhodes (one 2001), mainland Greece (one 2005), European Turkey (four, including Gökçeada island, 1998), Montenegro (one 1978), Croatia (one 2010), Linosa (one 2012), Lampedusa (one 2012), Bulgaria (one 2012), the Maltese islands (three 2013), the Canary Islands in Gran Canaria (two 2013) and the Azores archipelago in São Miguel (one 2014) and Italy, in Piemonte (one 2019).\n\nOther unpublished records are available from European Russia where six specimen where found around Sochi in 1987. A male caught in a bird trap on the coast in Kaliningrad (2013) is by far the northernmost record in Europe. No breeding has been observed in Europe except a maybe possible one on Rhodes (a female in late teneral stage). Three European records referring to human introductions are known; two with shipments of bananas and one found on a warship.",
+  "habitat": "*Pantala flavescens* reproduces at all kinds of standing water, but is most successful at small and warm, often temporary, waters with little or no vegetation. Examples include rain pools and concrete basins. In some tropical regions, the species migrates with monsoon fronts, arriving just after rains have started and using fresh rainwater pools as a breeding habitat. Its rapid larval growth enables it to reproduce successfully before the pools desiccate. The temporary nature of the habitat ensures there is little competition from predators such as fish and that *P. flavescens* is at the top of the local food chain.",
+  "flight_period": "From June to September in Turkey, all year round in north Africa.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not Applicable",
+    "red_list_europe": "Not Applicable",
+    "red_list_mediterranean": "Not Applicable",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

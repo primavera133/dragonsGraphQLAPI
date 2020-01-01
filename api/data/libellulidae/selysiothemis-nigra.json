@@ -1,31 +1,23 @@
 {
-    "items_id": "4ca794844531ff98b8b6ae22bfced96e",
-    "scientific_name": "Selysiothemis nigra",
-    "local_names": [
-        "Black pennant"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "30-38 mm",
-        "wingspan": "48-54 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "author_citation": "(Vander Linden, 1825)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "4ca794844531ff98b8b6ae22bfced96e",
+  "scientific_name": "Selysiothemis nigra",
+  "author_citation": "(Vander Linden, 1825)",
+  "local_names": ["Black pennant"],
+  "description": "This is a tiny dragonfly with a large head in proportion to the body. The males are dark and become almost black with age, at times with a thin bluish pruinosity on the abdomen and thorax. The females are sandy brown with dark markings. The wings are wide, hyaline with light-coloured large-mesh venation. The pterostigma is short and light in colour, bordered lengthwise on both sides with black lines.\n\nIt is the size size of a small *Sympetrum* species, somewhat larger than *Diplacodes lefevbrii* with which it is most likely to be confused. Especially as the males become largely black, but the wings are broad (especially the hind wing) with widely spaced, weak and very pale, almost invisible veins. The pterostigmas are noticeably short. The pterostigmas posterior and anterior veins are thick and black, forming a contrasting \"equals sign\" (=) near each wing tip. \n\nFemales and immature males are sand-coloured, with a dark brown pattern on the thorax and a bold lengthwise stripe on the otherwisely unmarked abdomen. Males become black, the pterostigmas also darkening (while often pale in *D. lefevbrii*) while the face remains rather pale. A slight bluish pruinosity may develop on the thorax and the abdomen. \n\n*Trithemis festiva* and *Diplacodes lefevbrii* are both black-and-pale species, with blackening males. Their abdomens are black with pale spots, rather than sandy with a black band, their veins dark. *Selysiothemis* may recall other libellulid genera, but the abdominal pattern, vein colour and pterostigma are distinctive.",
+  "behaviour": "Adults frequently hover about a metre above the ground. The species is known to migrate, turning up far from water. Perches on prominent stakes, often with the abdomen and wings slightly raised, ruffing in the breeze like a pennant.",
+  "size": { "length": "30-38 mm", "wingspan": "48-54 mm" },
+  "similar_species": ["Trithemis festiva", "Diplacodes lefevbrii"],
+  "distribution": "*Sylesiothemis nigra* is distributed throughout most of the Mediterranean basin. The northern border of its European range runs from the extreme north of Spain to northern Italy, Slovenia, coastal Ukraine and the south of European Russia along the northern Caspian area. Two records from the Urals also suggest that the species is present between the Caspian basin and the southern Urals. According to some unpublished sources this species and *Lindenia tetraphyla* both became common in the north Caucasus area due to the creation of man-made lakes and ponds. In the Balkan Peninsula *S. nigra* is mostly confined to the Adriatic and Mediterranean coasts. The Species is generally rare although locally abundant along the western coast of former Yugoslavia, Albania and Greece. Recent studies suggest that large populations exist there, and this region is probably the main hotspot for the species in Europe.\n\n*Selysiothemis nigra* is uncommon in Italy and Spain and is known from just a handful of records from southern Portugal and a single post-teneral male from France in Corsica. It is a very mobile species and many records are probably refer only to vagrants. In many instances, such as Slovenia, there is no evidence of breeding. ",
+  "habitat": "Many record of *Selysiothemis nigra* are from shallow ponds and lakes and it seems well adapted to brackish habitats that partly desiccate during summer. Suitable habitats include inland lakes in hot and arid regions, inundated floodplains and brackish coastal wetlands. In recent years the species has been increasingly found to reproduce at perennial and deep man made water bodies which are a strikingly different from what was previously believed to be its main habitat. In many cases the habitat is well vegetated but populations can also be found in sparsely vegetated areas and at concrete water tanks. *Selysiothemis nigra* is highly nomadic as evidenced by several reports of groups and swarms far from water during migration.",
+  "flight_period": "May to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

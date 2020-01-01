@@ -1,31 +1,23 @@
 {
-    "items_id": "6f36f5bc7778be01f8bc2a3a6dd9ce78",
-    "scientific_name": "Orthetrum trinacria",
-    "local_names": [
-        "Long skimmer"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "51-67 mm",
-        "wingspan": "70-85 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Selys, 1841)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "6f36f5bc7778be01f8bc2a3a6dd9ce78",
+  "scientific_name": "Orthetrum trinacria",
+  "author_citation": "(Selys, 1841)",
+  "local_names": ["Long skimmer"],
+  "description": "This is a large, elongated and powerful species. It is rather aggressive and may recall an *Aeshnid* in flight. Unlike its cogeners it has a very long cylindrical abdomen, with a bulbous base that makes it unmistakeable. It has light-blue or light-blue-grey eyes. The pterostigmas are long and pale yellow in colour outlined with black. The terminal appendages are very long.\n\nImmature and female individuals are greenish yellow in colourwith dark markings on the abdomen similar to those of *Orthetrum cancellatum* but with an additional black line along the centre. Legs are yellow with a black line.\n\nMature males turn to dark slate grey with reduced and thin light-blue pruinosity. The legs take on a black colour. This makes this species darker than other *Orthetrums*. Also the mature females tend to darken and  develop a blueish pruinosity.\n\nIt is unique for:\n1. Length always over 50 mm (*O. cancellatum* about 10 mm shorter on average)\n2. Uniformly slender S3-S10\n3. Black abdomen with pale streaks at least up to S7, rather than rings up to S6. The longest part of the pale spots on S4-S6 lies against the dorsal keel, not along the lateral keels as in *O. sabina*\n4. Males and females darkening, with relatively thin bluish pruinosity, appearing darker than other pruinose *Orthetrum* males. The abdomen may appear largely black. \n\nThe abdomen shape may recall the much smaller *O. chrysostigma* which is marked differently. *O. sabina* is smaller, never pruinose, is differently marked and never has grey-blue eyes.\n\n",
+  "behaviour": "Aggressive. In Africa known for frequently preying on other dragonfly.",
+  "size": { "length": "51-67 mm", "wingspan": "70-85 mm" },
+  "similar_species": ["Orthetrum chrysostigma", "Orthetrum sabina"],
+  "distribution": "*Othetrum trinacria* is a common and widespread Afrotropical species and occur throughout most of the African continent. It is moderately common in northern Africa. Outside Africa it occurs in parts of Mediterranean Europe and the Middle East. Although originally described in Europe from Sicily in 1841, it has a limited range in Europe. IT was discovered in Sardinia in 1972, followed by discovery in Spain 1980, Portugal 1991, Fuerteventura in 2000, the Maltese islands in 2003 and mainland Greece in 2011. The records of wanderers on Pantelleria, Lampedusa and COrsica illustrates its ability to reach and colonise remote islands. The species has recently established itself on the Maltese islands. It is now well-settled in the entire south-western region of the Iberian Peninsula, extending and approaching the Ebro Delta in the east. It is now relatively common in Extremadura, Algarve, Sicily and Sardinia. The species is remarkably scarce in mainland Italy, although it was recently found in Calabria. Given its expansion in Syria and Turkey, it is possible that this species will appear on the east Aegean islands in the future.",
+  "habitat": "In Europe significant populations are restricted to lentic systems such as man-made reservoirs and large open sunny ponds, pools and marshes with well-developed bank side vegetation. More rarely the species is found at slow-flowing stretches of rivers. In Morocco it occurs at coastal marshes and ponds, but more recently it has established itself further inland, taking advantage of man-made barrage lakes. It was also found to be common at concrete water tanks lacking any vegetation in the oases of the northern Saharan fringe in Morocco. The species is restricted to lowland areas.",
+  "flight_period": "From mid-June to mid-October",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

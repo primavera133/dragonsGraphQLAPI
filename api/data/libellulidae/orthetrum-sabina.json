@@ -1,32 +1,23 @@
 {
-    "items_id": "e72839290e049e20c8f7101915811b07",
-    "scientific_name": "Orthetrum sabina",
-    "local_names": [
-        "Slender skimmer",
-        "Green marsh hawk"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "43-50 mm",
-        "wingspan": "60-67 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Drury, 1770)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "e72839290e049e20c8f7101915811b07",
+  "scientific_name": "Orthetrum sabina",
+  "author_citation": "(Drury, 1770)",
+  "local_names": ["Slender skimmer", "Green marsh hawk"],
+  "description": "A swift, nervous species, lacking any pruinosity that so defines its cogeners. It has strongly contrasting markings and peculiar waisted and clubbed abdomen. Often taken for a *Gomphid* rather than an *Orthetrum* at first sight. One of the commonest tropical Asian species extending into Europe along the eastern Mediterranean coast. \n\nIt is similar to *Orthetrum trinacria* but smaller in size. Abdomen is black and white and is slender with a conspicuous bulbuos base. The first segmenst are narrow and S7-S10 is again wider and clubbed. S7-S9 is markedly black and it has white appendages. Thorax is lightly greenish-yellow with black bands but darkens with age so as to only have one light-coloured band on either side. The colour of the thorax and the extent of abdominal black varies considerably. The eyes are greenish. It has a very fast and skittish flight.\n\nUnlike any other *Orthetrum* species the anterioe lamina bears a conspicuous tuft of dark orange bristly hair.",
+  "behaviour": "Active and often very wary, perching on the ground or on twigs for just a second before dashing off again.",
+  "size": { "length": "43-50 mm", "wingspan": "60-67 mm" },
+  "similar_species": ["Orthetrum trinacria"],
+  "distribution": "*Orthetrum sabina* is widespread in the old world tropics and subtropics. To the west it is widespread in Central Asia and the Middle East, reaching south and west Turkey. From Africa it is known from drier parts of the north-east, including most of Egypt and a broad band along the inner parts of the Horn of Africa to north-eastern Algeria. Two isolated localities in Morocco was recently found. In Europe it is restricted to Cyprus and the Greek islands of Samos, Kos and Rhodes, where fewer than 20 localities are known. Although the species is common and abundant in suitable habitats on the Turkish Mediterranean coast, most European records refer to fewer than ten individuals.",
+  "habitat": "*Orthetrum sabina* is found at a wide range of unshaded standing and slow-flowing waters, including canals, runnels, ponds and ditches, at low elevation. It occurs mainly at freshwater but has also been found in brackish habitats in arid and semi-arid regions, where females sometimes oviposit over super-saturated saline waters. In large parts of its range, it is one of the most common species at man-made habitats such as ditches and ponds in villages and agricultural areas. In Europe it is confined to coastal lowlands.",
+  "flight_period": "April to October",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

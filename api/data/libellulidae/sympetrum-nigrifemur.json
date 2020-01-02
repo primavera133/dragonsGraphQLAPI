@@ -1,29 +1,23 @@
 {
-    "items_id": "79c12ca1480a06118a69a1cec2748d36",
-    "scientific_name": "Sympetrum nigrifemur",
-    "local_names": [],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "43-48 mm",
-        "wingspan": "60-66 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Not present",
-        "EU27_endemic": "Endemic",
-        "red_list_europe_endemic": "Endemic",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Selys, 1884)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "79c12ca1480a06118a69a1cec2748d36",
+  "scientific_name": "Sympetrum nigrifemur",
+  "author_citation": "(Selys, 1884)",
+  "local_names": ["Island darter"],
+  "description": "Endemic to Canary and Madeira islands, it is similar to *Sympetrum striolatum* and many authors consider it a form of this species. In any event it can be distinguished from *S. striolatum* by slightly larger size and almost entirely black legs (hence the name 'nigrifemur') although it often carries very thin yellow to red streaks. Only overlaps with *S. fonscolombii*, which has a distinct yellow hindwing patch, paler pterostigma and blue underside of the eyes.",
+  "behaviour": "",
+  "size": { "length": "43-48 mm", "wingspan": "60-66 mm" },
+  "similar_species": ["Sympetrum striolatum"],
+  "distribution": "*Sympetrum nigrifemur* belongs to a taxa closely related to *S. striolatum* and is sometimes considered a subspecies of the latter. It is endemic and only known from Madeira, the Selvagens and the Canary islands, a total of nine islands. It breeds commonly on Madeira, La Gomera, Tenerife, Gran Canaria and La Palma. Records from Lanzarote, Selvagem Grande, Deserta Grande and Ilhéu Chão refer to vagrants only.",
+  "habitat": "Most records are from running waters, which are the most common aquatic habitats in the range; however the species is also regularly found at pools, ponds, water tanks and man-made barrage lakes.",
+  "flight_period": "Probably all year round.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Not present",
+    "EU27_endemic": "Endemic",
+    "red_list_europe_endemic": "Endemic",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

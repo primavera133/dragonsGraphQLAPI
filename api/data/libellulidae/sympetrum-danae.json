@@ -1,48 +1,43 @@
 {
-    "items_id": "275b149c9b8efdb2c3cbb6a9a5fa7b31",
-    "scientific_name": "Sympetrum danae",
-    "author_citation": "(Sulzer, 1776)",
-    "local_names": [
-        "Black darter"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "35-40 mm",
-        "wingspan": "50-60 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/sympetrum-danae-male-go%CC%88ran-liljeberg-cc-by_hydtzl.jpg",
-                "caption": "Sympetrum danae, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/sympetrum-danae-female-go%CC%88ran-liljeberg-cc-by_qbntg0.jpg",
-                "caption": "Sympetrum danae, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "275b149c9b8efdb2c3cbb6a9a5fa7b31",
+  "scientific_name": "Sympetrum danae",
+  "author_citation": "(Sulzer, 1776)",
+  "local_names": ["Black darter"],
+  "description": "Small mainly black dragonfly with a wobbly flight, almost like a butterfly. The thorax is yellow on the sides with a central black band having three yellow smaller dots (beware of dark forms of *S. striolatum* when using this characteristic) . In the males the abdomen is entirely black whereas in the females it is orange and black. In any event it has a broad black band on each side of the entire length of the abdomen. On top front of the thorax is a characteristic dark brown or black triangle. The pterostigma is black in mature individuals and whitish in the tenerals. Legs are all black, except for the very uppermost part. Face is initially yellow and darkens with age. Opposed to all other *Sympetrum* the upper appendages are black.\n\nOther small black dragonflies, like *S. nigrescens*, *Diplacodes lefevbrii*, *Selysiothemis nigra* or *Trithemis festiva*, should be out of range when comparing to this species, that is most common in the north of Europe.",
+  "behaviour": "*Sympetrum danae* has a jerky bouncy flight, like *S. sanguineum* with which it often co-occurs. Males are not very aggressive and several individuals can be seen near each other at suitable habitats. Especially males are able to travel far and can be seen far from suitable water bodies. The species perches directly on the ground or in low vegetation out in open areas or on lookout spots in edge zones. Early mornings you can see them press against sun-heated areas, like stones or dry cowpats, to heat up themselves. \n\nThe mating takes place with the dragonflies perched and during oviposition the females are accompanied and guarded by the males that hold them by the head. Eggs are mainly laid in floating *Sphagnum* moss, where they stay intact until next spring. When they hatch, larval development is very quick, taking as little as two months until the imago emerges.",
+  "size": { "length": "35-40 mm", "wingspan": "50-60 mm" },
+  "similar_species": ["Sympetrum striolatum"],
+  "distribution": "*Sympetrum danae* has a Holarctic distribution and is widespread and common in large parts of northern Eurasia and North-America. In Europe it is widespread and common in northern and central Europe. In the south of its range it is confined to higher elevations including the Massif Central, the Pyrenees, the Alps, the Carpathians and the Caucasus where reproduction is known up to 2 040 m. In some years, influxes occur in areas where the species is usually absent or rare, producing short-lived populations outside the normal species range. In Fennoscandia it is common to very common in most parts, but more sparsely in the very north and is absent locally where suitable habitats are missing. ",
+  "habitat": "*Sympetrum danae* mainly occurs in sunny moorlands, *Sphagnum* peat bogs and shallow acidic lakes, ponds without fish but with extensive margins compomising sedges and rushes. It is less often found, and then at lower densities, at partly desiccated ponds, ditches, fens and marshes. In calcareous mountains such as the Jura, the species also occur at alkaline waters where either a lack of fish or the presence of vegetation providing shelter against fish predation is a key factor. Individuals recorded at old gravel pits in the west and south-west of its range at low elevations are generally vagrants and do not result in viable populations in the long term. In the Mediterranean region, the species is confined to mountain bogs and lakes.",
+  "flight_period": "June to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/sympetrum-danae-male-go%CC%88ran-liljeberg-cc-by_hydtzl.jpg",
+        "caption": "Sympetrum danae, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/sympetrum-danae-female-go%CC%88ran-liljeberg-cc-by_qbntg0.jpg",
+        "caption": "Sympetrum danae, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

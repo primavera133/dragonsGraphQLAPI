@@ -1,48 +1,47 @@
 {
-    "items_id": "2ce7081f94259b17328dd42fc5cf5197",
-    "scientific_name": "Sympetrum fonscolombii",
-    "author_citation": "(Selys, 1840)",
-    "local_names": [
-        "Red-veined darter"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "33-40 mm",
-        "wingspan": "60-70 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/sympetrum-fonscolombi-male-go%CC%88ran-liljeberg-cc-by_nvb6iq.jpg",
-                "caption": "Sympetrum fonscolombii, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/sympetrum-fnscolombi-female-go%CC%88ran-liljeberg-cc-by_kh3ava.jpg",
-                "caption": "Sympetrum fonscolombii, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "2ce7081f94259b17328dd42fc5cf5197",
+  "scientific_name": "Sympetrum fonscolombii",
+  "author_citation": "(Selys, 1840)",
+  "local_names": ["Red-veined darter"],
+  "description": "One of the largest of the darters. The male's gaudy appearance and active behaviour is quite different from its more restful and subdued gogeners.\n\nThe wing veins are red in the mature males and yellow in immature and female individuals (beware as other *Sympetrum* species can also have pale or reddish veins). At the base of the hind wing is a yellow-orange patch which is larger than in other *Sympetrum sp.* but smaller compared to *S. flaveolum*. The pterostigma is light yellow brown in colour and bordered with black. Legs are black with yellow stripes. The eye is characteristically reddish brown on the upper part and grey light blue in the bottom part. Mature males have a red frons and the abdomen brick red. Immature males and females are yellow brown. Thorax side of the mature males often with a bluish-white dash below the wing base.\n\nFemales of this species can be confused with females of other darters, especially *S. flaveolum*, but the colour in the eye and the shape of the vulvar scale, with a deep U-shaped indentation, allows them to be identified with certainty.\n\nOften confused with *Crocothemis erythraea* because the bluish underside of the eye, yellow hind wing base, red colouration and active behaviour. That species is much broader-bodied and has no black on the face or legs.\n\n*Sympetrum sinaiticum* has bluish underside of the eyes, but is duller overall, typically with a black bar on each side of S2-S3.",
+  "behaviour": "A strong migrant, erratic influxes are often seen in northern Europe in early summer, when other *Sympetrum* are only beginning to emerge. A swift red dragonfly seen there in May or June is therefore likely to be of this species.",
+  "size": { "length": "33-40 mm", "wingspan": "60-70 mm" },
+  "similar_species": [
+    "Sympetrum flaveolum",
+    "Crocothemis erythraea",
+    "Sympetrum sinaiticum"
+  ],
+  "distribution": "*Sympetrum fonscolombii* is widespread and common in most of Africa, the Middle East, the Indian Peninsula and Central Asia. It is a habitual wanderer and has colonised the Canary Islands, Madeira and the Azores. In eastern mainland Asia, records are known from several widely scattered localities although its status in these regions is unclear as breeding details are lacking. There are numerous records from Japan, all regarded as vagrants from mainland Asia.\n\nIn Europe it is one of the most common and abundant species in the Mediterranean. Its abundance decreases to the north although it is far from being rare in most of western and central Europe. In the northern part of its range the species shows strongly yearly fluctuations, being especially common in years where spring immigration from the south is followed by a warm summer enabling local breeding.",
+  "habitat": "*Sympetrum fonscolombii* reproduces mostly at sunny, shallow standing waters and more rarely at slow-flowing stretches of rivers. In the Mediterranean it is especially abundant in coastal brackish wetlands and lagoons, rice fields and man-made barrage lakes. Successful breeding can also occur at bare, warm and shallow flooded quarries, sand pits, dune ponds, newly created ponds, depressions in bogs or recently flooded meadows. Newly created waters are readily colonised and are, especially in the north, an important habitat where the species can reach high numbers within a few years. Population size often drops when the vegetation becomes lusher. *Sympetrum fonscolombii* is mainly a lowland species but vagrants have been regularly encountered at high in the mountains, although reproduction at high altitudes outside the Mediterranean is rare.",
+  "flight_period": "June to October. In some Mediterranean areas, the adults can be seen throughout the year, though rarely in December, January or February.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/sympetrum-fonscolombi-male-go%CC%88ran-liljeberg-cc-by_nvb6iq.jpg",
+        "caption": "Sympetrum fonscolombii, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/sympetrum-fnscolombi-female-go%CC%88ran-liljeberg-cc-by_kh3ava.jpg",
+        "caption": "Sympetrum fonscolombii, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

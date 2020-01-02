@@ -1,48 +1,43 @@
 {
-    "items_id": "e76ff4864f4979b0efa6fb39260b79fc",
-    "scientific_name": "Sympetrum flaveolum",
-    "author_citation": "(Linnaeus, 1758)",
-    "local_names": [
-        "Yellow-winged darter"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "32-37 mm",
-        "wingspan": "46-64 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/sympetrum-flaveolum-male-go%CC%88ran-liljeberg-cc-by_anmtlg.jpg",
-                "caption": "Sympetrum flaveolum, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            },
-            {
-                "public_id": "dragonflies/sympetrum-flaveolum-female-go%CC%88ran-liljeberg-cc-by_i1qnjy.jpg",
-                "caption": "Sympetrum flaveolum, female",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "e76ff4864f4979b0efa6fb39260b79fc",
+  "scientific_name": "Sympetrum flaveolum",
+  "author_citation": "(Linnaeus, 1758)",
+  "local_names": ["Yellow-winged darter"],
+  "description": "This species can be easily identified by the conspicuous yellow patch at the base of the hind wings, often extending up to the node. The fore wing is usually also yellow at the base, although less broadly so. The legs are black with yellow stripes.\n\nWing venation is black  Male abdomen is slender, very straight-sided, not clubbed, deep orange rather than pure red, and have a complete black line running on each side of the abdomen.\n\nFemale abdomen is yellow, bluish-grey underneath and has typically a complete black line on each side. This line is usually partially interrupted in other species. Females vary quiet frequently, about 1 in 20 have reduced yellow on the wings.\n\nThe yellow wing bases may cause confusion with *S. fonscolombii* but *S. flaveolum* has darker wing venation and pterostigma. It does not overlap with yellow-winged *Trithemis kirbyi*.\n",
+  "behaviour": "This species is invasive in large parts of its range. It may be absent in a particular area for long periods, breeding there for a few years after the arrival of large swarms or migrants.",
+  "size": { "length": "32-37 mm", "wingspan": "46-64 mm" },
+  "similar_species": ["Sympetrum fonscolombii"],
+  "distribution": "*Sympetrum flaveolum* occurs in the cold temperate zone of Eurasia and is common and abundant in most of its range. It is generally confined to mountains in the south of its range. The species is common and abundant in large parts of eastern and central Europe and the southern half of Fennoscandia. It has a permanent presence in most of the mountainous areas in western and parts of southern Europe, including the Pyrenees, the Massif Central, the Alps and the Dinaric Alps. Its occurrence in the lowlands of western and southern Europe is largely dependent on influxes from central and eastern Europe, which are associated with eastern winds. These invasions, such as those in 1995 and 2006, can be substantial and often result in the establishment of numerous temporary populations. In 1995, swarms of several tens of thousands of individuals reached Great Britain and there was a single record for Ireland. The resulting lowland populations are short-lived and in most cases become extinct after a few years. This pattern of influxes followed by decline and extinction is especially evident in Great Britain, with the species being absent or very rare in years between influxes.",
+  "habitat": "In the core of its European range, *S. flaveolum* is found in a wide range of standing waters, which are neither too eutrophic nor heavily shaded. In the west and the south, it shows a strong preference for standing waters with shallow banks, which partially or completely dry out during summer. Suitable conditions occur at temporary flooded meadows, shallow dune lakes and small depressions in fen lands, bogs and quarries. The stable mountain populations of southern and western Europe are found at *Sphagnum* peat bogs, small alkaline or acidic lakes and temporary ponds.",
+  "flight_period": "May to October",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/sympetrum-flaveolum-male-go%CC%88ran-liljeberg-cc-by_anmtlg.jpg",
+        "caption": "Sympetrum flaveolum, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/sympetrum-flaveolum-female-go%CC%88ran-liljeberg-cc-by_i1qnjy.jpg",
+        "caption": "Sympetrum flaveolum, female",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

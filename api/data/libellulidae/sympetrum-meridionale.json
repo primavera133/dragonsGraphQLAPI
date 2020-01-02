@@ -1,31 +1,28 @@
 {
-    "items_id": "cac92e6d7b99c17344b371afdc7e3de7",
-    "scientific_name": "Sympetrum meridionale",
-    "local_names": [
-        "Southern darter"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "35-40 mm",
-        "wingspan": "50-60 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "author_citation": "(Selys, 1841)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "cac92e6d7b99c17344b371afdc7e3de7",
+  "scientific_name": "Sympetrum meridionale",
+  "author_citation": "(Selys, 1841)",
+  "local_names": ["Southern darter"],
+  "description": "This species has a yellowish-brown thorax without any black markings except for two tiny dots surrounding the breathing spiracles on each side and thin black lines along the sutures. Often the abdomen of the males is also devoid of black markings. The legs are mainly yellow. The black band at the base of the frons is concealed by the vertex of the head and does not extend along the edges of the eyes. The wings are hyaline with no yellow or amber patches. It becomes even paler towards Central Asia.\n\nMost likely to be confused with *S. striolatum*, with which it overlaps completely, but is much paler overall and is distinguished by:\n1. Black at base of frons so narrow it is concealed by vertex.\n2. Black along thorax sutures are very thin; clearest on fossae (pits on sutures near wing bases), resulting in two characteristic black drops on each side of thorax.\n3. Typically no (or reduced) black dashes on top of S8-S9.\n4. Legs predominantly yellow, rather than mainly black.\n\nGreater care in identification is needed in Spain, northern Africa and Turkey, where similar species occur. In Turkey, *S. vulgatum decoloratum*, *S. arenicolor* and *S. haritonovi* are even paler (even with no black on back of head) and have clear structural differences. *S. sinaiticum* in Spain and northern Africa differs clearly structurally, too, and is somewhat blacker overall, with blue-grey instead of greenish undersides to the eyes and has characteristic black bars on each side of S2-S3. Pterostigma is rather large, especially to that of *S. v. decoloratum*.\n\nA hand lens should eliminate any doubt:\n1. Hamule of male has longer and narrower hook and lobe than most species.\n2. Vulvar scale of female is more tightly pressed against the abdomen than in other species (hardly visible from side)\n3. Paired processes on underside of female S9 (just beyond vulvar scale) absent, unlike all similar *Sympetrum*, replaced by shallow depressions.\n\n",
+  "behaviour": "",
+  "size": { "length": "35-40 mm", "wingspan": "50-60 mm" },
+  "similar_species": [
+    "Sympetrum striolatum",
+    "Sympetrum vulgatum decoloratum",
+    "Sympetrum arenicolor",
+    "Sympetrum haritonovi"
+  ],
+  "distribution": "The range of *Sympetrum meridionale* is mainly in the southern half of Europe, Central and western Asia. In Africa the species is limited to the Maghreb, where it is sparesly distributed but can locally be abundant. It is common in the Mediterranean and in parts of central Europe. It shows strong regional differences in population density, being very abundant in parts of the Mediterranean coast, the Balkan Peninsula and along the western Black Sea coast. It is uncommon in most of the Iberian Peninsula and southern Italy and becomes increasingly scarce to rare north of Mid-France, the Alps and Hungary.",
+  "habitat": "*Sympetrum meridionale* is typically found at sunny, shallow standing waters that often dry out during summer. Suitable habitats generally receive most of their water from winter rains, melt water or spring flooding. Habitats are in most cases densely vegetated and marshy and the species is, unlike many others in ephemeral habitats, not a typical pioneer. Suitable conditions for breeding are present in a range of habitats including brackish coastal lagoons, shallow dune lakes, shallow temporary ponds, pools in quarries, seasonally flooded depressions along rivers or lakes and large rain puddles in agricultural fields. *Sympetrum meridionale* is a lowlands species but in warm regions it requires forested upland refuges to aestivate before returning to its breeding sites after they are flooded by autumn rain.",
+  "flight_period": "June to October",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

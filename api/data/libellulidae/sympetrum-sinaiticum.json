@@ -1,29 +1,23 @@
 {
-    "items_id": "715de20f801d283747f954dcd6b5b2ac",
-    "scientific_name": "Sympetrum sinaiticum",
-    "local_names": [],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "34-37 mm",
-        "wingspan": "48-58 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "Dumont, 1977",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "715de20f801d283747f954dcd6b5b2ac",
+  "scientific_name": "Sympetrum sinaiticum",
+  "author_citation": "Dumont, 1977",
+  "local_names": [],
+  "description": "This speceis was quite recently considered a separate species and occurs only in arid regions, where it is known to have a very long flight period. \n\nThis darter is slightly smaller than *Sympetrum striolatum* and for a long time it was confused with that species and *S. meridionale* because of its colouration which is intermediate between those two species. In fact it is similar to a particluarly pale *S. striolatum* with few black markings and black sutures or to a *S. meridionale* with more black markings than usual. Both the males and the females have the lower part of the eye greyish, legs yellow with black stripes. Abdomen has characteristic black lines on S2 and S3, unlike both *S. striolatum* and *S. meridionale*. \n\nThe immature males are yellow and on maturation they acquire an uneven colouration, redder on top of the abdomen and more yellow on the sides. In the females, the dark lines on S2-S3 and those on the other segments form a rather thick and almost continuous line on the side of the abdomen. The vulvar scale does not protrude much from the body. The pterostigma is whitish on teneral individuals, and turn reddish on maturation.\n\nTwo main features should be considered in field:\n1. Underside of eyes are bluish grey, not green to brown.\n2. Males with a short black bar on each side of S2-S3, contrasting with the plain remainder of the abdomen. Mature males are not intensely red, more a salmon colour. \n\nMature males may be confused for the blue-eyed *S. fonscolombii*, especially since wing veins can be reddish, but S2-S3 markings and duller colouration rule them out. In northern Spain the ssp. *Ibericum* of *S. vulgatum* is structurally like typical *S. vulgatum* but it is as pale as *S. sinaiticum*. It too lacks the bars on S2-S3. \n\nThe Sandy Darter, *S. arenicolor* is the Asian counterpart of *S. sinaiticum*. It is known from eastern Turkey and may be expected to turn up in Europe. It is  paler, almost as pale as *S. vulgatum decoloratum* with which it occurs. Structural characters are like *S. sinaiticum* and the dark bars on S2-S3 are present, although somewhat faint.\n\nHook of hamule is small, normally concealed by lobe when viewed from the side. Lower appendages are long, reaching halfway between ventral angle and tip of upper apendages. In most other species, such as *S. striolatum*, it usually reaches to near the ventral angle. Vulvar scale protruding less than that of *S. striolatum* (seen from side) but not as appressed as in *S. meridionale*",
+  "behaviour": "Aestivating adults aggregate on bushes and trees.",
+  "size": { "length": "34-37 mm", "wingspan": "48-58 mm" },
+  "similar_species": ["Sympetrum striolatum", "Sympetrum meridionale"],
+  "distribution": "*Sympetrum sinaiticum* occurs in North Africa, the Levant and Spain. Its distribution in North Africa and the Levant is fragmented as regions with suitable habitats are isolated by extensive arid areas. The distribution of this species is poorly known as the main peak of adult activity is in autumn and winter, resulting in the species being overlooked in many areas. The discovery of the species in Morocco in 2007 is therefore not considered as an expansion of its range but simply the result of increased fieldwork. Many localities have been found since the 1990s, which is largely explained by the fact that the species is now better known to observers and can more easily be distinguished from *S. meridionale* in the field. Further fieldwork from late autumn to early spring will probably show *S. sinaiticum* to be more common than presently known in oases and streams in Palearctic Africa and the Levant.\n\nThe European range of *S. sinaiticum* is confined to southern and eastern Spain, with vagrants recorded on the Italian Sicilian Channel Islands. The species was one of the last to have been recognised in Europe. However it was not a recent arrival, as shown by the presence in the Museo National de Ciencias Naturales in Madrid of several specimen collected in November 1900 at Cartagena (Murcia), August 1906 at Gava and Antiga (Barcelona), in September 1910 at Oliete (Teruel) and in August 1961 at Úbeda (Jaen). Field work in the past two decades has shown this species to be fairly common in parts of eastern Spain, although less common in the south of the country.",
+  "habitat": "*Sympetrum sinaiticum* occurs at permanent and temporary standing waters such as intermittently-flowing brooks and streams, dam lakes, sunny ponds, pools and basins, marshy depressions and ditches. The habitat preferences of this species are poorly understood as it appears to occupy a broad range of habitats but is often absent at seemingly suitable locations. It is well adapted to arid and semi-arid regions as its egg and larval phases largely coincide with the rainy season from autumn to winter. It might be that *S. sinaiticum* is most successful in areas which frequently dry out during summer, thus reducing competition with other species and predators.",
+  "flight_period": "June to November",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

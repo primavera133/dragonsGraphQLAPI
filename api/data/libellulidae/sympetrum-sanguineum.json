@@ -1,40 +1,35 @@
 {
-    "items_id": "025396979034d78088dc576247842f9a",
-    "scientific_name": "Sympetrum sanguineum",
-    "author_citation": "(Müller, 1764)",
-    "local_names": [
-        "Ruddy darter"
-    ],
-    "description": "",
-    "behaviour": "",
-    "size": {
-        "length": "35-40 mm",
-        "wingspan": "45-62 mm"
-    },
-    "similar_species": [],
-    "distribution": "",
-    "habitat": "",
-    "flight_period": "",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": [
-            {
-                "public_id": "dragonflies/sympetrum-sanguineum-male-go%CC%88ran-liljeberg-cc-by_t0nbyt.jpg",
-                "caption": "Sympetrum sanguineum, male",
-                "license": "CC BY 3.0",
-                "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-                "by": "Göran Liljeberg",
-                "url": "http://liljebergs.nu/"
-            }
-        ]
-    }
+  "items_id": "025396979034d78088dc576247842f9a",
+  "scientific_name": "Sympetrum sanguineum",
+  "author_citation": "(Müller, 1764)",
+  "local_names": ["Ruddy darter"],
+  "description": "This common dragonfly has all black legs. On average it is smaller than *S. striolatum*. In the males the abdomen is blood red more clubbed than most other darters. Also the frons is red. \n\n*S. danae* also has a clubbed abdomen but is easily separated by the dark triangle upon the thorax upper side (and black coloration in mature males)\n\nConfusion is most likely with the generally scarce *S. depressiculum*. The red frons together with the small but distinct yellow patch at the base of the wings, and the males uniformly coloured thorax should assist field identification. \n\nNotably variable in Turkey. In south-west Turkey it has much yellow in the wings, especially around the nodes, more strongly so in the females. These individuals recall *S. flaveolum*, but always have all-black legs. Towards the east, probably at higher altitudes, it has prominent yellow streaks on all femora. This variety, sometimes considered a ssp *armeniacum*, does hav all-black tibiae.\n\n\n",
+  "behaviour": "Flight is relatively bouncy and dancing. Often found among emeralds in vegetation rich shorelines to a bit away from the water in half-heigh vegetation. Males keep a lookout over their territories from a suitable vantage. They like to return to the same vantage after dashing after females or chasing away other males. The species is mobile and is especially younger individuals are often found far from water.\n\nOviposits in tandem, among vegetation above the shoreline that will become flooded in early spring, or onto wet mud. Eggs are not hatched until next spring and larval development is quick. It takes only about two months from the eggs hatched to the emergence of the imagos. Exuviae are left a few decimetres up on straws i tufts of sedge, reed or the likes out in the water or along the shoreline.",
+  "size": { "length": "35-40 mm", "wingspan": "45-62 mm" },
+  "similar_species": ["Sympetrum depressiculum", "Sympetrum danae"],
+  "distribution": "*Sympetrum sanguineum* is widespread across large parts of Europe, reaching east to central Siberia. The species is one of the most common and abundant throughout much of its range. In Africa it is confined to the coastal parts of the northern Maghreb and to the Rif mountains in Morocco. In Europe it is abundant in most of its range. To the south it becomes rare in more arid regions of the Mediterranean and in the north it is limited by cold, being absent from most of Scotland and the two northern thirds of Fennoscandia. Its apparent low density in the central parts of Ukraine is likely to be due to lack of field surveys in those countries.",
+  "habitat": "*Sympetrum sanguineum* occurs in a wide range of standing or slow-flowing waters, preferring those with a rich aquatic and bank side vegetation. It is mostly found in permanent , not too shallow, largely unshaded waters, often near bushes or trees. Habitats include lakes, oxbows, excavations, garden ponds, fens, ditches, canals and slow-flowing stretches of rivers. The species is generally absent or scarce in acidic water bodies with *Sphagnum* peat moss and in habitats with little vegetation such as newly created ponds.",
+  "flight_period": "June to October",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/sympetrum-sanguineum-male-go%CC%88ran-liljeberg-cc-by_t0nbyt.jpg",
+        "caption": "Sympetrum sanguineum, male",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Göran Liljeberg",
+        "url": "http://liljebergs.nu/"
+      }
+    ]
+  }
 }

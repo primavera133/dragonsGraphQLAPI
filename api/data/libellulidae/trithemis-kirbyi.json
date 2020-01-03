@@ -1,33 +1,27 @@
 {
-    "items_id": "fe2e094c46ecbd3012f96c7690907454",
-    "scientific_name": "Trithemis kirbyi",
-    "local_names": [
-        "Orange-winged dropwing",
-        "Scarlet rock glider",
-        "Kirby's dropwing"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "30-34 mm",
-        "wingspan": "50-65 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Not Applicable",
-        "red_list_europe": "Not Applicable",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "author_citation": "Selys, 1891",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "fe2e094c46ecbd3012f96c7690907454",
+  "scientific_name": "Trithemis kirbyi",
+  "author_citation": "Selys, 1891",
+  "local_names": [
+    "Orange-winged dropwing",
+    "Scarlet rock glider",
+    "Kirby's dropwing"
+  ],
+  "description": "*Trithemis kibyi* is smaller than its cogener *Trithemis annulata*. It has eyes which is light blue on the lower part and a pterostigma that is short and blackish in both sexes. The mature males of this species have red body, tibiae and wing venation. Abdomen of the mature male is broadened like *T. annulata*, but has less black markings than any other dropwing. Both the fore wings and the hind wings have a large amber-yellow patch that extends from the base for almost a third of the length of the wing.\n\nImmature males are yellowish with paler patches on the wings. Females are yellowish with dark lines on the side of the thorax and two broken brownish lines along the abdomen on S6-S9. Tibiae are pale. At the base of the hind wings, they have a small amber-yellow patch and another roundish, often isolated, patch that is variable in size. \n\nThe males of this species are similar to *Crocothemis erythraea* and *Sympetrum fonscolombii*, but they can be distinguished by the extension of the patches on the wings and the short and black pterostigma. The females can be distinguished from the cogener *T. annulata* that have black legs, lack the lines along the upper side of the abdomen and lack the rounded patch on the hind wings. It does not overlap with *Sympetrum flaveolum*.",
+  "behaviour": "Males often perch on rocks.",
+  "size": { "length": "30-34 mm", "wingspan": "50-65 mm" },
+  "similar_species": ["Crocothemis erythraea", "Sympetrum fonscolombii"],
+  "distribution": "*Trithemis kirbyi* is one of the most common and widespread African species, occurring throughout most of sub-saharan Africa, absent only from areas with closed tropical forests. It is most common in arid and semi-arid savannah regions. It is also found in the southern parts of the Arabian Peninsula, extending towards western India through southern Iran and Pakistan. It is now common and widespread in the Maghreb, where it began to increase in the 1980s and from where it began its expansion into southern Europe.\n\n*Trithemis kirbyi* is the most recent dragonfly to have arrived in Europe, being recorded for the first time in Sardinia in 2003, when a single adult male was found. No subsequent records were made in this area despite searches and this record is believed to be of a vagrant individual. Other records of probable vagrants are reported from Italian islands of Lampedusa (one male and one female 2012) and Linosa (three males 2013). \n\nIn the west the species was found for the first time in the Iberian Peninsula in May 2007, when three males were seen in Andalusia approximately 50 km north of Gibraltar. Surveys at suitable locations in the Malaga Province in the following year succeeded in finding the species at 8 of the 29 localities explored. This uncovered the first evidence of breeding in Europe. The species has since been found in numerous new locations and is now widespread and common in Andalusia. Further inland records were made in Extremadura (2010, 2012) and Castilla-La Mancha (2013). At the same time the species expanded rapidly along the east Mediterranean coast in Murcia, Valencia, Catalonia and Aragon. It is likely that the expansion will continue and records from Portugal is likely in the future.",
+  "habitat": "Throughout its range, this species favours open, arid and semi-arid landscapes, where it is found in rivers, streams and runnels with a bare, stony or rocky bottom and banks with little or no vegetation. These streams often dry out partly in summer, leaving only residual connected or disconnected pools. IT is a strong wanderer which easily colonises new habitats and is able to reproduce in ornamental ponds, fountains, swimming ponds, concrete ditches and water tanks. It is only present in hot areas and, in Europe, is confined to low elevations. In contrast to other species with a rapid larval developmen, its larvae are relatively inactive and this, in combination with their cryptic colouration, allows them to co-occur with fish.",
+  "flight_period": "May to November",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not Applicable",
+    "red_list_europe": "Not Applicable",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

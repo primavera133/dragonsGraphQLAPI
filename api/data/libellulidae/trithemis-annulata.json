@@ -1,34 +1,32 @@
 {
-    "items_id": "27e87377aabc199459b59828d7ffcaea",
-    "scientific_name": "Trithemis annulata",
-    "local_names": [
-        "Violet dropwing",
-        "Violet-marked darter",
-        "Purple-blushed darter",
-        "Plum-coloured dropwing"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "32-38 mm",
-        "wingspan": "40-70 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Increasing"
-    },
-    "author_citation": "(Beauvois, 1807)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "27e87377aabc199459b59828d7ffcaea",
+  "scientific_name": "Trithemis annulata",
+  "author_citation": "(Beauvois, 1807)",
+  "local_names": [
+    "Violet dropwing",
+    "Violet-marked darter",
+    "Purple-blushed darter",
+    "Plum-coloured dropwing"
+  ],
+  "description": "The male of this species can easily be identified by the general colouration of the body which is red with purple pruinosity. Wings have red venation. The abdomen is slightly flattened and the last segments have some black markings. The upper part of the frons is purple with a metallic sheen. Vertex is also metallic purple.\n\nFemales are yellow brown with black markings on the upper side of S8 and S9. Their wing venation is yellowish. Both sexes have a dark amber patch at the hindwing base, a smaller patch could be present on the fore wing. Males are yellow at emergence, turning orange and red before attaining the violet pruinosity. It is clearly smaller than *Crocothems erythraea*. Females differ from other *Trithemis* by the heavier abdomen and the markings on S8-S9. \n\nIts Asian counterpart *T. aurora* is present in Iran and might appear in Turkey. The males of that species are smaller and pinkier, their wing patch deeper and larger (often covering triangle), forewing has a similarly extensive patch, genital lobe pointed, S8 and S9 often without a black dorsal marking but S9 has a lateral black marking instead.\n\n*Trithemis* males, except *T. kirbyi*, have a similar hamule, with a sharply curved hook. The genital lobe of *T. annulata* male is distinctly more broadened at its tip. \n\n",
+  "behaviour": "Males perch prominently on waterside stakes.",
+  "size": { "length": "32-38 mm", "wingspan": "40-70 mm" },
+  "similar_species": [
+    "Crocothemis erythraea",
+    "Trithemis arteriosa",
+    "Trithemis kirbyi"
+  ],
+  "distribution": "*Trithemis annulata* is a wide-ranging Afrotropical species that in recent decades has spectacularly expanded in south-western Europe. It is common throughout most of Africa, except in areas with closed tropical forests, and widespread in most of the Arabian Peninsula, extending to eastern Iran and southern Turkey. This species has been recorded in Europe since the 19th century when it was recorded from Sicily, Sardinia, mainland Italy and Cyprus. However it remained rare until the second half of the 20th century, when it expanded across the Mediterranean basin. It is now widespread and common in large parts of eastern and western Mediterranean but is unknown from the Black Sea area and remains confined to Greece, Albania, Montenegro in the Balkans. \n\nThe first records from the Iberian Peninsula were made in 1978 in southern Spain, and the species has since expanded its range over most of the Iberian Peninsula, with the exception of the cooler and wetter northern areas where it is rather local. It reached Corsica in 1988 and the south-west of France in 1994, and is now widespread from the Garonne estuary to the Alpes-Maritimes with bridgeheads up to the Isère department. During this same period it has increased in density and range in Italy and the species is now well distributed in Sicily, Sardinia and the mainland up to the northern borders of Tuscany and Marche. \n\nUntil the middle of the last century, the only two Greek records were from the islands of Astipalia and Rhodes, suggesting that the species was at that time restricted to the southern Aegean islands. It has since expanded its range in the Aegean and Ionian regions with the first record from the Peloponnese in 1977. It remained rather rare until the 1990s but today the species is common on most of the Greek islands and on the Adriatic coast of the country, reaching Corfu and the Albanian border. Although it was not found in Albania during the most recent surveys, it was recorded in Montenegro in June 2008. The first evidence of successful reproduction in this country was in July 2011. It is therefore likely that the species is now present in Albania and records from Bosnia and Herzegovina and Croatia are likely in the future.",
+  "habitat": "*Trithemis annulata* is a ubiquitous species and inhabits a wide range of sun-exposed, slow-flowing and standing water. It favours warm conditions and is often found in ditches, gravel pits, natural lakes, large man-made barrage lakes, small basins and sluggish streams and rivers.",
+  "flight_period": "April to November",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

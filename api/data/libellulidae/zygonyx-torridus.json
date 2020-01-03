@@ -1,31 +1,23 @@
 {
-    "items_id": "f36bf439ed7b31ddcffefd10ed545625",
-    "scientific_name": "Zygonyx torridus",
-    "local_names": [
-        "Ringed cascader"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "50-60 mm",
-        "wingspan": "90-100 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Vulnerable",
-        "red_list_europe": "Vulnerable",
-        "red_list_mediterranean": "Near threatened",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "(Kirby, 1889)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "f36bf439ed7b31ddcffefd10ed545625",
+  "scientific_name": "Zygonyx torridus",
+  "author_citation": "(Kirby, 1889)",
+  "local_names": ["Ringed cascader"],
+  "description": "This is a very large and aggressive chaser, size is about that of the more slender *Aeshna mixta*. The species is reminiscent of hawkers for the flight and goldenrings for the appearance and colouration. Unlike the other chasers, it tends to perch rarely and does so hanging almost vertically. Both the males and the females have a very dark colouration, almost black, with a bronze gloss to face and thorax. Abdomen is black with yellow spots at the sides on S2-S8, separated by two mid-dorsal parallel blackish lines, even partly discontinuous. The male terminal appendages are dark, the legs are black with yellow spots. The wings are hyaline in the males and yellowish in the females. The pterostigmas are black.\n\nThe male hamule is very strong, curved hook and anterior lamina is densely hairy.",
+  "behaviour": "*Zygonyx torridus* is a powerful and swift flier. Males patrol tirelessly over rapids, fiercely chasing off other dragonflies. Unlike most libellulids it seldom perches, but when it does it hangs almost vertically rather than holding its abdomen up. It is known to migrate.",
+  "size": { "length": "50-60 mm", "wingspan": "90-100 mm" },
+  "similar_species": [""],
+  "distribution": "*Zygonyx torrius* ranges throughout sub-Saharan Africa across the southern parts of the Arabian Peninsula and Iran to the Indian subcontinent and may be rare or common, depending on the region. To the north it occurs in patches on the Canary islands, the northern Maghreb and the southern Iberia to Sicily, southwest Turkey and the Levant. The species is known to wander and some Mediterranean records refer to vagrants only. There are evidence of permanent populations in Morocco, mainland Spain, the Canary Islands and Sicily.\n\nThe European populations are confined to the Canary Islands, southern Iberia and Sicily. In the Canary Islands the species is reasonably common on La Palma, La Gomera, Tenerife and Gran Canaria. In Spain, concentrations of records, including evidence of breeding, are found at the southern tip of Andalusia and the border of the province of Valencia. Breeding has not yet been recorded from other parts of the Iberian Peninsula. Only two records (1985, 2009) are available from the south of Portugal. Three males were collected on Sicily in 1976, a male was photographed in 2013 and three exuviae were collected in 2014 at the same locality, demonstrating the presence of a population.",
+  "habitat": "*Zygonyx torridus* is found primarily in very warm environments at fast-running sections of permanent streams and rivers. It breeds at waterfalls and rapid flowing stretches of streams and rivers, often holding quite small territories in shallow areas. It is a very mobile species and vagrants are often found far away from their breeding habitat.",
+  "flight_period": "April to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Vulnerable",
+    "red_list_europe": "Vulnerable",
+    "red_list_mediterranean": "Near threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Decreasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

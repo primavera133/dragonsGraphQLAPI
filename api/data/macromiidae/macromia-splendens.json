@@ -1,31 +1,23 @@
 {
-    "items_id": "392af4ae80032eed9d3ab88af3359f52",
-    "scientific_name": "Macromia splendens",
-    "local_names": [
-        "Splendid cruiser"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "May to August",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "70-75 mm",
-        "wingspan": "84-98 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "II+IV",
-        "red_list_EU27": "Vulnerable",
-        "red_list_europe": "Vulnerable",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "Endemic",
-        "red_list_europe_endemic": "Endemic",
-        "trend_europe": "Decreasing"
-    },
-    "author_citation": "(Pictet, 1843)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "392af4ae80032eed9d3ab88af3359f52",
+  "scientific_name": "Macromia splendens",
+  "author_citation": "(Pictet, 1843)",
+  "local_names": ["Splendid cruiser"],
+  "description": "An enigmatic large dragonfly that cruises rapidly along the banks of calm river sections and reservoirs. Endemic to south-western Europe but only rarely encountered.\n\nFor size and colouration, this dragonfly vaguely resembles a *Cordulegaster*, especially when observed in flight. The abdomen is black with yellow spots. It is slender and not very clubbed. Upper side of S2 has a yellow bar across and more smaller yellow spots on S3-S4(-S6) becoming smaller towards the rear until S7 that has a conspicuously larger spot. Males also have a smaller spot on S8.\nThe thorax is metallic green in colour with a wide yellow band on either side. On the upper side of thorax it has two yellow oblong spots and a yellow crescent exactly before the insertion points of the fore wings. The eyes are large and bright green. The frons is dark with wide yellow spots. The legs are black and very long. The venation of the wings are unique.\n\nMay be confused with *Cordulegaster* species in flight. The latter has eyes barely touching, no green lustre, shorter legs and differently configured yellow markings and venation. The genera may co-occur, but *Cordulegaster* usually inhibits smaller waters, making slower and more concealed patrols and more frequently perches near the water.",
+  "behaviour": "A strong, seemingly tireless flier. Seldom seen perching, if it does it hangs vertically from twigs. Forages along forest edges, near trees and over fallow land. Males patrol sections of several hundreds of meters long, 1 m or more from the bank and about 0.5 m above the surface. Seen mainly over the water in late morning and afternoon, preferring calm and sunny weather. May also be seen flying over paths or between trees near water, a few metres above ground. \n\nOviposition females skim over the water, tapping the abdomen tip onto the surface 3-10 times at different sites close to each other.",
+  "size": { "length": "70-75 mm", "wingspan": "84-98 mm" },
+  "similar_species": ["Coldulia boltonii"],
+  "distribution": "The main distribution of *Macromia splendens* is centred on the south and south-west of France and the western half of the Iberian Peninsula. This species is not uncommon in Galicia and the north of Portugal, but only scattered populations are found elsewhere in the peninsula. The largest populations in France occur on rivers flowing west, south and east from the southern half of the Massif Central. The species is also not uncommon on some rivers along the Atlantic region of south-west France. *Macromia splendens* has received much attention since 1990, resulting in many new populations being found in the Iberian Peninsula and western France., showing that it is more widely distributed than previously believed. Densities are very variable and the species is often difficult to observe and hence is easily overlooked. It is therefore possible that new populations remain to be discovered, as shown by the recent records from Catalonia and Aragon in Spain, and from the Corbières in France.",
+  "habitat": "*Macromia splendens* is found at slow-flowing stretches of large rivers and on streams and small rivers with deep permanent pools in which the larvae survive the dry season. Suitable habitats are generally found in well-preserved and (semi)-natural landscapes where pollution is minimal. Hydroelectric barrage dams can support large populations when the water quality and regime mimic those of large rivers. The species does not breed in standing water bodies, although foraging individuals have been observed at such habitats. *Macromia splendens* is restricted to the lowlands and hilly regions below 500 m in France and generally below 700 m in the Iberian Peninsula, though it has been found up to 1 000 m in Spain.",
+  "flight_period": "May to August",
+  "red_list": {
+    "habitats_directive": "II+IV",
+    "red_list_EU27": "Vulnerable",
+    "red_list_europe": "Vulnerable",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "Endemic",
+    "red_list_europe_endemic": "Endemic",
+    "trend_europe": "Decreasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

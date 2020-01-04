@@ -1,31 +1,23 @@
 {
-    "items_id": "edd3525f37d23368e7e3cd5e54bff655",
-    "scientific_name": "Platycnemis dealbata",
-    "local_names": [
-        "Ivory featherleg"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "mm",
-        "wingspan": "mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Not Evaluated",
-        "red_list_europe": "Not Evaluated",
-        "red_list_mediterranean": "Not Evaluated",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Unknown"
-    },
-    "author_citation": "Selis in Selys & Hagen, 1850",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "edd3525f37d23368e7e3cd5e54bff655",
+  "scientific_name": "Platycnemis dealbata",
+  "author_citation": "Selis in Selys & Hagen, 1850",
+  "local_names": ["Ivory featherleg"],
+  "description": "Within their range the males are unique by their ivory body and enlarged white legs. Almost identical in this regards to *P. latipes* but separated by structural details and range.\n\nBoth sexes differ from overlapping species *P. pennipes* and *P. kervilleri* by (almost) unmarked white mid and hind tibiae. Moreover male abdomen is almost all-white, seldom more than S7-S9 marked with black, never blue (*P. pennipes*) or pruinose (*P. kervilleri*).\n\nUnlike the other *Platychnemis* the upper appendages of males are without a notch at tip. Hind margin of pronotum in female with a small but prominent tooth laterally.",
+  "behaviour": "",
+  "size": { "length": "mm", "wingspan": "mm" },
+  "similar_species": ["Platychnemis pennipes", "Platychnemis kervillei"],
+  "distribution": "*Platychnemis dealbata* is common and often abundant in large parts of south-west Asia, occurring from southeast Turkey and the Levant to Kashmir in the east. It is limited in the south by the Sinai, the Syrian desert and the Persian gulf.\n\nIn Europe, *P. dealbata* is restricted to the Republic of Dagestan in the northern Caucasus, where it is known from three old records along the Caspian coast. This area is poorly investigated and it is unknown if the species is still present in Europe.",
+  "habitat": "*Platychnemis dealbata* occurs at all kinds of running but non-torrential waters.",
+  "flight_period": "From end of April to late September in Turkey",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not Evaluated",
+    "red_list_europe": "Not Evaluated",
+    "red_list_mediterranean": "Not Evaluated",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

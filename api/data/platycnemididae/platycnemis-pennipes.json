@@ -1,31 +1,27 @@
 {
-    "items_id": "f020499caa8f88461e5cc1eefe231244",
-    "scientific_name": "Platycnemis pennipes",
-    "local_names": [
-        "White-legged damselfly"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "35-37 mm",
-        "wingspan": "40-50 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "(Pallas, 1771)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "f020499caa8f88461e5cc1eefe231244",
+  "scientific_name": "Platycnemis pennipes",
+  "author_citation": "(Pallas, 1771)",
+  "local_names": ["White-legged damselfly"],
+  "description": "This damselfly can easily be recognised by the middle and hind legs that have expanded tibiae. The pale blue males showing off their white legs to each others are a familiar sight along rivers and calm streams in large parts of Europe. \n \nThe colour of *P. pennipes* varies from creamy white to pale sky blue. Adult males tend to become blue. The thorax has a double antehumeral stripe (occasionally the two stripes merge into one). The patterns on the abdomen are black and very variable, at times being limited to the end portion of the abdomen, whereas in other cases the segments have two parallel dorsal lines. The tibiae are less expanded than those of *P. latipes*, but more than those of *P. acutipennis*. \n\nMales of *P. pennipes* are the only featherleg that become all blue, but appear paler than other damselflies (e.g. *Coenagrion*) due to less black markings and a lighter blue colour. They and their cogeners differ from other damselflies in:\n1. Face more extensively pale and band across head runs between ocelli, not in front of them\n2. It appears as if there are two antehumeral stripes rathern than one.\n3. Black markings on S7-S10 are not interrupted by a pail \"tail light\" but are separated by a fine pale central line, thus appearing \"paired\". \n\nOverlap with other featherlegs only in south-western and south-eastern parts of its range. Confusion is most likely with *P. latipes* in France, and *P. dealbata* in Turkey. Both these species have porcelain-white mature males, with wide (almost) unmarked tibiae, but remember that *P. pennipes* males are white before they turn blue.\n\nHighly variable in the extent of black markings, depending on ambient humidity at emergence. Individuals that emerge with dry weather have similar markings, e.g. black markings on tibiae and S2-S6 may not be apparent. Thus the patterns may be regionally or seasonally different. Colour changes from transparent pink immediately after emergence, through white, in both sexes, to blue in males and yellowish brown, greenish or sometimes blue in females.\n\nMales on the Adriatic coast of Montenegro, Albania and Greece and the Peloponnese have, on average, broader tibiae with fever markings. They are all treated as the subspecies *P. p. nitidula*, and may recall the (non-overlapping) *P. latipes* and *P. dealbata*.",
+  "behaviour": "Ovipositing tandems aggregate on flower stems of Yellow water-lily as well as on water-milfoils and pondweeds, driftwood and roots.",
+  "size": { "length": "35-37 mm", "wingspan": "40-50 mm" },
+  "similar_species": [
+    "Platycnemis latipes",
+    "Platycnemis acutipennis",
+    "Platycnemis dealbata"
+  ],
+  "distribution": "*Platychnemis pennipes* is largely confined to the Western Palearctic. In Asia, it reaches the east of Kazakhstan but very few records have been published and it is unclear if there is a continuous range from northern Kazakhstan to the population north of the border with Kyrgyzstan. The species is replaced with *P. dealbata* in the south of Central Asia and parts of south-west Asia.\n\nIn Europe the species is widespread and common occurring throughout most of Europe, lacking however, in Ireland, the northern half of Great Britain, the western and northern parts of Fennoscandia and northern Russia. In south-west France, the species is sympatric with *P. latipes* and *P. acutipennis*. It is absent from the Iberian Peninsula except from the extreme north-east of Catalonia near the French border. Moreover it is absent from all the large Mediterranean islands with the possible exception of Crete, from where old records are available.\n\nThe subspecies *P. p. nitidula* is restricted to the Adriatic coast from Montenegro to mainland Greece, the Peloponnese and some Adriatic and Aegean islands.",
+  "habitat": "In most of its range, *P. pennipes* is common at all kinds of running water habitats, except torrential streams, and at many types of standing water. These ranges from rivers, streams, oxbow lakes, larger ponds and fish-ponds to abandoned gravel pits. Standing waters where the species is found are often large and relatively deep so that the wave action mimics conditions found in running water. The prescience of emergent bank side and aquatic vegetation favours the development of large populations. The species is absent from largely shaded waters, temporary waters, acidic waters and heavily polluted rivers and standing water bodies. It has a more restricted habitat choice in the north and is there largely confined to rivers. It is common below 500 m, decreasing at higher altitude and rarely present above 1 000 m.",
+  "flight_period": "May to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

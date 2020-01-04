@@ -1,31 +1,23 @@
 {
-    "items_id": "2a3095fc1222a95f77f369fab04b7266",
-    "scientific_name": "Platycnemis latipes",
-    "local_names": [
-        "White featherleg"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "33-37 mm",
-        "wingspan": "36-44 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "Endemic",
-        "red_list_europe_endemic": "Endemic",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "Rambur, 1842",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "2a3095fc1222a95f77f369fab04b7266",
+  "scientific_name": "Platycnemis latipes",
+  "author_citation": "Rambur, 1842",
+  "local_names": ["White featherleg"],
+  "description": "Within range, the males are unique with their porcelain white body and expanded legs with limited black markings. Usually at least S2-S5 are white or cream-coloured without black markings. In both sexes, the hind tibiae are white and very expanded, more so than in *P. pennipes* and *P. acutipennis*. The tibiae of the middle legs have at most a black marking at the base. Females white or beige in colour with most of abdomen with no markings, and head, thorax and last abdominal segments often shifting in orange. Both males and females have double antehumeral stripes on top of thorax.\n\n*P. subdilatata* (North Africa) and *P. dealbata* (Turkey) are similar but do not overlap in range. Beware of teneral *P. pennipes* males, which are whitish (not yet blue) and may have less intense black markings.\n\nMale upper appendage with upper tip shorter than lower. Pronotum of female with a pair of short lateral teeth on the hind margin., which are larger and placed more outward in *P. acutipennis* but mostly absent in *P. pennipes*.\n\nThe extent of black markings on S6-S10 varies greatly.\n\n",
+  "behaviour": "",
+  "size": { "length": "33-37 mm", "wingspan": "36-44 mm" },
+  "similar_species": ["Platycnemis pennipes"],
+  "distribution": "*Platychnemis latipes* is endemic to the south-west Europe. It is common in most of the Iberian Peninsula and the south-west of France, and often occurs in large populations. Published records north of the rivers Loire and the Rhône are probably erroneous and more likely to be *P. pennipes*.",
+  "habitat": "*Platycnemis latipes* occurs mainly in slow-flowing to moderately fast running waters in lowlands and hilly areas. Reproduction at standing waters is rare.",
+  "flight_period": "From the end of May to September. In southern Spain from May to the end of August.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "Endemic",
+    "red_list_europe_endemic": "Endemic",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

@@ -1,29 +1,23 @@
 {
-    "items_id": "cbcfb4ebc9b483fbc43069b1cde9bde1",
-    "scientific_name": "Macromia amphigena",
-    "local_names": [],
-    "description": "",
-    "distribution": "",
-    "flight_period": "In Japan; April to September. In Siberia; early June to mid-August.",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "",
-        "wingspan": ""
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Not present",
-        "red_list_europe": "Not Evaluated",
-        "red_list_mediterranean": "Not present",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Unknown"
-    },
-    "author_citation": "Selys, 1871",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "cbcfb4ebc9b483fbc43069b1cde9bde1",
+  "scientific_name": "Macromia amphigena",
+  "author_citation": "Selys, 1871",
+  "local_names": [],
+  "description": "The nominotypical subspecies is restricted to Japan, whereas the population from mainland Asia and the adjacent part of Europe belong to the subspecies *Macromia amphigena fraenata*. *Macromia sibirica* and *Macromia bartenevi* are synonyms of *M. a. fraenata*.",
+  "behaviour": "",
+  "size": { "length": "", "wingspan": "" },
+  "similar_species": ["Macromia splendens"],
+  "distribution": "*Macromia amphigena* is found in four regions:\n1. The southern Urals\n2. The Altai mountains and surroundings\n3. The Russian Far East with the adjacent parts of China and North Korea.\n4. Japan\n\nA single record from the Bashkortostan Republic in the south-west of the European side of the Urals has been recorded. Further east it is relatively easy to observe so it is suggested that the species is genuinely rare in the area.",
+  "habitat": "The species is found in rivers throughout its range. One record is from a stream-fed lake on the eastern side of the Urals.",
+  "flight_period": "In Japan; April to September. In Siberia; early June to mid-August.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not present",
+    "red_list_europe": "Not Evaluated",
+    "red_list_mediterranean": "Not present",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

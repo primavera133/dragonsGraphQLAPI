@@ -1,31 +1,28 @@
 {
-    "items_id": "a0115eb771b1eebd6b2ed840fa4e4561",
-    "scientific_name": "Platycnemis acutipennis",
-    "local_names": [
-        "Orange white-legged damselfly"
-    ],
-    "description": "",
-    "distribution": "",
-    "flight_period": "",
-    "behaviour": "",
-    "habitat": "",
-    "size": {
-        "length": "34-37 mm",
-        "wingspan": "36-38 mm"
-    },
-    "similar_species": [],
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Least Concern",
-        "red_list_europe": "Least Concern",
-        "red_list_mediterranean": "Least Concern",
-        "EU27_endemic": "Endemic",
-        "red_list_europe_endemic": "Endemic",
-        "trend_europe": "Stable"
-    },
-    "author_citation": "Selys, 1841",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "a0115eb771b1eebd6b2ed840fa4e4561",
+  "scientific_name": "Platycnemis acutipennis",
+  "author_citation": "Selys, 1841",
+  "local_names": ["Orange white-legged damselfly"],
+  "description": "The shape of the head and the pattern on the abdomen are those typical of the genus *Platychnemis*. The less expanded tibiae and the orange-red colour distinguish this species from the cogeners. In *P. pennipes* and *P. latipes* only some females have a reddish hue on the body and in both species the tibiae are decidedly more expanded. Eyes are greyish in females and light blue in males. Both sexes has double antehumeral stripes on the thorax.\n\nThe upper tip of male's upper appendages is longer than the lower tip. Female hind margin of the pronotum has a pair of distinct lateral teeth.\n\nImmature individuals are whitish, more closely recalling other cogeners.\n\nThe mature colour is less intense than that of *Ceriagrion tenellum* or *Pyrrhosoma nymphula*, which are differently marked. Moreover *P. acutipennis* has bluish eyes, like other mature *Platycnemis* males. The combination of light blue eyes and orange body in the male is unique in Europe. \n",
+  "behaviour": "*Platychnemis acutipennis* deposit eggs in fresh, floating aquatic plants, as well as roots or driftwood.",
+  "size": { "length": "34-37 mm", "wingspan": "36-38 mm" },
+  "similar_species": [
+    "Platychnemis latipes",
+    "Platychnemis pennipes",
+    "Ceriagrion tenellum",
+    "Pyrrhosoma nymphula"
+  ],
+  "distribution": "*Platycnemis acutipennis* is endemic to south-western Europe. It is common and widespread in the south-western parts of the Iberian Peninsula and of France, with more scattered occurrences in the other parts of Spain and central and south-eastern parts of France. It seems to be less common than *P. latipes* in Spain.",
+  "habitat": "*Platychnemis acutipennis* occurs in a wide range of habitats and is found at standing, slow-flowing and swift waters, although its preferred habitat in most of its range is medium sized rivers. It is restricted to lowlands and hilly areas, being widespread and often common below 500 m, decreasing rapidly with increased elevation although reaching locally 1 150 m in the Mediterranean.",
+  "flight_period": "From mid-May to mid-August. Earlier in southern Spain.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "Endemic",
+    "red_list_europe_endemic": "Endemic",
+    "trend_europe": "Stable"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

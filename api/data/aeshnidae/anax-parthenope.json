@@ -24,6 +24,15 @@
   "author_citation": "(Sélys, 1839)",
   "images": {
     "cloud_name": "dragonflies",
-    "all": []
+    "all": [
+      {
+        "public_id": "dragonflies/48565418556_b12ab3be03_o_1_m1p7dg.jpg",
+        "caption": "Anax parthenope, female. Öland Sweden, August 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48565418556/in/album-72157710387873631/O"
+      }
+    ]
   }
 }

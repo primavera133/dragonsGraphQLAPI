@@ -23,5 +23,57 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Increasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] }
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/orthetrum_brunneum_o_shgpio.jpg",
+        "caption": "Orthetrum brunneum male, Les Alpilles France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48501677282/in/album-72157710213794157/"
+      },
+      {
+        "public_id": "dragonflies/orthetrum_brunneum_o_fmbssv.jpg",
+        "caption": "Orthetrum brunneum male, Les Alpilles France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48501652902/in/album-72157710213794157/"
+      },
+      {
+        "public_id": "dragonflies/orthetrum_brunneum_o_x0f5u1.jpg",
+        "caption": "Orthetrum brunneum male, Les Alpilles France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48501531641/in/album-72157710213794157/"
+      },
+      {
+        "public_id": "dragonflies/orthetrum_brunneum_o_xfhoz6.jpg",
+        "caption": "Orthetrum brunneum female, La Crau France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48505019222/in/album-72157710213794157/"
+      },
+      {
+        "public_id": "dragonflies/orthetrum_brunneum_o_ircdwh.jpg",
+        "caption": "Orthetrum brunneum female, La Crau France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48505024092/in/album-72157710213794157/"
+      },
+      {
+        "public_id": "dragonflies/orthetrum_brunneum_o_svze5k.jpg",
+        "caption": "Orthetrum brunneum male, La Crau France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48505010197/in/album-72157710213794157/"
+      }
+    ]
+  }
 }

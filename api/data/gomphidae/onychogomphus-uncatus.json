@@ -19,5 +19,33 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] }
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/onychogomphus_uncatus_o_xseovo.jpg",
+        "caption": "Onychogomphus uncatus male, Les Alpilles, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48501655077/in/album-72157710213794107/"
+      },
+      {
+        "public_id": "dragonflies/onychogomphus_uncatus_o_erfpc3.jpg",
+        "caption": "Onychogomphus uncatus male, Les Alpilles, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48501511481/in/album-72157710213794107/"
+      },
+      {
+        "public_id": "dragonflies/onychogomphus_uncatus_o_bc6mg6.jpg",
+        "caption": "Onychogomphus uncatus female, Les Alpilles, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48501684957/in/album-72157710213794107/"
+      }
+    ]
+  }
 }

@@ -28,6 +28,23 @@
   "author_citation": "(Charpentier, 1825)",
   "images": {
     "cloud_name": "dragonflies",
-    "all": []
+    "all": [
+      {
+        "public_id": "dragonflies/calopteryx_xanthostoma_o_jlk6oa.jpg",
+        "caption": "Calopteryx xanthostoma male, Cevennes France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48521875276/in/album-72157710266912161/"
+      },
+      {
+        "public_id": "dragonflies/calopteryx_xanthostoma_o_ardcw4.jpg",
+        "caption": "Calopteryx xanthostoma female, Cevennes France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48522097217/in/album-72157710266912161/"
+      }
+    ]
   }
 }

@@ -19,5 +19,25 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] }
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/sympecma_paedisca_o_dfri8h.jpg",
+        "caption": "Sympecma paedisca, female, Estonia May 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/34499201756/in/album-72157710446552146/"
+      },
+      {
+        "public_id": "dragonflies/sympecma_paedisca_o_chwpbx.jpg",
+        "caption": "Sympecma paedisca, female, Estonia May 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/34379690112/in/album-72157710446552146/"
+      }
+    ]
+  }
 }

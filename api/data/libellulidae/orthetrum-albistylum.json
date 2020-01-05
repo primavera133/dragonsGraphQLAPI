@@ -23,5 +23,25 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Increasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] }
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/orthetrum_albistylum_o_erecoi.jpg",
+        "caption": "Orthetrum albistylum male, Lyon France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48437150572/in/album-72157710044992992/"
+      },
+      {
+        "public_id": "dragonflies/orthetrum_albistylum_o_lr1xin.jpg",
+        "caption": "Orthetrum albistylum male, Lyon France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48436993651/in/album-72157710044992992/"
+      }
+    ]
+  }
 }

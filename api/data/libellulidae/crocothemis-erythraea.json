@@ -24,5 +24,41 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Increasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] }
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/crocothemis_erythraea_o_aakvus.jpg",
+        "caption": "Crocothemis erythraea male, Lyon France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48436973781/in/album-72157710044992997/"
+      },
+      {
+        "public_id": "dragonflies/crocothemis_erythraea_o_nmb3kh.jpg",
+        "caption": "Crocothemis erythraea male, Lyon France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48436999251/in/album-72157710044992997/"
+      },
+      {
+        "public_id": "dragonflies/crocothemis_erythraea_o_tzeppg.jpg",
+        "caption": "Crocothemis erythraea female, Camargue France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48454827757/in/album-72157710044992997/"
+      },
+      {
+        "public_id": "dragonflies/crocothemis_erythraea_o_egjstd.jpg",
+        "caption": "Crocothemis erythraea female, Camargue France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48454891556/in/album-72157710044992997/"
+      }
+    ]
+  }
 }

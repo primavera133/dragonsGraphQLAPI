@@ -19,5 +19,41 @@
     "red_list_europe_endemic": "Endemic",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] }
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/platycnemis_latipes_o_bbf3t0.jpg",
+        "caption": "Platycnemis latipes mating wheel, Cevennes France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48521866191/in/album-72157710091543656/"
+      },
+      {
+        "public_id": "dragonflies/platycnemis_latipes_o_drrapk.jpg",
+        "caption": "Platycnemis latipes male, Camargue France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48454895401/in/album-72157710091543656/"
+      },
+      {
+        "public_id": "dragonflies/platycnemis_latipes_o_a8bged.jpg",
+        "caption": "Platycnemis latipes female, Camargue France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48454893461/in/album-72157710091543656/"
+      },
+      {
+        "public_id": "dragonflies/platycnemis_latipes_o_prcoyo.jpg",
+        "caption": "Platycnemis latipes male, La Crau France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48504781446/in/album-72157710091543656/"
+      }
+    ]
+  }
 }

@@ -19,5 +19,25 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] }
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/lestes_virens_o_jxuvfh.jpg",
+        "caption": "Lestes virens male, Uppsala Sweden, August 2018",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/29028490677/in/album-72157696863590632/"
+      },
+      {
+        "public_id": "dragonflies/lestes_virens_o_vkh81n.jpg",
+        "caption": "Lestes virens female, Skåne Sweden, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48565322957/in/album-72157696863590632/"
+      }
+    ]
+  }
 }

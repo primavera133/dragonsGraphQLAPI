@@ -27,11 +27,27 @@
     "all": [
       {
         "public_id": "dragonflies/somatochlora-sahlbergi-male-go%CC%88ran-liljeberg-cc-by_sykixp.jpg",
-        "caption": "Somatochlora flavomaculata, male",
+        "caption": "Somatochlora sahlbergi, male",
         "license": "CC BY 3.0",
         "lic_url": "https://creativecommons.org/licenses/by/3.0/",
         "by": "Göran Liljeberg",
         "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/somatochlora_sahlbergi_o_unb8bj.jpg",
+        "caption": "Somatochlora sahlbergi male, Tavavuoma Sweden, July 2018",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/43690837052/in/album-72157697998278531/"
+      },
+      {
+        "public_id": "dragonflies/somatochlora_sahlbergi_o_mq1p1p.jpg",
+        "caption": "Somatochlora sahlbergi male, Tavavuoma Sweden, July 2018",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/43690832202/in/album-72157697998278531/"
       }
     ]
   }

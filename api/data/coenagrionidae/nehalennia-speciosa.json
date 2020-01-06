@@ -35,11 +35,19 @@
       },
       {
         "public_id": "dragonflies/nehalennia-speciosa-male-jm2018_v3jnkd.jpg",
-        "caption": "Nehalennia speciosa, male",
-        "license": "CC BY-SA 4.0",
-        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "caption": "Nehalennia speciosa male, Uppland Sweden, July 2018",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
         "by": "Jonas Myrenås",
-        "url": "https://odonata.myrenas.se/zygoptera/coenagrionidae/nehalennia-speciosa/"
+        "url": "https://www.flickr.com/photos/primavera133/43738188881/in/album-72157699233810894/"
+      },
+      {
+        "public_id": "dragonflies/nehalennia_speciosa_o_qy7jkw.jpg",
+        "caption": "Nehalennia speciosa female, Uppland Sweden, July 2018",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/43738202721/in/album-72157699233810894/"
       }
     ]
   }

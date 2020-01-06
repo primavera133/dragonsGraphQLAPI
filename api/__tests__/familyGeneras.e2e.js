@@ -58,6 +58,7 @@ describe('Server - e2e: familyGeneras', () => {
         'coenagrion',
         'enallagma',
         'erythromma',
+        'ischnura',
         'nehalennia',
         'pyrrhosoma'
       ].map(genera_name => ({ genera_name }))

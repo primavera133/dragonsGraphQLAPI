@@ -1,0 +1,29 @@
+{
+  "items_id": "04a8b550c6086dedf6e667d060529155",
+  "scientific_name": "Ischnura graellsii",
+  "local_names": ["Iberian bluetail"],
+  "description": "",
+  "behaviour": "",
+  "size": {
+    "length": "25-30 mm",
+    "wingspan": "26-38 mm"
+  },
+  "similar_species": [],
+  "distribution": "",
+  "habitat": "",
+  "flight_period": "March to November",
+  "red_list": {
+    "habitats_directive": "",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "",
+    "trend_europe": ""
+  },
+  "author_citation": "(Rambur, 1842)",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
+}

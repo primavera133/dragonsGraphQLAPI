@@ -1,0 +1,29 @@
+{
+  "items_id": "04a8b550c6086dedf6e667d060529151",
+  "scientific_name": "Ischnura aralensis",
+  "local_names": [""],
+  "description": "",
+  "behaviour": "",
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": [],
+  "distribution": "",
+  "habitat": "",
+  "flight_period": "",
+  "red_list": {
+    "habitats_directive": "",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "",
+    "trend_europe": ""
+  },
+  "author_citation": "Haritonov, 1979",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
+}

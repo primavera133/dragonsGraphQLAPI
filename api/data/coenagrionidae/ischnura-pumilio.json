@@ -1,0 +1,29 @@
+{
+  "items_id": "04a8b550c6086dedf6e667d060529158",
+  "scientific_name": "Ischnura pumilio",
+  "local_names": ["Small Bluetail", "Scarce blue-tailed damselfly"],
+  "description": "",
+  "behaviour": "",
+  "size": {
+    "length": "25-30 mm",
+    "wingspan": "33-40 mm"
+  },
+  "similar_species": [],
+  "distribution": "",
+  "habitat": "",
+  "flight_period": "April to October",
+  "red_list": {
+    "habitats_directive": "",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "",
+    "trend_europe": ""
+  },
+  "author_citation": "Charpentier, 1840",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "items_id": "04a8b550c6086dedf6e667d060529157",
+  "scientific_name": "Ischnura intermedia",
+  "local_names": ["Persian bluetail"],
+  "description": "",
+  "behaviour": "",
+  "size": {
+    "length": "24-30 mm",
+    "wingspan": "33-40 mm"
+  },
+  "similar_species": [],
+  "distribution": "",
+  "habitat": "",
+  "flight_period": "On Cyprus, from March to November",
+  "red_list": {
+    "habitats_directive": "",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "",
+    "trend_europe": ""
+  },
+  "author_citation": "Dumont, 1974",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  }
+}

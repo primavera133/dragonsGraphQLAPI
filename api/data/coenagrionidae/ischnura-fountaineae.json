@@ -1,16 +1,14 @@
 {
   "items_id": "04a8b550c6086dedf6e667d060529153",
   "scientific_name": "Ischnura fountaineae",
+  "author_citation": "Morton, 1905",
   "local_names": ["Oasis bluetail"],
-  "description": "",
+  "description": "A desert species which just reaches the region in the south of European Russia and on a few Italian islands.\n\nThis species can be distinguished from the other from the same genus by the larger size. The mature males have the head, the upper part of the thorax and the upper part of the abdomen black, whereas the lower part of the thorax, the first part of the abdomen and the eight segment (S8) are light blue. The lower part of the abdomen, from S3-S7 is noticeably pale orange. In both sexes, the postocular spots are small and the antehumeral stripes in the males are narrow, but this is similar to *I. graelsii* and *I. saharensis*.\n\nUnlike the other species of the same genus, immature males do not have any trace of green but are whitish with black markings. \n\nThe majority of the females lack antehumeral stripes and have the dorsal part of the abdomen completely black, including S8. Immature females are pale orange, turning brownish at older age. These females might be hard to differ from other species in the field. Their larger size, smal postoculars and black on S2 and S8 tend to be diagnostic. Rarely the females are androchrome, having the same light blue colouration as the males.\n\nIn hand, males can be reliably identified by their appendages, which are all of similar length.\n\nPostocular spots and antehumeral stripes are often reduced or absent.",
   "behaviour": "",
-  "size": {
-    "length": "27-34 mm",
-    "wingspan": "30-50 mm"
-  },
-  "similar_species": [],
-  "distribution": "",
-  "habitat": "",
+  "size": { "length": "27-34 mm", "wingspan": "30-50 mm" },
+  "similar_species": ["Ishnura elegans"],
+  "distribution": "*Ischnura fountaineae* ranges from North Africa and the Middle East to Central Asia and is generally common and often abundant within its range. In Europe this species is only known from the Kalmykia Republic in the south of the European Russia and from the Italian islands of Pantelleria and Linosa. At Pantelleria the species is abundant at Specchio de Venere (also known as Bagno dell' Acqua), a hot sulphurous crater lake where it was first collected in 1954. The only record from Linosa, an island lacking in natural surface water, is that of a teneral female caught in 2010, which either refers to a vagrant or a specimen originating from a local population from one of few the man-made water dams on the island. The single reliable record from mainland Europe is that of the male collected in 2007 in Kalmykia Republic in southern European Russia. Other Russian records, from Dagestan, are unreliable as they refer to incomplete specimens.",
+  "habitat": "*Ischnura fountaineae* favours brackish waters in arid to semi-arid areas (wadis, oases and coastal wetlands, hot thermal waters). The larvae of *I. fountaineae* are toleran to high salinity (up to e.g. 2.3% in both Pantelleria and Tunisian brackish brooks) and high water temperatures, allowing the species to live permanently in Pantellera crater lake, which is fed by sulphurous springs reaching 56 °C with the water at the shore sometimes reaching 50 °C. Adults were found to be abundant int the sparse belt of rushes surrounding the lake.",
   "flight_period": "March to November. In some African regions all year round with several generations.",
   "red_list": {
     "habitats_directive": "",
@@ -21,9 +19,5 @@
     "red_list_europe_endemic": "",
     "trend_europe": ""
   },
-  "author_citation": "Morton, 1905",
-  "images": {
-    "cloud_name": "dragonflies",
-    "all": []
-  }
+  "images": { "cloud_name": "dragonflies", "all": [] }
 }

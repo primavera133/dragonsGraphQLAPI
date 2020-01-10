@@ -44,11 +44,19 @@
       },
       {
         "public_id": "dragonflies/orthetrum_coerulescens_o_ltubz7.jpg",
-        "caption": "Orthetrum coerulescens, female",
+        "caption": "Orthetrum coerulescens female, La Crau France, July 2019",
         "license": "CC BY-SA 2.0",
         "lic_url": "https://creativecommons.org/licenses/by/2.0/",
         "by": "Jonas Myrenås",
         "url": "https://www.flickr.com/photos/primavera133/48504942387/in/album-72157710213794157/"
+      },
+      {
+        "public_id": "dragonflies/orthetrum_coerulescens_o_c6pgtj.jpg",
+        "caption": "Orthetrum coerulescens male, Närke Sweden, July 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/28351271027/in/album-72157697066072731/"
       }
     ]
   }

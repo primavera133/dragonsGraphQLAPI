@@ -24,6 +24,31 @@
   "author_citation": "(Charpentier, 1840)",
   "images": {
     "cloud_name": "dragonflies",
-    "all": []
+    "all": [
+      {
+        "public_id": "dragonflies/enallagma_cyathigerum_o_j47m4a.jpg",
+        "caption": "Enallagma cyathigerum male and female mating, Uppland Sweden, July 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/43172888362/in/album-72157668819561227/"
+      },
+      {
+        "public_id": "dragonflies/enallagma_cyathigerum_o_au4kpn.jpg",
+        "caption": "Enallagma cyathigerum male, Uppland Sweden, July 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/29350921438/in/album-72157668819561227/"
+      },
+      {
+        "public_id": "dragonflies/enallagma_cyathigerum_o_vwqji8.jpg",
+        "caption": "Enallagma cyathigerum female, Uppland Sweden, July 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/43222607051/in/album-72157668819561227/"
+      }
+    ]
   }
 }

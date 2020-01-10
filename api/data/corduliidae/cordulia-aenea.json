@@ -26,12 +26,36 @@
     "cloud_name": "dragonflies",
     "all": [
       {
-        "public_id": "dragonflies/cordulea-anena-male-go%CC%88ran-liljeberg-cc-by_ozhrhs.jpg",
+        "public_id": "dragonflies/cordulia-anena-male-go%CC%88ran-liljeberg-cc-by_ozhrhs.jpg",
         "caption": "Cordulia aenea, male",
         "license": "CC BY 3.0",
         "lic_url": "https://creativecommons.org/licenses/by/3.0/",
         "by": "Göran Liljeberg",
         "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/cordulia_aenea_o_d_ycrhcu.jpg",
+        "caption": "Cordulia aenea male, Uppland Sweden, June 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/28350151347/in/album-72157695561633412/"
+      },
+      {
+        "public_id": "dragonflies/cordulia_aenea_o_d_atmfia.jpg",
+        "caption": "Cordulia aenea larva, Uppland Sweden, May 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/40913286083/in/album-72157695561633412/"
+      },
+      {
+        "public_id": "dragonflies/cordulia_aenea_o_d_gewj9n.jpg",
+        "caption": "Cordulia aenea exuvia and newly emerged imago, Uppland Sweden, May 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/32935010447/in/album-72157695561633412/"
       }
     ]
   }

@@ -19,5 +19,41 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] }
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/lestes_sponsa_o_w6p8ow.jpg",
+        "caption": "Lestes sponsa male, Uppland Sweden, July 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/42317785475/in/album-72157698737544405/"
+      },
+      {
+        "public_id": "dragonflies/lestes_sponsa_o_g4f3e0.jpg",
+        "caption": "Lestes sponsa female, Uppland Sweden, July 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/29350837668/in/album-72157698737544405/"
+      },
+      {
+        "public_id": "dragonflies/lestes_sponsa_o_sotyo6.jpg",
+        "caption": "Lestes sponsa female, Store mosse Sweden, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48437036232/in/album-72157698737544405/"
+      },
+      {
+        "public_id": "dragonflies/lestes_sponsa_o_lxzusa.jpg",
+        "caption": "Lestes sponsa immature male, Uppland Sweden, June 2018",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/29350837668/in/album-72157698737544405/"
+      }
+    ]
+  }
 }

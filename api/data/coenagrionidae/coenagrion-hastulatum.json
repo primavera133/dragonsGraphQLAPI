@@ -32,6 +32,22 @@
         "lic_url": "https://creativecommons.org/licenses/by/3.0/",
         "by": "Göran Liljeberg",
         "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/coenagrion_hastulatum_o_tu8equ.jpg",
+        "caption": "Coenagrion hastulatum, male and female mating",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/42317935345/in/album-72157668819633017/"
+      },
+      {
+        "public_id": "dragonflies/coenagrion_hastulatum_o_tpbiw9.jpg",
+        "caption": "Coenagrion hastulatum, male and female post-mating",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/47929572131/in/album-72157668819633017/"
       }
     ]
   }

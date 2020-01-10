@@ -24,6 +24,31 @@
   "author_citation": "(Hansemann, 1823)",
   "images": {
     "cloud_name": "dragonflies",
-    "all": []
+    "all": [
+      {
+        "public_id": "dragonflies/erythromma_najas_o_glzara.jpg",
+        "caption": "Erythromma najas male, Stockholm Sweden, August 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48565417641/in/album-72157698261239164/"
+      },
+      {
+        "public_id": "dragonflies/erythromma_najas_o_wvo6qt.jpg",
+        "caption": "Erythromma najas female, Stockholm Sweden, June 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/43222780321/in/album-72157698261239164/"
+      },
+      {
+        "public_id": "dragonflies/erythromma_najas_o_xbc80n.jpg",
+        "caption": "Erythromma najas female and male in mating wheel, Uppland Sweden, May 2018",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/28352786507/in/album-72157698261239164/"
+      }
+    ]
   }
 }

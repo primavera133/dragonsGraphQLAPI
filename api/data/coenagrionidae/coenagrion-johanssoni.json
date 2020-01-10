@@ -32,6 +32,30 @@
         "lic_url": "https://creativecommons.org/licenses/by/3.0/",
         "by": "Göran Liljeberg",
         "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/coenagrion_johanssoni_o_cg28xe.jpg",
+        "caption": "Coenagrion johanssoni male, Jukkasjärvi Sweden, July 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/28351366857/in/album-72157697066218881/"
+      },
+      {
+        "public_id": "dragonflies/coenagrion_johanssoni_o_gpirgb.jpg",
+        "caption": "Coenagrion johanssoni female, Jukkasjärvi Sweden, July 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/42316831895/in/album-72157697066218881/"
+      },
+      {
+        "public_id": "dragonflies/coenagrion_johanssoni_o_flepgj.jpg",
+        "caption": "Coenagrion johanssoni female, Uppland Sweden, July 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/43171561612/in/album-72157697066218881/"
       }
     ]
   }

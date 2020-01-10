@@ -19,5 +19,41 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Increasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] }
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/sympecma_fusca_o_ux0ya3.jpg",
+        "caption": "Sympecma fusca male, Skåne Sweden, April 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/46753022055/in/album-72157698261438444/"
+      },
+      {
+        "public_id": "dragonflies/sympecma_fusca_o_w07bwo.jpg",
+        "caption": "Sympecma fusca male, Skåne Sweden, April 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/46753026795/in/album-72157698261438444/"
+      },
+      {
+        "public_id": "dragonflies/sympecma_fusca_o_bzvpp5.jpg",
+        "caption": "Sympecma fusca male and female in mating wheel, Uppland Sweden, April 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/40748271123/in/album-72157698261438444/"
+      },
+      {
+        "public_id": "dragonflies/sympecma_fusca_o_x1sfkc.jpg",
+        "caption": "Sympecma fusca male and female ovipositing, Uppland Sweden, April 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/40748281383/in/album-72157698261438444/"
+      }
+    ]
+  }
 }

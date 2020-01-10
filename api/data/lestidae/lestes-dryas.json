@@ -24,5 +24,33 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] }
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/lestes_dryas_o_ftwhac.jpg",
+        "caption": "Lestes dryas male, Skåne Sweden, June 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48161093981/in/album-72157668833059317/"
+      },
+      {
+        "public_id": "dragonflies/lestes_dryas_o_tt4xue.jpg",
+        "caption": "Lestes dryas female, Uppland Sweden, June 2018",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/43180666312/in/album-72157668833059317/"
+      },
+      {
+        "public_id": "dragonflies/lestes_dryas_o_z29jkw.jpg",
+        "caption": "Lestes dryas female reproductory organ, Uppland Sweden, June 2018",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/43180666282/in/album-72157668833059317/"
+      }
+    ]
+  }
 }

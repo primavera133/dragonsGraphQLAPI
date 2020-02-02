@@ -30,6 +30,18 @@ const GET_SPECIES_FROM_FAMILY_NAME_QUERY = gql`
         red_list_europe_endemic
         trend_europe
       }
+      images {
+        cloud_name
+        all {
+          public_id
+          caption
+          license
+          lic_url
+          by
+          url
+        }
+      }
+      sources
     }
   }
 `
@@ -77,7 +89,9 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
         'flight_period',
         'size',
         'similar_species',
-        'red_list'
+        'red_list',
+        'images',
+        'sources'
       ])
       expect(Object.keys(res.data.familySpecies[0].size)).toEqual([
         'length',
@@ -92,6 +106,19 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
         'red_list_europe_endemic',
         'trend_europe'
       ])
+      expect(Object.keys(res.data.familySpecies[0].images)).toEqual([
+        'cloud_name',
+        'all'
+      ])
+      // expect(Object.keys(res.data.familySpecies[0].images.all)).toEqual([
+      //   'public_id',
+      //   'caption',
+      //   'license',
+      //   'lic_url',
+      //   'by',
+      //   'url'
+      // ])
+
       service.close()
     })
   })

@@ -40,6 +40,7 @@ const typeDefs = gql`
     flight_period: String
     red_list: RedList
     images: Images
+    sources: [String]
   }
 
   type Images {

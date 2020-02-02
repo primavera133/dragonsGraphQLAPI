@@ -30,6 +30,18 @@ const GET_SPECIE_FROM_SCIENTIFIC_NAME_QUERY = gql`
         red_list_europe_endemic
         trend_europe
       }
+      images {
+        cloud_name
+        all {
+          public_id
+          caption
+          license
+          lic_url
+          by
+          url
+        }
+      }
+      sources
     }
   }
 `

@@ -1,32 +1,34 @@
 {
-    "items_id": "5871cdb006fb3fb0f3fa042b65a43220",
-    "scientific_name": "Anax junius",
-    "local_names": [
-        "Green darner",
-        "Common green darner"
-    ],
-    "description": "The male has green eyes. Frons is green with black spot encircled by green, then an outer blue ring forming a \"bull's eye\" pattern. Thorax is green. Wings are clear or tinted in amber on older individuals, females more than males. Abdomen is colourful on the sides while being dark dorsally and ventrally. Males are blue and black where females often green and reddish brown.",
-    "behaviour": "Often seen feeding in large numbers over open areas.",
-    "size": {
-        "length": "68-84 mm",
-        "wingspan": "90-120 mm"
-    },
-    "similar_species": [],
-    "distribution": "This is one of the most common species in north American, where it migrates over great distances. It has managed to survive the passing over the Atlantic ocean at at least two occasions.  In 1998 it was observed on the Isles of Scilly and in Cornwall, totalling 8 individuals, and in 2003 one individual was observed in Nantes, France.",
-    "habitat": "Reproduction takes place in permanent or temporary waters, lakes, ponds and slow-flowing streams with emergent vegetation. In migration it can be found in many habitats.",
-    "flight_period": "Adults fly all year round in Mexico and the southern states of USA.\nIn early spring mature adults migrate northwards, and often arrive before local population start emerging.\nIn the autumn the northern individuals start migrating south.\nAll European records are from September, \nwhich is a period when both southward migration and seasonal transatlantic storms occur.",
-    "red_list": {
-        "habitats_directive": "No",
-        "red_list_EU27": "Not applicable",
-        "red_list_europe": "Not applicable",
-        "red_list_mediterranean": "Not present",
-        "EU27_endemic": "No",
-        "red_list_europe_endemic": "No",
-        "trend_europe": "Sporadic visitor"
-    },
-    "author_citation": "(Drury, 1773)",
-    "images": {
-        "cloud_name": "dragonflies",
-        "all": []
-    }
+  "items_id": "5871cdb006fb3fb0f3fa042b65a43220",
+  "scientific_name": "Anax junius",
+  "local_names": ["Green darner", "Common green darner"],
+  "description": "The male has green eyes. Frons is green with black spot encircled by green, then an outer blue ring forming a \"bull's eye\" pattern. Thorax is green. Wings are clear or tinted in amber on older individuals, females more than males. Abdomen is colourful on the sides while being dark dorsally and ventrally. Males are blue and black where females often green and reddish brown.",
+  "behaviour": "Often seen feeding in large numbers over open areas.",
+  "size": {
+    "length": "68-84 mm",
+    "wingspan": "90-120 mm"
+  },
+  "similar_species": [],
+  "distribution": "This is one of the most common species in north American, where it migrates over great distances. It has managed to survive the passing over the Atlantic ocean at at least two occasions.  In 1998 it was observed on the Isles of Scilly and in Cornwall, totalling 8 individuals, and in 2003 one individual was observed in Nantes, France.",
+  "habitat": "Reproduction takes place in permanent or temporary waters, lakes, ponds and slow-flowing streams with emergent vegetation. In migration it can be found in many habitats.",
+  "flight_period": "Adults fly all year round in Mexico and the southern states of USA.\nIn early spring mature adults migrate northwards, and often arrive before local population start emerging.\nIn the autumn the northern individuals start migrating south.\nAll European records are from September, \nwhich is a period when both southward migration and seasonal transatlantic storms occur.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not applicable",
+    "red_list_europe": "Not applicable",
+    "red_list_mediterranean": "Not present",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Sporadic visitor"
+  },
+  "author_citation": "(Drury, 1773)",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
+    "Field guide to the dargonflies of Brittain and Europe, Klaas-Douwe B Dijkstra."
+  ]
 }

@@ -23,7 +23,35 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/platychnemis_pennipes_o_wsuhug.jpg",
+        "caption": "Platychnemis pennipes males and females ovipositing, Uppland Sweden, July 2018",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/28414398297/in/album-72157670855895778/"
+      },
+      {
+        "public_id": "dragonflies/platychnemis_pennipes_o_vrjne9.jpg",
+        "caption": "Platychnemis pennipes female, Uppland Sweden, June 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48160913862/in/album-72157670855895778/"
+      },
+      {
+        "public_id": "dragonflies/platychnemis_pennipes_o_aqjzxy.jpg",
+        "caption": "Platychnemis pennipes male, Uppland Sweden, July 2017",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/43219636231/in/album-72157670855895778/"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",

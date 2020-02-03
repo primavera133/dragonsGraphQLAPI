@@ -37,6 +37,30 @@
         "lic_url": "https://creativecommons.org/licenses/by/3.0/",
         "by": "Göran Liljeberg",
         "url": "http://liljebergs.nu/"
+      },
+      {
+        "public_id": "dragonflies/libellula_depressa_o_ukoprm.jpg",
+        "caption": "Libellula depressa male, Tyresö Sweden, June 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48067138121/in/album-72157695559953732/"
+      },
+      {
+        "public_id": "dragonflies/libellula_depressa_o_lvwhjn.jpg",
+        "caption": "Libellula depressa ovipositong female, Öland Sweden, May 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48009386256/in/album-72157695559953732/"
+      },
+      {
+        "public_id": "dragonflies/libellula_depressa_o_hisask.jpg",
+        "caption": "Libellula depressa old male, Cevennes France, July 2019",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/48521887141/in/album-72157695559953732/"
       }
     ]
   },

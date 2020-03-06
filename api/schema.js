@@ -5,24 +5,26 @@ const typeDefs = gql`
     species: [Specie]
     specieFromId(items_id: ID!): Specie
     specieFromScientificName(scientific_name: String!): Specie
-    generaSpecies(name: String!): [Specie]
+    genusSpecies(name: String!): [Specie]
     familySpecies(name: String!): [Specie]
     families: [Family]
-    familyGeneras(name: String!): [Genera]
+    genera: [Genus]
+    familyGenera(name: String!): [Genus]
     taxonomy: Taxonomy
   }
 
   type Taxonomy {
     families: [Family]
+    genera: [Genus]
   }
 
   type Family {
     family_name: ID!
-    generas: [Genera]
+    genera: [Genus]
   }
 
-  type Genera {
-    genera_name: ID!
+  type Genus {
+    genus_name: ID
     species: [Specie]
   }
 

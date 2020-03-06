@@ -9,8 +9,8 @@ const GET_FULL_TAXONOMY_QUERY = gql`
     taxonomy {
       families {
         family_name
-        generas {
-          genera_name
+        genera {
+          genus_name
           species {
             items_id
             scientific_name
@@ -43,15 +43,15 @@ describe('Taxonomy - e2e', () => {
 
     expect(res.data.taxonomy).toBeDefined()
     expect(res.data.taxonomy.families[0].family_name).toBeDefined()
-    expect(res.data.taxonomy.families[0].generas[0].genera_name).toBeDefined()
+    expect(res.data.taxonomy.families[0].genera[0].genus_name).toBeDefined()
     expect(
-      res.data.taxonomy.families[0].generas[0].species[0].scientific_name
+      res.data.taxonomy.families[0].genera[0].species[0].scientific_name
     ).toBeDefined()
     expect(
-      res.data.taxonomy.families[0].generas[0].species[0].items_id
+      res.data.taxonomy.families[0].genera[0].species[0].items_id
     ).toBeDefined()
     expect(
-      Object.keys(res.data.taxonomy.families[0].generas[0].species[0])
+      Object.keys(res.data.taxonomy.families[0].genera[0].species[0])
     ).toEqual(['items_id', 'scientific_name'])
   })
 })

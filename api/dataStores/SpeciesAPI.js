@@ -20,28 +20,28 @@ class SpeciesAPI extends DataSource {
     return Object.values(family).reduce((acc, genera) => acc.concat(genera), [])
   }
 
-  findGenerasFromFamilyName (familyName) {
+  findGenusFromFamilyName (familyName) {
     const family = this.store.species[
       familyName.toLowerCase().replace(' ', '_')
     ]
     if (!family) return new ApolloError(`Family not found: ${name}`)
 
-    return Object.keys(family).map(genera_name => ({
-      genera_name
+    return Object.keys(family).map(genus_name => ({
+      genus_name
     }))
   }
 
-  findGeneraSpecies (generaName) {
-    const allGeneras = Object.values(this.store.species).reduce(
+  findGenusSpecies (genusName) {
+    const allGenera = Object.values(this.store.species).reduce(
       (acc, family) => {
         Object.keys(family).forEach(key => (acc[key] = family[key]))
         return acc
       },
       {}
     )
-    const genera = allGeneras[generaName.toLowerCase()]
-    if (!genera) return new ApolloError(`Genera not found: ${generaName}`)
-    return genera
+    const genus = allGenera[genusName.toLowerCase()]
+    if (!genus) return new ApolloError(`Genus not found: ${genusName}`)
+    return genus
   }
 
   findSpecieFromId (items_id) {
@@ -68,10 +68,14 @@ class SpeciesAPI extends DataSource {
     return this.store.allSpecies
   }
 
-  // findGenerasFromFamilyName (family_name) {}
+  // findGenusFromFamilyName (family_name) {}
 
   getAllFamilies () {
     return this.store.allFamilies
+  }
+
+  getAllGenera () {
+    return this.store.allGenera
   }
 
   getFullTaxonomy () {
@@ -80,19 +84,19 @@ class SpeciesAPI extends DataSource {
     const taxonomy = {
       families: families.map(({ family_name }) => {
         // console.log('family_name', family_name)
-        const generas = this.findGenerasFromFamilyName(family_name).map(
-          ({ genera_name }) => {
-            // console.log('genera_name', genera_name)
-            const species = this.findGeneraSpecies(genera_name)
+        const genera = this.findGenusFromFamilyName(family_name).map(
+          ({ genus_name }) => {
+            // console.log('genus_name', genus_name)
+            const species = this.findGenusSpecies(genus_name)
             return {
-              genera_name,
+              genus_name,
               species
             }
           }
         )
         return {
           family_name,
-          generas
+          genera
         }
       })
     }

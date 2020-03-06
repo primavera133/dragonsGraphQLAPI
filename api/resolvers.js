@@ -3,16 +3,18 @@ module.exports = {
     families: (_, __, { dataSources }) =>
       dataSources.speciesAPI.getAllFamilies(),
 
+    genera: (_, __, { dataSources }) => dataSources.speciesAPI.getAllGenera(),
+
     species: (_, __, { dataSources }) => dataSources.speciesAPI.getAllSpecies(),
 
     familySpecies: (_, { name }, { dataSources }) =>
       dataSources.speciesAPI.findFamilySpecies(name),
 
-    familyGeneras: (_, { name }, { dataSources }) =>
-      dataSources.speciesAPI.findGenerasFromFamilyName(name),
+    familyGenera: (_, { name }, { dataSources }) =>
+      dataSources.speciesAPI.findGenusFromFamilyName(name),
 
-    generaSpecies: (_, { name }, { dataSources }) =>
-      dataSources.speciesAPI.findGeneraSpecies(name),
+    genusSpecies: (_, { name }, { dataSources }) =>
+      dataSources.speciesAPI.findGenusSpecies(name),
 
     specieFromId: (_, { items_id }, { dataSources }) =>
       dataSources.speciesAPI.findSpecieFromId(items_id),

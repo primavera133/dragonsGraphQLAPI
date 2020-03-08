@@ -30,6 +30,7 @@ const crocothemis = require('./families/libellulidae/crocothemis/about.json')
 const diplacodes = require('./families/libellulidae/diplacodes/about.json')
 const leucorrhinia = require('./families/libellulidae/leucorrhinia/about.json')
 const libellula = require('./families/libellulidae/libellula/about.json')
+const orthetrum = require('./families/libellulidae/orthetrum/about.json')
 const pantala = require('./families/libellulidae/pantala/about.json')
 const selysiothemis = require('./families/libellulidae/selysiothemis/about.json')
 const sympetrum = require('./families/libellulidae/sympetrum/about.json')
@@ -71,6 +72,7 @@ module.exports = {
   diplacodes,
   leucorrhinia,
   libellula,
+  orthetrum,
   pantala,
   selysiothemis,
   sympetrum,

@@ -4,7 +4,7 @@ const typeDefs = gql`
   type Query {
     aboutGenus(name: String!): GenusInfo
     families: [Family]
-    familyGenera(name: String!): [Genus]
+    familyGenera(name: String!): [GenusName]
     familySpecies(name: String!): [Specie]
     genera: [Genus]
     genusSpecies(name: String!): [Specie]
@@ -27,6 +27,10 @@ const typeDefs = gql`
   type Genus {
     genus_name: ID
     species: [Specie]
+  }
+
+  type GenusName {
+    genus_name: ID
   }
 
   type Specie {

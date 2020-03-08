@@ -13,7 +13,6 @@ class GenusAPI extends DataSource {
 
   aboutGenus (name) {
     const _name = name.toLowerCase()
-    console.log('aboutGenus', this.store.genera[_name])
     return this.store.genera[_name]
   }
 }

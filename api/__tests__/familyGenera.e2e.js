@@ -37,7 +37,7 @@ describe('Server - e2e: familyGenera', () => {
   it('gets genus names from family name: Aeshnidae', async () => {
     const res = await toPromise(graphql(getQuery('Aeshnidae')))
     expect(res.data.familyGenera).toEqual(
-      ['aeshna', 'anax', 'boyeria', 'brachytron', 'caliaeschna'].map(
+      ['aeshna', 'anax', 'boyeria', 'brachytron', 'caliaeshna'].map(
         genus_name => ({ genus_name })
       )
     )

@@ -2,14 +2,15 @@ const { gql } = require('apollo-server-micro')
 
 const typeDefs = gql`
   type Query {
+    aboutGenus(name: String!): GenusInfo
+    families: [Family]
+    familyGenera(name: String!): [Genus]
+    familySpecies(name: String!): [Specie]
+    genera: [Genus]
+    genusSpecies(name: String!): [Specie]
     species: [Specie]
     specieFromId(items_id: ID!): Specie
     specieFromScientificName(scientific_name: String!): Specie
-    genusSpecies(name: String!): [Specie]
-    familySpecies(name: String!): [Specie]
-    families: [Family]
-    genera: [Genus]
-    familyGenera(name: String!): [Genus]
     taxonomy: Taxonomy
   }
 
@@ -72,6 +73,10 @@ const typeDefs = gql`
     EU27_endemic: String!
     red_list_europe_endemic: String!
     trend_europe: String!
+  }
+
+  type GenusInfo {
+    title: String!
   }
 `
 

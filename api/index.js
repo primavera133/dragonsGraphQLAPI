@@ -3,14 +3,17 @@ const microCors = require('micro-cors')
 const cors = microCors({ allowMethods: ['PUT', 'POST'] })
 
 const typeDefs = require('./schema')
-const { createStore } = require('./utils/createStore')
+const { createSpeciesStore, createGenusStore } = require('./utils/createStore')
 const SpeciesAPI = require('./dataStores/SpeciesAPI')
+const GenusAPI = require('./dataStores/GenusAPI')
 const resolvers = require('./resolvers')
 
-const store = createStore()
+const speciesStore = createSpeciesStore()
+const genusStore = createGenusStore()
 
 const dataSources = () => ({
-  speciesAPI: new SpeciesAPI({ store })
+  speciesAPI: new SpeciesAPI({ store: speciesStore }),
+  genusAPI: new GenusAPI({ store: genusStore })
 })
 
 const context = require('./context')

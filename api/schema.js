@@ -3,6 +3,7 @@ const { gql } = require('apollo-server-micro')
 const typeDefs = gql`
   type Query {
     aboutGenus(name: String!): GenusInfo
+    aboutFamily(name: String!): FamilyInfo
     families: [Family]
     familyGenera(name: String!): [GenusName]
     familySpecies(name: String!): [Specie]
@@ -80,6 +81,10 @@ const typeDefs = gql`
   }
 
   type GenusInfo {
+    title: String!
+  }
+
+  type FamilyInfo {
     title: String!
   }
 `

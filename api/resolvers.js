@@ -6,7 +6,10 @@ module.exports = {
     genera: (_, __, { dataSources }) => dataSources.speciesAPI.getAllGenera(),
 
     aboutGenus: (_, { name }, { dataSources }) =>
-      dataSources.genusAPI.aboutGenus(name),
+      dataSources.aboutAPI.aboutGenus(name),
+
+    aboutFamily: (_, { name }, { dataSources }) =>
+      dataSources.aboutAPI.aboutFamily(name),
 
     species: (_, __, { dataSources }) => dataSources.speciesAPI.getAllSpecies(),
 

@@ -3,6 +3,7 @@ const allSpecies = require('./allSpeceis')
 const allFamilies = require('./allFamilies')
 const allGenera = require('./allGenera')
 const genera = require('../data/genera')
+const families = require('../data/families')
 
 module.exports.createSpeciesStore = () => ({
   species,
@@ -11,6 +12,7 @@ module.exports.createSpeciesStore = () => ({
   allGenera: allGenera(species)
 })
 
-module.exports.createGenusStore = () => ({
-  genera
+module.exports.createAboutStore = () => ({
+  genera,
+  families
 })

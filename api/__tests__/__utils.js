@@ -9,20 +9,20 @@ const typeDefs = require('../schema')
 const resolvers = require('../resolvers')
 const { ApolloServer } = require('apollo-server-micro')
 const SpeciesAPI = require('../dataStores/SpeciesAPI')
-const GenusAPI = require('../dataStores/GenusAPI')
-const { createSpeciesStore, createGenusStore } = require('../utils/createStore')
+const AboutAPI = require('../dataStores/AboutAPI')
+const { createSpeciesStore, createAboutStore } = require('../utils/createStore')
 const speciesStore = createSpeciesStore()
-const genusStore = createGenusStore()
+const aboutStore = createAboutStore()
 
 module.exports.toPromise = toPromise
 
 async function createServer (options = {}) {
   const speciesAPI = new SpeciesAPI({ store: speciesStore })
-  const genusAPI = new GenusAPI({ store: genusStore })
+  const aboutAPI = new AboutAPI({ store: aboutStore })
   const apolloServer = new ApolloServer({
     typeDefs,
     resolvers,
-    dataSources: () => ({ speciesAPI, genusAPI }),
+    dataSources: () => ({ speciesAPI, aboutAPI }),
     context
   })
 

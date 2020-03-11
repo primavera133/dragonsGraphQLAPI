@@ -1,7 +1,7 @@
 const { DataSource } = require('apollo-datasource')
 const { ApolloError } = require('apollo-server-micro')
 
-class GenusAPI extends DataSource {
+class AboutAPI extends DataSource {
   constructor ({ store }) {
     super()
     this.store = store
@@ -15,6 +15,11 @@ class GenusAPI extends DataSource {
     const _name = name.toLowerCase()
     return this.store.genera[_name]
   }
+
+  aboutFamily (name) {
+    const _name = name.toLowerCase()
+    return this.store.families[_name]
+  }
 }
 
-module.exports = GenusAPI
+module.exports = AboutAPI

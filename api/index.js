@@ -16,7 +16,7 @@ const dataSources = () => ({
   aboutAPI: new AboutAPI({ store: aboutStore })
 })
 
-const context = require('./context')
+const context = require('./_context')
 
 const server = new ApolloServer({
   typeDefs,

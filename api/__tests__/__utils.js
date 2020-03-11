@@ -4,13 +4,16 @@ const fetch = require('node-fetch')
 const { execute, toPromise } = require('apollo-link')
 const { HttpLink } = require('apollo-link-http')
 
-const context = require('../context')
-const typeDefs = require('../schema')
-const resolvers = require('../resolvers')
+const context = require('../_context')
+const typeDefs = require('../_schema')
+const resolvers = require('../_resolvers')
 const { ApolloServer } = require('apollo-server-micro')
-const SpeciesAPI = require('../dataStores/SpeciesAPI')
-const AboutAPI = require('../dataStores/AboutAPI')
-const { createSpeciesStore, createAboutStore } = require('../utils/createStore')
+const SpeciesAPI = require('../_dataStores/SpeciesAPI')
+const AboutAPI = require('../_dataStores/AboutAPI')
+const {
+  createSpeciesStore,
+  createAboutStore
+} = require('../_utils/createStore')
 const speciesStore = createSpeciesStore()
 const aboutStore = createAboutStore()
 

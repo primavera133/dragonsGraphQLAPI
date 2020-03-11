@@ -1,5 +1,5 @@
 const allGenera = require('./allGenera')
-const species = require('../data/index')
+const species = require('../_data/index')
 
 describe('test allGenera', () => {
   it('should return something smooth', () => {

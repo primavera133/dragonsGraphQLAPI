@@ -17,7 +17,7 @@ class AboutAPI extends DataSource {
   }
 
   aboutFamily (name) {
-    const _name = name.toLowerCase()
+    const _name = name.toLowerCase().replace(' ', '_')
     return this.store.families[_name]
   }
 }

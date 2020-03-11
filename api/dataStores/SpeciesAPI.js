@@ -95,7 +95,7 @@ class SpeciesAPI extends DataSource {
           }
         )
         return {
-          family_name,
+          family_name: family_name.replace('_', ' '),
           genera
         }
       })

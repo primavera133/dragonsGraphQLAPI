@@ -2,7 +2,7 @@ const aeshna = require('./families/aeshnidae/aeshna/about.json')
 const anax = require('./families/aeshnidae/anax/about.json')
 const boyeria = require('./families/aeshnidae/boyeria/about.json')
 const brachytron = require('./families/aeshnidae/brachytron/about.json')
-const caliaeshna = require('./families/aeshnidae/caliaeshna/about.json')
+const caliaeschna = require('./families/aeshnidae/caliaeschna/about.json')
 const calopteryx = require('./families/calopterygidae/calopteryx/about.json')
 const ceriagrion = require('./families/coenagrionidae/ceriagrion/about.json')
 const coenagrion = require('./families/coenagrionidae/coenagrion/about.json')
@@ -44,7 +44,7 @@ module.exports = {
   anax,
   boyeria,
   brachytron,
-  caliaeshna,
+  caliaeschna,
   calopteryx,
   ceriagrion,
   coenagrion,

@@ -54,8 +54,8 @@ describe('Server - e2e: aboutGenus', () => {
     expects(res)
   })
 
-  it('gets info about genus: Caliaeshna', async () => {
-    const res = await toPromise(graphql(getQuery('Caliaeshna')))
+  it('gets info about genus: Caliaeschna', async () => {
+    const res = await toPromise(graphql(getQuery('Caliaeschna')))
     expects(res)
   })
 

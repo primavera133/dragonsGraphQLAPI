@@ -17,7 +17,7 @@ const AnaxParthenope = require('./anax/anax-parthenope.json')
 const BoyeriaCretensis = require('./boyeria/boyeria-cretensis.json')
 const BoyeriaIrene = require('./boyeria/boyeria-irene.json')
 const BrachytronPratense = require('./brachytron/brachytron-pratense.json')
-const CaliaeshnaMicrostigma = require('./caliaeshna/caliaeshna-microstigma.json')
+const CaliaeschnaMicrostigma = require('./caliaeschna/caliaeschna-microstigma.json')
 
 module.exports = {
   aeshna: [
@@ -42,5 +42,5 @@ module.exports = {
   ],
   boyeria: [BoyeriaCretensis, BoyeriaIrene],
   brachytron: [BrachytronPratense],
-  caliaeshna: [CaliaeshnaMicrostigma]
+  caliaeschna: [CaliaeschnaMicrostigma]
 }

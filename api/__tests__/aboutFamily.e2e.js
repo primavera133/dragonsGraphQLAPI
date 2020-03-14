@@ -63,8 +63,8 @@ describe('Server - e2e: aboutFamily', () => {
     const res = await toPromise(graphql(getQuery('gomphidae')))
     expects(res)
   })
-  it('gets info about family: incerta sedis', async () => {
-    const res = await toPromise(graphql(getQuery('incerta sedis')))
+  it('gets info about family: incertae sedis', async () => {
+    const res = await toPromise(graphql(getQuery('incertae sedis')))
     expects(res)
   })
   it('gets info about family: lestidae', async () => {

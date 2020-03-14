@@ -58,7 +58,7 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
       'Corduliidae',
       'Euphaeidae',
       'Gomphidae',
-      'Incerta sedis',
+      'incertae sedis',
       'Lestidae',
       'Libellulidae',
       'Macromiidae',

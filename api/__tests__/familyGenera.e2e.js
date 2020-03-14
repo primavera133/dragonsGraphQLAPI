@@ -105,8 +105,8 @@ describe('Server - e2e: familyGenera', () => {
     )
   })
 
-  it('gets genus names from family name: Incerta sedis', async () => {
-    const res = await toPromise(graphql(getQuery('Incerta sedis')))
+  it('gets genus names from family name: incertae sedis', async () => {
+    const res = await toPromise(graphql(getQuery('incertae sedis')))
     expect(res.data.familyGenera).toEqual(
       ['oxygastra'].map(genus_name => ({
         genus_name

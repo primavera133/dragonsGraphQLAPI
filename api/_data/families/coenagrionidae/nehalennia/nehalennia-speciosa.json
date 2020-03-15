@@ -26,7 +26,7 @@
     "cloud_name": "dragonflies",
     "all": [
       {
-        "public_id": "dragonflies/nehalenna-speciosa-male-go%CC%88ran-liljeberg-cc-by_cve50u.jpg",
+        "public_id": "dragonflies\nehalenna-speciosa-male-go%CC%88ran-liljeberg-cc-by_cve50u.jpg",
         "caption": "Nehalennia speciosa, male",
         "license": "CC BY 3.0",
         "lic_url": "https://creativecommons.org/licenses/by/3.0/",
@@ -34,7 +34,7 @@
         "url": "http://liljebergs.nu/"
       },
       {
-        "public_id": "dragonflies/nehalennia-speciosa-male-jm2018_v3jnkd.jpg",
+        "public_id": "dragonflies\nehalennia-speciosa-male-jm2018_v3jnkd.jpg",
         "caption": "Nehalennia speciosa male, Uppland Sweden, July 2018",
         "license": "CC BY-SA 2.0",
         "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -42,7 +42,7 @@
         "url": "https://www.flickr.com/photos/primavera133/43738188881/in/album-72157699233810894/"
       },
       {
-        "public_id": "dragonflies/nehalennia_speciosa_o_qy7jkw.jpg",
+        "public_id": "dragonflies\nehalennia_speciosa_o_qy7jkw.jpg",
         "caption": "Nehalennia speciosa female, Uppland Sweden, July 2018",
         "license": "CC BY-SA 2.0",
         "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -54,7 +54,7 @@
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
-    "Field guide to the dragonflies of Brittain and Europe, Klaas-Douwe B Dijkstra.",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
   ]
 }

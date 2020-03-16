@@ -82,10 +82,16 @@ const typeDefs = gql`
 
   type GenusInfo {
     title: String!
+    author_citation: String!
+    description: String!
+    sources: [String]
   }
 
   type FamilyInfo {
     title: String!
+    author_citation: String!
+    description: String!
+    sources: [String]
   }
 `
 

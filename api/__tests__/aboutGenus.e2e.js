@@ -8,6 +8,9 @@ const GET_INFO_ABOUT_GENUS_FROM_NAME_QUERY = gql`
   query aboutGenus($name: String!) {
     aboutGenus(name: $name) {
       title
+      author_citation
+      description
+      sources
     }
   }
 `
@@ -31,7 +34,12 @@ describe('Server - e2e: aboutGenus', () => {
     }
   }
   function expects (res) {
-    expect(Object.keys(res.data.aboutGenus)).toEqual(['title'])
+    expect(Object.keys(res.data.aboutGenus)).toEqual([
+      'title',
+      'author_citation',
+      'description',
+      'sources'
+    ])
   }
 
   it('gets info about genus: Aeshna', async () => {

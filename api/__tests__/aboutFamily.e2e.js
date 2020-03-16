@@ -8,6 +8,9 @@ const GET_INFO_ABOUT_FAMILY_FROM_NAME_QUERY = gql`
   query aboutFamily($name: String!) {
     aboutFamily(name: $name) {
       title
+      author_citation
+      description
+      sources
     }
   }
 `
@@ -31,7 +34,12 @@ describe('Server - e2e: aboutFamily', () => {
     }
   }
   function expects (res) {
-    expect(Object.keys(res.data.aboutFamily)).toEqual(['title'])
+    expect(Object.keys(res.data.aboutFamily)).toEqual([
+      'title',
+      'author_citation',
+      'description',
+      'sources'
+    ])
   }
 
   it('gets info about family: Aeshnidae', async () => {

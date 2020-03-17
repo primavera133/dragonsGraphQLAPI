@@ -5,10 +5,7 @@
   "local_names": ["Bog hawker"],
   "description": "Very similar to *A. juncea* and occurs in similar habitats. They are difficult to distinguish flying. *A. subarctica* is in any event darker on the thorax and abdomen, has markings more uniform in colour, often a bit duller and paler. Generally bluish, instead of completely separated yellow and blue as *A. juncea*. Wings are clear with costa and main veins being more brown than yellow. The spot behind the eyes that *A. juncea* has is always absent on *A. subarctica*. On S3 on the abdomen, the male has rather big, wide spots, unlike *A. juncea* who has narrow wedge-shaped spots here. Upper and lower appendages are wider and rounder than on *A. juncea*. Ventrally on thorax it has two large yellow spots, where *A. juncea* has smaller or missing spots. There are two forms of *A. subarctica* in Europe. The northern can be found from north of Scania, Sweden, and northwards.  It has three lesser spots between the bands on the sides of the thorax. The southern form occurs on the European mainland, in Denmark and southern Scania. It has larger spots or a narrow band where the northern form has three lesser spots. Variations between the forms occur.",
   "behaviour": "Fund near wet floating sphagnums in which the females lay their eggs and where the larvae lives. It can, and often does, coexist beside similar species on the same locales.",
-  "size": {
-    "length": "70-76 mm",
-    "wingspan": "78-92 mm"
-  },
+  "size": { "length": "70-76 mm", "wingspan": "78-92 mm" },
   "similar_species": [
     "Aeshna juncea",
     "Aeshna serrata",
@@ -47,5 +44,11 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/93446-Aeshna-subarctica"
+    }
   ]
 }

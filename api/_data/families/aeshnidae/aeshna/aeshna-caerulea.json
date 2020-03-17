@@ -1,13 +1,11 @@
 {
   "items_id": "46970409e9f1928a33b5bbe4a5ceac44",
   "scientific_name": "Aeshna caerulea",
+  "author_citation": "(Strøm, 1783)",
   "local_names": ["Azure hawker"],
   "description": "The azure hawker is one of the smaller species of the hawkers. The eyes meet only just, the adjacent area is diagnostically narrow at the top of the head. This can easily be seen with binoculars when it perches.\n\nThe males have azure blue, rather large spots on each abdominal segment. The lateral bands on the thorax are pale, light blue or yellow-white, narrow and wavy. Antehumeral stripes are reduced in males. Pterostigma color is varying from brown to orange. The leading margin of the wing is yellow-brown. Males have a white frons. Unique to this species is that the blue of the male pales to a more grey colour at lower temperatures.\n\nThe female color varies a lot but can be grouped into two forms; one is generally similar to the males but everything blue is more grey-blue, its abdominal spots are also smaller. The other form lacks all blue color and is generally brown with yellow or beige abdominal spots.\nBoth forms have characteristic triangular black markings on the last abdominal segments.\nAntehumeral stripes are mostly absent in females, but sometimes vague remains can be seen.\nEspecially in the northern regions females have smoky dark wings.\n\nTenerals of both sexes are brownish with light to white abdominal spots.",
   "behaviour": "On hot sunny days males are very active, flying low and wide in search of females. Unlike *A. juncea*, males will also perch, basking on stones on the ground or light tree trunks. This behaviour warms its body and enables it to survive in colder regions. \n\nIt shelters in heather or similar low vegetation in dull weather. When hunting on a sunny day it can fly high above the trees in search for prey. Above the arctic circle, under the midnight sun, it can hunt almost 24 hours a day. It is active even during cloudy weather and can be seen flying even in lighter rain. In those conditions it flies low, in and among vegetation, scaring up  insects.\n\nEggs are oviposited in small open water bodies, in sphagnum moss or other soft material. Larvae development takes two to four years, most often three years. Larvae live in shallow water, but often deeply burrowed in bottom material and can be hard to find. Exuvia are found low on upright straws or such, in or near water.",
-  "size": {
-    "length": "54-64 mm",
-    "wingspan": "74-82 mm"
-  },
+  "size": { "length": "54-64 mm", "wingspan": "74-82 mm" },
   "similar_species": [
     "Aeshna juncea",
     "Aeshna subarctica",
@@ -26,7 +24,6 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "author_citation": "(Strøm, 1783)",
   "images": {
     "cloud_name": "dragonflies",
     "all": [
@@ -77,5 +74,11 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/93427-Aeshna-caerulea"
+    }
   ]
 }

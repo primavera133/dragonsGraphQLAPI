@@ -4,11 +4,8 @@
   "author_citation": "(Linnaeus, 1758)",
   "local_names": ["Common hawker"],
   "description": "*A. juncea* is one of the larger aeshnids and a powerful flyer. As a typical aeshna the abdomen is dark with spots along sides and top of the abdomen \nforming a coloured mosaic. On S3 two blue wedges can be found, bases opposing towards each other. \nThese can be used to distinguish from *A. subarctica* whose spots have broader shapes. Wings are clear with long pterostigmas and yellow leading margin. On older individuals though, especially females, the wings can take on a light brown tone. Thorax is brown with narrow antehumeral stripes. Thorax sides have two broad bands, coloured blue, green or yellow. Between the band are 1-3 smaller spots. The shape of these spots can be used in separating from similar species, but they can be hard to see due to wear and age. Frons is yellow with a black T-shaped marking. This marking distinguishes it from simillar specie *A. serrata* whose stem is less distinct. Eyes have a yellow spot on the backside, which distinguishes it from *A. subarctica*. Variations occur with very small or indistinguishable spots. The male especially, is rather dark, compared to *A. cyanea*, but often more vivid in colours compared to *A. subarctica*. Females have two colour forms, one dark body with blue and greyish markings (a lot like the males) or with green spots on the sides of the abdomen and yellow spots on top.",
-  "behaviour": "A large and powerful flyer, and both sexes can be active even in bad weather. Males patrol low over to water, searching along edges for females.\nAbdomens tend to hang slightly in flight, while *A. juncea* has a straighter posture. Both sexes hunt high up in treetops and is often seen far from waters, \nand sometimes late in evenings. Insect-rich places like open sunlit, clearings, forest roads and forest edges are good places to look for this specie.",
-  "size": {
-    "length": "70-80 mm",
-    "wingspan": "90-105 mm"
-  },
+  "behaviour": "A large and powerful flyer, and both sexes can be active even in bad weather. Males patrol low over to water, searching along edges for females.\nAbdomens tend to hang slightly in flight, while *A. juncea* has a straighter posture. Both sexes hunt high up in treetops and is often seen far from waters,\nand sometimes late in evenings. Insect-rich places like open sunlit, clearings, forest roads and forest edges are good places to look for this specie.",
+  "size": { "length": "70-80 mm", "wingspan": "90-105 mm" },
   "similar_species": [
     "Aeshna serrata",
     "Aeshna subarctica",
@@ -63,5 +60,11 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/93434-Aeshna-juncea"
+    }
   ]
 }

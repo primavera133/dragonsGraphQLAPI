@@ -5,10 +5,7 @@
   "local_names": ["Baltic hawker"],
   "description": "A large hawker, similar in size and looks to *A. juncea*, *A. subarctica* and *A. crenata*. Colors blue and yellow, generally in a vibrant tone. Wide yellow stripes on thorax sides. The front stripe has an even width, while the hind one is narrowing downwards, almost giving it a triangular shape. Between the stripes none or almost no spots. It has conspicuous yellow antehumeral stripes, even on females, which the other similar species are lacking. The abdomen is black with blue spots in any event rectangular in shape and larger than on *A. juncea*. Wings are clear with a visibly yellow leading margin, the costa.  Often more distinct on *A. serrata* than on *A. juncea*. Frons is yellow with a T-shaped black marking, but the stem of the T is less prominent. Eyes are often vibrantly blue (but with variation), always with completely black behinds. No yellow spots on the back sides as on *A. juncea*.",
   "behaviour": "Not as fast and agile flyer as *A. juncea*. Both males and females can be seen patrolling over large belts of reed and can be very unavailable for netting. Territories are defended aggressively. *A. serrata*, more than others, catches large prey, even other hawkers. *A. serrata* can, like *A. mixta*, occur in large numbers. It can then be found in open sunlit spaces like glades and over fields. It tends to perch in thick vegetation around water bodies rather than on trees.",
-  "size": {
-    "length": "75-80 mm",
-    "wingspan": "96-106 mm"
-  },
+  "size": { "length": "75-80 mm", "wingspan": "96-106 mm" },
   "similar_species": ["Aeshna juncea", "Aeshna subarctica", "Aeshna crenata"],
   "distribution": "In Europe this species is found in Denmark, middle Sweden, Finland and Estonia, and around the southern Ural mountains. Further east we find its main range beyond the Urals to Lake Baikal and northern Mongolia.",
   "habitat": "Aeshna serrata is found at standing water. It prefers more open landscapes than the closely related *A. crenata*. In inland Sweden it occurs at open, often eutrophic lakes and ponds with extensive beds of reed or bulrush. The species is relatively common around the Baltic Sea where it reproduces in brackish waters. In Denmark it occurs in large open marshlands dominated by reed beds and with slightly brackish waters. In Russia it is found in steppe and forest-steppe lakes.",
@@ -56,5 +53,11 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/433085-Aeshna-serrata"
+    }
   ]
 }

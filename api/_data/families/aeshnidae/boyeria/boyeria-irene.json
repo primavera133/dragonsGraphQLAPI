@@ -1,13 +1,11 @@
 {
   "items_id": "4b3ace8686742bbfaa123529d69e4ba2",
   "scientific_name": "Boyeria irene",
+  "author_citation": "(Fonscolombe, 1838)",
   "local_names": ["Western spectre"],
   "description": "*Boyeria irene* is unmistakeable for its large size and the camouflage colouration; grey green with brown patterns. The males and rarely the females have darkened wing tips. The eyes in immature individuals are green. The frons is yellow with an indistinct black pattern.",
   "behaviour": "It is a powerful and untiring flier, capable of flying for long periods without perching. It prefers shady areas and often flies late in the afternoon, so much it is considered a dusk species. It has twilight habits and can be found attracted to artificial lights.",
-  "size": {
-    "length": "63-70 mm",
-    "wingspan": "78-90 mm"
-  },
+  "size": { "length": "63-70 mm", "wingspan": "78-90 mm" },
   "similar_species": ["Boyerina cretensis"],
   "distribution": "Endemic to western Europe, Morocco and along the northern fringe of Algeria and Tunisia. The species is widespread and common across most of the Iberian peninsula and southern France, becoming progressively scarcer in the north where its range goes up to Brittany, Normandy, Champagne-Ardenne and north-east France. In Italy, it is largely confined to the western parts of the country, where it is generally uncommon. The species is reasonably common in Corsica and Sardinia. It is absent from the Balearic islands. In Switzerland it is found in the south and centre. Vagrants have been recorded in south Germany.",
   "habitat": "*Boyeria irene* is found on larger streams and rivers where the banks are at least partly shaded. In north-western Spain and northern Portugal it is also common at small streams, even those experiencing interrupted flow, due to summer drought. In Switzerland and French alps it reproduces in large lakes between 400 and 800 m in altitude, where wave commotions produces similar effects to those of running waters. These lakes are deep and sometimes have rocky or steep man-made banks with little vegetation. The species is mainly found in lowlands and hilly countries but has been found breeding up to 1 300 m in the southern Alps of France.",
@@ -21,14 +19,16 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "author_citation": "(Fonscolombe, 1838)",
-  "images": {
-    "cloud_name": "dragonflies",
-    "all": []
-  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/318970-Boyeria-irene"
+    }
   ]
 }

@@ -5,10 +5,7 @@
   "local_names": ["Banded demoiselle"],
   "description": "Slender and metallic coloured damselfly with a rather wobbly flight, much resembling a butterfly. Wings taper gradually towards the base. \n\nThe male is metallic blue in colour and has wings with a dark band (pale blue in tenerals) extending up to the node (note that *C. haemorrhoidalis* coloured portion extend well beyond the node). The apical part of the wing is hyaline and even in those subspecies with a larger blue portion, at least the two or three rows of cells furthest toward the tip are hyaline. The females are metallic green in colour, with pale green-brown wings and white pseudopterostigma (false wing spot). In males the pterostigma is absent. Female wings are notably less transparen than *C. virgo* and has no darker band like *C. haemorrhoidalis*. Both sexes have completely black legs, also the thibiae (unlike *C. haemorrhoidalis*).",
   "behaviour": "Mostly found near running waters where it can be found in large numbers. Isolated adults can be found far from water, in clearings and woods.",
-  "size": {
-    "length": "45-48 mm",
-    "wingspan": "50-70 mm"
-  },
+  "size": { "length": "45-48 mm", "wingspan": "50-70 mm" },
   "similar_species": [
     "Calopteryx haemorrhoidalis",
     "Calopteryx virgo",
@@ -76,5 +73,11 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/51824-Calopteryx-splendens"
+    }
   ]
 }

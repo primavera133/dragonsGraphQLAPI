@@ -5,10 +5,7 @@
   "local_names": ["Beautiful demoiselle"],
   "description": "Males are blue in colour with green metallic shine. The last two segments of the abdomen are ventrally light pink. Wings are wider, more rounded and almost completely coloured blue-purple than on the males from other speceis in the same genus.\n\nFemales are metallic green-brown with light brown wings, less transparent than on those of the females of the other species of Calopteryx. The females have a white pseudopterostigma, slightly closer to the apex than in C. splendens.",
   "behaviour": "Males are territorial and often perches in tress or bushes with a good view over their part of the flowing waters. It repeatedly leaves the spot for hunting small insects, chasing away males or pursuing females, but often return to the same spot over and over. If a female enters the scene, the male courts her with a special swirling flight, much different from normal flight behaviour.\n\nYounger males and females can often be found a bit away from the waters. Also mature males can be found foraging far away from normal territories, even in darker shaded areas.",
-  "size": {
-    "length": "45-50 mm",
-    "wingspan": "48-72 mm"
-  },
+  "size": { "length": "45-50 mm", "wingspan": "48-72 mm" },
   "similar_species": [
     "Calopteryx splendens",
     "Calopteryx haemorrhoidalis",
@@ -60,5 +57,11 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/61536-Calopteryx-virgo"
+    }
   ]
 }

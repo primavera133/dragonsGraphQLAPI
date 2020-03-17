@@ -1,13 +1,11 @@
 {
   "items_id": "2cdde5c5ef1549662be55ccc4508e2a8",
   "scientific_name": "Ceriagrion georgifreyi",
+  "author_citation": "Schmidt, 1953",
   "local_names": ["Turkish red damsel"],
   "description": "*Ceriagrion georgifreyi* has variously been considered a subspecies of *C. tenellum* or a distinctive species, but is now recognised as a full species. It is slightly larger than *C. tenellum* but otherwise practivcally identical in general appearance, colouration and pattern.  Also, the male of *C. georgifreyi's* lower abdomal segment is more slender and the apex of the last abdominal segment is raised and has a crown of tiny black spines. The females of *C. georgifreyi* differ from *C. tenellum* in the protonum, they have raised vertical lobes on the thorax behind the rear margin of the protonum.",
   "behaviour": "",
-  "size": {
-    "length": "35-40 mm",
-    "wingspan": "34-40 mm"
-  },
+  "size": { "length": "35-40 mm", "wingspan": "34-40 mm" },
   "similar_species": ["Ceriagrion tenellum", "Pyrrhosoma nymphula"],
   "distribution": "Not endemic, but in Europe it is only known from three Greek islands; Kerkyra, Thasos and Zakynthos. From each, only a single record is available. It is believed the species could be present on Lesbos and mainland Greece, but being confused with *C. tenellum*. Apart from Greece, it has been recorded in Israel, Syria and Turkey.",
   "habitat": "Poorly known and there are no detailed accounts of the habitats in Europe. On the Turkish south coast, the species is found at slowly flowing, muddy streams and at the grassy and marshy margins of mostly small standing waters. Spikerushes and water parsnip might be related to breeding localities. The species only occurs at low altitudes.",
@@ -21,14 +19,16 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "author_citation": "Schmidt, 1953",
-  "images": {
-    "cloud_name": "dragonflies",
-    "all": []
-  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/97062-Ceriagrion-georgifreyi"
+    }
   ]
 }

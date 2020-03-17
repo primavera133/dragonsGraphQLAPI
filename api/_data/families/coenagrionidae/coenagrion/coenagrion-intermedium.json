@@ -1,13 +1,11 @@
 {
   "items_id": "eaa844c9ee5666fdeff7edac15dadff6",
   "scientific_name": "Coenagrion intermedium",
+  "author_citation": "Lohmann, 1990",
   "local_names": ["Cretan bluet"],
   "description": "Endemic to the island of Crete where it replaces *C. puella* and *C. pulchellum*. Very similar to C. puella with minor differences in the shape of the abdominal appendages of the males and the shape of the hind margin of the pronotum in females which is intermediate between that of *C. puella* and *C. pulchellum* (hence the latin name intermedium)",
   "behaviour": "",
-  "size": {
-    "length": "35-36 mm",
-    "wingspan": "38-44 mm"
-  },
+  "size": { "length": "35-36 mm", "wingspan": "38-44 mm" },
   "similar_species": ["Coenagrion sp."],
   "distribution": "The species only occur in Crete, where it is presently known from 19 different rivers. The species is not uncommon in Crete but available habitats is limited and it seems likely that in the future it will be affected by climate change and the resulting desiccation of streams.",
   "habitat": "*Coenagrion intermedium* is confined to small streams with moderate flow rates flakned by gallery forests of the Oriental plane. No records of self-sustaining populations in standing waters exist. The species is absent from open unshaded streams. Most localities are in the upper and middle parts of streams, rarely along lower reaches. The highest densities of individuals are found at spots with a slow current and herbaceous banks. At faster-flowing sections population density is lower.",
@@ -21,14 +19,16 @@
     "red_list_europe_endemic": "Endemic",
     "trend_europe": "Unknown"
   },
-  "author_citation": "Lohmann, 1990",
-  "images": {
-    "cloud_name": "dragonflies",
-    "all": []
-  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/98274-Coenagrion-intermedium"
+    }
   ]
 }

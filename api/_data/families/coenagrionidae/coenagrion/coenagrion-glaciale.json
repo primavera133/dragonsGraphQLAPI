@@ -1,13 +1,11 @@
 {
   "items_id": "075b9d9694718c636604f1d60019dc52",
   "scientific_name": "Coenagrion glaciale",
+  "author_citation": "(Selys, 1872)",
   "local_names": [],
   "description": "A mainly asian species of the *Coenagrion* genus. A tiny *Coenagrion* and an early flyer.",
   "behaviour": "",
-  "size": {
-    "length": "mm",
-    "wingspan": "mm"
-  },
+  "size": { "length": "mm", "wingspan": "mm" },
   "similar_species": ["Coenagrion sp."],
   "distribution": "The main distribution of *Coenagrion glaciale* is in the Eastern Palearctic, largely confined to eastern Siberia, Russian far east and north-eastern China. In europe, the first finds was done in 2009 in Arkhangelsk province, in the northern boreal part of Russia. Some records also suggest the species occur in the southern Urals, and since the regions are largely under-explored for Odonata, *C. glaciale* could be more widespread than currently known.",
   "habitat": "The species favours small meso- and oligotrophic cold-water bodies, especially small lakes girdled with sedges, Sphagnum and other mosses and situated in forest landscapes. In Europe, it has been found in the Taiga zone at three small lakes surrounded by spruce and pine forests. The area where the species has been found is karstic, of high habitat diversity, with a greater frequency of non-acidic, mineral-rich wetlands than in most other parts of the Taiga zone. These characteristics, together with the severe local climatic conditions might have contributed to its presence in this area. Three characteristics have been identified; 1. Surrounding forests providing shelter from winds.  2. Low water temperature, deeply frzen for long periods and/or fed by a cold inflow. 3. Diversified vegetation, especially sedges and other low-growing species.",
@@ -21,14 +19,16 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Not Evaluated"
   },
-  "author_citation": "(Selys, 1872)",
-  "images": {
-    "cloud_name": "dragonflies",
-    "all": []
-  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/561891-Coenagrion-glaciale"
+    }
   ]
 }

@@ -1,13 +1,11 @@
 {
   "items_id": "04a8b550c6086dedf6e667d060529155",
   "scientific_name": "Ischnura graellsii",
+  "author_citation": "(Rambur, 1842)",
   "local_names": ["Iberian bluetail"],
   "description": "",
   "behaviour": "",
-  "size": {
-    "length": "25-30 mm",
-    "wingspan": "26-38 mm"
-  },
+  "size": { "length": "25-30 mm", "wingspan": "26-38 mm" },
   "similar_species": [],
   "distribution": "",
   "habitat": "",
@@ -21,14 +19,12 @@
     "red_list_europe_endemic": "",
     "trend_europe": ""
   },
-  "author_citation": "(Rambur, 1842)",
-  "images": {
-    "cloud_name": "dragonflies",
-    "all": []
-  },
-  "sources": [
-    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
-    "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
-    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  "images": { "cloud_name": "dragonflies", "all": [] },
+  "sources": [],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/103492-Ischnura-graellsii"
+    }
   ]
 }

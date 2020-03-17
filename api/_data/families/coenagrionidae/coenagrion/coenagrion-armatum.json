@@ -5,10 +5,7 @@
   "local_names": ["Dark bluet", "Norfolk damselfly"],
   "description": "In general appearance it looks more like a stocky *Ischnura* than a *Coenagrion*.\n\nMales are blue and black, with the dorsal part of the abdomen almost completely black except for the abdominal segments S1-S3, S8 and S9 that are light in colour with a characteristic pattern. Antehumeral stripes either absent or reduced to spots. Side of the thorax bluish-green. Lower appendages on the males are particularly long, often as long as the last abdominal segment, and dark in colour with whitish pruinosity. The appendages earned the species its name, armatum is latin for armed.\n\nFemales also dark with abdominal segments S1-S3 and S8 partly blue. Antehumeral stripes are present and complete omn females. The colour of the light portions of both sexes can vary from light blue to olive green. Immature females are pink-orange.",
   "behaviour": "It can be hard to localize even in habitats where it is plentiful. Look for it low, down among and between tufts out in water-rich marches or reed beads where they fly just above the water surface. As opposed to many other *Coenagrion* species *C. armatum* is rarely seen flying over land.",
-  "size": {
-    "length": "25-35 mm",
-    "wingspan": "30-42 mm"
-  },
+  "size": { "length": "25-35 mm", "wingspan": "30-42 mm" },
   "similar_species": ["Ischnura elegans", "Coenagrion sp."],
   "distribution": "This species is found throughout northern Europe but is at present rare to very rare in large areas. The species has probably always been scarce in Great Britain, the Netherlands and Germany. It is currently extinct in Great Britain and only known from a small number of relict populations in the Netherlands, Germany and Denmark. It has a more continuous range in north-eastern Europe, including Fennoscandia , the Baltic states, \neastern Poland and northern Ukraine.",
   "habitat": "*Coenagrion armatum* is found at shallow unshaded parts of mesotrophic to weakly eutrophic pools, ponds and lakes. In Fennoscandia it is occasionally found in slow-flowing river sections. Here it occurs among large swathes of sedges, Water horsetail and low reed. The key factor determining habitat suitability is the vegetation which need to be a rather dense growth of helophytes in shallow water of generally up to half a meter deep. In order to provide both shelter and space to move, the vegetation should neither be too low nor too high during the flight period. Suitable conditions can be found in natural and semi-natural habitats such as reed beds and peat excavations in ferns and wet meadows. In the later types of habitats, the species is dependent on mowing and the cyclical creation of new peat excavations, as otherwise its preferred habitats disappear due to the natural regrowth of vegetation.",
@@ -40,5 +37,11 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/98270-Coenagrion-armatum"
+    }
   ]
 }

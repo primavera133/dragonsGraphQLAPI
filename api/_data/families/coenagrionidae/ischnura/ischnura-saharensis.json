@@ -1,13 +1,11 @@
 {
   "items_id": "04a8b550c6086dedf6e667d060529159",
   "scientific_name": "Ischnura saharensis",
+  "author_citation": "Aguesse, 1958",
   "local_names": ["Sahara bluetail"],
   "description": "",
   "behaviour": "",
-  "size": {
-    "length": "25-30 mm",
-    "wingspan": "25-34 mm"
-  },
+  "size": { "length": "25-30 mm", "wingspan": "25-34 mm" },
   "similar_species": [],
   "distribution": "",
   "habitat": "",
@@ -21,14 +19,16 @@
     "red_list_europe_endemic": "",
     "trend_europe": ""
   },
-  "author_citation": "Aguesse, 1958",
-  "images": {
-    "cloud_name": "dragonflies",
-    "all": []
-  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/103501-Ischnura-saharensis"
+    }
   ]
 }

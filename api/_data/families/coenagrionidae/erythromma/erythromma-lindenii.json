@@ -1,13 +1,11 @@
 {
   "items_id": "6ee2f4a1673f5a4dc900ccfbd6a0e82e",
   "scientific_name": "Erythromma lindenii",
+  "author_citation": "(Selys, 1840)",
   "local_names": ["Goblet-marked damselfly"],
   "description": "Closely related to *E. najas* and *E. viridulum* but does not resemble them much, apart from in behaviours. Very similar to *Enallagma cyathigerum* and has the same wide antehumeral stripes, however it has the, typically for *Coenagrions*, black marking along the interpleural suture on the side of the thorax and this combination is diagnostic.\n\nThis species can also be distinguished from the rest of the *Coenagrionidae* thanks to the light-coloured post-ocular spots that are linear instead of round, often connected together, forming a line across the back of the head. The males have blue eyes in contrast to a black head. Eyes darker shade of blue than the rest of the body. The abdomen is blue with black markings. The second segment, S2, has a characteristic marking in the shape of a 'goblet' or the 'hilt of a sword'. S3-S6 have distinctive markings, in the shape of 'spear-heads'. S7 and particularly S8 are black instead of light blue. The last two segments, S9-S10, are light blue.\n\nFemales are tricoloured, with background colour from yellowish brown to greenish, middle part of the abdomen blue. The anal appendages are light in colour. The abdomen is crossed dorsally by a black longitudinal line.\n\nTeneral individuals resemble the other *Erythromma sp.*, who are also coloured in yellow, black and blue; especially *E. viridulum*. *E. lindenii* however, has wider antehumeral stripes than *E. viridulum* and *E. najas* usually lack them altogether. Also *E. najas* and *E. viridulum* lack post-ocular spots.",
   "behaviour": "Behaves a lot like *Enallagma cyathigerum* and likes to perch on floating vegetation like waterlilies and pondweeds.",
-  "size": {
-    "length": "30-36 mm",
-    "wingspan": "40-45 mm"
-  },
+  "size": { "length": "30-36 mm", "wingspan": "40-45 mm" },
   "similar_species": [
     "Enallagma cyathigerum",
     "Coenagrion sp.",
@@ -26,14 +24,16 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Increasing"
   },
-  "author_citation": "(Selys, 1840)",
-  "images": {
-    "cloud_name": "dragonflies",
-    "all": []
-  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/100408-Erythromma-lindenii"
+    }
   ]
 }

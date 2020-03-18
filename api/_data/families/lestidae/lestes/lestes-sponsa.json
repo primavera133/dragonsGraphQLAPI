@@ -7,7 +7,7 @@
   "behaviour": "After mating, the female, in tandem with the male, lay eggs in the tissues of water plants, starting from the emerged part and ending in submerged part, even submerging herself completely in the process.",
   "size": { "length": "35-40 mm", "wingspan": "40-45 mm" },
   "similar_species": ["Lestes dryas", "Lestes virens", "Lestes barbarus"],
-  "distribution": "*Lestes sponsa* is found from western Europe to Japan and is generally common within its range. IT is common and widespread throughout Europe with the exception of the Mediterranean and northern Fennoscandia. It is rare on the MEditerranean coasts and is often confined to higher altitudes in the south of its range.",
+  "distribution": "*Lestes sponsa* is found from western Europe to Japan and is generally common within its range. It is common and widespread throughout Europe with the exception of the Mediterranean and northern Fennoscandia. It is rare on the MEditerranean coasts and is often confined to higher altitudes in the south of its range.",
   "habitat": "*Lestes sponsa* inhabits a wide range of standing, largely unshaded waters with emergent vegetation, including ditches, ponds, lakes and peat bogs. This includes both permanent and temporary waters and waters that are acidic, alkaline or brackish. It can be numerous at newly created shallow habitats but most often occurs at well-vegetated waters. *Lestes sponsa* has a wide altitudinal range and reproduces from sea level up to 2 500 m.",
   "flight_period": "May to September",
   "red_list": {
@@ -61,5 +61,11 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/130408-Lestes-sponsa"
+    }
   ]
 }

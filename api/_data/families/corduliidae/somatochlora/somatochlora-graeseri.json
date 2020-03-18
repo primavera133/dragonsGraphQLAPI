@@ -1,17 +1,15 @@
 {
   "items_id": "4f62d83d07b89f1ead3e60407d7d5c18",
   "scientific_name": "Somatochlora graeseri",
+  "author_citation": "Selys, 1887",
   "local_names": [],
   "description": "A *Somatochlora* with an eastern range, in Europe it is known only from eight localities in the Urals of Russia and a single more western locality.",
-  "distribution": "*Somatochlora graeseri* is common and widespread in the eastern Palearctic. In Europe it is restricted to Russia with a total of six localities known, one in the far north, namely in the Pinega region of the ARchangelsk Oblast, two in the western Ural foothills in the Komi Republic, and three from the Bashkirian Nature Reserve in the Bashkortostan Republic, on the western side of the Urals, where the species is not uncommon. It is at present unknown if the population in Archangelsk is connected to those of the Ural Mountains through northern European Russia.",
-  "flight_period": "May to August",
   "behaviour": "",
-  "habitat": "Throughout its range, *Somatochlora graeseri* favours marshy lakes, oxbows and ponds in the forested or scrubby parts of river flood plains. It is also present at slow flowing stretches of rivers and at large lakes. The species appears to be well adapted to cold climates as it was reported to be associated with rather deep and cold waters, and adults have been reported to patrol over ice-cold waters during the breeding season.",
-  "size": {
-    "length": "mm",
-    "wingspan": "mm"
-  },
+  "size": { "length": "mm", "wingspan": "mm" },
   "similar_species": ["Somatochlora sp."],
+  "distribution": "*Somatochlora graeseri* is common and widespread in the eastern Palearctic. In Europe it is restricted to Russia with a total of six localities known, one in the far north, namely in the Pinega region of the ARchangelsk Oblast, two in the western Ural foothills in the Komi Republic, and three from the Bashkirian Nature Reserve in the Bashkortostan Republic, on the western side of the Urals, where the species is not uncommon. It is at present unknown if the population in Archangelsk is connected to those of the Ural Mountains through northern European Russia.",
+  "habitat": "Throughout its range, *Somatochlora graeseri* favours marshy lakes, oxbows and ponds in the forested or scrubby parts of river flood plains. It is also present at slow flowing stretches of rivers and at large lakes. The species appears to be well adapted to cold climates as it was reported to be associated with rather deep and cold waters, and adults have been reported to patrol over ice-cold waters during the breeding season.",
+  "flight_period": "May to August",
   "red_list": {
     "habitats_directive": "No",
     "red_list_EU27": "Not evaluated",
@@ -21,14 +19,17 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Unknown"
   },
-  "author_citation": "Selys, 1887",
-  "images": {
-    "cloud_name": "dragonflies",
-    "all": []
-  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
-  ]
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/325398-Somatochlora-graeseri"
+    }
+  ],
+  "behaviour*": "Somatochlora* flavimaculata is good flyer, often to be found far from water. However it seems to avoid open landscapes and is rarely seen far from woodlands. Foraging individuals can be found in clearings or along forest roads. During foraging it often flies at head height or above. At the beginning of their mature life, males patrol territories over land, especially over open areas close to water. At this stage they fly at breast height within a limited area and often perches shortly fully exposed. Later they only patrol over water. It flies leisurely for being an emerald and can sometimes be distinguished by only this mode of flight. Mating wheels may circle low over reedbeds for minutes at a time. Larvae live in organic, decaying material at the bottom. Exuviae are found a few decimeters up on straws near the shores or on stems or branches a bit up on land."
 }

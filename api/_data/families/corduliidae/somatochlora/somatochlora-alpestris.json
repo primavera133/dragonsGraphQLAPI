@@ -5,10 +5,7 @@
   "local_names": ["Alpine emerald"],
   "description": "*Somatochlora alpestris* is rather small and robust, has a dark green, almost black-green, body with bright-green eyes. It can be distinguished by a white, not yellow, ring between S2 and S3 and by the presence of two cubito-anal cross-veins in the fore wings, where similar species has only one. On the males, the appendages are distinctive, convergent and doubly angled. The vulvular lamina of the females is large, reaching halfway along S9, triangular in shape and projecting at a right angle to the abdomen's axis. Frons is black with small yellow spots on each side. These are the only yellow markings on the body. The contrast between the eye and body colour is greater than on *S. metallica* or *C. aenea*. Pterostigma are dark or orange, where *S. sahlbergi* has lighter colouration.",
   "behaviour": "*Somatochlora alpestris* is hunting in sunlit glades of mountain birch forests, along forest roads and other sun exposed areas in woodland or over mires. It perches mostly in trees or shrubberies and is rarely seen directly on the ground. Most commonly you only find single individuals but larger numbers of individuals can be seen when foraging or when they just have left the water. Males patrol slowly and low, flying back and forth within a rather restricted territories. It can make aggressive outbursts against other species if they enter the territory. Larvae live in shallow water or within wet Sphagnum moss. Exuviae are left high up on straws out in the water or along the shores.",
-  "size": {
-    "length": "45-50 mm",
-    "wingspan": "60-68 mm"
-  },
+  "size": { "length": "45-50 mm", "wingspan": "60-68 mm" },
   "similar_species": ["Somatochlora arctica", "Somatochlora sahlbergi"],
   "distribution": "*Somatochlora alpestris* is, together with *Aeshna caerulea*, one of the best examples of a dragonfly with a boreo-alpine distribution. It is widely distributed in Fennoscandia and (probably) the north European Russia, and is reasonably common throughout the higher parts of the central European mountains. In Fennoscandia it occurs from sea level in the north to more mountainous areas in the south. In central Europe, it is confined to to mountain ranges from 800 m (rarely as low as 600m) to ca 2 500 m. It is widespread and generally common in the Alps but is less frequent in other mountain ranges. Other inhabited mountain ranges include, the Vosges in France, the Fichtelgebirge, Erzegebirge, Thuringian forest, Harz and Black Forest in Germany, the Tatra and the Carpathian Mountains in the Czech Republic, Poland, Slovakia, Ukraine and Romania. Recent studies has shown the species to be more common in the Carpathian range than previously thought.",
   "habitat": "*Somatochlora alpestris* favours flooded depressions in peat bogs, small peaty ponds and man-made peat diggings in Sphagnum bogs and transitional mires. More seldom, it is found in larger acidic peaty waters in open alpine meadows, semi-wooded areas or coniferous forests. The species is confined to cold arctic and mountain climates. The larvae are well adapted to these conditions, as they are tolerant to freezing in winter and desiccation of the peat layers in which they live in the summer. Conversely the adults show a great sensitivity to summer weather conditions, being decimated by summer snowfalls lasting longer than three or four days.",
@@ -56,5 +53,11 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/358565-Somatochlora-alpestris"
+    }
   ]
 }

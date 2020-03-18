@@ -5,10 +5,7 @@
   "local_names": ["Brilliant emerald"],
   "description": "Together with *S. meridionalis* it is the largest species of the emeralds. The body is entirely bright green except for two yellow spots at the base of the abdomen and a yellow U-shaped band across the frons. The band can sometimes be narrowly separated at the middle. In the females, the distinctive character is the long vulvular lamina at right angle to the abdomen. It can be distinguished from *S. meridionalis* by the pterostigma which is (usually) light brown instead of black and by the absence of yellow spots on the side of the thorax. The waist is narrow but the abdomen is less clubbed than *Cordulia aenea*, being widest at S6-S7. ",
   "behaviour": "Males patrols along shorelines, preferably in shaded areas in lowlands but in full sunshine at mountain lakes. It often flies higher and further from the shore than *Cordulia aenea*, and takes fewer hovering stops. Patrolling males are aggressive and battles other males frequently. Immature males can be found far from water, in glades, open scrubs or adjacent meadows. Mating, resting and foraging is done in nearby trees or shrubberies. Females oviposit by repeatedly hammering the end of the abdomen against the wet ground near the water or in floating vegetation. Larvae live in bottom material under overhanging trees or in other shaded areas. Development of the larvae takes at least two years. Exuviae is found in vegetation close to the water or a bit further away on bridges, towed boats, stoneworks or such.",
-  "size": {
-    "length": "50-55 mm",
-    "wingspan": "70-76 mm"
-  },
+  "size": { "length": "50-55 mm", "wingspan": "70-76 mm" },
   "similar_species": [
     "Somatochlora meridionalis",
     "Cordulia aenea",
@@ -68,5 +65,12 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
-  ]
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/112801-Somatochlora-metallica"
+    }
+  ],
+  "behaviour*": "Somatochlora* flavimaculata is good flyer, often to be found far from water. However it seems to avoid open landscapes and is rarely seen far from woodlands. Foraging individuals can be found in clearings or along forest roads. During foraging it often flies at head height or above. At the beginning of their mature life, males patrol territories over land, especially over open areas close to water. At this stage they fly at breast height within a limited area and often perches shortly fully exposed. Later they only patrol over water. It flies leisurely for being an emerald and can sometimes be distinguished by only this mode of flight. Mating wheels may circle low over reedbeds for minutes at a time. Larvae live in organic, decaying material at the bottom. Exuviae are found a few decimeters up on straws near the shores or on stems or branches a bit up on land."
 }

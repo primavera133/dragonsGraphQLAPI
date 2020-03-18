@@ -42,6 +42,10 @@ const GET_SPECIES_FROM_FAMILY_NAME_QUERY = gql`
         }
       }
       sources
+      links {
+        label
+        link
+      }
     }
   }
 `
@@ -77,6 +81,7 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
           variables: { name: family }
         })
       )
+      // console.log(222, res.data.familySpecies[0])
       expect(Object.keys(res.data.familySpecies[0])).toEqual([
         'items_id',
         'scientific_name',
@@ -91,7 +96,8 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
         'similar_species',
         'red_list',
         'images',
-        'sources'
+        'sources',
+        'links'
       ])
       expect(Object.keys(res.data.familySpecies[0].size)).toEqual([
         'length',
@@ -118,6 +124,12 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
       //   'by',
       //   'url'
       // ])
+      // console.log(7776, res.data.familySpecies[0].scientific_name)
+      // console.log(7777, res.data.familySpecies[0].links)
+      expect(Object.keys(res.data.familySpecies[0].links[0])).toEqual([
+        'label',
+        'link'
+      ])
 
       service.close()
     })

@@ -42,6 +42,10 @@ const GET_ALL_SPECIES_QUERY = gql`
         }
       }
       sources
+      links {
+        label
+        link
+      }
     }
   }
 `
@@ -82,7 +86,8 @@ describe('Server - e2e', () => {
       'similar_species',
       'red_list',
       'images',
-      'sources'
+      'sources',
+      'links'
     ])
     expect(Object.keys(res.data.species[0].size)).toEqual([
       'length',
@@ -111,5 +116,6 @@ describe('Server - e2e', () => {
         'url'
       ])
     }
+    expect(Object.keys(res.data.species[0].links[0])).toEqual(['label', 'link'])
   })
 })

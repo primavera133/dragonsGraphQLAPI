@@ -49,6 +49,7 @@ const typeDefs = gql`
     red_list: RedList
     images: Images
     sources: [String]
+    links: [Link]
   }
 
   type Images {
@@ -78,6 +79,11 @@ const typeDefs = gql`
     EU27_endemic: String!
     red_list_europe_endemic: String!
     trend_europe: String!
+  }
+
+  type Link {
+    label: String!
+    link: String!
   }
 
   type GenusInfo {

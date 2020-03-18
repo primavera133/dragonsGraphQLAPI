@@ -38,6 +38,12 @@ Females can be very similar to males. Generally a more lightly yellow jizz compa
         "cloud_name": "dragonflies",
       },
       "items_id": "f2acd97bbac584258f1a680bf206653b",
+      "links": Array [
+        Object {
+          "label": "iNaturalist",
+          "link": "https://www.inaturalist.org/taxa/93426-Aeshna-affinis",
+        },
+      ],
       "local_names": Array [
         "Southern migrant hawker",
         "Blue-eyed hawker",

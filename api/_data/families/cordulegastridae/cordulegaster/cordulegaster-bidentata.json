@@ -1,17 +1,15 @@
 {
   "items_id": "3367a8f2a388704da2ec2356caf28053",
   "scientific_name": "Cordulegaster bidentata",
+  "author_citation": "Selys, 1843",
   "local_names": ["Sombre goldenring"],
   "description": "Black with yellow markings, like all *Cordulegaster*, but the smallest and darkest of them all (outside Turkey). It has green eyes, a black occipital triangle and a yellow frons with a wide black bar. It is similar to the more common *C. boltonii* but can be distinguished from it by a slightly smaller size, and different shape of the yellow markings on S1 and the side of the thorax. The occipital triangle is black, not yellow as on *C. boltonii*.  The anal loop of the hind wing consists of 3 cells, not 5 as in *C. boltonii*. ",
-  "distribution": "*Cordulegaster bidentata* is the most wide-ranging endemic dragonfly of Europe, occuring in large parts of west, south, south-east and central Europe. The easternmost records are found in the Carpathians in the west of Ukraine and in the east of Romania and Bulgaria. Its specialised habitat means that it is much more localised than *C. boltonii*, and in large areas of central and western Europe only scattered populations occur, although closely aggregated sites are found in tufa regions. Population densities vary strongly between regions and sites, but are generally low. The highest densities occur mainly in the western Carpathians and the Balkan Peninsula, as well as some tufa regions in France. The habitat is sometimes difficult to recognise or to access, particularly in mountainous regions, and, as the species often occur in low numbers, populations are easily overlooked and in the past the species was erroneously thought to have become extinct in countries such as Switzerland.",
-  "flight_period": "May to August",
   "behaviour": "Larvae are benthic and live in the lowest levels of the water bodies, and can be very difficult to find. Larval development takes between three and five years. This can be slowed if cold weather causes the water to freeze. The larvae may sometimes leave the water, hunting for small arthropods on the ground at night.",
-  "habitat": "*Cordulegaster boltoni* has a strong affinity with open woodlands of temperate or Mediterranean mixed and deciduous forests in hilly and mountainous areas. It occurs up to 1 400 m in the Alps and the Pyrenees. The larvae are mostly limited to seepage and spring waters, runnels and the upper courses of streams, although older larvae sometimes drift to the lower parts of the stream. They do not cope well with strong currents. Adults breed mainly in short, often remote stretches of headwater areas, with the most suitable habitats being sandy or muddy springs, tufa springs and small calcareous streams. Populations can even regularly be found in places where water is trickling from a rocky slope with almost no visible open water. Suitable waters are often calcareous, but this could be a correlate with the preferred habitat type, which is more common in calcareous areas. The species is regionally absent in areas where acidic streams result from acidic rain, but in other areas can still be recorded in streams with a pH below 4.",
-  "size": {
-    "length": "70-83 mm",
-    "wingspan": "82 100 mm"
-  },
+  "size": { "length": "70-83 mm", "wingspan": "82 100 mm" },
   "similar_species": ["Cordulegaster boltonii"],
+  "distribution": "*Cordulegaster bidentata* is the most wide-ranging endemic dragonfly of Europe, occuring in large parts of west, south, south-east and central Europe. The easternmost records are found in the Carpathians in the west of Ukraine and in the east of Romania and Bulgaria. Its specialised habitat means that it is much more localised than *C. boltonii*, and in large areas of central and western Europe only scattered populations occur, although closely aggregated sites are found in tufa regions. Population densities vary strongly between regions and sites, but are generally low. The highest densities occur mainly in the western Carpathians and the Balkan Peninsula, as well as some tufa regions in France. The habitat is sometimes difficult to recognise or to access, particularly in mountainous regions, and, as the species often occur in low numbers, populations are easily overlooked and in the past the species was erroneously thought to have become extinct in countries such as Switzerland.",
+  "habitat": "*Cordulegaster boltoni* has a strong affinity with open woodlands of temperate or Mediterranean mixed and deciduous forests in hilly and mountainous areas. It occurs up to 1 400 m in the Alps and the Pyrenees. The larvae are mostly limited to seepage and spring waters, runnels and the upper courses of streams, although older larvae sometimes drift to the lower parts of the stream. They do not cope well with strong currents. Adults breed mainly in short, often remote stretches of headwater areas, with the most suitable habitats being sandy or muddy springs, tufa springs and small calcareous streams. Populations can even regularly be found in places where water is trickling from a rocky slope with almost no visible open water. Suitable waters are often calcareous, but this could be a correlate with the preferred habitat type, which is more common in calcareous areas. The species is regionally absent in areas where acidic streams result from acidic rain, but in other areas can still be recorded in streams with a pH below 4.",
+  "flight_period": "May to August",
   "red_list": {
     "habitats_directive": "No",
     "red_list_EU27": "Near threatened",
@@ -21,14 +19,16 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "author_citation": "Selys, 1843",
-  "images": {
-    "cloud_name": "dragonflies",
-    "all": []
-  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/98413-Cordulegaster-bidentata"
+    }
   ]
 }

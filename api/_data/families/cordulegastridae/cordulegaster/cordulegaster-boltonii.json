@@ -5,10 +5,7 @@
   "local_names": ["Common goldenring"],
   "description": "Black and yellow in colour, with green eyes. Frons is yellow, with a small black bar. Similar to *C. bidentata* but slightly larger, more yellow in appearance and it has different shapes of yellow markings on S1 and the sides of the thorax. Occipital triangle is yellow, not black as on *C. bidentata*. The anal loop of the hind wing consists of 5 cells, not 3. It is also very similar to *C. trinacriae* but the males can be distinguished by different shape of the anal appendages. *C. boltonii* and C*. trinacriae* occurences only overlap in a small area in Italy.",
   "behaviour": "Males patrol relentlessly along suitable streams, chasing away any other competitors. Females oviposit in sandy or gravel bottoms of streams by, while still in flight, pushing their rear ends into the substrate over and over again.",
-  "size": {
-    "length": "74-85 mm",
-    "wingspan": "80-100 mm"
-  },
+  "size": { "length": "74-85 mm", "wingspan": "80-100 mm" },
   "similar_species": [
     "Cordulegaster bidentata",
     "Cordulegaster heros",
@@ -60,5 +57,11 @@
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "Nordens trollsländor, M. Billqvist, D. Andersson, C. Bergendorff"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/85057-Cordulegaster-boltonii"
+    }
   ]
 }

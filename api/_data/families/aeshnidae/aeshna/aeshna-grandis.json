@@ -82,6 +82,8 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/82106-Aeshna-grandis"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1425264" },
+    { "label": "", "link": "" }
   ]
 }

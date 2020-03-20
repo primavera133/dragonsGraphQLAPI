@@ -25,6 +25,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/103492-Ischnura-graellsii"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1423337" }
   ]
 }

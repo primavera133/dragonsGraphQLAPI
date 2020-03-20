@@ -58,6 +58,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/433085-Aeshna-serrata"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1425194" }
   ]
 }

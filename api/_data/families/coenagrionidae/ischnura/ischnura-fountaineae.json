@@ -29,6 +29,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/103489-Ischnura-fountaineae"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1423329" }
   ]
 }

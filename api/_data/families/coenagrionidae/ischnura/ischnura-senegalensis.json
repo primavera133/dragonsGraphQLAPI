@@ -25,6 +25,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/52053-Ischnura-senegalensis"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1423286" }
   ]
 }

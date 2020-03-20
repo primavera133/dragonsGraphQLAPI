@@ -50,6 +50,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/93426-Aeshna-affinis"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1425203" }
   ]
 }

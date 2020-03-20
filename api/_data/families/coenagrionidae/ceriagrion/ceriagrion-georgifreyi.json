@@ -9,7 +9,7 @@
   "similar_species": ["Ceriagrion tenellum", "Pyrrhosoma nymphula"],
   "distribution": "Not endemic, but in Europe it is only known from three Greek islands; Kerkyra, Thasos and Zakynthos. From each, only a single record is available. It is believed the species could be present on Lesbos and mainland Greece, but being confused with *C. tenellum*. Apart from Greece, it has been recorded in Israel, Syria and Turkey.",
   "habitat": "Poorly known and there are no detailed accounts of the habitats in Europe. On the Turkish south coast, the species is found at slowly flowing, muddy streams and at the grassy and marshy margins of mostly small standing waters. Spikerushes and water parsnip might be related to breeding localities. The species only occurs at low altitudes.",
-  "flight_period": "Beginning of MAy to end of September.",
+  "flight_period": "Beginning of May to end of September.",
   "red_list": {
     "habitats_directive": "No",
     "red_list_EU27": "Critically endangered",
@@ -29,6 +29,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/97062-Ceriagrion-georgifreyi"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1423211" }
   ]
 }

@@ -29,6 +29,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/98272-Coenagrion-caerulescens"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1422016" }
   ]
 }

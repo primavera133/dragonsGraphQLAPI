@@ -29,6 +29,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/318970-Boyeria-irene"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1425137" }
   ]
 }

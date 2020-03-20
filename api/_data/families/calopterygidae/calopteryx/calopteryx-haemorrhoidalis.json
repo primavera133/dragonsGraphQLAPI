@@ -69,6 +69,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/96487-Calopteryx-haemorrhoidalis"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/8358891" }
   ]
 }

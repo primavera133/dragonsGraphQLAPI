@@ -29,6 +29,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/103501-Ischnura-saharensis"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1423315" }
   ]
 }

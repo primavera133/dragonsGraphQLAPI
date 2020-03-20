@@ -70,6 +70,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/93437-Aeshna-mixta"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1425177" }
   ]
 }

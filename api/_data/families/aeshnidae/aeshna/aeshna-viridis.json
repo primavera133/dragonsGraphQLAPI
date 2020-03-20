@@ -58,6 +58,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/93450-Aeshna-viridis"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1425187" }
   ]
 }

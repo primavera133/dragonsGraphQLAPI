@@ -25,6 +25,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/103491-Ischnura-genei"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1423379" }
   ]
 }

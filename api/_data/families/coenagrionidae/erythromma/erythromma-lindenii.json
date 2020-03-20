@@ -34,6 +34,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/100408-Erythromma-lindenii"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1423027" }
   ]
 }

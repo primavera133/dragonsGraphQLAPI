@@ -29,6 +29,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/94042-Anax-immaculifrons"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/5051736" }
   ]
 }

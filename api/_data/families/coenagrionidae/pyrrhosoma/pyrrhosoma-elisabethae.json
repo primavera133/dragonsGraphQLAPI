@@ -29,6 +29,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/111449-Pyrrhosoma-elisabethae"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1423539" }
   ]
 }

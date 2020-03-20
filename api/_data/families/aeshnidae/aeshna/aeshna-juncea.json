@@ -65,6 +65,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/93434-Aeshna-juncea"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1425221" }
   ]
 }

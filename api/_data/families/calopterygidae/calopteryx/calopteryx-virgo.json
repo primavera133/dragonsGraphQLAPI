@@ -62,6 +62,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/61536-Calopteryx-virgo"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1427037" }
   ]
 }

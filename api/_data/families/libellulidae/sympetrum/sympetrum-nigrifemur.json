@@ -29,6 +29,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/113517-Sympetrum-nigrifemur"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1428209" }
   ]
 }

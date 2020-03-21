@@ -33,6 +33,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/99327-Diplacodes-lefebvrii"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1428418" }
   ]
 }

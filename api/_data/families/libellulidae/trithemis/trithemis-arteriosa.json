@@ -33,6 +33,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/114465-Trithemis-arteriosa"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1428848" }
   ]
 }

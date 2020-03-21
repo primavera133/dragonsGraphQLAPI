@@ -71,6 +71,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/62067-Orthetrum-cancellatum"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1428686" }
   ]
 }

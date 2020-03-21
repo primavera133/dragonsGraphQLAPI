@@ -78,6 +78,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/131846-Libellula-fulva"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1427936" }
   ]
 }

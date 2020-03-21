@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/98427-Cordulegaster-trinacriae"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1421207" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421207" }
   ]
 }

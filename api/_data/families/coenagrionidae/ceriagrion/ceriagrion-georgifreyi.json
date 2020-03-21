@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/97062-Ceriagrion-georgifreyi"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1423211" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423211" }
   ]
 }

@@ -34,6 +34,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/101673-Gomphus-graslinii"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/5051921" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051921" }
   ]
 }

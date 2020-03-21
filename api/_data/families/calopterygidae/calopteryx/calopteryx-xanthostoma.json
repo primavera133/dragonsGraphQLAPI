@@ -54,6 +54,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/96491-Calopteryx-xanthostoma"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1427020" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1427020" }
   ]
 }

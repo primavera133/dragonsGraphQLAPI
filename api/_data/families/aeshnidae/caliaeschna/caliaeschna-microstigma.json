@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/342619-Caliaeschna-microstigma"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1425327" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425327" }
   ]
 }

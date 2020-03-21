@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/107982-Orthetrum-trinacria"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1428708" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1428708" }
   ]
 }

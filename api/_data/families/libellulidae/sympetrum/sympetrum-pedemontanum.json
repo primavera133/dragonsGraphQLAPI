@@ -31,6 +31,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/118948-Sympetrum-pedemontanum"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1428280" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1428280" }
   ]
 }

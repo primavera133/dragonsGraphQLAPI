@@ -43,6 +43,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/94048-Anax-parthenope"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/5051752" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051752" }
   ]
 }

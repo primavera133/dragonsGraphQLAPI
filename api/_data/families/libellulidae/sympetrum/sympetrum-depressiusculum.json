@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/428678-Sympetrum-depressiusculum"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1428235" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1428235" }
   ]
 }

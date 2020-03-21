@@ -33,6 +33,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/57446-Cordulegaster-helladica"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1421209" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421209" }
   ]
 }

@@ -59,6 +59,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/57443-Libellula-quadrimaculata"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1427915" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1427915" }
   ]
 }

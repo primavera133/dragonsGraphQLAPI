@@ -35,6 +35,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/433885-Lindenia-tetraphylla"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/5051794" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051794" }
   ]
 }

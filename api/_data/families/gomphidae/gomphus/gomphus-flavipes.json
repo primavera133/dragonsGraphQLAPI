@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/991059-Stylurus-flavipes"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/5051950" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051950" }
   ]
 }

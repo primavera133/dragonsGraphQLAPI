@@ -67,6 +67,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/113525-Sympetrum-sanguineum"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1428217" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1428217" }
   ]
 }

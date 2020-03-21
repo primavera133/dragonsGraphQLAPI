@@ -59,6 +59,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/99901-Enallagma-cyathigerum"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/5051273" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051273" }
   ]
 }

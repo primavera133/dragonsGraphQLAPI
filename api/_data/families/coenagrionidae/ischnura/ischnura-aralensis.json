@@ -26,6 +26,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/103479-Ischnura-aralensis"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1423283" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423283" }
   ]
 }

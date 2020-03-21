@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/342620-Epallage-fatime"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/5052136" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5052136" }
   ]
 }

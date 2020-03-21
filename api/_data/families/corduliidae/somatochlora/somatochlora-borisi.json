@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/562937-Corduliochlora-borisi"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1430034" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1430034" }
   ]
 }

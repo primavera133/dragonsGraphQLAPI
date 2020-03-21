@@ -79,6 +79,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/51824-Calopteryx-splendens"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/7412043" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/7412043" }
   ]
 }

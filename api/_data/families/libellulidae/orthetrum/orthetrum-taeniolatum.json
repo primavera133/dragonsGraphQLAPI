@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/107979-Orthetrum-taeniolatum"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1428607" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1428607" }
   ]
 }

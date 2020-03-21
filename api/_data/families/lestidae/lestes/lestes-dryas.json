@@ -64,6 +64,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/104429-Lestes-dryas"
     },
-    { "label": "GBIF", "link": "gbif.org/species/1424045" }
+    { "label": "gbif.org", "link": "gbif.org/species/1424045" }
   ]
 }

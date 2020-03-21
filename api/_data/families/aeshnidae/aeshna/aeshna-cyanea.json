@@ -59,6 +59,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/52519-Aeshna-cyanea"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1425240" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425240" }
   ]
 }

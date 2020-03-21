@@ -51,6 +51,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/51678-Coenagrion-puella"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1421964" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421964" }
   ]
 }

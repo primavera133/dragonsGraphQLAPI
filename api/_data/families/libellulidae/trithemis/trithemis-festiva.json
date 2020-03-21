@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/114476-Trithemis-festiva"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1428813" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1428813" }
   ]
 }

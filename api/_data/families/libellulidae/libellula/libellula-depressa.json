@@ -75,6 +75,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/563098-Libellula-depressa"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1427883" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1427883" }
   ]
 }

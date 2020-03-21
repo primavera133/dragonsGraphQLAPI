@@ -30,6 +30,6 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/130407-Ceriagrion-tenellum"
     },
-    { "label": "GBIF", "link": "https://www.gbif.org/species/1423259" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423259" }
   ]
 }

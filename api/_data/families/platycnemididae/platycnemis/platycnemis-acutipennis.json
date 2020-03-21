@@ -34,6 +34,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/109639-Platycnemis-acutipennis"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1423891" }
   ]
 }

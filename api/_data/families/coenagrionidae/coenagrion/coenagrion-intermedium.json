@@ -6,7 +6,7 @@
   "description": "Endemic to the island of Crete where it replaces *C. puella* and *C. pulchellum*. Very similar to C. puella with minor differences in the shape of the abdominal appendages of the males and the shape of the hind margin of the pronotum in females which is intermediate between that of *C. puella* and *C. pulchellum* (hence the latin name intermedium)",
   "behaviour": "",
   "size": { "length": "35-36 mm", "wingspan": "38-44 mm" },
-  "similar_species": ["Coenagrion sp."],
+  "similar_species": ["Coenagrion puella"],
   "distribution": "The species only occur in Crete, where it is presently known from 19 different rivers. The species is not uncommon in Crete but available habitats is limited and it seems likely that in the future it will be affected by climate change and the resulting desiccation of streams.",
   "habitat": "*Coenagrion intermedium* is confined to small streams with moderate flow rates flakned by gallery forests of the Oriental plane. No records of self-sustaining populations in standing waters exist. The species is absent from open unshaded streams. Most localities are in the upper and middle parts of streams, rarely along lower reaches. The highest densities of individuals are found at spots with a slow current and herbaceous banks. At faster-flowing sections population density is lower.",
   "flight_period": "From mid-May to July.",

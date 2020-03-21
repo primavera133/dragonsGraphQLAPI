@@ -66,6 +66,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/113497-Sympecma-fusca"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1424207" }
   ]
 }

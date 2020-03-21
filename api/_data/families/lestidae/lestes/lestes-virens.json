@@ -50,6 +50,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/361324-Lestes-virens"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/1424067" }
   ]
 }

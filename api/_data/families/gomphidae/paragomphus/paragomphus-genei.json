@@ -29,6 +29,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/108499-Paragomphus-genei"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/5051803" }
   ]
 }

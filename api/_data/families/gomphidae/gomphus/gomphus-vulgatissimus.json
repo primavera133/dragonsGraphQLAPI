@@ -66,6 +66,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/57454-Gomphus-vulgatissimus"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/5051951" }
   ]
 }

@@ -30,6 +30,7 @@
     {
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/124488-Chalcolestes-viridis"
-    }
+    },
+    { "label": "GBIF", "link": "https://www.gbif.org/species/5865098" }
   ]
 }

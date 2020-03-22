@@ -68,5 +68,6 @@
       "link": "https://www.inaturalist.org/taxa/325408-Coenagrion-johanssoni"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1421974" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1421974" }]
 }

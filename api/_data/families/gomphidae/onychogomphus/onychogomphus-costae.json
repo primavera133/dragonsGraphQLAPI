@@ -35,5 +35,6 @@
       "link": "https://www.inaturalist.org/taxa/107586-Onychogomphus-costae"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1426284" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1426284" }]
 }

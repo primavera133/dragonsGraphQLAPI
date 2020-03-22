@@ -52,5 +52,6 @@
       "link": "https://www.inaturalist.org/taxa/361324-Lestes-virens"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1424067" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1424067" }]
 }

@@ -31,5 +31,6 @@
       "link": "https://www.inaturalist.org/taxa/108344-Pantala-flavescens"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1427855" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1427855" }]
 }

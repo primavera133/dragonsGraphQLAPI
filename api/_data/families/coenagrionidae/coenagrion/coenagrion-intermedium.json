@@ -31,5 +31,6 @@
       "link": "https://www.inaturalist.org/taxa/98274-Coenagrion-intermedium"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1422033" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422033" }]
 }

@@ -59,5 +59,6 @@
       "link": "https://www.inaturalist.org/taxa/133787-Onychogomphus-uncatus"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1426246" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1426246" }]
 }

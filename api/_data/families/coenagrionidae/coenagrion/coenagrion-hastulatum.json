@@ -60,5 +60,6 @@
       "link": "https://www.inaturalist.org/taxa/98273-Coenagrion-hastulatum"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1422001" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422001" }]
 }

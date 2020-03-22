@@ -80,5 +80,6 @@
       "link": "https://www.inaturalist.org/taxa/113507-Sympetrum-fonscolombii"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428264" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428264" }]
 }

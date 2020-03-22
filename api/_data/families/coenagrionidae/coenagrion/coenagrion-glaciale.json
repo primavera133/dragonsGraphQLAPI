@@ -31,5 +31,6 @@
       "link": "https://www.inaturalist.org/taxa/561891-Coenagrion-glaciale"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1421996" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1421996" }]
 }

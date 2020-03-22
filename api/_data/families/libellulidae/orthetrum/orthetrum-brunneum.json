@@ -87,5 +87,6 @@
       "link": "https://www.inaturalist.org/taxa/107949-Orthetrum-brunneum"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428715" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428715" }]
 }

@@ -60,5 +60,6 @@
       "link": "https://www.inaturalist.org/taxa/209688-Erythromma-najas"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1423018" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1423018" }]
 }

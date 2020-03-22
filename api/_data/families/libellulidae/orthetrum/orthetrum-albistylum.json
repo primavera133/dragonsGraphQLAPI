@@ -56,5 +56,6 @@
       "link": "https://www.inaturalist.org/taxa/107942-Orthetrum-albistylum"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428595" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428595" }]
 }

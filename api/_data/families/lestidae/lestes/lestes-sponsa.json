@@ -68,5 +68,6 @@
       "link": "https://www.inaturalist.org/taxa/130408-Lestes-sponsa"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1424038" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1424038" }]
 }

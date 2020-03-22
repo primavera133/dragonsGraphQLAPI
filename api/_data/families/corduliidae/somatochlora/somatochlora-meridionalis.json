@@ -31,5 +31,6 @@
       "link": "https://www.inaturalist.org/taxa/434390-Somatochlora-meridionalis"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/4513963" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "4513963" }]
 }

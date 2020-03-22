@@ -60,5 +60,6 @@
       "link": "https://www.inaturalist.org/taxa/433085-Aeshna-serrata"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1425194" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1425194" }]
 }

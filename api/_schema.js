@@ -50,6 +50,7 @@ const typeDefs = gql`
     images: Images
     sources: [String]
     links: [Link]
+    meta: [Meta]
   }
 
   type Images {
@@ -84,6 +85,11 @@ const typeDefs = gql`
   type Link {
     label: String!
     link: String!
+  }
+
+  type Meta {
+    label: String!
+    value: String!
   }
 
   type GenusInfo {

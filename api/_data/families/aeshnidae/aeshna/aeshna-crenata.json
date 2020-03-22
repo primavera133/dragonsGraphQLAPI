@@ -32,5 +32,6 @@
       "link": "https://www.inaturalist.org/taxa/93430-Aeshna-crenata"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1425209" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1425209" }]
 }

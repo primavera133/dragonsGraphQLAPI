@@ -92,5 +92,6 @@
       "link": "https://www.inaturalist.org/taxa/117294-Sympetrum-flaveolum"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428248" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428248" }]
 }

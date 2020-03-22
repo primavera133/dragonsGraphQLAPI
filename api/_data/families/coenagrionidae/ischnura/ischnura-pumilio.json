@@ -27,5 +27,6 @@
       "link": "https://www.inaturalist.org/taxa/318452-Ischnura-pumilio"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1423317" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1423317" }]
 }

@@ -48,5 +48,6 @@
       "link": "https://www.inaturalist.org/taxa/55625-Sympetrum-striolatum"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428345" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428345" }]
 }

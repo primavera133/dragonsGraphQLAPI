@@ -37,5 +37,6 @@
       "link": "https://www.inaturalist.org/taxa/318966-Gomphus-simillimus"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/5051955" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "5051955" }]
 }

@@ -27,5 +27,6 @@
       "link": "https://www.inaturalist.org/taxa/103494-Ischnura-hastata"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/4302729" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "4302729" }]
 }

@@ -31,5 +31,6 @@
       "link": "https://www.inaturalist.org/taxa/361323-Lestes-macrostigma"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1423981" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1423981" }]
 }

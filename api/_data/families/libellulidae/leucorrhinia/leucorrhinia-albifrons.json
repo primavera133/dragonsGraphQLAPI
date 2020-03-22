@@ -84,5 +84,6 @@
       "link": "https://www.inaturalist.org/taxa/104543-Leucorrhinia-albifrons"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1429199" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1429199" }]
 }

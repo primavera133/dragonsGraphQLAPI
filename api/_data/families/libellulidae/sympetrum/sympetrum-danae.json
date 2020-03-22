@@ -68,5 +68,6 @@
       "link": "https://www.inaturalist.org/taxa/113503-Sympetrum-danae"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428334" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428334" }]
 }

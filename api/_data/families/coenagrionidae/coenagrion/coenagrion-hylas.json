@@ -31,5 +31,6 @@
       "link": "https://www.inaturalist.org/taxa/149323-Coenagrion-hylas"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1421988" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1421988" }]
 }

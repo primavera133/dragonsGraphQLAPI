@@ -46,6 +46,10 @@ const GET_SPECIES_FROM_GENERA_NAME_QUERY = gql`
         label
         link
       }
+      meta {
+        label
+        value
+      }
     }
   }
 `
@@ -84,7 +88,8 @@ describe('Server - e2e: speciesFromGenusName', () => {
       'red_list',
       'images',
       'sources',
-      'links'
+      'links',
+      'meta'
     ])
     expect(Object.keys(res.data.genusSpecies[0].size)).toEqual([
       'length',
@@ -106,6 +111,10 @@ describe('Server - e2e: speciesFromGenusName', () => {
     expect(Object.keys(res.data.genusSpecies[0].links[0])).toEqual([
       'label',
       'link'
+    ])
+    expect(Object.keys(res.data.genusSpecies[0].meta[0])).toEqual([
+      'label',
+      'value'
     ])
   }
 

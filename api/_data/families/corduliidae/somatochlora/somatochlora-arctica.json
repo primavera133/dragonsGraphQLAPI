@@ -64,5 +64,6 @@
       "link": "https://www.inaturalist.org/taxa/358566-Somatochlora-arctica"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1429997" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1429997" }]
 }

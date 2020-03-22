@@ -73,5 +73,6 @@
       "link": "https://www.inaturalist.org/taxa/85030-Crocothemis-erythraea"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1427721" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1427721" }]
 }

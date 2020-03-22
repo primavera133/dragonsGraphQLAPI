@@ -31,5 +31,6 @@
       "link": "https://www.inaturalist.org/taxa/361998-Brachythemis-impartita"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428571" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428571" }]
 }

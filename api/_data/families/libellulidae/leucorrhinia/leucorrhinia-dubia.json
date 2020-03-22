@@ -74,5 +74,6 @@
       "link": "https://www.inaturalist.org/taxa/104547-Leucorrhinia-dubia"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1429207" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1429207" }]
 }

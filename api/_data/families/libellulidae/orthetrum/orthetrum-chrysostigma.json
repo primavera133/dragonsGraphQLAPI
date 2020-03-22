@@ -36,5 +36,6 @@
       "link": "https://www.inaturalist.org/taxa/107953-Orthetrum-chrysostigma"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428673" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428673" }]
 }

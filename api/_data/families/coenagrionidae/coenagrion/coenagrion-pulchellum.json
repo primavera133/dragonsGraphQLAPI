@@ -76,5 +76,6 @@
       "link": "https://www.inaturalist.org/taxa/208111-Coenagrion-pulchellum"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1421980" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1421980" }]
 }

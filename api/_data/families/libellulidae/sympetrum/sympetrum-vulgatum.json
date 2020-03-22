@@ -76,5 +76,6 @@
       "link": "https://www.inaturalist.org/taxa/132657-Sympetrum-vulgatum"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428311" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428311" }]
 }

@@ -46,6 +46,10 @@ const GET_SPECIE_FROM_ID_QUERY = gql`
         label
         link
       }
+      meta {
+        label
+        value
+      }
     }
   }
 `

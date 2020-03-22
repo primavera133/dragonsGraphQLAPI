@@ -46,6 +46,10 @@ const GET_SPECIES_FROM_FAMILY_NAME_QUERY = gql`
         label
         link
       }
+      meta {
+        label
+        value
+      }
     }
   }
 `
@@ -97,7 +101,8 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
         'red_list',
         'images',
         'sources',
-        'links'
+        'links',
+        'meta'
       ])
       expect(Object.keys(res.data.familySpecies[0].size)).toEqual([
         'length',
@@ -129,6 +134,11 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
       expect(Object.keys(res.data.familySpecies[0].links[0])).toEqual([
         'label',
         'link'
+      ])
+
+      expect(Object.keys(res.data.familySpecies[0].meta[0])).toEqual([
+        'label',
+        'value'
       ])
 
       service.close()

@@ -52,6 +52,12 @@ Females can be very similar to males. Generally a more lightly yellow jizz compa
         "Southern migrant hawker",
         "Blue-eyed hawker",
       ],
+      "meta": Array [
+        Object {
+          "label": "gbifTaxonKey",
+          "value": "1425203",
+        },
+      ],
       "red_list": Object {
         "EU27_endemic": "No",
         "habitats_directive": "No",

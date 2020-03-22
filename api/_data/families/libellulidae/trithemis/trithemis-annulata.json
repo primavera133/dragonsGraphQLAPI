@@ -40,5 +40,6 @@
       "link": "https://www.inaturalist.org/taxa/114463-Trithemis-annulata"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428835" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428835" }]
 }

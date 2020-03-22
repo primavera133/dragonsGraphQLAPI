@@ -37,5 +37,6 @@
       "link": "https://www.inaturalist.org/taxa/101687-Gomphus-pulchellus"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/5051947" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "5051947" }]
 }

@@ -60,5 +60,6 @@
       "link": "https://www.inaturalist.org/taxa/434389-Somatochlora-flavomaculata"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1429969" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1429969" }]
 }

@@ -68,5 +68,6 @@
       "link": "https://www.inaturalist.org/taxa/113525-Sympetrum-sanguineum"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428217" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428217" }]
 }

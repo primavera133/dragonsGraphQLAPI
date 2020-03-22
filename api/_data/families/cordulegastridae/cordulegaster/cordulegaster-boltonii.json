@@ -64,5 +64,6 @@
       "link": "https://www.inaturalist.org/taxa/85057-Cordulegaster-boltonii"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1421161" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1421161" }]
 }

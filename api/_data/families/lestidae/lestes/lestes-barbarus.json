@@ -36,5 +36,6 @@
       "link": "https://www.inaturalist.org/taxa/104420-Lestes-barbarus"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1424076" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1424076" }]
 }

@@ -72,5 +72,6 @@
       "link": "https://www.inaturalist.org/taxa/132663-Onychogomphus-forcipatus"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1426293" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1426293" }]
 }

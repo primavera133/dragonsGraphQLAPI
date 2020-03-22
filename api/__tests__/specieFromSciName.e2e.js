@@ -46,6 +46,10 @@ const GET_SPECIE_FROM_SCIENTIFIC_NAME_QUERY = gql`
         label
         link
       }
+      meta {
+        label
+        value
+      }
     }
   }
 `

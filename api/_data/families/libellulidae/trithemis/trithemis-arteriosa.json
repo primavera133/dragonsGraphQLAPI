@@ -35,5 +35,6 @@
       "link": "https://www.inaturalist.org/taxa/114465-Trithemis-arteriosa"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1428848" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1428848" }]
 }

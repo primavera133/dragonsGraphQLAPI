@@ -31,5 +31,6 @@
       "link": "https://www.inaturalist.org/taxa/112442-Selysiothemis-nigra"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1429541" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1429541" }]
 }

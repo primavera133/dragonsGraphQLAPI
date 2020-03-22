@@ -60,5 +60,6 @@
       "link": "https://www.inaturalist.org/taxa/61152-Pyrrhosoma-nymphula"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1423540" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1423540" }]
 }

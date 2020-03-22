@@ -52,5 +52,6 @@
       "link": "https://www.inaturalist.org/taxa/358561-Epitheca-bimaculata"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1430083" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1430083" }]
 }

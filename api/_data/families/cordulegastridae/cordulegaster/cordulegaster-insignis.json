@@ -34,5 +34,6 @@
       "link": "https://www.inaturalist.org/taxa/322800-Cordulegaster-insignis"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1421179" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1421179" }]
 }

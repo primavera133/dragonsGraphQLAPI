@@ -40,5 +40,6 @@
       "link": "https://www.inaturalist.org/taxa/98418-Cordulegaster-heros"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1421199" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1421199" }]
 }

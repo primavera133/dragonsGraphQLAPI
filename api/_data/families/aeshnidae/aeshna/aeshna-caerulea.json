@@ -81,5 +81,6 @@
       "link": "https://www.inaturalist.org/taxa/93427-Aeshna-caerulea"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1425216" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1425216" }]
 }

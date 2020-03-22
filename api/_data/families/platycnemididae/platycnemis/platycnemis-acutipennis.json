@@ -36,5 +36,6 @@
       "link": "https://www.inaturalist.org/taxa/109639-Platycnemis-acutipennis"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/1423891" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1423891" }]
 }

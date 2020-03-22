@@ -73,5 +73,6 @@
       "link": "https://www.inaturalist.org/taxa/112801-Somatochlora-metallica"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/7845669" }
-  ]
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "7845669" }]
 }

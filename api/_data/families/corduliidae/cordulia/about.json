@@ -5,5 +5,14 @@
   "sources": [
     "[Wikipedia](https://en.wikipedia.org/wiki/Cordulia)",
     "[GBIF](https://www.gbif.org/species/1429716)"
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1429716" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1429716"
+    }
   ]
 }

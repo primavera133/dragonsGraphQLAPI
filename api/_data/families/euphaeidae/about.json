@@ -2,5 +2,14 @@
   "title": " Euphaeidae",
   "author_citation": "Jacobson & Bianchi, 1905",
   "description": "The **_Euphaeidae_** are a family of damselflies in the order Odonata sometimes called Epallaginidae. They are commonly known as **gossamerwings**. It is a small family of damselflies with around 70 species. They commonly occur in Old World tropics. They are large and mostly metallic-coloured. They look similar to species of damselflies in the family Calopterygidae.\n\nThe larvae have seven pairs of supplementary gills along the abdomen in addition to the usual three sac-like gills at the tip of the abdomen. Adults have fore- and hindwings of equal length, barely petiolate and a long pterostigma that is broader in the hindwing. Adults have close veins and numerous antenodals (15-38), and most breed in forest streams.",
-  "sources": ["[Wikipedia](https://en.wikipedia.org/wiki/Euphaeidae)"]
+  "sources": ["[Wikipedia](https://en.wikipedia.org/wiki/Euphaeidae)"],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/8578" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "8578"
+    }
+  ]
 }

@@ -2,5 +2,14 @@
   "title": " Lestidae",
   "author_citation": "Calvert, 1901",
   "description": "The **_Lestidae_** are a rather small family of cosmopolitan, large-sized, slender damselflies, known commonly as the **spreadwings** or **spread-winged damselflies**.\n\nThe two subfamilies in Lestidae are Lestinae and Sympecmatinae. Damselflies in the Lestinae rest with their wings partly open, while those in the Sympecmatinae, the reedlings, ringtails, and winter damselflies, rest with their wings folded. The exact taxonomy of the family is disputed, with some authorities including twelve genera and some eight.\n\n### Characteristics\nWhile most damselflies rest with their wings folded together, most members of the family Lestidae hold them at an angle away from their bodies. The pterostigma is noticeably elongated. The quadrilateral has an acute angle at the end. The body has a greenish, metallic shine. The anal appendages of male spreadwings are long and strongly curved.\n\nBreeding takes place in slow-moving or still water in stream backwaters, swamps, marshes and temporary pools. The nymphs have a long abdomen and a distinctive prementum.",
-  "sources": ["[Wikipedia](https://en.wikipedia.org/wiki/Lestidae)"]
+  "sources": ["[Wikipedia](https://en.wikipedia.org/wiki/Lestidae)"],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/4489" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "4489"
+    }
+  ]
 }

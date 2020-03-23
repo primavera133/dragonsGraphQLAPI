@@ -5,5 +5,14 @@
   "sources": [
     "[GBIF](https://www.gbif.org/species/1429093)",
     "[Wikipedia](https://en.wikipedia.org/wiki/Zygonyx)"
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/7444937" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "7444937"
+    }
   ]
 }

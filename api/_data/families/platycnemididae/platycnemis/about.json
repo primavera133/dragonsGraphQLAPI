@@ -5,5 +5,14 @@
   "sources": [
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "[Wikipedia](https://en.wikipedia.org/wiki/Platycnemis)"
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/8235578" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "8235578"
+    }
   ]
 }

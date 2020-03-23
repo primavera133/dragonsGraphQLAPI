@@ -5,5 +5,14 @@
   "sources": [
     "[Wikipedia](https://en.wikipedia.org/wiki/Corduliidae)",
     "Trollsländor i Europa, Åke Sandhall"
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/7009" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "7009"
+    }
   ]
 }

@@ -5,5 +5,14 @@
   "sources": [
     "[Wikipedia](https://en.wikipedia.org/wiki/Cordulegastridae)",
     "Trollsländor i Europa, Åke Sandhall"
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/4483" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "4483"
+    }
   ]
 }

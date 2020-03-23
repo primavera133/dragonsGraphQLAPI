@@ -2,5 +2,14 @@
   "title": "Caliaeschna",
   "author_citation": "Schneider, 1845",
   "description": "**_Caliaeschna_** is a monotypic genus of European dragonfly of the family Aeshnidae containing only *Caliaeschna microstigma*, the Eastern spectre.",
-  "sources": ["[GBIF](https://www.gbif.org/species/1425326)"]
+  "sources": ["[GBIF](https://www.gbif.org/species/1425326)"],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425326" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1425326"
+    }
+  ]
 }

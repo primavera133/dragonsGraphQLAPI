@@ -11,6 +11,14 @@ const GET_INFO_ABOUT_GENUS_FROM_NAME_QUERY = gql`
       author_citation
       description
       sources
+      links {
+        label
+        link
+      }
+      meta {
+        label
+        value
+      }
     }
   }
 `
@@ -38,8 +46,14 @@ describe('Server - e2e: aboutGenus', () => {
       'title',
       'author_citation',
       'description',
-      'sources'
+      'sources',
+      'links',
+      'meta'
     ])
+
+    expect(Object.keys(res.data.aboutGenus.links[0])).toEqual(['label', 'link'])
+
+    expect(Object.keys(res.data.aboutGenus.meta[0])).toEqual(['label', 'value'])
   }
 
   it('gets info about genus: Aeshna', async () => {

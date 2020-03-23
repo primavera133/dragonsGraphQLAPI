@@ -5,5 +5,14 @@
   "sources": [
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "[Wikipedia](https://en.wikipedia.org/wiki/Lestes)"
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423980" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1423980"
+    }
   ]
 }

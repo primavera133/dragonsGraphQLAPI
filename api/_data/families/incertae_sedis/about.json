@@ -5,5 +5,12 @@
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "[Wikipedia](https://en.wikipedia.org/wiki/Incertae_sedis)"
+  ],
+  "links": [{ "label": "gbif.org", "link": "https://www.gbif.org/species/0" }],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "0"
+    }
   ]
 }

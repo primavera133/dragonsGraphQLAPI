@@ -2,5 +2,14 @@
   "title": "Diplacodes",
   "author_citation": "Kirby, 1889",
   "description": "**_Diplacodes_** is a genus of dragonflies in the Libellulidae family. They are commonly known as **perchers**. Their colours range from the totally black body of the African *Diplacodes lefebvrii*, the lovely pale blue of India's *Diplacodes trivialis*, to the intense red of the Asian–Australian *Diplacodes haematodes*.\n\nVarious species of this genus occur in Africa, Asia, Australia and the South West Pacific. They are generally small in size.",
-  "sources": ["[Wikipedia](https://en.wikipedia.org/wiki/Diplacodes)"]
+  "sources": ["[Wikipedia](https://en.wikipedia.org/wiki/Diplacodes)"],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/8144406" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "8144406"
+    }
+  ]
 }

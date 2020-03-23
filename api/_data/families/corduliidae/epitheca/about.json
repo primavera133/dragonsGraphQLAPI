@@ -2,5 +2,14 @@
   "title": "Epitheca",
   "author_citation": "Burmeister, 1839",
   "description": "**_Epitheca_** is a genus of dragonflies in the family Corduliidae. They are commonly known as **baskettails**. They are large, strong fliers, most often seen cruising over open water, rarely perched. The single European species (more occur in Japan and especially North America) is a shy, brownish corduliid, with boldly marked wings and without green metallic colours.",
-  "sources": ["[Wikipedia](https://en.wikipedia.org/wiki/Epitheca)"]
+  "sources": ["[Wikipedia](https://en.wikipedia.org/wiki/Epitheca)"],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1430081" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1430081"
+    }
+  ]
 }

@@ -97,6 +97,8 @@ const typeDefs = gql`
     author_citation: String!
     description: String!
     sources: [String]
+    links: [Link]
+    meta: [Meta]
   }
 
   type FamilyInfo {
@@ -104,6 +106,8 @@ const typeDefs = gql`
     author_citation: String!
     description: String!
     sources: [String]
+    links: [Link]
+    meta: [Meta]
   }
 `
 

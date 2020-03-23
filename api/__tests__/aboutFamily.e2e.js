@@ -11,6 +11,14 @@ const GET_INFO_ABOUT_FAMILY_FROM_NAME_QUERY = gql`
       author_citation
       description
       sources
+      links {
+        label
+        link
+      }
+      meta {
+        label
+        value
+      }
     }
   }
 `
@@ -38,7 +46,19 @@ describe('Server - e2e: aboutFamily', () => {
       'title',
       'author_citation',
       'description',
-      'sources'
+      'sources',
+      'links',
+      'meta'
+    ])
+
+    expect(Object.keys(res.data.aboutFamily.links[0])).toEqual([
+      'label',
+      'link'
+    ])
+
+    expect(Object.keys(res.data.aboutFamily.meta[0])).toEqual([
+      'label',
+      'value'
     ])
   }
 

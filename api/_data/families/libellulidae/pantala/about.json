@@ -2,5 +2,14 @@
   "title": "Pantala",
   "author_citation": "Hagen, 1861",
   "description": "**_Pantala_** is a genus of dragonfly in the family Libellulidae commonly called the **rainpool gliders**. They are found almost worldwide. *Pantala flavescens* is considered the most widespread dragonfly on the planet and makes spectacularly long migrations.\n\nSpecies of Pantala are medium-sized to large, dull orange-yellow dragonflies.",
-  "sources": ["[Wikipedia](https://en.wikipedia.org/wiki/Pantala)"]
+  "sources": ["[Wikipedia](https://en.wikipedia.org/wiki/Pantala)"],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1427854" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1427854"
+    }
+  ]
 }

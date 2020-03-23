@@ -5,5 +5,14 @@
   "sources": [
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "[Wikipedia](https://en.wikipedia.org/wiki/Sympecma)"
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/7977178" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "7977178"
+    }
   ]
 }

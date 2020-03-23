@@ -5,5 +5,14 @@
   "sources": [
     "[Wikipedia](https://en.wikipedia.org/wiki/Paragomphus)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/9194154" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "9194154"
+    }
   ]
 }

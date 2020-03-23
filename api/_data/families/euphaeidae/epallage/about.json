@@ -2,5 +2,14 @@
   "title": "Epallage",
   "author_citation": "Charpentier, 1840",
   "description": "**_Epallage_** is a genus of dragonflies in the family Euphaeidae. There are three species in the genus in the world.",
-  "sources": ["[GBIF](https://www.gbif.org/species/1427508)"]
+  "sources": ["[GBIF](https://www.gbif.org/species/1427508)"],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1427508" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1427508"
+    }
+  ]
 }

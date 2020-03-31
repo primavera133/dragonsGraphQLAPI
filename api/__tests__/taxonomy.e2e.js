@@ -10,6 +10,7 @@ const GET_FULL_TAXONOMY_QUERY = gql`
       families {
         family_name
         genera {
+          family_name
           genus_name
           species {
             items_id

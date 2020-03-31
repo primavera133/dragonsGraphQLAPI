@@ -26,6 +26,7 @@ const typeDefs = gql`
   }
 
   type Genus {
+    family_name: String!
     genus_name: ID
     species: [Specie]
   }

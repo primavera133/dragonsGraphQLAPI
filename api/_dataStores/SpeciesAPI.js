@@ -89,6 +89,7 @@ class SpeciesAPI extends DataSource {
             // console.log('genus_name', genus_name)
             const species = this.findGenusSpecies(genus_name)
             return {
+              family_name,
               genus_name,
               species
             }

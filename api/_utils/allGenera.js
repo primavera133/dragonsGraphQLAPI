@@ -1,10 +1,11 @@
 const allGenera = species => {
   const genera = []
-  const genus_names = Object.values(species).forEach(family => {
-    Object.keys(family).forEach(genus_name => {
+  const genus_names = Object.keys(species).forEach(familyName => {
+    Object.keys(species[familyName]).forEach(genus_name => {
       genera.push({
+        family_name: familyName,
         genus_name: genus_name,
-        species: family[genus_name]
+        species: species[familyName][genus_name]
       })
     })
   }, [])

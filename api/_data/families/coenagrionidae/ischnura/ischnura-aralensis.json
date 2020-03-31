@@ -3,24 +3,27 @@
   "scientific_name": "Ischnura aralensis",
   "author_citation": "Haritonov, 1979",
   "local_names": [""],
-  "description": "",
+  "description": "This little-known species was described by Haritonov in 1979 based on a single female. Later, he discovered it to be rather widespread in Kazakhstan, in Kyzyl-Orda, Taldy-Kurgan and Dzhambul provinces, and also, surprisingly, in the Ilmen' lake group in Chely-abinsk province, South Ural. He published these records, the description of the male, and the polymorphism of the females in a later paper. The male is easily recognizable, having a dark dorsal synthorax, a peculiar pattern of black and blue on segment two of the abdo-men, orange flanks of S3-S6, and S8 fully blue. In extreme dark males, the entire dorsum of the synthorax is black, save the back side of the flanges of the laminae which are live blue. At the other extreme, a blue antehumeral stripe extends to just over half-way the dorsum. Structurally, males have a characteristic pronotum and laminae mesostigmales, the latter with up-right caudal flanges. Their appendices superiores are provided with a strong, inwardly turned hook.",
   "behaviour": "",
   "size": { "length": "", "wingspan": "" },
   "similar_species": [],
-  "distribution": "",
-  "habitat": "",
-  "flight_period": "",
+  "distribution": "The range of *Ischnura aralensis* is roughly centered on Kazakhstan, extending from the southern Urals and the Aral Sea (Kazakhstan and Uzbekistan) eastwards to Lake Balkash and the western foothills of the Altai Mountains. In addition to a concentration of sixteen localities in the southern Urals, ten localities are scattered over Kazakhstan and two are known from Uzbekistan. This distribution pattern, with widely scattered and disjunct areas of occurrence, separated by arid and semi-arid steppe landscapes, is believed to have resulted from the occurrence of an originally continuous range during a favourable wet period in the Holocene (9 000 - 3 000 BP), followed by its fragmentation during the subsequent desertification of the area.",
+  "habitat": "Details on the species habitats are sparse. In Europe, *Ischnura aralensis* is known only from lake shores.",
+  "flight_period": "May to August",
   "red_list": {
-    "habitats_directive": "",
-    "red_list_EU27": "",
-    "red_list_europe": "",
-    "red_list_mediterranean": "",
-    "EU27_endemic": "",
-    "red_list_europe_endemic": "",
-    "trend_europe": ""
+    "habitats_directive": "No",
+    "red_list_EU27": "Not Evaluated",
+    "red_list_europe": "Data Deficient",
+    "red_list_mediterranean": "Not present",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Increasing"
   },
   "images": { "cloud_name": "dragonflies", "all": [] },
-  "sources": [],
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "The odonata of South Ural, Russia, with special reference to Ischnura aralensis Haritonov, 1979, VA Yanybaeva, Henri J. Dumont, AY Haritonov, Olga Nikolaevna Popova"
+  ],
   "links": [
     {
       "label": "iNaturalist",

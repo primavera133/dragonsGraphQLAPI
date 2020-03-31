@@ -3,24 +3,31 @@
   "scientific_name": "Ischnura genei",
   "author_citation": "(Rambur, 1842)",
   "local_names": ["Island bluetail"],
-  "description": "",
+  "description": "Closely related to *Ischnura elegans* which it replaces on the Tyrrhenian islands west of the Italian mainland, and on Malta. It is also very like *I. saharensis* structurally.\n\nThe colour of the face, thorax and abdomen is never blue but always green (although a turquoise tinge develops in full maturity). Females of all colour forms may have black markings on S8. Mature females without antehumeral black stripes may be confused with the co-existing *I. pumilio*, but the relative size in pterostigma is discriminatory, that in the forewing is larger in *I. pumilio*",
   "behaviour": "",
   "size": { "length": "29-32 mm", "wingspan": "24-36 mm" },
-  "similar_species": [],
-  "distribution": "",
-  "habitat": "",
+  "similar_species": [
+    "Ischnura elegans",
+    "Ischnura saharensis",
+    "Ischnura pumilio"
+  ],
+  "distribution": "*Ischnura genei* is an endemic to the Tuscan archipelago and the Tyrrhenian and Maltese islands, and is common and widespread within its range. It is absent from mainland Europe and replaces *I. elegans* on the above islands, except in Giglio, where both species cohabit. A male and female were caught on the Italian island of Linosa, between the Maltese islands and the Tunisian coast, in 2010. Whether they belonged to a local population breeding in the few man-made water tanks present on the island or were vagrants are unknown.",
+  "habitat": "*Ischnura genei* breeds in all kinds of standing waters and sometimes in slow-flowing rivers and ditches up to 1 000 m. This species usually frequents water bodies rich in surrounding vegetation. Like *I. elegans*, it is capable of breeding in waters with relatively high salinities, and larvae have been recorded from brackish waters.",
   "flight_period": "April to November",
   "red_list": {
-    "habitats_directive": "",
-    "red_list_EU27": "",
-    "red_list_europe": "",
-    "red_list_mediterranean": "",
-    "EU27_endemic": "",
-    "red_list_europe_endemic": "",
-    "trend_europe": ""
+    "habitats_directive": "No",
+    "red_list_EU27": "Least Concern",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "Endemic",
+    "red_list_europe_endemic": "Endemic",
+    "trend_europe": "Stable"
   },
   "images": { "cloud_name": "dragonflies", "all": [] },
-  "sources": [],
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
   "links": [
     {
       "label": "iNaturalist",

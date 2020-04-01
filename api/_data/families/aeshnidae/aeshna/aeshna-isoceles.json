@@ -51,7 +51,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/93433-Aeshna-isoceles"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/4513948" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/4513948" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/158692/72305432"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "4513948" }]
 }

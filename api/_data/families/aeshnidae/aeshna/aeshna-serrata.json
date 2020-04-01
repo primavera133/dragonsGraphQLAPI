@@ -59,7 +59,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/433085-Aeshna-serrata"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425194" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425194" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165487/19156026"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425194" }]
 }

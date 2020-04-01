@@ -51,7 +51,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/94041-Anax-ephippiger"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/5791733" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5791733" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/59811/72310087"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "5791733" }]
 }

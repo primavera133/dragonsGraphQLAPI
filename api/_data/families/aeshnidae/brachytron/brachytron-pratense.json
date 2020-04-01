@@ -51,7 +51,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/59955-Brachytron-pratense"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425146" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425146" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165514/6050566"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425146" }]
 }

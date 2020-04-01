@@ -83,7 +83,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/82106-Aeshna-grandis"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425264" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425264" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/158686/5253398"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425264" }]
 }

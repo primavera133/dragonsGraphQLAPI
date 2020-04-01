@@ -30,7 +30,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/95955-Boyeria-cretensis"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425142" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425142" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/60307/12341708"
+    },
+    {
+      "label": "Flickr.com",
+      "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=boyeriacretensis&user_id=51299956%40N02&view_all=1"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425142" }]
 }

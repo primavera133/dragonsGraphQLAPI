@@ -59,7 +59,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/93450-Aeshna-viridis"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425187" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425187" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/563/13062783"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425187" }]
 }

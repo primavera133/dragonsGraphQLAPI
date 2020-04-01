@@ -19,7 +19,35 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Sporadic visitor"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Anax_junius-Female-1_czaqai.jpg",
+        "caption": "Anax junius, female, San Jose, Californa, USA, 2007",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "by": "Eugene Zelenko",
+        "url": "https://commons.wikimedia.org/wiki/User:EugeneZelenko"
+      },
+      {
+        "public_id": "dragonflies/anax_junius_27777496778_7f6d24a1f5_o_c4mmuk.jpg",
+        "caption": "Anax junius, male, North Georgia, USA, April 2018",
+        "license": "CC BY-NC-ND 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+        "by": "Vicky DeLoach",
+        "url": "https://www.flickr.com/photos/vickisnature/27777496778"
+      },
+      {
+        "public_id": "dragonflies/Img_041538_mating_anax_junius_xqtuar.jpg",
+        "caption": "Anax junius, mating pair 2006",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Henryhartley",
+        "url": "https://en.wikipedia.org/wiki/User:Henryhartley"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +58,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/67731-Anax-junius"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051741" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051741" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165081/65831504"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "5051741" }]
 }

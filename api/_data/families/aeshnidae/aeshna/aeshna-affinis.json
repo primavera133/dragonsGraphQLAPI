@@ -51,7 +51,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/93426-Aeshna-affinis"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425203" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425203" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/158694/70984770"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425203" }]
 }

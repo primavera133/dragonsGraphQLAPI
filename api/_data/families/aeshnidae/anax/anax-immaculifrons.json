@@ -19,7 +19,35 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Unknown"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Anax_immaculifrons_Blue_Darner_from_Valparai_IMG_8568_a_mozku8.jpg",
+        "caption": "Anax immaculifrons, male, Valparai, India, 2009",
+        "license": "CC BY-SA 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "by": "PJeganathan",
+        "url": "https://commons.wikimedia.org/wiki/File:Anax_immaculifrons_Blue_Darner_from_Valparai_IMG_8568_a.jpg"
+      },
+      {
+        "public_id": "dragonflies/Anax_immaculifrons_Blue_Darner_from_Valparai_IMG_8478_a_k29kcw.jpg",
+        "caption": "Anax immaculifrons, male, Valparai, India, 2009",
+        "license": "CC BY-SA 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "by": "PJeganathan",
+        "url": "https://commons.wikimedia.org/wiki/File:Anax_immaculifrons_Blue_Darner_from_Valparai_IMG_8478_a.jpg"
+      },
+      {
+        "public_id": "dragonflies/Anax_immaculifrons_by_Bala_Chandran_rhml4c.jpg",
+        "caption": "Anax immaculifrons, female, India, 2015",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Bala Chandran",
+        "url": "http://indiabiodiversity.org/user/show/3303"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +58,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/94042-Anax-immaculifrons"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051736" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051736" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165463/6022090"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "5051736" }]
 }

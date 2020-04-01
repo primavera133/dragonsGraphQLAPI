@@ -19,7 +19,27 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Boyeria_irene_20140808_fwl1xs.jpg",
+        "caption": "Boyeria irene, teneral female, Losar de la Vera, Spain, 2014",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "by": "Luis Fernández García",
+        "url": "https://commons.wikimedia.org/wiki/User:Luis_Fern%C3%A1ndez_Garc%C3%ADa"
+      },
+      {
+        "public_id": "dragonflies/7822173650_59a0333e76_o_mlwous.jpg",
+        "caption": "Boyeria irene, August 2012",
+        "license": "CC BY-NC-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+        "by": "Alain C.",
+        "url": "https://www.flickr.com/photos/49562769@N03/7822173650/"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +50,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/318970-Boyeria-irene"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425137" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425137" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165472/72315322"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425137" }]
 }

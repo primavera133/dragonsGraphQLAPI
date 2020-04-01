@@ -19,7 +19,27 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/caliaeschna_microstigma_P1080364_kslhh6.jpg",
+        "caption": "Caliaeschna microstigma, female, Abkhazia 2008",
+        "license": "CC0 1.0",
+        "lic_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.sv",
+        "by": "Nikolai Yunakov",
+        "url": "http://ukrbin.com/show_image.php?imageid=58235"
+      },
+      {
+        "public_id": "dragonflies/caliaeschna_microstigma_P1080365_ztnv95.jpg",
+        "caption": "Caliaeschna microstigma, female, Abkhazia 2008",
+        "license": "CC0 1.0",
+        "lic_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.sv",
+        "by": "Nikolai Yunakov",
+        "url": "http://ukrbin.com/show_image.php?imageid=58236"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +50,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/342619-Caliaeschna-microstigma"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425327" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425327" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165467/6023265"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425327" }]
 }

@@ -71,7 +71,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/93437-Aeshna-mixta"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425177" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425177" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165499/83889114"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425177" }]
 }

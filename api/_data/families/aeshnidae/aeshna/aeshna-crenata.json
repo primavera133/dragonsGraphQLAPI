@@ -19,7 +19,35 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Aeshna_crenata__female_in_flight_s4_qo29kn.jpg",
+        "caption": "Aeshna caerulea female, Gifu prefecture, Japan 2014",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "by": "Alpsdake",
+        "url": "https://commons.wikimedia.org/wiki/User:Alpsdake"
+      },
+      {
+        "public_id": "dragonflies/Aeshna_crenata_male_sw16aq.jpg",
+        "caption": "Aeshna caerulea male, Mount Gozaisho,, Japan 2013",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "by": "Alpsdake",
+        "url": "https://commons.wikimedia.org/wiki/User:Alpsdake"
+      },
+      {
+        "public_id": "dragonflies/Aeshna_crenata__laying_eggs_s10_xafhqu.jpg",
+        "caption": "Aeshna caerulea female ovipositing, Mount Ryozen, Japan 2016",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "by": "Alpsdake",
+        "url": "https://commons.wikimedia.org/wiki/User:Alpsdake"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -31,7 +59,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/93430-Aeshna-crenata"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425209" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425209" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/60312/12344086"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425209" }]
 }

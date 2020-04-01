@@ -80,7 +80,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/94043-Anax-imperator"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051775" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051775" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/59812/72311295"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "5051775" }]
 }

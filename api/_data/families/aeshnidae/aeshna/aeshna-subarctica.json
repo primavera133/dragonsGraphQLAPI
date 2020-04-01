@@ -50,7 +50,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/93446-Aeshna-subarctica"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425166" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425166" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165508/65834544"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1425166" }]
 }

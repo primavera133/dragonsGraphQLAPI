@@ -59,7 +59,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/98273-Coenagrion-hastulatum"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422001" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422001" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/158706/5268760"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1422001" }]
 }

@@ -30,7 +30,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/561891-Coenagrion-glaciale"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421996" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421996" },
+    {
+      "label": "szmn.eco.nsc.ru",
+      "link": "http://szmn.eco.nsc.ru/old/picts/Odonata/Coenagrion_glaciale.htm"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1421996" }]
 }

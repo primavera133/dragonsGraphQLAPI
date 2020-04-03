@@ -30,7 +30,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/358452-Coenagrion-ecornutum"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421973" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421973" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165532/6060376"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1421973" }]
 }

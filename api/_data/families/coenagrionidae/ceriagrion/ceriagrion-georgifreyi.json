@@ -19,7 +19,19 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/ceriagrion_georgifreyi_kvgasx.jpg",
+        "caption": "Ceriagrion georgifreyi, Turkey",
+        "license": "CC BY-NC 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Paul Cools",
+        "url": "http://www.inaturalist.org/photos/1843484"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +42,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/97062-Ceriagrion-georgifreyi"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423211" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423211" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/59700/11978497"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1423211" }]
 }

@@ -19,7 +19,27 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Coenagrion_caerulescens__ponte_en_tandem_q39gjc.jpg",
+        "caption": "Coenagrion caerulescens, mating pair, France 2015",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "by": "Jean-Michel Faton",
+        "url": "https://commons.wikimedia.org/wiki/File:Coenagrion_caerulescens,_ponte_en_tandem.jpg"
+      },
+      {
+        "public_id": "dragonflies/Coenagrion_caerulescens_femelle_enkvyz.jpg",
+        "caption": "Coenagrion caerulescens female, France 2015",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "by": "Jean-Michel Faton",
+        "url": "https://commons.wikimedia.org/wiki/File:Coenagrion_caerulescens_femelle.jpg"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +50,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/98272-Coenagrion-caerulescens"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422016" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422016" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165476/6029872"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1422016" }]
 }

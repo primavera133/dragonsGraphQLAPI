@@ -19,7 +19,27 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Small_red_damselfly__Ceriagrion_tenellum__male_Crockford_Stream_qkdhtn.jpg",
+        "caption": "Ceriagrion tenellum male, Crockford Stream, Hampshire, England",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "by": "Charles J Sharp",
+        "url": "https://en.wikipedia.org/wiki/File:Small_red_damselfly_(Ceriagrion_tenellum)_male_Crockford_Stream.jpg"
+      },
+      {
+        "public_id": "dragonflies/Small_red_damselfly__Ceriagrion_tenellum__female_form_melanogastrum_z5gcji.jpg",
+        "caption": "Ceriagrion tenellum female, Crockford Stream, Hampshire, England",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "by": "Charles J Sharp",
+        "url": "https://en.wikipedia.org/wiki/File:Small_red_damselfly_(Ceriagrion_tenellum)_female_form_melanogastrum.jpg"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +50,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/130407-Ceriagrion-tenellum"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423259" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423259" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165495/75418578"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1423259" }]
 }

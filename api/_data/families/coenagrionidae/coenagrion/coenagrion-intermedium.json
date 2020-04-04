@@ -19,7 +19,19 @@
     "red_list_europe_endemic": "Endemic",
     "trend_europe": "Unknown"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Ischnura_intermedia__Coenagrionidae__-__male_imago__Paphos__Cyprus_h75w6v.jpg",
+        "caption": "Coenagrion intermedium male, Paphos, Cyprus, 2017",
+        "license": "CC 0 1.0",
+        "lic_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.sv",
+        "by": "Tim Adriaens",
+        "url": "https://sv.wikipedia.org/wiki/Fil:Ischnura_intermedia_(Coenagrionidae)_-_(male_imago),_Paphos,_Cyprus.jpg"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +42,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/98274-Coenagrion-intermedium"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422033" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422033" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165504/6046011"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1422033" }]
 }

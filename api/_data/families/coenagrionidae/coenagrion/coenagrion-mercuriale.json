@@ -19,7 +19,35 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Southern_damselfly__Coenagrion_mercuriale__male_Parsonage_Moor_rhoova.jpg",
+        "caption": "Coenagrion mercuriale male, Oxfordshire, England, 2015",
+        "license": "CC BY SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "by": "Charles J Sharp",
+        "url": "https://commons.wikimedia.org/wiki/File:Southern_damselfly_(Coenagrion_mercuriale)_male_Parsonage_Moor.jpg"
+      },
+      {
+        "public_id": "dragonflies/Southern_damselfly__Coenagrion_mercuriale__female_Dry_Sandford_ggvjh9.jpg",
+        "caption": "Coenagrion mercuriale female, Oxfordshire, England, 2015",
+        "license": "CC BY SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "by": "Charles J Sharp",
+        "url": "https://fr.wikipedia.org/wiki/Fichier:Southern_damselfly_(Coenagrion_mercuriale)_female_Dry_Sandford.jpg"
+      },
+      {
+        "public_id": "dragonflies/Coenagrion_mercuriale_wdlltu.jpg",
+        "caption": "Coenagrion mercuriale male, Oxfordshire, England, 2015",
+        "license": "CC BY SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+        "by": "Gilles San Martin",
+        "url": "https://commons.wikimedia.org/wiki/File:Coenagrion_mercuriale.jpg"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +58,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/98277-Coenagrion-mercuriale"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422012" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422012" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/5081/11113415"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1422012" }]
 }

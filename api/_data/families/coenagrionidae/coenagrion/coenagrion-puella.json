@@ -37,6 +37,30 @@
         "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
         "by": "Jonas Myrenås",
         "url": "https://www.flickr.com/photos/primavera133/48002373473/in/album-72157708927246877/"
+      },
+      {
+        "public_id": "dragonflies/Coenagrion_puella_LC0315_p1syx3.jpg",
+        "caption": "Coenagrion puella male, Chemnitz, Germany, August 2013s",
+        "license": "CC BY-SA 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "by": "Jörg Hempel",
+        "url": "https://commons.wikimedia.org/wiki/File:Coenagrion_puella_LC0315.jpg"
+      },
+      {
+        "public_id": "dragonflies/coenagrion_puella_44078513690_c0f727dbc3_o_kclaa0.jpg",
+        "caption": "Coenagrion puella female, Worcs, England, May 2018",
+        "license": "CC BY 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by/2.0/de",
+        "by": "Gail Hampshire",
+        "url": "https://www.flickr.com/photos/gails_pictures/44078513690"
+      },
+      {
+        "public_id": "dragonflies/Azure_damselfly__Coenagrion_puella__female_green_form_wgkf5a.jpg",
+        "caption": "Coenagrion puella female, green form, Oxfordshire, England, May 2017",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/de/deed.en",
+        "by": "Charles J Sharp",
+        "url": "https://commons.wikimedia.org/wiki/File:Azure_damselfly_(Coenagrion_puella)_female_green_form.jpg"
       }
     ]
   },
@@ -51,7 +75,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/51678-Coenagrion-puella"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421964" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421964" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/158707/5269500"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1421964" }]
 }

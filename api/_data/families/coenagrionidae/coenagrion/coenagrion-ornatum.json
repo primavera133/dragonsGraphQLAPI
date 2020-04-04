@@ -19,7 +19,19 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/CoenagrionOrnatum_Female_kwz3gi.jpg",
+        "caption": "Coenagrion mercuriale female, Northern Germany, 2016",
+        "license": "CC BY SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "by": "Christian Fischer",
+        "url": "https://commons.wikimedia.org/wiki/File:CoenagrionOrnatum_Female.jpg"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +42,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/433472-Coenagrion-ornatum"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422002" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422002" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165520/19158182"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1422002" }]
 }

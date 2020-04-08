@@ -24,7 +24,35 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Increasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/erythromma_lindenii_v4eb2m.jpg",
+        "caption": "Erythromma lindenii, Oued Medjerda, Tunisia, May 2016",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "by": "El Golli Mohamed",
+        "url": "https://fr.m.wikipedia.org/wiki/Fichier:Agrion_%C3%A0_longs_cerco%C3%AFdes_(Erythromma_lindenii)_Oued_Medjerda.jpg"
+      },
+      {
+        "public_id": "dragonflies/Erythromma_lindenii_6_fe7ty0.jpg",
+        "caption": "Erythromma lindenii female, July 2017",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "by": "Peter Nijland",
+        "url": "https://commons.wikimedia.org/wiki/File:Erythromma_lindenii_6.jpg"
+      },
+      {
+        "public_id": "dragonflies/Erythromma_lindenii_5_loz_w1fa3q.jpg",
+        "caption": "Erythromma lindenii male, Baden-Württemberg, Germany, June 2012",
+        "license": "CC BY-SA 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "by": "L. B. Tettenborn",
+        "url": "https://sv.m.wikipedia.org/wiki/Fil:Erythromma_lindenii_5(loz).jpg"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -35,7 +63,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/100408-Erythromma-lindenii"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423027" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423027" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/158696/5261674"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1423027" }]
 }

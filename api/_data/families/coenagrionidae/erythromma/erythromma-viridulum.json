@@ -51,7 +51,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/209683-Erythromma-viridulum"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423011" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423011" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165478/19159607"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1423011" }]
 }

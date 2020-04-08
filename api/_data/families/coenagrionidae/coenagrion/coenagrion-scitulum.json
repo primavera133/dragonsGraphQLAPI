@@ -19,7 +19,27 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Coenagrion_scitulum__4890914248_gbgkvw.jpg",
+        "caption": "Coenagrion scitulum male, Namur, Belgium, August 2010",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+        "by": "Gilles San Martin",
+        "url": "https://commons.wikimedia.org/wiki/File:Coenagrion_scitulum_(4890914248).jpg"
+      },
+      {
+        "public_id": "dragonflies/Coenagrion_scitulum__4890313519_gtlhwv.jpg",
+        "caption": "Coenagrion scitulum male, Namur, Belgium, August 2010",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+        "by": "Gilles San Martin",
+        "url": "https://sv.m.wikipedia.org/wiki/Fil:Coenagrion_scitulum_(4890313519).jpg"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +50,11 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/129033-Coenagrion-scitulum"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422010" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422010" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165502/19159139"
+    }
   ],
   "meta": [{ "label": "gbifTaxonKey", "value": "1422010" }]
 }

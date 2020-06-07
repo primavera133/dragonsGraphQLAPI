@@ -5,6 +5,7 @@ const gomphusSchneiderii = require('./gomphus/gomphus-schneiderii.json')
 const gomphusSimillimus = require('./gomphus/gomphus-simillimus.json')
 const gomphusVulgatissimus = require('./gomphus/gomphus-vulgatissimus.json')
 const lindeniaTetraphylla = require('./lindenia/lindenia-tetraphylla.json')
+const onychogomphusCazuma = require('./onychogomphus/onychogomphus-cazuma.json')
 const onychogomphusCostae = require('./onychogomphus/onychogomphus-costae.json')
 const onychogomphusForcipatus = require('./onychogomphus/onychogomphus-forcipatus.json')
 const onychogomphusUncatus = require('./onychogomphus/onychogomphus-uncatus.json')
@@ -23,6 +24,7 @@ module.exports = {
   lindenia: [lindeniaTetraphylla],
   onychogomphus: [
     onychogomphusCostae,
+    onychogomphusCazuma,
     onychogomphusForcipatus,
     onychogomphusUncatus
   ],

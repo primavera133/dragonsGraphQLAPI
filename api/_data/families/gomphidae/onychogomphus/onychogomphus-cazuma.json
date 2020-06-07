@@ -1,0 +1,35 @@
+{
+  "items_id": "c883100a86a587dcabbffaae9c0a4a42",
+  "scientific_name": "Onychogomphus cazuma",
+  "author_citation": "Barona, Cardo & Diaz 2020",
+  "local_names": ["Cazuma pincertail"],
+  "description": "Newly discovered species (first new speceis found in South-western Europe since the 19th century!). It looks like a mix of *O. forcipatus* and *O. uncatus*, but the male appendages and female vulvar scale are unique. GEnetically it is closest to *O. boudoti* found in Morocco (discovered only six years earlier). Both species seem highly localized due to specific habitat preferences and even more new speceis may be discovered.\n\nAppears paler and smaller than *O. uncatus*, with the lower male appendages never being darker than the uppers. May thus also be mistaken for *O. forcipatus*, but with a confusing mix of features recalling both species, such as yellow antehumeral stripes connected dorsally to the broader yellow stripes before them like on *O. uncatus*. It has a yellow 'collar' anteriorly on the thorax not (or very narrowly) interrupted by black like *O. forcipatus*. It has a yellow patch on the vertex that is small and circular, while it is typically a wider bar on *O. forcipatus* and absent in *O. uncatus*.\n\nIdentification requires close examination of male and female sexual characters. The shape of the male appendages is somewhat in-between *O. uncatus* and *O. boudoti*. The lower appendage not only lacks the subterminal knobs of *O. forcipatus*, but also the subbasal knobs found in that species and *O. uncatus*. Instead there is a subbasal ridge with a peak that is directed straight upward , which thus does not project outwards when viewed from above. The upper appendages are not lobed dorsally like *O. forcipatus*, but have a spoon-shaped tip simillar to *O. uncatus*. Anal triangles of Hw in males usually contain 3 cells (as in *O. forcipatus*), while most *O. uncatus* have 4 or 5.\n\nFemales lack the two small tubercles behind the eyes of *O. forcipatus* (thus like *O. uncatus*). However, the lobes of the vulvar scale are nto narrowand finger-like as in *O. uncatus*, but broad (more like *O. forcipatus*), although more pointed and the cleft separating them is about half as deep as the vulvar scale is long, rather than dividing the lobes almost completely (thus most like *O. boudoti*).",
+  "behaviour": "Similar to other *Onychogomphus*",
+  "size": { "length": "43-47 mm" },
+  "similar_species": [
+    "Onychogomphus forcipatus",
+    "Onychogomphus uncatus",
+    "Onychogomphus boudoti"
+  ],
+  "distribution": "*Onychogomphus cazuma* is so far only found on well-preserved tributaries of two river systems in Valencia province of eastern Spain.As these habitats have  very low flow and are vulnerable to development, pollution and drought, the species may well be threatened unde IUCN Red List criteria.",
+  "habitat": "Springs, streams and upper courses of small rivers in low mountains. These are calcareous with very clear, nutrient-poor water. Males perch at more vegetated slower-flowing sections than those of *O. uncatus*, often alternating between shallow parts and small pools.",
+  "flight_period": "Early June to early September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "-",
+    "red_list_europe": "-",
+    "red_list_mediterranean": "-",
+    "EU27_endemic": "-",
+    "red_list_europe_endemic": "-",
+    "trend_europe": ""
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra. Excerpt from 2 revision 2020"
+  ],
+  "links": [],
+  "meta": []
+}

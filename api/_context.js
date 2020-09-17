@@ -6,7 +6,7 @@ const context = ({ req }) => {
   const usersArr = users.split(' ')
 
   if (!usersArr.includes(token)) {
-    throw new ApolloError('USER NOT FOUND')
+    throw new ApolloError(`USER ${token} NOT FOUND`)
   }
 
   return {

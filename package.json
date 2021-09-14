@@ -41,7 +41,10 @@
     "update-snaps": "jest --updateSnapshot",
     "lockfile-lint": "lockfile-lint --path package-lock.json --type npm --validate-https --allowed-hosts npm"
   },
-  "keywords": ["Dragonflies", "graphql"],
+  "keywords": [
+    "Dragonflies",
+    "graphql"
+  ],
   "author": "Jonas Myrenås",
   "license": "ISC"
 }

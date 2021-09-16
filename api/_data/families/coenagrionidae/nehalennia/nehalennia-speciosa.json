@@ -32,7 +32,7 @@
     "cloud_name": "dragonflies",
     "all": [
       {
-        "public_id": "dragonflies\nehalenna-speciosa-male-go%CC%88ran-liljeberg-cc-by_cve50u.jpg",
+        "public_id": "dragonflies/nehalenna-speciosa-male-göran-liljeberg-cc-by_cve50u.jpg",
         "caption": "Nehalennia speciosa, male",
         "license": "CC BY 3.0",
         "lic_url": "https://creativecommons.org/licenses/by/3.0/",
@@ -40,7 +40,7 @@
         "url": "http://liljebergs.nu/"
       },
       {
-        "public_id": "dragonflies\nehalennia-speciosa-male-jm2018_v3jnkd.jpg",
+        "public_id": "dragonflies/nehalennia-speciosa-male-jm2018_v3jnkd.jpg",
         "caption": "Nehalennia speciosa male, Uppland Sweden, July 2018",
         "license": "CC BY-SA 2.0",
         "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -48,7 +48,7 @@
         "url": "https://www.flickr.com/photos/primavera133/43738188881/in/album-72157699233810894/"
       },
       {
-        "public_id": "dragonflies\nehalennia_speciosa_o_qy7jkw.jpg",
+        "public_id": "dragonflies/nehalennia_speciosa_o_qy7jkw.jpg",
         "caption": "Nehalennia speciosa female, Uppland Sweden, July 2018",
         "license": "CC BY-SA 2.0",
         "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",

@@ -2,11 +2,20 @@
   "items_id": "04a8b550c6086dedf6e667d060529152",
   "scientific_name": "Ischnura elegans",
   "author_citation": "(Vander Linden, 1820)",
-  "local_names": ["Blue-tailed damselfly", "Common Bluetail"],
+  "local_names": [
+    "Blue-tailed damselfly",
+    "Common Bluetail"
+  ],
   "description": "One of the most familiar, widespread and abundant odonates in Europe, well-known from eutrophic habitats and garden ponds.\n\n*Ischnura elegans* is a small damselfly with the dorsal part of the abdomen completely black except for S8 that is light blue. The immature males have the middle part of the abdomen bronze-brown in colour, while the head, thorax and a segment at the tip of the abdomen are light blue. Females appear in five colour forms: Immature females *violacea* have a lilac thorax. When maturing they become either very like the male, *typica*, or brownish or dull greenish, *infuscans*. Some females, *rufescens*, have a pink thorax at first, but become light brown with olive-green or brown S8, *rufescens-obsoleta* later. Old *infuscans* and *rufescens-obsoleta* may become very dark. \n\nThe eyes are dark on the upper part. The pterostigma of the fore wing of the mature male is bicoloured black and white, and is at least twice as long as wide. Immature pterostigmas are unicoloured whitish.\n\nThe tips of the male lower appendages diverge (viewed from above). The outer branches of the upper appendages (viewed from behind) are relatively thick and long; the inner branches are parallel to each other, but there is variation here. Males from southern Italy, Turkey, Crete, Cyprus and the Middle East, with crossed inner branches of the upper appendages, are known as ssp. *ebneri*. A narrow, upright projection on the hind border of the pronotum separates this species from all others, but is absent in some females and regionally in males from ssp. *pontica*, from the Hungarian Plain and northern Balkans to central Asia.\n\nThe taxonomy of this and related species is complex. South-western relatives have been split off as distinct species, but variation towards the south-east is less understood, with several subspecies named.\n\n*I. genei* and *I. saharensis* remain relatively green on the head, thorax and abdomen base, but can only be separated in the hand, as can *I. graelsii*.",
   "behaviour": "Males are territorial and mature individuals of both sexes stay close to the waters. Great numbers of individuals can be found in adjacent vegetation, near the shoreline or a nearby in higher grass.\n\nEggs are laid by females flying alone. Larval development is normally one year but in the northern parts of its range it is often two years. In good conditions it can be shorter, as short as 55 days between eggs being laid and imagos emerging have been observed in south-western Germany. Exuviae are found on straws out in the water or along the shoreline.",
-  "size": { "length": "30-35 mm", "wingspan": "30-45 mm" },
-  "similar_species": ["Ischnura genei", "Ischnura graelsii"],
+  "size": {
+    "length": "30-35 mm",
+    "wingspan": "30-45 mm"
+  },
+  "similar_species": [
+    "Ischnura genei",
+    "Ischnura graelsii"
+  ],
   "distribution": "*Ischnura elegans* occurs from western Europe to Japan. It is widespread and is one of the most common and abundant damselflies in Europe. Its range overalps with *I. graelsii* in parts of the Iberian Peninsula and the species is largely replaced by *I. genei* on the Tuscan archipelago, the Tyrrhenian islands and the Maltese Islands, although locally both species occur sympatrically and appear to produce hybrids.",
   "habitat": "In large parts of Europe *Ischnura elegans* is the most common damselfly, being found in all kinds of standing and slow-flowing waters. It is very common on mesotrophic to eutrophic sites and is tolerant to rather high salinity and moderate acidity. The species is found from lowlands up to 1 600 m.",
   "flight_period": "April to October",
@@ -19,7 +28,35 @@
     "red_list_europe_endemic": "",
     "trend_europe": ""
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/ischnura_elegans_bergshamra_51350927368_c899b051db_o_fpyewm.jpg",
+        "caption": "Ischnura elegans, male. Uppland, Sweden, 2021",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Jonas Myrenås",
+        "url": "https://www.flickr.com/photos/primavera133/51350927368/in/dateposted-public/"
+      },
+      {
+        "public_id": "dragonflies/2560px-Blue-tailed_damselflies__Ischnura_elegans__mating__female_typica_2_od5k4z.jpg",
+        "caption": "Ischnura elegans, male and female of type typica. UpplandOxfordshire, England, 2015",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "by": "Charles J. Sharp",
+        "url": "https://en.wikipedia.org/wiki/Blue-tailed_damselfly#/media/File:Blue-tailed_damselflies_(Ischnura_elegans)_mating,_female_typica_2.jpg"
+      },
+      {
+        "public_id": "dragonflies/2560px-Blue-tailed_damselfy__Ischnura_elegans__female_rufescens_ljoqwv.jpg",
+        "caption": "Ischnura elegans, female of form rufescens. England, 2014",
+        "license": "CC BY-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "Charles J. Sharp",
+        "url": "https://en.wikipedia.org/wiki/Blue-tailed_damselfly#/media/File:Blue-tailed_damselfy_(Ischnura_elegans)_female_rufescens.jpg"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -31,7 +68,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/61508-Ischnura-elegans"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423395" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1423395"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1423395" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1423395"
+    }
+  ]
 }

@@ -29,7 +29,16 @@
   },
   "images": {
     "cloud_name": "dragonflies",
-    "all": []
+    "all": [
+      {
+        "public_id": "dragonflies/ischnura_saharensis_swjma8.jpg",
+        "caption": "Cordulegaster picta, male. Krasnodar Krai, Russia. 2018.",
+        "license": "CC BY NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Paul Cools",
+        "url": "https://www.inaturalist.org/photos/3152812?size=original"
+      }
+    ]
   },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",

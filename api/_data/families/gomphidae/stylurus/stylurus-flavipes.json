@@ -28,7 +28,16 @@
   },
   "images": {
     "cloud_name": "dragonflies",
-    "all": []
+    "all": [
+      {
+        "public_id": "dragonflies/stylurus_flavipes_xzlov2.jpg",
+        "caption": "Stylurus flavipes, male. Rostov oblast, Russia. 2017.",
+        "license": "CC BY NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Palamarchuk Yuri",
+        "url": "https://www.inaturalist.org/photos/44066605"
+      }
+    ]
   },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
@@ -43,6 +52,10 @@
     {
       "label": "gbif.org",
       "link": "https://www.gbif.org/species/5051950"
+    },
+    {
+      "label": "dragonflies.online",
+      "link": "https://dragonflies.online/true-dragonflies-anisoptera/gomphidae-clubtails/stylurus-flavipes-river-clubtail/"
     }
   ],
   "meta": [

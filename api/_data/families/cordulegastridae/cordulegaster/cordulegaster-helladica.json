@@ -28,7 +28,16 @@
   },
   "images": {
     "cloud_name": "dragonflies",
-    "all": []
+    "all": [
+      {
+        "public_id": "dragonflies/cordulegaster_helladica_d16b4d.jpg",
+        "caption": "Cordulegaster helladica, male. Peloponessos, Greece. 2020.",
+        "license": "CC BY NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Christoph Moning",
+        "url": "https://www.inaturalist.org/observations/54873630"
+      }
+    ]
   },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",

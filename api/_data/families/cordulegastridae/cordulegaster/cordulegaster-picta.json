@@ -2,7 +2,9 @@
   "items_id": "c46eeed5e629fbcacd2556fd0e0d94f4",
   "scientific_name": "Cordulegaster picta",
   "author_citation": "Selys, 1854",
-  "local_names": ["Turkish goldenring"],
+  "local_names": [
+    "Turkish goldenring"
+  ],
   "description": "Black and yellow with green eyes, this cordulegaster replaces *C. heros* in southeastern Balkans and Turkey. It is highly variable but it is possible to distinguish this species with certainty by observing the markings on the thorax and the terminal appendages. The thin yellow line between the two wide bands on the side of the thorax has a straight rear margin. This is bent in *C. heros*. The upper appendages are thinner and more divergent in comparison to those of *C. heros*. The occipital triangle is not completely black in *C. picta*, instead it has two small yellow spots. The anal loop in the hind wing is made up of 5 cells. In Greece and south-eastern Europe the identification of the various species of Cordulegaster can only be made with certainty by examining the male terminal appendages. It is very variable in colour pattern with regional differences.",
   "behaviour": "",
   "size": {
@@ -29,7 +31,19 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/cordulegaster_picta_fnd78z.jpg",
+        "caption": "Cordulegaster picta, male. Russia. 2018.",
+        "license": "CC BY NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Vladimir Onishko",
+        "url": "https://www.inaturalist.org/photos/59294179"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -40,7 +54,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/562836-Cordulegaster-picta"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421159" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1421159"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1421159" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1421159"
+    }
+  ]
 }

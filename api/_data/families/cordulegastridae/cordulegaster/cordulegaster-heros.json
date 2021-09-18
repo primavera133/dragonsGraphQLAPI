@@ -2,7 +2,9 @@
   "items_id": "95d53040eb1abd1b89865ec825c8dc1e",
   "scientific_name": "Cordulegaster heros",
   "author_citation": "Theischinger, 1979",
-  "local_names": ["Balkan goldenring"],
+  "local_names": [
+    "Balkan goldenring"
+  ],
   "description": "Black and yellow body with green eyes that are touching at one point. Very similar to* C. boltonii* but is slightly larger in size and has larger yellow markings on the abdomen. The occipital triangle is black, not yellow as on *C. boltonii*, even though it might have two small yellow spots, especially in females. The frons is yellow, females always have a very extensive black bar across it. The antehumeral stripes have an angular upper outer corner, and sometimes a small yellow spot near this corner. The terminal appendages of the males are short and conical (but longer than those of *C. boltonii*).",
   "behaviour": "",
   "size": {
@@ -28,7 +30,19 @@
     "red_list_europe_endemic": "Endemic",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Cordulegaster_heros-4409ep_jycrnx.jpg",
+        "caption": "Cordulegaster heros, male. Trieste, Italy. 2006.",
+        "license": "CC BY 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by/4.0/",
+        "by": "Prof. Bizzarro",
+        "url": "https://commons.wikimedia.org/wiki/File:Cordulegaster_heros-4409ep.jpg"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -39,7 +53,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/98418-Cordulegaster-heros"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421199" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1421199"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1421199" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1421199"
+    }
+  ]
 }

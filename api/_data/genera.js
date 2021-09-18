@@ -17,6 +17,7 @@ const epitheca = require('./families/corduliidae/epitheca/about.json')
 const somatochlora = require('./families/corduliidae/somatochlora/about.json')
 const epallage = require('./families/euphaeidae/epallage/about.json')
 const gomphus = require('./families/gomphidae/gomphus/about.json')
+const stylurus = require('./families/gomphidae/stylurus/about.json')
 const lindenia = require('./families/gomphidae/lindenia/about.json')
 const onychogomphus = require('./families/gomphidae/onychogomphus/about.json')
 const ophiogomphus = require('./families/gomphidae/ophiogomphus/about.json')
@@ -63,6 +64,7 @@ module.exports = {
   onychogomphus,
   ophiogomphus,
   paragomphus,
+  stylurus,
   oxygastra,
   chalcolestes,
   lestes,

@@ -98,7 +98,8 @@ describe('Server - e2e: familyGenera', () => {
         'lindenia',
         'onychogomphus',
         'ophiogomphus',
-        'paragomphus'
+        'paragomphus',
+        'stylurus'
       ].map(genus_name => ({
         genus_name
       }))

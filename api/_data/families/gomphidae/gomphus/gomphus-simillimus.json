@@ -2,16 +2,21 @@
   "items_id": "9010d14492d0bc21802fd4fddf40136a",
   "scientific_name": "Gomphus simillimus",
   "author_citation": "Selys, 1840",
-  "local_names": ["Yellow clubtail"],
-  "description": "A bright yellow clubtail with black markings. It can be recognised from the others in the same genus, by the antehumeral stripes which are narrower or as wide as the adjacent black lines. On the thorax, the metapleural line is forked, unlike *G. flavipes*. All segments of the upper side of the abdomen are crossed by a yellow line that in males widens at S8-S9. The legs are black with yellow lines on the tibiae and femura. Eyes are, as on all *gomphids*, wide apart and are blue or greenish.\n\n*G. simillimus* is very average in size, shape and colour. Co-occuring *Gomphus* species are excluded as follows; \n1. *G. vulgatissimus* lacks yellow lines on legs and central line on S8-S9. Mature males are greenish with green eyes.\n2. *G. pulchellus* is paler and duller, scarcely club-tailed and the black line in front of the metastigma is not dead-ended, but extending towards the forewing base.\n3. *G. flavipes* has a pair of black-encircled stripes on the front of the thorax and the black stripe behind the metastigma is not forked.\n4. *G. graslinii* has forked male appendages and thicker black markings on the thorax.\n5. *G. lucasii* may overlap in Morocco or Algeria. It is almost identical to *G. simillimus* and cen be distinguished with certainty only by hand characters.\n\nAs in all *gomphids* black markings are reduced in hot, arid areas. The Mahgrebian subspecies *maroccanus* is paler (distinct but also variable).",
+  "local_names": [
+    "Yellow clubtail"
+  ],
+  "description": "A bright yellow clubtail with black markings. It can be recognised from the others in the same genus, by the antehumeral stripes which are narrower or as wide as the adjacent black lines. On the thorax, the metapleural line is forked, unlike *Stylurus flavipes*. All segments of the upper side of the abdomen are crossed by a yellow line that in males widens at S8-S9. The legs are black with yellow lines on the tibiae and femura. Eyes are, as on all *gomphids*, wide apart and are blue or greenish.\n\n*G. simillimus* is very average in size, shape and colour. Co-occuring *Gomphus* species are excluded as follows; \n1. *G. vulgatissimus* lacks yellow lines on legs and central line on S8-S9. Mature males are greenish with green eyes.\n2. *G. pulchellus* is paler and duller, scarcely club-tailed and the black line in front of the metastigma is not dead-ended, but extending towards the forewing base.\n3. *Stylurus flavipes* has a pair of black-encircled stripes on the front of the thorax and the black stripe behind the metastigma is not forked.\n4. *G. graslinii* has forked male appendages and thicker black markings on the thorax.\n5. *G. lucasii* may overlap in Morocco or Algeria. It is almost identical to *G. simillimus* and cen be distinguished with certainty only by hand characters.\n\nAs in all *gomphids* black markings are reduced in hot, arid areas. The Mahgrebian subspecies *maroccanus* is paler (distinct but also variable).",
   "behaviour": "",
-  "size": { "length": "40-50 mm", "wingspan": "60-65 mm" },
+  "size": {
+    "length": "40-50 mm",
+    "wingspan": "60-65 mm"
+  },
   "similar_species": [
     "Gomphus vulgatissimus",
     "Gomphus pulchellus",
-    "Gomphus flavipes",
     "Gomphus graslinii",
-    "Gomphus lucasii"
+    "Gomphus lucasii",
+    "Stylurus flavipes"
   ],
   "distribution": "*Gomphus simillimus* is endemic to western Europe and the Mahgreb, with its core range in the west Mediterranean. The nominotypical subspecies is endemic to Europe while the distinct but variable Mahgrebian subspecies *G. s. maroccanus* is restricted to Morocco and the north-west of Algeria. In Europe the species ranges from the south of the Iberian Peninsula to north-east France. Five records from Belgium are considered vagrants. The eastermost populations are from the upper Rhine River around the border of Germany and Switzerland. The highest density of populations are found in south-western half of France, where the species is rather common. In other parts of France it is rarer, with a more scattered distribution. It is generally rather rare in the Iberian Peninsula, although slightly less so in the north-east, and in most areas it is only known from scattered populations.",
   "habitat": "*Gomphus simillimus* breeds mainly in large slow-flowing rivers and to lesser degree in streams. It is found more rarely in canals and oxbow lakes and ponds fed by ground water., where it can, however, reach high densities. Reproduction has also been noted from standing waters such as abandoned gravel pits and Lake Constance (Bodensee). It is restricted to the lowlands and is rarely seen above 500 m.",
@@ -25,7 +30,10 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -36,7 +44,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/318966-Gomphus-simillimus"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051955" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5051955"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "5051955" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5051955"
+    }
+  ]
 }

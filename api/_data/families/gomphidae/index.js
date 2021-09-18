@@ -1,4 +1,3 @@
-const gomphusFlavipes = require('./gomphus/gomphus-flavipes.json')
 const gomphusGraslinii = require('./gomphus/gomphus-graslinii.json')
 const gomphusPulchellus = require('./gomphus/gomphus-pulchellus.json')
 const gomphusSchneiderii = require('./gomphus/gomphus-schneiderii.json')
@@ -11,10 +10,10 @@ const onychogomphusForcipatus = require('./onychogomphus/onychogomphus-forcipatu
 const onychogomphusUncatus = require('./onychogomphus/onychogomphus-uncatus.json')
 const ophiogomphusCecilia = require('./ophiogomphus/ophiogomphus-cecilia.json')
 const paragomphusGenei = require('./paragomphus/paragomphus-genei.json')
+const stylurusFlavipes = require('./stylurus/stylurus-flavipes.json')
 
 module.exports = {
   gomphus: [
-    gomphusFlavipes,
     gomphusGraslinii,
     gomphusPulchellus,
     gomphusSchneiderii,
@@ -29,5 +28,6 @@ module.exports = {
     onychogomphusUncatus
   ],
   ophiogomphus: [ophiogomphusCecilia],
-  paragomphus: [paragomphusGenei]
+  paragomphus: [paragomphusGenei],
+  stylurus: [stylurusFlavipes],
 }

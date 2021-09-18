@@ -2,11 +2,18 @@
   "items_id": "175a72d0d7da95f94bb26c09e2c073b0",
   "scientific_name": "Gomphus vulgatissimus",
   "author_citation": "(Linnaeus, 1758)",
-  "local_names": ["Common clubtail"],
-  "description": "The commnest and most widespread clubtail, it is darker than all other species, with a greener ground colour and more extensive black markings.\n*Gomphus vulgatissimus* has a very marked pattern on the thorax with pale antehumeral stripes narrower than the adjacent black bands. Its legs are entirely black and the three last segments of the abdomen are black on the upper side without any yellow midline (S8-S10). The eyes are green or blue-green on mature individuals and completely separated as on all clubtails. The colouration on mature males can turn to bluish greenish. In Europe the only other clubtail with black legs is *G. schneiderii* which occurs in Greece but which can be distinguished by having small central spots on S8-S9 and the pale antehumeral stripes as wide as the adjacent black bands.\n\n*G. vulgatissimus* is more robust than congeners with a more marked clubbed abdomen. Males of *G. flavipes*, *G. graslinii*, *G. pulchellus* and *G. simillimus, all of which can co-occur with this species have blue eyes when mature, and possess yellow stripes on femurs and upperside S8-S10. *G. vulgatissimus* is most similar to the blue-eyed but rather black-bodied, *G. schneiderii* which may overlap in range in the southern Balkans.",
+  "local_names": [
+    "Common clubtail"
+  ],
+  "description": "The commnest and most widespread clubtail, it is darker than all other species, with a greener ground colour and more extensive black markings.\n*Gomphus vulgatissimus* has a very marked pattern on the thorax with pale antehumeral stripes narrower than the adjacent black bands. Its legs are entirely black and the three last segments of the abdomen are black on the upper side without any yellow midline (S8-S10). The eyes are green or blue-green on mature individuals and completely separated as on all clubtails. The colouration on mature males can turn to bluish greenish. In Europe the only other clubtail with black legs is *G. schneiderii* which occurs in Greece but which can be distinguished by having small central spots on S8-S9 and the pale antehumeral stripes as wide as the adjacent black bands.\n\n*G. vulgatissimus* is more robust than congeners with a more marked clubbed abdomen. Males of *Stylurus flavipes*, *G. graslinii*, *G. pulchellus* and *G. simillimus, all of which can co-occur with this species have blue eyes when mature, and possess yellow stripes on femurs and upperside S8-S10. *G. vulgatissimus* is most similar to the blue-eyed but rather black-bodied, *G. schneiderii* which may overlap in range in the southern Balkans.",
   "behaviour": "Males patrol low over the water surface and make short runs to chase away other males. Males perch on bankside plants and rocks, exposed sand banks or man-made docks, and often returns to the same spot if it has a good view over the territory. \n\nBoth sexes can be found very far, up to ten kilometers from suitable habitats, but more often they stay near the water, in glades, shrubberies, edge zones and among other vegetation. This is also where the mating takes place. They often perch, like other clubtails, directly on the ground but they may also retreat to the canopy of nearby trees, making them very hard to find. When it has caught a prey it often sits very exposed and can be easy to come close by. Resting individuals often keep the abdomen raised.\n\nEggs are oviposited in calm sections of water where the larvae live on shallow silty bottoms. Larvae development is normally three years and they leave the water synchronously. Exuviae are left on straws out in the water or along the shoreline. They can also be found a bit up in nearby trees.",
-  "size": { "length": "45-50 mm", "wingspan": "56-66 mm" },
-  "similar_species": ["Gomphus schneiderii"],
+  "size": {
+    "length": "45-50 mm",
+    "wingspan": "56-66 mm"
+  },
+  "similar_species": [
+    "Gomphus schneiderii"
+  ],
   "distribution": "*Gomphus vulgatissimus* has a largely Western Palearctic distribution, reaching westwards to the south of the West Siberian Plain. It is replaced by *G. schneiderii* in the south of Balkans and south-west Asia. It is common and widespread in much of western, central end eastern Europe. Physically suitable habitats occur north of its present range hence its northern limits appear to be determined by climatic conditions. It is absent from most of the Mediterranean, being very rare in Spain and parts of Italy. In the southern part of the Balkan Peninsula, its range meets that of its near relative *G. schneiderii* and a broad zone of introgression occurs, making identification to species level often impossible.",
   "habitat": "*gomphus vulgatissimus* occurs mainly in lowland streams and rivers, where it may be abundant. Occasionally, populations are found at small streams and ditches with running water. In rare cases breeding occurs at sandy banks of well-oxygenated standing waters such as lakes, ponded backwaters and gravel pits fed by ground water. The species favours landscapes with a combination of agricultural fields, forests and bushes. The highest densities are found at largely unshaded running waters, but the species also occurs in forest areas as long as there are sunny stretches. It mostly occurs at sites with sandy to silty or clay-rich sediments, and is generally absent from fast flowing rocky streams.",
   "flight_period": "May to August",
@@ -67,7 +74,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/57454-Gomphus-vulgatissimus"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051951" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5051951"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "5051951" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5051951"
+    }
+  ]
 }

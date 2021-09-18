@@ -1,0 +1,20 @@
+{
+  "title": "Stylurus",
+  "author_citation": "Needham, 1897",
+  "description": "**_Stylurus_** is a genus of **clubtail dragonflies** in the family Gomphidae.\n\nThey are commonly known as *_hanging clubtails_* from their habit of hanging nearly vertically when they perch.|n\nMost of the species in the *stylurus* genus is found in North America. Recently *S. flavipes* was moved from *Gomphus* to *Stylurus*. This was after DNA studies had found the specie to be closer related to the other *Stylurus* species.",
+  "sources": [
+    "[Wikipedia](https://en.wikipedia.org/wiki/Gomphus_(dragonfly))"
+  ],
+  "links": [
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1426144"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1426144"
+    }
+  ]
+}

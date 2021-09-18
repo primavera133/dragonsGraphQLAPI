@@ -28,7 +28,24 @@
   },
   "images": {
     "cloud_name": "dragonflies",
-    "all": []
+    "all": [
+      {
+        "public_id": "dragonflies/ischnura_fountaineae_mfgsry.jpg",
+        "caption": "Ischnura fountaineae, female. Azerbaijan. 2020.",
+        "license": "CC BY NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Arnold Wijker",
+        "url": "https://www.inaturalist.org/observations/39342977"
+      },
+      {
+        "public_id": "dragonflies/ischnura_fountaieae_male_r6zbjz.jpg",
+        "caption": "Ischnura fountaineae, male. Astrakan Oblast, Russia. 2021.",
+        "license": "CC BY NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Vladimir Onishko",
+        "url": "https://www.inaturalist.org/observations/68000907"
+      }
+    ]
   },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",

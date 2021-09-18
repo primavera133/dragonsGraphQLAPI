@@ -2,11 +2,19 @@
   "items_id": "04a8b550c6086dedf6e667d060529157",
   "scientific_name": "Ischnura intermedia",
   "author_citation": "Dumont, 1974",
-  "local_names": ["Persian bluetail"],
+  "local_names": [
+    "Persian bluetail"
+  ],
   "description": "",
   "behaviour": "",
-  "size": { "length": "24-30 mm", "wingspan": "33-40 mm" },
-  "similar_species": ["Ischnura pumilio", "Ischnura elegans"],
+  "size": {
+    "length": "24-30 mm",
+    "wingspan": "33-40 mm"
+  },
+  "similar_species": [
+    "Ischnura pumilio",
+    "Ischnura elegans"
+  ],
   "distribution": "The range of *I. intermedia* is restricted to Southwest Asia and Cyprus. The species seem to be generally uncommon in it's range with only 23 localities known from Cyprus, south-central Turkey, northern Syria, northern Iraq, Iran and the region of the Kopet Dagh in southern Turkmenistan. In the south of it's range, the species extends well into the Zagros mountains at least partly profiting from manmade channels. It is replaced by its sister taxon, *I. forcipata* in Central Asia and to the east of the Central Iranian deserts. Both species are believed to share a common ancestor, of which the range became fragmented by the desertification of Central Asia and parts of Iran since the early quaternary. \n\n*I. intermedia* was discovered in Europe in 2013 and have since been found at three river valleys in the south-west of Cyprus, especially the Driarizos basin. There is no reason to assume that it is a new arrival to the island, rather the species was most probably overlooked during previous surveys. *I. intermedia* in an inconspicuous taxonwhich can easily escape attention and be confused with other species of *Ischnura*.",
   "habitat": "In Cyprus, *I. intermedia* seem to be confined to small channels adjacent to streams and rivulets where the current slows and the water is retained. Marshy and small swamps occur locally in the streambed and taller grasses, such as southern reed is growing adjacent to the stream. This seem to be in accordance with the limited information available on its habitat in Southwestern Asia.",
   "flight_period": "On Cyprus, from March to November",
@@ -19,7 +27,19 @@
     "red_list_europe_endemic": "",
     "trend_europe": ""
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Ischnura_intermedia__Coenagrionidae__-__imago__Paphos__Cyprus_-_2_fdmkkl.jpg",
+        "caption": "Ischnura intermedia, male. Paphos, Cyprus. 2017",
+        "license": "CC0 1.0",
+        "lic_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "by": "Tim Adriaens",
+        "url": "https://observation.org/photos/13283799/"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)"
   ],
@@ -28,7 +48,19 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/433827-Ischnura-intermedia"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423312" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1423312"
+    },
+    {
+      "label": "Int. Journal of Odonatology",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/13887890.2016.1259662?journalCode=tijo20"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1423312" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1423312"
+    }
+  ]
 }

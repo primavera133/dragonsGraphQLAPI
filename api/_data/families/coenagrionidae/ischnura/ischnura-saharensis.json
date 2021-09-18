@@ -2,11 +2,19 @@
   "items_id": "04a8b550c6086dedf6e667d060529159",
   "scientific_name": "Ischnura saharensis",
   "author_citation": "Aguesse, 1958",
-  "local_names": ["Sahara bluetail"],
+  "local_names": [
+    "Sahara bluetail"
+  ],
   "description": "This close relative of *I. elegans* is endemic to the western Sahara and the Canary Islands. It may be differentiated from  *I. graelsii* by the green thorax, and from *I. fountaineae* by its smaller size, although only by certainty by the male's appendages. Females may be inseparable in the field.\n\nMature males are similar to *I. elegans* byt with a green colouration of the head, thorax and abdomen base. Blue individuals are likely the blue colour form of the female or coexisting *I. graelsii* or *I. fountaineae*. The underside of S3-7 in males is more vividly orange than in other species except *I. fountaineae*. \n\nUnlike *I. graelsii* and *I. fountaineae* the upperside of S8 in females is never marked with black. \n\nIn both sexes the postocular spots tend to be small and the antehumeral stripes are narrow, but this is similar to *I. graelsii* and *I. fountaineae*.\n\nSpring generation is particularly dark, with reduced postocular spots and antehumeral stripes. Female variation and development is not fully understood. Form C is most frequent, and has a pink thorax first and large postocular spots, becomming greenish and finally brown. Form B is similar when mature, but the immature colour is unknown. Andromorph A-females may have either a bright green or a bright blue thorax.",
   "behaviour": "Several generations throughout the year, although scarce from December to February.",
-  "size": { "length": "25-30 mm", "wingspan": "25-34 mm" },
-  "similar_species": ["Ischnura graelsii", "Ischnura fountaineae"],
+  "size": {
+    "length": "25-30 mm",
+    "wingspan": "25-34 mm"
+  },
+  "similar_species": [
+    "Ischnura graelsii",
+    "Ischnura fountaineae"
+  ],
   "distribution": "*I. saharensis* is found throughout a large part of the Sahara west of Egypt and Sudan. It reaches the Mediterranean coast in south-western Morocco and in the western Sahara, with the westernmost occurrences in the Canary Islands. It is replaced by *I. senegalensis* in the east and south of its range and by *I. graelsii* in the north, being sympatric and even synoptic with these species only locally in the Maghreb, the Canary Islands and Mauritania.\n\n*I. saharensis* is in Europe only known from the Canary Islands, but old records of \"Agrion maderae\" and *I. senegalensis* from the MAdeira archipelago probably also refer to this species. It is common and widespread in the Canary archipelago, with over 20 localities distributed among all islands with the exception of Hierro.",
   "habitat": "*I. saharensis* is found at all kinds of standing and running waters in desert and semi-desert areas, including ditches, rivers, ponds and lakes with fresh or brackish, permanent or ephemeral waters. This species is well adapted to arid environments, as it is salt-tolerant and highly mobile. It is known to readily colonise newly available habitats, and its rapid larval development allows it to reproduce successfully in areas where a large portion of the available aquatic habitats consist of ephemeral water bodies flooded only during the rain season.",
   "flight_period": "March to October, with several generations",
@@ -19,7 +27,10 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +41,23 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/103501-Ischnura-saharensis"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423315" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1423315"
+    },
+    {
+      "label": "ADDO",
+      "link": "http://addo.adu.org.za/index.php?taxon_id=30200"
+    },
+    {
+      "label": "Dragonfly Prime",
+      "link": "https://dragonflyprime.co.uk/damselflies/019-sahara-bluetail-ischnura-saharensis-european-dragonfly-photo/"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1423315" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1423315"
+    }
+  ]
 }

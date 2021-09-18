@@ -2,11 +2,18 @@
   "items_id": "04a8b550c6086dedf6e667d060529160",
   "scientific_name": "Ischnura senegalensis",
   "author_citation": "(Rambur, 1842)",
-  "local_names": ["Marsh bluetail"],
+  "local_names": [
+    "Marsh bluetail"
+  ],
   "description": "",
   "behaviour": "",
-  "size": { "length": "", "wingspan": "" },
-  "similar_species": ["Ischnura saharensis"],
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": [
+    "Ischnura saharensis"
+  ],
   "distribution": "*Ischnura senegalensis* is among the most wide-ranging dragonflies in the world and is found throughout the tropics in Africa and Asia. In Africa it is found across the whole sub-Saharan area and the nearby Atlantic and Indian Islands. Its distribution includes the whole Nile Valley up to the Mediterranean Sea, parts of the Arabian Peninsula and the Middle East. In Asia it occurs from Iran and Afganistan to the east, including large parts of the Indian subcontinent, southeast Asia, parts of China and Japan. In south-east Asia, its range extends to the Philippines and the western parts of Indonesia. \n\nIn Europe it is restricted to the Canary Islands from where it was first recorded in 2008-2009 as *I. saharensis*, the only known species of *Ischnura* at the time. A number of records have since become available from the ilands of La Palma and Tenerife and at least some of these refer to populations. All previous published records of *I. senegalensis* from the Canary Islands proved to be misidentified specimens of *I. saharensis*. However, *I. senegalensis* itself seems to have been misidentified ad *I. saharensis* during the 1990s, as it is believed to have been observed in one of its present localities as early as 1993.",
   "habitat": "*Ischnura senegalensis* reproduces in all kinds of standing and running waters provided some vegetation, such as grasses or rushes, is available. The psecies is most abundant at standing water and is tolerant of organic pollution. Habitats even include polluted ditches in urban areas, brackish waters, sulphurous hot springs and fish ponds. Throughout most of its range it is one of the dominant damselfly species in urban or agricultural areas. The European records in the Canary Islands come from man-made lakes and water tanks. *Ischnura senegalensis* as a strong disperser which rapidly colonises new habitats such as ephemeral pools and ornamental urban ponds.",
   "flight_period": "Canary islands reords range from end of February to early November but it is likely on wing all year round.",
@@ -19,7 +26,27 @@
     "red_list_europe_endemic": "",
     "trend_europe": ""
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Ischnura_senegalensis_bpl5uj.jpg",
+        "caption": "Ischnura senegalensis, male.",
+        "license": "CC BY-SA 2.5",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "by": "OpenCage",
+        "url": "https://commons.wikimedia.org/wiki/File:Ischnura_senegalensis.jpg"
+      },
+      {
+        "public_id": "dragonflies/ischnura_senegalensis_4117855990_e706b125d7_o_teey3e.jpg",
+        "caption": "Ischnura senegalensis, female. Tenerife, Spain. 2009.",
+        "license": "CC BY 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by/2.0/",
+        "by": "S. Rae",
+        "url": "https://www.flickr.com/photos/35142635@N05/4117855990"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)"
   ],
@@ -28,7 +55,19 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/52053-Ischnura-senegalensis"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423286" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1423286"
+    },
+    {
+      "label": "ADDO",
+      "link": "http://addo.adu.org.za/index.php?taxon_id=30300"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1423286" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1423286"
+    }
+  ]
 }

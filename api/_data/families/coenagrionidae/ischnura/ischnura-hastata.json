@@ -2,11 +2,18 @@
   "items_id": "04a8b550c6086dedf6e667d060529156",
   "scientific_name": "Ischnura hastata",
   "author_citation": "(Say, 1839)",
-  "local_names": ["Citrine forktail"],
+  "local_names": [
+    "Citrine forktail"
+  ],
   "description": "Unique in many ways, this is the only American species reproducing in Europe. The only population, in the Azores, was misidentified until 1990, although records suggest it may have been present at least a century before. It is the only parthenogenetic Odonata population known in the world, all generations lack males, unfertilised eggs producing females only. Surveys in the archipelago and experiments aimed to interrupt parthenogenesis have failed to produce males. \n\nDistictly smaller than *I. pumilio*. The males can be found in America and are the only odonates in the world with the pterostigma inside the wing, not on the leading edge. Females have normal pterostigma. Males have a largely yellow abdomen. Fresh females have the basal halve of the abdomen orange, S1-4 being largely unmarked. In *I. pumilio* only the very base (S1-2) are unmarked. Mature *I. hastata* turn pale brown to dull olive, with wholly black abdominal dorsum.\n\nEventually they become covered in greyish pruinosity. *I. pumilio* turns green or occasionally blue, but is never pruinose. Olive females of both species may be confused but can be separated by the pronotal hindlobe, on *I. hastata* the hind edge is reduced.",
   "behaviour": "The Azorean females lay eggs without needing to mate, producing a new generation of females. In other invertebrates a bacterial infection is usually responsible for parthenogenesis, but experiments with antibiotics has not yet proved this for *I. hastata*. Males of *I. pumilio*, the only other damselfly on the Azores, have been seen holding females of *I. hastata* in tandem.",
-  "size": { "length": "20-27 mm", "wingspan": "22-30 mm" },
-  "similar_species": ["Ischnura pumilio"],
+  "size": {
+    "length": "20-27 mm",
+    "wingspan": "22-30 mm"
+  },
+  "similar_species": [
+    "Ischnura pumilio"
+  ],
   "distribution": "*I. hastata* is native to the American continent, where it is widespread and common in North and Central America, the Carribean and the Galapagos Islands, occuring as far south as Venezuela, Colombia and Equador and north to Canada. Within Europe it has only been found in the Azores archipelago, where it is widely distributed and common. It is thought that only females are present and all populations in the Azores reproduce by parthogenesis. Populations have been recorded at ca. 35 localities ranging from 500 to 5000 females at favourable localities. The species is found on all islands of the archipelago with the exception of Graciosa. On Santa Maria it is very rare and suitable habitat is nearly absent.",
   "habitat": "In the America's, *I. hastata* is found at well vegetated parts of lakes and ponds as well as in ponds, swamps, ditches and seepage waters overgrown with rushes. The species occurs also at temporary ponds and in brackish waters. This wide ecological tolerance means it can be found at a wide variety of well vegetated waters. In the Azores, the species is found from sea level to 850 m, where it inhabits mostly permanent ponds and lakes with a rich vegetation of pondweeds, spikerushes and other hydrophytes, surrounded by well-developed vegetation on the banks. On São Jorge, the species has been recently reported to occur at a brackish pond. In the Azores, *I. hastata* is prone to local extinction by eutrophication of the water, when grazing and trampling by cattle lead to the degradation of the bank side belt of grasses. The low genetic variability of these parthogenetic populations could be the reason why they are unable to adapt to eutrophic conditions.",
   "flight_period": "From end of March to August",
@@ -19,7 +26,27 @@
     "red_list_europe_endemic": "",
     "trend_europe": ""
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/ischnura_hastata_40648892845_3a7ecfef77_o_f0chf7.jpg",
+        "caption": "Ischnura hastata, male. Anton Valle foothills, Cocle Province, Panama. 2018",
+        "license": "CC BY 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by/2.0/",
+        "by": "gailhampshire",
+        "url": "https://www.flickr.com/photos/gails_pictures/40648892845"
+      },
+      {
+        "public_id": "dragonflies/ischnura_hastata_41501049322_358fb98abe_o_oba1es.jpg",
+        "caption": "Ischnura hastata, female. Anton Valle foothills, Cocle Province, Panama. 2018",
+        "license": "CC BY 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by/2.0/",
+        "by": "gailhampshire",
+        "url": "https://www.flickr.com/photos/gails_pictures/41501049322"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
@@ -29,7 +56,19 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/103494-Ischnura-hastata"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/4302729" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/4302729"
+    },
+    {
+      "label": "American insects",
+      "link": "http://www.americaninsects.net/d/ischnura-hastata.html"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "4302729" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "4302729"
+    }
+  ]
 }

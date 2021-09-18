@@ -2,10 +2,15 @@
   "items_id": "04a8b550c6086dedf6e667d060529154",
   "scientific_name": "Ischnura genei",
   "author_citation": "(Rambur, 1842)",
-  "local_names": ["Island bluetail"],
+  "local_names": [
+    "Island bluetail"
+  ],
   "description": "Closely related to *Ischnura elegans* which it replaces on the Tyrrhenian islands west of the Italian mainland, and on Malta. It is also very like *I. saharensis* structurally.\n\nThe colour of the face, thorax and abdomen is never blue but always green (although a turquoise tinge develops in full maturity). Females of all colour forms may have black markings on S8. Mature females without antehumeral black stripes may be confused with the co-existing *I. pumilio*, but the relative size in pterostigma is discriminatory, that in the forewing is larger in *I. pumilio*",
   "behaviour": "",
-  "size": { "length": "29-32 mm", "wingspan": "24-36 mm" },
+  "size": {
+    "length": "29-32 mm",
+    "wingspan": "24-36 mm"
+  },
   "similar_species": [
     "Ischnura elegans",
     "Ischnura saharensis",
@@ -23,7 +28,35 @@
     "red_list_europe_endemic": "Endemic",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Ischnura_genei_1_loz_i5qhad.jpg",
+        "caption": "Ischnura genei, male. Corsica, France. 2014",
+        "license": "CC BY-SA 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "by": "L. B. Tettenborn",
+        "url": "https://commons.wikimedia.org/wiki/File:Ischnura_genei_1(loz).jpg"
+      },
+      {
+        "public_id": "dragonflies/ischnura_genei_14148103456_8055c3a7bb_o_vrfggy.jpg",
+        "caption": "Ischnura genei, female. 2014",
+        "license": "CC BY-NC-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+        "by": "Rinaldo R",
+        "url": "https://www.flickr.com/photos/rovanto/14148103456"
+      },
+      {
+        "public_id": "dragonflies/ischnura_genei_14756876864_735177cf0e_o_acgocw.jpg",
+        "caption": "Ischnura genei, male. 2014",
+        "license": "CC BY-NC-SA 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+        "by": "Rinaldo R",
+        "url": "https://www.flickr.com/photos/rovanto/14756876864/"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
@@ -33,7 +66,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/103491-Ischnura-genei"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423379" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1423379"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1423379" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1423379"
+    }
+  ]
 }

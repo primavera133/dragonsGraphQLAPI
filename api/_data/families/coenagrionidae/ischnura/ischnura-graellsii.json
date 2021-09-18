@@ -2,11 +2,19 @@
   "items_id": "04a8b550c6086dedf6e667d060529155",
   "scientific_name": "Ischnura graellsii",
   "author_citation": "(Rambur, 1842)",
-  "local_names": ["Iberian bluetail"],
+  "local_names": [
+    "Iberian bluetail"
+  ],
   "description": "A member of the elegans-group, confined to the westernmost parts of Europe and North Africa. Overlaps and hybridises with *I. elegans* locally in Iberia, especially in the north and west, while only *I. elegans* occurs in the Balearics. Meets *I. saharensis* very locally on the edge of the Sahara, but hybrids are unknown. Some mature females in particular may not be reliably identifiable in areas of overlap.\n\nSmaller on average than *I. elegans*. Unlike it, postocular spots and antehumeral stripes are often reduced or totally lacking in both sexes, while the majority of gynomorph females (B and C) have variable black markings on S8. In Iberia, larger well marked (postocular, antehumeral) males should be carefully checked as they may be *I. elegans*. Females without postocular spots may be confused with *Erythromma viridulum*, but have a vulvar spine.\n\nUnlike *I. elegans*, the tips of the male's lower appendages are directed towards each other (viewed from above). The inner branches of the upper appendages diverge (view from behind). Hind borde of the pronotum is weakly arched, without an upright projection as in *I. elegans*.\n\nAs in *I. elegans*, female forms A, B and C all occur, but the teneral thorax colours are distinctive (greenish) yellow in A, whitish lilac in B, orange in C. The later may recall *I. pumilio*, black on S2 is restricted to the distal quarter. Pink individuals, as often seen in *I. elegans*, and burgund ones are rare. ",
   "behaviour": "",
-  "size": { "length": "25-30 mm", "wingspan": "26-38 mm" },
-  "similar_species": ["Ischnura elegans", "Erythromma viridulum"],
+  "size": {
+    "length": "25-30 mm",
+    "wingspan": "26-38 mm"
+  },
+  "similar_species": [
+    "Ischnura elegans",
+    "Erythromma viridulum"
+  ],
   "distribution": "*Ischnura graellsii* is endemic to the Iberian Peninsula and the Maghreb. In northern Africa it is limited to the northern parts of Morocco, Algeria, Tunisisa and the north-west of Libya, being replaced by *I. saharensis* in the more arid inland areas to the south.\n\nThe European population are presently confined to the Iberian Peninsula. In 2015 a population was found in French part of Cerdagna, eastern Pyrenees. Records published for Sardinia is believed to be misidentifications.\n\nIn northern Spain hybridisation between *I. elegans* and *I. greallsii* has been observed. Hybrids are fertile and backcross with *I. elegans*.  ",
   "habitat": "*Ischnura graellsii* is found in a wide variety of habitats, including running, standing and brackish waters. The species has been found up to 1 300 m.",
   "flight_period": "March to November",
@@ -19,7 +27,27 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/ischnura_graellsii_40050718243_61b235bbab_o_isqmuz.jpg",
+        "caption": "Ischnura graellsii, male. Cadiz, Spain. 2018",
+        "license": "CC BY 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by/2.0/",
+        "by": "gailhampshire",
+        "url": "https://www.flickr.com/photos/gails_pictures/40050718243"
+      },
+      {
+        "public_id": "dragonflies/Iberian_Bluetail._Ischnura_graellsii__32478127426_txfxxv.jpg",
+        "caption": "Ischnura graellsii, male. Andalucia, Spain. April 2016",
+        "license": "CC BY 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by/2.0/",
+        "by": "gailhampshire",
+        "url": "https://commons.wikimedia.org/wiki/File:Iberian_Bluetail._Ischnura_graellsii_(32478127426).jpg"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
@@ -29,7 +57,19 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/103492-Ischnura-graellsii"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423337" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1423337"
+    },
+    {
+      "label": "Macronatura",
+      "link": "http://macronatura.es/2020/01/10/caballito-del-diablo-ischnura-graellsii/"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1423337" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1423337"
+    }
+  ]
 }

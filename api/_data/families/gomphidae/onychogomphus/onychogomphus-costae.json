@@ -9,8 +9,13 @@
   ],
   "description": "Small and inconspicuous species with a peculiar colouration; ivory-white, ochre, brown beige and the almost total absence of black markings. Easily overlooked owing to its small size and camouflaging colouring. Its size and colour make it easily distinguishable from the other pincertails. Also it is the only *Onychogomphus* in its distribution range with a light-coloured pterostigma. The terminal appendages of the males are quite particular as well; the lower one is slender, free of teeth and much shorter than the upper ones. The males also have a tuft of long whitish hair on the lower part of S7, which are 3-4 times as long as any hair on S6.\n\nResembles *Paragomphus genei* in size, posture, pale pterostigma and indistinct markings, but the latter has green face and thorax, more abdominal black and broad flaps on S8-S9 in the males. Appendages also differ.",
   "behaviour": "Poorly known, has been noted to rest on bare ground.",
-  "size": { "length": "43-46 mm", "wingspan": "45-55 mm" },
-  "similar_species": ["Paragomphus genei"],
+  "size": {
+    "length": "43-46 mm",
+    "wingspan": "45-55 mm"
+  },
+  "similar_species": [
+    "Paragomphus genei"
+  ],
   "distribution": "*onychogomphus costae* is restricted to the West Mediterranean and is found in the Iberian Peninsula and the Maghreb. On the Iberian Peninsula it is found in the south and east, reaching north to the foothills of the Pyrenean and the Cantabrian mountains along the Ebro valley. The species is very rare in Portugal and absent from the whole north-west of the peninsula, probably due to the colder and more humid climate. It is relatively rare and localised within its European range when compared to the Maghreb. Information on the size and extent of the European populations is very limited.",
   "habitat": "*Onychogomphus costae* is found in running waters in arid and semi-arid environments. In Europe it is restricted to the driest lowland areas. The running water habitats in such habitats are challenging for the aquatic fauna as they are often intermittent in summer but can be torrential during the rainy season. *Onychogomphus costae* seems to be well adapted to this and is sometimes observed at residual pools in largely dry river beds. It seems more resistant to sudden fluxes in water flow than other species of dragonfly. In the Maghreb it is often the only dragonfly present, although at low densities, along permanent river systems with seasonal catastrophic discharge. The species is tolerant of naturally brackish rivers with a salinity ranging from 4 to 7.9%.",
   "flight_period": "May to August",
@@ -23,7 +28,27 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Onychogomphus_costae_blfm9o.jpg",
+        "caption": "Onychogomphus costae. Dec 2015.",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/4.0/",
+        "by": "Fturmo",
+        "url": "https://commons.wikimedia.org/wiki/File:Onychogomphus_costae.jpg"
+      },
+      {
+        "public_id": "dragonflies/onychogomphus_costae_female_5012294639_a26315a3d9_o_d2rgje.jpg",
+        "caption": "Onychogomphus costae, female. Catalonia, Spain. female Dec 2015.",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/4.0/",
+        "by": "Ferran Turmo Gort",
+        "url": "https://www.flickr.com/photos/fturmog/5012294639"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -34,7 +59,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/107586-Onychogomphus-costae"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1426284" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1426284"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1426284" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1426284"
+    }
+  ]
 }

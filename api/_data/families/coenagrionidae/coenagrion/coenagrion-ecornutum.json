@@ -5,8 +5,13 @@
   "local_names": [],
   "description": "A mainly asian species of the *Coenagrion* genus. It was formerly only know from Altai to Kamtjatka but since 1996 a population in southern Ural has been discovered.",
   "behaviour": "",
-  "size": { "length": "mm", "wingspan": "mm" },
-  "similar_species": ["Coenagrion pulchellum"],
+  "size": {
+    "length": "mm",
+    "wingspan": "mm"
+  },
+  "similar_species": [
+    "Coenagrion pulchellum"
+  ],
   "distribution": "First European record of this species was recorded in 1996 in southern Ural. It is unknown if this is a new spread of its range or if the species has had a persistent presence, although overlooked previously.",
   "habitat": "Found mainly in standing waters but it also occurs in flowing waters and their stagnant backwaters, like oxbow ponds and lakes. In its main range in Russia, it is found in small bodies of standing water in rivers floodplains, small bogs and lakes.",
   "flight_period": "June to July.",
@@ -19,7 +24,27 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Increasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/coenagrion_ecornutum_mating_z5efxe.jpg",
+        "caption": "Ischnura ecornutum, mating. Vladivostok, Russia. 2017.",
+        "license": "CC BY NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Oleg Kosterin",
+        "url": "https://www.inaturalist.org/photos/100702180"
+      },
+      {
+        "public_id": "dragonflies/coenagrion_ecornutum_sri3g1.jpg",
+        "caption": "Ischnura ecornutum, male. Vladivostok, Russia. 2017.",
+        "license": "CC BY NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Vladimir Onishko",
+        "url": "https://www.inaturalist.org/photos/59391509"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,11 +55,19 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/358452-Coenagrion-ecornutum"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421973" },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1421973"
+    },
     {
       "label": "IUCN Red List",
       "link": "https://www.iucnredlist.org/species/165532/6060376"
     }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1421973" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1421973"
+    }
+  ]
 }

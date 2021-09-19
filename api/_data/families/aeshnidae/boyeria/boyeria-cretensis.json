@@ -2,11 +2,18 @@
   "items_id": "5b6c0ae4b77ec0e00d6795c0d7d59175",
   "scientific_name": "Boyeria cretensis",
   "author_citation": "Peters, 1991",
-  "local_names": ["Cretan spectre"],
+  "local_names": [
+    "Cretan spectre"
+  ],
   "description": "This species is endemic to the island of Crete, where it replaces *B. irene*. It is very similar in general appearance, size and behaviour to *B. irene*. It can be distinguished from *B. irene* by some details; colouration in general is darker and light portions on the body tends to be greenish yellow rather than green. The pterostigma of the hind wing is slightly larger. The frons is more pointy seen in profile.",
   "behaviour": "Like *B. irene* it is a powerfull and untiring flyer, capable of flying for long periods of time without perching. Just like *B. irene* and Calaeshna microstigma, it tends to be more active and visible late in the afternoon and has twilight habits. There are reports of it flying late in the evening and attracted by artificial lights.",
-  "size": { "length": "69-70 mm", "wingspan": "88-95 mm" },
-  "similar_species": ["Boyeria irene"],
+  "size": {
+    "length": "69-70 mm",
+    "wingspan": "88-95 mm"
+  },
+  "similar_species": [
+    "Boyeria irene"
+  ],
   "distribution": "*Boyeria cretensis* range is confined to the island of Crete, where it is know from fifteen river systems. The populations are concentrated in two areas, with five populated rivers at Lefka Ori mountains in the westernmost of Crete and nine populated rivers in the region between the Lefka Ori and the Psiloritis mountains (Mount Idi) and north of the latter in central Crete. In addition to these, there is a single isolated locality known east of the Dikti mountains in the easternmost part of Crete.",
   "habitat": "Limited to running waters and is mainly found near the upper courses of permanent streams with a moderate to strong current. It is largely confined to streams with extensive gallery forests of Plane trees where the water is partly shaded. The species has been recorded up to 450 m.",
   "flight_period": "From the end of May to August.",
@@ -19,7 +26,19 @@
     "red_list_europe_endemic": "Endemic",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/boyeria_cretensis_gckdak.jpg",
+        "caption": "Boyeria cretensis. Crete, Greece. July 2018.",
+        "license": "CC BY NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Phil Benstead",
+        "url": "https://www.inaturalist.org/photos/95497712"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +49,10 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/95955-Boyeria-cretensis"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1425142" },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1425142"
+    },
     {
       "label": "IUCN Red List",
       "link": "https://www.iucnredlist.org/species/60307/12341708"
@@ -40,5 +62,10 @@
       "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=boyeriacretensis&user_id=51299956%40N02&view_all=1"
     }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1425142" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1425142"
+    }
+  ]
 }

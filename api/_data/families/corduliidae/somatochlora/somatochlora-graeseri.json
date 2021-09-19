@@ -5,7 +5,10 @@
   "local_names": [],
   "description": "A *Somatochlora* with an eastern range, in Europe it is known only from eight localities in the Urals of Russia and a single more western locality.",
   "behaviour": "",
-  "size": { "length": "mm", "wingspan": "mm" },
+  "size": {
+    "length": "mm",
+    "wingspan": "mm"
+  },
   "similar_species": [
     "Somatochlora alpestris",
     "Somatochlora arctica",
@@ -24,7 +27,19 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Unknown"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/somatochlora_graeseri_n8b9dd.jpg",
+        "caption": "Somatochlora graeseri. Sokcho, South Korea. August 2013.",
+        "license": "CC BY NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Kim Dae Ho",
+        "url": "https://www.inaturalist.org/photos/454855"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -35,7 +50,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/325398-Somatochlora-graeseri"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1429975" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1429975"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1429975" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1429975"
+    }
+  ]
 }

@@ -2,11 +2,18 @@
   "items_id": "4db83b64ea149c04a728ef1ce754b6fb",
   "scientific_name": "Gomphus schneiderii",
   "author_citation": "Selys, 1850",
-  "local_names": ["Turkish clubtail"],
+  "local_names": [
+    "Turkish clubtail"
+  ],
   "description": "A clubtail that replaces *Gomphus vulgatissimus* in Turkey and the southern Balkans. It is very similar but smaller and more slender. In mature individuals, the eyes are blue instead of greenish, and the thorax of the males is more yellow instead of the greenish colour mature males of *G. vulgatissimus* gets with some age. Its larger yellow markings give it a rather distinctive appearance. Small yellow spots are present also on S8-S9. Typically mature males have all back legs without yellow stripes, however exceptions exist. Antehumeral stripes are light in colour and as wide as the adjacent black bands. ",
   "behaviour": "",
-  "size": { "length": "40-48 mm", "wingspan": "60-62 mm" },
-  "similar_species": ["Gomphus vulgatissimus"],
+  "size": {
+    "length": "40-48 mm",
+    "wingspan": "60-62 mm"
+  },
+  "similar_species": [
+    "Gomphus vulgatissimus"
+  ],
   "distribution": "*Gomphus schneiderii* is not uncommon in the Peloponnese but is rare in the rest of continental Greece, the Greek islands (Corfu, Evia, Lesbos and Samos) and the European part of Turkey. Its distribution in the north of Greece, where it meets *G. vulgatissimus* is difficult due to the occurence of intermediates, making many records unreliable. The species has been recorded from Albania, Montenegro, Macedonia and southern Bosnia and Herzegovina but these countries lie in the region where *G. schneiderii* and *G. vulgatissimus* meet and identification often problematic. The current known distribution suggests that *G. schneiderii* is restricted to the warmer lower parts of the Balkan Peninsula with *G. vulgatissimus* replacing it in climatologically less suitable areas.",
   "habitat": "*Gomphus schneiderii* is mainly found on slow rivers and streams with sandy or silty bottom. Occasionally it breeds in ponded backwaters fed with ground water, or in large lakes where wave motion produces conditions similar to those found in running waters. In most cases its habitats are bordered by forest, bushes, hedges or extensive hay production meadows.",
   "flight_period": "April to July",
@@ -19,7 +26,35 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Unknown"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/gomphus_schneiderii_male_lmf5az.jpg",
+        "caption": "Gomphus schneiderii, male, Ohrid Airport, Debarca Municipality, Macedonia. Dec 2016.",
+        "license": "CC BY-NC 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Erland Refling Nielsen",
+        "url": "https://www.inaturalist.org/observations/4779707"
+      },
+      {
+        "public_id": "dragonflies/gomphus_scneiderii_grey_kzfxpw.jpg",
+        "caption": "Gomphus schneiderii, male, Koycegiz, Mugla, Turkey. Sept 2016.",
+        "license": "CC BY-NC 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Erland Refling Nielsen",
+        "url": "https://www.inaturalist.org/observations/4198088"
+      },
+      {
+        "public_id": "dragonflies/gomphus_schneiderii_side_pyyxyi.jpg",
+        "caption": "Gomphus schneiderii, female, Dalyan, Mugla, Turkey. Oct 2018.",
+        "license": "CC BY-NC 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Erland Refling Nielsen",
+        "url": "https://www.inaturalist.org/observations/17838273"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -30,7 +65,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/346426-Gomphus-schneiderii"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051972" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5051972"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "5051972" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5051972"
+    }
+  ]
 }

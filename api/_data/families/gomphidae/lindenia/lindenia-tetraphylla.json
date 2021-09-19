@@ -2,10 +2,17 @@
   "items_id": "0ee918852968f8cb37df4522c68e8ebc",
   "scientific_name": "Lindenia tetraphylla",
   "author_citation": "(Vander Linden, 1825)",
-  "local_names": ["Bladetail", "Lobe-tailed dragonfly", "Arabian lobetail"],
+  "local_names": [
+    "Bladetail",
+    "Lobe-tailed dragonfly",
+    "Arabian lobetail"
+  ],
   "description": "This species is the largest European *Gomphid*. It is whitish or yellowish in colour and has, mainly on the upper part of the abdomen, black or brown markings. However its colouration varies greatly, from largely sandy to almost black. The males look darker due to the presence of tiny black spines on the abdomen, particularly between S3 and S7. Distinctive are the leaf-shaped extensions on the lower sides of S7 and S8. The abdomen thus look quite expanded on its terminal part. The pterostigmas are relatively long and wide, and are yellow to pale-brown in colour. \n\nThe length and the flaps on S7 rule out any other species. *Paragomphus* and *Onychogomphus* have flaps on S8-S9 instead of S7-8, but only in *Paragomphus* are they similarly large. Both these genera are no longer than 60 cm. At a glance, *L. tetraphylla* can be mistaken for the long-bodied skimmers *Orthretum sabina* or *O. trinacriae*, but they lack wide flaps and separated eyes.",
   "behaviour": "Often perches on the ground with the abdomen slightly raised above horizontal. It has some migratory tendencies, which otherwise is very unusual for a *gomphid*.",
-  "size": { "length": "70-80 mm", "wingspan": "72-80 mm" },
+  "size": {
+    "length": "70-80 mm",
+    "wingspan": "72-80 mm"
+  },
   "similar_species": [
     "Paragomphus genei",
     "Onychogomphus uncatus",
@@ -24,7 +31,43 @@
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/lindenia_tetraphylla_1_yeesqa.jpg",
+        "caption": "Gomphus simillimus, Ortaca, Turkey. May 2015.",
+        "license": "CC BY-NC 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Paul Cools",
+        "url": "https://www.inaturalist.org/observations/1494998"
+      },
+      {
+        "public_id": "dragonflies/lindenia_tetraphylla_4_zn9iwp.jpg",
+        "caption": "Gomphus simillimus, Wadi Darbat, Oman. April 2015.",
+        "license": "CC BY-NC 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Sindic",
+        "url": "https://www.inaturalist.org/observations/1430879"
+      },
+      {
+        "public_id": "dragonflies/lindenia_tetraphylla_3_mymxlx.jpg",
+        "caption": "Gomphus simillimus, Thessaloniki, Greece. Dec 2016.",
+        "license": "CC BY-NC 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Vlorës, Albania",
+        "url": "https://www.inaturalist.org/observations/18359225"
+      },
+      {
+        "public_id": "dragonflies/lindenia_tetraphylla_2_j6jmr3.jpg",
+        "caption": "Gomphus simillimus, Vlorës, Albania. Dec 2016.",
+        "license": "CC BY-NC 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Jakob",
+        "url": "https://www.inaturalist.org/observations/8143284"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -35,7 +78,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/433885-Lindenia-tetraphylla"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051794" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5051794"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "5051794" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5051794"
+    }
+  ]
 }

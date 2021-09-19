@@ -32,7 +32,24 @@
   },
   "images": {
     "cloud_name": "dragonflies",
-    "all": []
+    "all": [
+      {
+        "public_id": "dragonflies/gomphus_simillimus_jmlrld.jpg",
+        "caption": "Gomphus simillimus, male, Quissac, France. Dec 2016.",
+        "license": "CC BY-NC 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Benoit Nabholz",
+        "url": "https://www.inaturalist.org/observations/4831095"
+      },
+      {
+        "public_id": "dragonflies/gomphus_simillimus_above_kuwfbs.jpg",
+        "caption": "Gomphus simillimus, male, Quissac, France. Dec 2016.",
+        "license": "CC BY-NC 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-nc/4.0/",
+        "by": "Benoit Nabholz",
+        "url": "https://www.inaturalist.org/observations/4831095"
+      }
+    ]
   },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",

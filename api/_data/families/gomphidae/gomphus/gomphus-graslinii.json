@@ -2,10 +2,15 @@
   "items_id": "af95a78d508f8d277d0f6ccd992e7b1a",
   "scientific_name": "Gomphus graslinii",
   "author_citation": "Rambur, 1842",
-  "local_names": ["Pronged clubtail"],
+  "local_names": [
+    "Pronged clubtail"
+  ],
   "description": "A bright yellow and black clubtail with such characteristically forked male upper appendages that it can be identified by this feature without capture. The terminal part of the abdomen is less clubbed than of the other species of *Gomphus*, S8-S9 is only slightly expanded. Eyes are light blue. The antehumeral stripes are pale and narrower than the adjacent black bands, in particular the adjacent inner black band is quite wide and often connected dorsally with the black pattern on the thorax. This configuration recalls that of *G. vulgatissimus*. In *G. simillimus* the antehumeral and it's flanking stripes are alla bout equally thick, and the anterior one is dorsally unconnected.\n\nAll the segments of the upper side of the abdomen are longitudinally crossed by a yellow line. Distinctive in the males is the yellow marking in the form of a goblet on S9. *G. vulgatissimus* is all black dorsally on S9. In *G. simillimus* the posterior border of s) is black, although sometimes the central yellow marking reaches it.\n\nLegs are black with yellow stripes on the femurs. Tibiae often entirely black. *G. simillimus* har yellow stripes also on the tibiae. *G. vulgatissimus* typically has all-black legs.",
   "behaviour": "",
-  "size": { "length": "47-50 mm", "wingspan": "55-60 mm" },
+  "size": {
+    "length": "47-50 mm",
+    "wingspan": "55-60 mm"
+  },
   "similar_species": [
     "Gomphus vulgatissimus",
     "Gomphus simillimus",
@@ -23,7 +28,19 @@
     "red_list_europe_endemic": "Endemic",
     "trend_europe": "Decreasing"
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/gomphus_graslinii_owojx7.jpg",
+        "caption": "Gomphus graslinii male, Lot, Midi-pyrrenées, France, July 2008",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https: //creativecommons.org/licenses/by-sa/4.0/",
+        "by": "purperlibel",
+        "url": "https://www.inaturalist.org/photos/5889860"
+      }
+    ]
+  },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
@@ -34,7 +51,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/101673-Gomphus-graslinii"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051921" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5051921"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "5051921" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5051921"
+    }
+  ]
 }

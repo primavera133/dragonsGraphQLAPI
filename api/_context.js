@@ -7,6 +7,7 @@ const context = ({ req }) => {
   const token = authorizationHeader.replace('Bearer ', '')
 
   if (!usersArr.includes(token)) {
+    console.error(`USER ${token} NOT FOUND`)
     throw new ApolloError(`USER ${token} NOT FOUND`)
   }
 

@@ -1,0 +1,56 @@
+{
+  "items_id": "2523eb23ee21d51ae1e1042c8bee1452",
+  "scientific_name": "Lestes concinnus",
+  "author_citation": "Hagen, 1862",
+  "local_names": [
+    "Dusky spreadwing"
+  ],
+  "description": "The adult is a medium-sized damselfly. It is dusky-grey on dorsal surfaces graduating to light bluish-green on the sides and beneath.",
+  "behaviour": "",
+  "size": {
+    "length": "40 mm",
+    "wingspan": "45 mm"
+  },
+  "similar_species": [],
+  "distribution": "From Australia in the east to Iran in the west. In Australia, the distribution is in suitable habitat in the north-west and north-eastern part of the continent from about Broome to the south-eastern Queensland border.",
+  "habitat": "",
+  "flight_period": "",
+  "red_list": {
+    "habitats_directive": "",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "",
+    "trend_europe": ""
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [],
+  "links": [
+    {
+      "label": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Lestes_concinnus"
+    },
+    {
+      "label": "Odonata of India",
+      "link": "https://www.indianodonata.org/sp/209/Lestes-concinnus"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5051651"
+    },
+    {
+      "label": "IUCN Red List Global",
+      "link": "https://www.iucnredlist.org/species/158656/83379420"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5051651"
+    }
+  ]
+}

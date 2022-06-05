@@ -5,6 +5,7 @@ const lestesConcinnus = require('./lestes/lestes-concinnus.json')
 const lestesNumidicus = require('./lestes/lestes-numidicus.json')
 const lestesDryas = require('./lestes/lestes-dryas.json')
 const lestesMacrostigma = require('./lestes/lestes-macrostigma.json')
+const lestesPallidus = require('./lestes/lestes-pallidus.json')
 const lestesSponsa = require('./lestes/lestes-sponsa.json')
 const lestesVirens = require('./lestes/lestes-virens.json')
 const sympecmaFusca = require('./sympecma/sympecma-fusca.json')
@@ -18,6 +19,7 @@ module.exports = {
     lestesDryas,
     lestesMacrostigma,
     lestesNumidicus,
+    lestesPallidus,
     lestesSponsa,
     lestesVirens,
   ],

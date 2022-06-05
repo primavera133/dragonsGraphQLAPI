@@ -1,0 +1,63 @@
+{
+  "items_id": "2523eb23ee21d51ae1e1042c8bee1455",
+  "scientific_name": "Lestes pallidus",
+  "author_citation": "Rambur 1842",
+  "local_names": [
+    "Pallid spreadwing",
+    "Pale spreadwing"
+  ],
+  "description": "Males of this species are nearest *L. ochraceus* in general appearance but structurally nearer *L. dissimulans* by\n(a) thorax uniformly pale to dark, marked black, or dark markings irregular with at most slight bronze sheen;\n(b) inner border of cerci at least with prominent basal tooth;\n(c) paraprocts blunt, without apical process.\n\nHowever, differs by\n(1) Pt more elongate, 1.5-2.0 mm;\n(2) basal tooth on inner border of cerci sharp;\n(3) paraprocts not extending beyond its tip, and constricted - creating a distinct apical knob.",
+  "behaviour": "",
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": [
+    "Lestes ochraceus"
+  ],
+  "distribution": "Africa, mainly Sub Sahara. confirmed: Angola; Botswana; Cameroon; Cape Verde; Chad; Democratic Republic of the Congo; Ethiopia; Gambia; Ghana; Kenya; Malawi; Mali; Mauritania; Mozambique; Namibia; Niger; Nigeria; Republic of South Africa; Senegal; Somalia; Sudan; Tanzania; Uganda; Zambia; Zimbabwe; NOT confirmed: Côte d'Ivoire; Lesotho.",
+  "habitat": "Standing and mostly temporary waters in open landscapes. Usually with emergent and often aquatic vegetation. From 0 to 1900 m above sea level, but mostly between 800 and 1500.",
+  "flight_period": "",
+  "red_list": {
+    "habitats_directive": "",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "",
+    "trend_europe": ""
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [],
+  "links": [
+    {
+      "label": "ADDO - African Dragonflies & Damselflies Online",
+      "link": "http://addo.adu.org.za/index.php?taxon_id=2900"
+    },
+    {
+      "label": "Warwick Taboton",
+      "link": "https://www.warwicktarboton.co.za/dfpgs/012pallidus.html"
+    },
+    {
+      "label": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Lestes_pallidus"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5051663"
+    },
+    {
+      "label": "IUCN Red List Global",
+      "link": "https://www.gbif.org/species/5051663"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5051663"
+    }
+  ]
+}

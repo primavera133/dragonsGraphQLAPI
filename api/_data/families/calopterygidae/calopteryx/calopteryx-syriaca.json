@@ -1,0 +1,50 @@
+{
+  "items_id": "1e128c2362a87d57e49b62e94392fdb6",
+  "scientific_name": "Calopteryx syriaca",
+  "author_citation": "Rambur 1842",
+  "local_names": [
+    "Syrian demoiselle"
+  ],
+  "description": "*Calopteryx syriaca* is a species of damselfly in the family Calopterygidae known commonly as the Syrian demoiselle. This is sometimes considered to be a subspecies of *C. splendens*",
+  "behaviour": "",
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": [
+    "Calopteryx splendens"
+  ],
+  "distribution": "It is native to the southern Levant, where it is known from Israel, Jordan, Lebanon, Palestine, and Syria.",
+  "habitat": "This damselfly inhabits habitat along rivers such as the Orontes, Litani, and Jordan. Its populations have declined due to loss of habitat in the river systems in the area.",
+  "flight_period": "March to November",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "Endangered",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "No",
+    "trend_europe": ""
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/96490-Calopteryx-syriaca"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5052072"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5052072"
+    }
+  ]
+}

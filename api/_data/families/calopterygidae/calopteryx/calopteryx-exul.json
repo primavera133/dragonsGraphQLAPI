@@ -1,0 +1,50 @@
+{
+  "items_id": "1e128c2362a87d57e49b62e94392fdb9",
+  "scientific_name": "Calopteryx exul",
+  "author_citation": "Selys, 1853",
+  "local_names": [
+    "Glittering demoiselle"
+  ],
+  "description": "*Calopteryx exul* replaces *C. splendens* in north-west Africa where it may be noted by it's narrow unbanded wings. These wings flash conspicuously in it's rather rapid flight, often skimming the water surface.\n\nIn both sexes the wings are narrower than all other members of this genus, and remain totally clear. The males venation is metallic, producing a light blue flash on each wingbeat. Legs, especailly femora tend to be paler than in other species, and in both sexes are a chocolate brown rather than black, or black with internal yellow sides.",
+  "behaviour": "Typically only a few individuals are seen at a time.",
+  "size": {
+    "length": "45-50 mm",
+    "wingspan": "55-70 mm"
+  },
+  "similar_species": [],
+  "distribution": "Endemic to the mountains from Morocko to Tunis. Rare in Algeria, most of it's habitats there have been polluted.",
+  "habitat": "Streams and rivers between 200 and 2,000 m altitude.",
+  "flight_period": "May to August",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "Endangered",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "No",
+    "trend_europe": ""
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/96486-Calopteryx-exul"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5052018"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5052018"
+    }
+  ]
+}

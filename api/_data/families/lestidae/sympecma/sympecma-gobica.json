@@ -1,0 +1,48 @@
+{
+  "items_id": "abd0084146e8e6bf18191bf44c39c0cd",
+  "scientific_name": "Sympecma gobica",
+  "author_citation": "Förster, 1900",
+  "local_names": [],
+  "description": "",
+  "behaviour": "",
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": [
+    "Sympecma fusca"
+  ],
+  "distribution": "*Sympecma gobica* has been found from Kaukasus in the west to Gobi desert and the plateau of Tibet in the east.",
+  "habitat": "",
+  "flight_period": "",
+  "red_list": {
+    "habitats_directive": "",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "",
+    "trend_europe": ""
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/520007-Sympecma-gobica"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1424201"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1424201"
+    }
+  ]
+}

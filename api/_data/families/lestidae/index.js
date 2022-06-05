@@ -9,6 +9,7 @@ const lestesPallidus = require('./lestes/lestes-pallidus.json')
 const lestesSponsa = require('./lestes/lestes-sponsa.json')
 const lestesVirens = require('./lestes/lestes-virens.json')
 const sympecmaFusca = require('./sympecma/sympecma-fusca.json')
+const sympecmaGobica = require('./sympecma/sympecma-gobica.json')
 const sympecmaPaedisca = require('./sympecma/sympecma-paedisca.json')
 
 module.exports = {
@@ -23,5 +24,5 @@ module.exports = {
     lestesSponsa,
     lestesVirens,
   ],
-  sympecma: [sympecmaFusca, sympecmaPaedisca]
+  sympecma: [sympecmaFusca, sympecmaGobica, sympecmaPaedisca]
 }

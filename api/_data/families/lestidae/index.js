@@ -2,6 +2,7 @@ const chalcolestesParvidens = require('./chalcolestes/chalcolestes-parvidens.jso
 const chalcolestesViridis = require('./chalcolestes/chalcolestes-viridis.json')
 const lestesBarbarus = require('./lestes/lestes-barbarus.json')
 const lestesConcinnus = require('./lestes/lestes-concinnus.json')
+const lestesNumidicus = require('./lestes/lestes-numidicus.json')
 const lestesDryas = require('./lestes/lestes-dryas.json')
 const lestesMacrostigma = require('./lestes/lestes-macrostigma.json')
 const lestesSponsa = require('./lestes/lestes-sponsa.json')
@@ -16,6 +17,7 @@ module.exports = {
     lestesConcinnus,
     lestesDryas,
     lestesMacrostigma,
+    lestesNumidicus,
     lestesSponsa,
     lestesVirens,
   ],

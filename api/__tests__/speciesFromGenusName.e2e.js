@@ -123,6 +123,11 @@ describe('Server - e2e: speciesFromGenusName', () => {
     expects(res)
   })
 
+  it('gets species from genus name: Agriocnemis', async () => {
+    const res = await toPromise(graphql(getQuery('Agriocnemis')))
+    expects(res)
+  })
+
   it('gets species from genus name: Anax', async () => {
     const res = await toPromise(graphql(getQuery('Anax')))
     expects(res)

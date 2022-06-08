@@ -1,0 +1,55 @@
+{
+    "items_id": "1e128c2362a87d57e49b62e94392fdb4",
+    "scientific_name": "Agriocnemis pygmaea",
+    "author_citation": "(Rambur 1842)",
+    "local_names": [
+        "Pygmy wisp",
+        "Wandering midget",
+        "Pygmy dartlet",
+        "Wandering wisp"
+    ],
+    "description": "*Agriocnemis pygmaea* is a small damselfly with black capped green eyes, black thorax with apple green stripes on lateral sides. Segments 1 to 7 of its abdomen is black on dorsum and pale green on ventral half. The remaining segments are orange-red. Very old males may get pruinosed on the dorsum of the head and the thorax with snowy white, making all the markings beneath being quite obscured.\n\nFemales are more robust and exhibits several color morphs. The green color of the male is replaced by red in the females in the red forms. In androchrome forms, the female has same green colors as in the male. ",
+    "behaviour": "",
+    "size": {
+        "length": "",
+        "wingspan": ""
+    },
+    "similar_species": [],
+    "distribution": "Mostly south-east asia and Australia. Can occationally emerge in aquariums when eggs are introduced along with plants from that region.",
+    "habitat": "",
+    "flight_period": "",
+    "red_list": {
+        "habitats_directive": "",
+        "red_list_EU27": "",
+        "red_list_europe": "",
+        "red_list_mediterranean": "",
+        "EU27_endemic": "",
+        "red_list_europe_endemic": "",
+        "trend_europe": ""
+    },
+    "images": {
+        "cloud_name": "dragonflies",
+        "all": []
+    },
+    "sources": [],
+    "links": [
+        {
+            "label": "iNaturalist",
+            "link": "https://www.inaturalist.org/taxa/93558-Agriocnemis-pygmaea"
+        },
+        {
+            "label": "gbif.org",
+            "link": "https://www.gbif.org/species/1423162"
+        },
+        {
+            "label": "IUCN Red List",
+            "link": "https://www.iucnredlist.org/species/167280/83374189"
+        }
+    ],
+    "meta": [
+        {
+            "label": "gbifTaxonKey",
+            "value": "1423162"
+        }
+    ]
+}

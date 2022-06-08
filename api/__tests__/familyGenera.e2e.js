@@ -54,6 +54,7 @@ describe('Server - e2e: familyGenera', () => {
     const res = await toPromise(graphql(getQuery('Coenagrionidae')))
     expect(res.data.familyGenera).toEqual(
       [
+        'agriocnemis',
         'ceriagrion',
         'coenagrion',
         'enallagma',

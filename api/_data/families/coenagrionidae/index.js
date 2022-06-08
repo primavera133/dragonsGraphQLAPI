@@ -1,4 +1,5 @@
 const AgriocnemisPygmaea = require('./agriocnemis/agriocnemis-pygmaea.json')
+const AgriocnemisSania = require('./agriocnemis/agriocnemis-sania.json')
 const CeriagrionGeorgifreyi = require('./ceriagrion/ceriagrion-georgifreyi.json')
 const CeriagrionTenellum = require('./ceriagrion/ceriagrion-tenellum.json')
 const CoenagrionArmatum = require('./coenagrion/coenagrion-armatum.json')
@@ -34,7 +35,7 @@ const PyrrhosomaNymphula = require('./pyrrhosoma/pyrrhosoma-nymphula.json')
 const PyrrhosomaElisabethae = require('./pyrrhosoma/pyrrhosoma-elisabethae.json')
 
 module.exports = {
-  agriocnemis: [AgriocnemisPygmaea],
+  agriocnemis: [AgriocnemisPygmaea, AgriocnemisSania],
   ceriagrion: [CeriagrionGeorgifreyi, CeriagrionTenellum],
   coenagrion: [
     CoenagrionArmatum,

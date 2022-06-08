@@ -1,0 +1,56 @@
+{
+    "items_id": "1e128c2362a87d57e49b62e94392fdb3",
+    "scientific_name": "Agriocnemis sania",
+    "author_citation": "Nielsen 1959",
+    "local_names": [
+        "Nile wisp"
+    ],
+    "description": "*Agriocnemis sania* is a species in the family *Coenagrionidae*.",
+    "behaviour": "",
+    "size": {
+        "length": "",
+        "wingspan": ""
+    },
+    "similar_species": [],
+    "distribution": "It is found in Egypt, Ethiopia, Kenya, Libya and Sudan.",
+    "habitat": "Its natural habitats are dry savanna, subtropical or tropical dry shrubland, freshwater springs, saline lakes, intermittent saline lakes, and saline marshes. From 0 m to 1 400 m altitude",
+    "flight_period": "",
+    "red_list": {
+        "habitats_directive": "",
+        "red_list_EU27": "",
+        "red_list_europe": "",
+        "red_list_mediterranean": "",
+        "EU27_endemic": "",
+        "red_list_europe_endemic": "",
+        "trend_europe": ""
+    },
+    "images": {
+        "cloud_name": "dragonflies",
+        "all": []
+    },
+    "sources": [],
+    "links": [
+        {
+            "label": "iNaturalist",
+            "link": "https://www.inaturalist.org/taxa/93560-Agriocnemis-sania"
+        },
+        {
+            "label": "gbif.org",
+            "link": "https://www.gbif.org/species/5791669"
+        },
+        {
+            "label": "IUCN Red List",
+            "link": "https://www.iucnredlist.org/species/167280/83374189"
+        },
+        {
+            "label": "ADDO - African Dragonflies & Damselflies Online",
+            "link": "https://www.iucnredlist.org/species/59806/12030956"
+        }
+    ],
+    "meta": [
+        {
+            "label": "gbifTaxonKey",
+            "value": "5791669"
+        }
+    ]
+}

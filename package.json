@@ -14,9 +14,12 @@
     "rimraf": "^3.0.0"
   },
   "devDependencies": {
+    "@graphql-codegen/cli": "^2.6.2",
+    "@graphql-codegen/typescript": "^2.5.1",
     "apollo-link": "^1.2.13",
     "apollo-link-http": "^1.5.16",
     "apollo-server-testing": "^2.9.7",
+    "graphql-codegen": "^0.4.0",
     "graphql-tag": "^2.10.1",
     "husky": "^3.0.9",
     "jest": "^27.2.0",
@@ -39,7 +42,8 @@
     "test": "npm run lockfile-lint && npm run jest",
     "jest": "jest --forceExit --detectOpenHandles ",
     "update-snaps": "jest --updateSnapshot",
-    "lockfile-lint": "lockfile-lint --path package-lock.json --type npm --validate-https --allowed-hosts npm"
+    "lockfile-lint": "lockfile-lint --path package-lock.json --type npm --validate-https --allowed-hosts npm",
+    "generate-gql-types": "graphql-codegen"
   },
   "keywords": [
     "Dragonflies",

@@ -1,113 +1,72 @@
-const gql = require('graphql-tag')
-const nock = require('nock')
-
 const { createServer } = require('./__utils')
+const { GET_ABOUT_FAMILY_QUERY } = require('./__queries')
+const { assertNoErrors, testData } = require('./__helpers')
 
-const GET_INFO_ABOUT_FAMILY_FROM_NAME_QUERY = gql`
-  query aboutFamily($name: String!) {
-    aboutFamily(name: $name) {
-      title
-      author_citation
-      description
-      sources
-      links {
-        label
-        link
-      }
-      meta {
-        label
-        value
-      }
-    }
-  }
-`
-describe('Server - e2e: aboutFamily', () => {
+describe('About Family - e2e', () => {
   let server, executeOperation
 
   beforeEach(async () => {
-    const testServer = await createServer({
-      path: '/graphql'
-    })
+    const testServer = await createServer()
     server = testServer.server
     executeOperation = testServer.executeOperation
   })
 
-  afterEach(async () => { if (server) { await server.stop() } })
+  afterEach(async () => { 
+    if (server) { 
+      await server.stop() 
+    } 
+  })
 
-  function getQuery (name) {
-    return {
-      query: GET_INFO_ABOUT_FAMILY_FROM_NAME_QUERY,
-      variables: { name }
+  it('gets family information', async () => {
+    for (const family of testData.validFamilyNames) {
+      const res = await executeOperation({
+        query: GET_ABOUT_FAMILY_QUERY,
+        variables: { name: family }
+      })
+      
+      assertNoErrors(res)
+      expect(res.data.aboutFamily).toBeDefined()
+      
+      const familyInfo = res.data.aboutFamily
+      expect(familyInfo).toHaveProperty('title')
+      expect(familyInfo).toHaveProperty('author_citation')
+      expect(familyInfo).toHaveProperty('description')
+      expect(familyInfo).toHaveProperty('sources')
+      expect(familyInfo).toHaveProperty('links')
+      expect(familyInfo).toHaveProperty('meta')
+      
+      // Verify sources structure
+      expect(Array.isArray(familyInfo.sources)).toBe(true)
+      
+      // Verify links structure
+      expect(Array.isArray(familyInfo.links)).toBe(true)
+      familyInfo.links.forEach(link => {
+        expect(link).toHaveProperty('label')
+        expect(link).toHaveProperty('link')
+      })
+      
+      // Verify meta structure
+      expect(Array.isArray(familyInfo.meta)).toBe(true)
+      familyInfo.meta.forEach(meta => {
+        expect(meta).toHaveProperty('label')
+        expect(meta).toHaveProperty('value')
+      })
     }
-  }
-  function expects (res) {
-    expect(Object.keys(res.data.aboutFamily)).toEqual([
-      'title',
-      'author_citation',
-      'description',
-      'sources',
-      'links',
-      'meta'
-    ])
-
-    expect(Object.keys(res.data.aboutFamily.links[0])).toEqual([
-      'label',
-      'link'
-    ])
-
-    expect(Object.keys(res.data.aboutFamily.meta[0])).toEqual([
-      'label',
-      'value'
-    ])
-  }
-
-  it('gets info about family: Aeshnidae', async () => {
-    const res = await executeOperation(getQuery('Aeshnidae'))
-    expect(res)
   })
 
-  it('gets info about family: calopterygidae', async () => {
-    const res = await executeOperation(getQuery('calopterygidae'))
-    expect(res)
-  })
-  it('gets info about family: coenagrionidae', async () => {
-    const res = await executeOperation(getQuery('coenagrionidae'))
-    expect(res)
-  })
-  it('gets info about family: cordulegastridae', async () => {
-    const res = await executeOperation(getQuery('cordulegastridae'))
-    expect(res)
-  })
-  it('gets info about family: corduliidae', async () => {
-    const res = await executeOperation(getQuery('corduliidae'))
-    expect(res)
-  })
-  it('gets info about family: euphaeidae', async () => {
-    const res = await executeOperation(getQuery('euphaeidae'))
-    expect(res)
-  })
-  it('gets info about family: gomphidae', async () => {
-    const res = await executeOperation(getQuery('gomphidae'))
-    expect(res)
-  })
-  it('gets info about family: incertae sedis', async () => {
-    const res = await executeOperation(getQuery('incertae sedis'))
-    expect(res)
-  })
-  it('gets info about family: lestidae', async () => {
-    const res = await executeOperation(getQuery('lestidae'))
-    expect(res)
-  })
-  it('gets info about family: libellulidae', async () => {
-    const res = await executeOperation(getQuery('libellulidae'))
-    expect(res)
-  })
-  it('gets info about family: macromiidae', async () => {
-    const res = await executeOperation(getQuery('macromiidae'))
-    expect(res)
-  })
-  it('gets info about family: platycnemididae', async () => {
-    const res = await executeOperation(getQuery('platycnemididae'))
-    expect(res)
+  it('handles invalid family names', async () => {
+    for (const invalidFamily of testData.invalidNames) {
+      if (invalidFamily === null || invalidFamily === undefined) {
+        continue // Skip null/undefined which cause variables errors
+      }
+      
+      const res = await executeOperation({
+        query: GET_ABOUT_FAMILY_QUERY,
+        variables: { name: invalidFamily }
+      })
+      
+      assertNoErrors(res)
+      expect(res.data.aboutFamily).toBeNull()
+    }
   })
 })

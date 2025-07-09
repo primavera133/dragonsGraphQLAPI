@@ -54,11 +54,15 @@ async function createServer (options = {}) {
       }),
     })
 
-    if (!response.ok) {
+    // Always try to parse the response as JSON, even for HTTP errors
+    const result = await response.json()
+    
+    // If response is not ok but we have a valid GraphQL response, return it
+    // This allows us to handle GraphQL errors properly
+    if (!response.ok && !result.errors) {
       throw new Error(`HTTP error! status: ${response.status}`)
     }
 
-    const result = await response.json()
     return result
   }
 

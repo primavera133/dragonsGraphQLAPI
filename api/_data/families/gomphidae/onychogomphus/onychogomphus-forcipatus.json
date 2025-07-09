@@ -16,9 +16,9 @@
   "flight_period": "",
   "red_list": {
     "habitats_directive": "No",
-    "red_list_EU27": "Least Concern to Near threatened depending on subspecies",
-    "red_list_europe": "Least Concern to Near threatened depending on subspecies",
-    "red_list_mediterranean": "Least Concern to Near threatened depending on subspecies",
+    "red_list_EU27": "Least Concern to Near Threatened depending on subspecies",
+    "red_list_europe": "Least Concern to Near Threatened depending on subspecies",
+    "red_list_mediterranean": "Least Concern to Near Threatened depending on subspecies",
     "EU27_endemic": "No",
     "red_list_europe_endemic": "No",
     "trend_europe": "Stable to Decreasing depending on subspecie"

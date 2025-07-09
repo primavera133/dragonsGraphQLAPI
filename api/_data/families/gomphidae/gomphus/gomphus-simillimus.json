@@ -2,9 +2,7 @@
   "items_id": "9010d14492d0bc21802fd4fddf40136a",
   "scientific_name": "Gomphus simillimus",
   "author_citation": "Selys, 1840",
-  "local_names": [
-    "Yellow clubtail"
-  ],
+  "local_names": ["Yellow clubtail"],
   "description": "A bright yellow clubtail with black markings. It can be recognised from the others in the same genus, by the antehumeral stripes which are narrower or as wide as the adjacent black lines. On the thorax, the metapleural line is forked, unlike *Stylurus flavipes*. All segments of the upper side of the abdomen are crossed by a yellow line that in males widens at S8-S9. The legs are black with yellow lines on the tibiae and femura. Eyes are, as on all *gomphids*, wide apart and are blue or greenish.\n\n*G. simillimus* is very average in size, shape and colour. Co-occuring *Gomphus* species are excluded as follows; \n1. *G. vulgatissimus* lacks yellow lines on legs and central line on S8-S9. Mature males are greenish with green eyes.\n2. *G. pulchellus* is paler and duller, scarcely club-tailed and the black line in front of the metastigma is not dead-ended, but extending towards the forewing base.\n3. *Stylurus flavipes* has a pair of black-encircled stripes on the front of the thorax and the black stripe behind the metastigma is not forked.\n4. *G. graslinii* has forked male appendages and thicker black markings on the thorax.\n5. *G. lucasii* may overlap in Morocco or Algeria. It is almost identical to *G. simillimus* and cen be distinguished with certainty only by hand characters.\n\nAs in all *gomphids* black markings are reduced in hot, arid areas. The Mahgrebian subspecies *maroccanus* is paler (distinct but also variable).",
   "behaviour": "",
   "size": {
@@ -23,9 +21,9 @@
   "flight_period": "May to July",
   "red_list": {
     "habitats_directive": "No",
-    "red_list_EU27": "Near threatened",
-    "red_list_europe": "Near threatened",
-    "red_list_mediterranean": "Near threatened",
+    "red_list_EU27": "Near Threatened",
+    "red_list_europe": "Near Threatened",
+    "red_list_mediterranean": "Near Threatened",
     "EU27_endemic": "No",
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"

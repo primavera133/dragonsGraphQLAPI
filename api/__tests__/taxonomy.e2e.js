@@ -1,56 +1,57 @@
-const gql = require('graphql-tag')
-const nock = require('nock')
-
 const { createServer } = require('./__utils')
-
-const GET_FULL_TAXONOMY_QUERY = gql`
-  query {
-    taxonomy {
-      families {
-        family_name
-        genera {
-          family_name
-          genus_name
-          species {
-            items_id
-            scientific_name
-          }
-        }
-      }
-    }
-  }
-`
+const { GET_TAXONOMY_QUERY } = require('./__queries')
+const { assertNoErrors, assertValidScientificName } = require('./__helpers')
 
 describe('Taxonomy - e2e', () => {
   let server, executeOperation
 
   beforeEach(async () => {
-    const testServer = await createServer({
-      path: '/graphql'
-    })
+    const testServer = await createServer()
     server = testServer.server
     executeOperation = testServer.executeOperation
   })
 
-  afterEach(async () => { if (server) { await server.stop() } })
+  afterEach(async () => { 
+    if (server) { 
+      await server.stop() 
+    } 
+  })
 
-  it('gets full taxonomy', async () => {
+  it('gets complete taxonomic hierarchy', async () => {
     const res = await executeOperation({
-        query: GET_FULL_TAXONOMY_QUERY
-      })
+      query: GET_TAXONOMY_QUERY
+    })
 
-    expect(res.errors).toBeUndefined()
+    assertNoErrors(res)
     expect(res.data.taxonomy).toBeDefined()
-    expect(res.data.taxonomy.families[0].family_name).toBeDefined()
-    expect(res.data.taxonomy.families[0].genera[0].genus_name).toBeDefined()
-    expect(
-      res.data.taxonomy.families[0].genera[0].species[0].scientific_name
-    ).toBeDefined()
-    expect(
-      res.data.taxonomy.families[0].genera[0].species[0].items_id
-    ).toBeDefined()
-    expect(
-      Object.keys(res.data.taxonomy.families[0].genera[0].species[0])
-    ).toEqual(['items_id', 'scientific_name'])
+    expect(res.data.taxonomy.families).toBeDefined()
+    expect(Array.isArray(res.data.taxonomy.families)).toBe(true)
+    expect(res.data.taxonomy.families.length).toBeGreaterThan(0)
+    
+    // Verify taxonomic structure
+    res.data.taxonomy.families.forEach(family => {
+      expect(family).toHaveProperty('family_name')
+      expect(family).toHaveProperty('genera')
+      expect(Array.isArray(family.genera)).toBe(true)
+      
+      family.genera.forEach(genus => {
+        expect(genus).toHaveProperty('family_name')
+        expect(genus).toHaveProperty('genus_name')
+        expect(genus).toHaveProperty('species')
+        expect(Array.isArray(genus.species)).toBe(true)
+        
+        // Verify family name consistency
+        expect(genus.family_name).toBe(family.family_name)
+        
+        genus.species.forEach(species => {
+          expect(species).toHaveProperty('items_id')
+          expect(species).toHaveProperty('scientific_name')
+          expect(species).toHaveProperty('local_names')
+          expect(Array.isArray(species.local_names)).toBe(true)
+          
+          assertValidScientificName(species.scientific_name)
+        })
+      })
+    })
   })
 })

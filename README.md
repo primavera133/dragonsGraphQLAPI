@@ -1,6 +1,6 @@
 # dragonsGraphQLAPI
 
-A Dragonfly GraphQL API build on NodeJS and Micro-Lambdas
+A Dragonfly GraphQL API build on NodeJS and Apollo 4
 
 [![Build Status](https://travis-ci.org/primavera133/dragonsGraphQLAPI.svg?branch=master)](https://travis-ci.org/primavera133/dragonsGraphQLAPI)
 

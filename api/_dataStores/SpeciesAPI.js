@@ -13,7 +13,7 @@ class SpeciesAPI {
     const family = this.store.species[
       familyName.toLowerCase().replace(' ', '_')
     ]
-    if (!family) return new GraphQLError(`Family not found: ${familyName}`)
+    if (!family) throw new GraphQLError(`Family not found: ${familyName}`)
 
     return Object.values(family).reduce((acc, genera) => acc.concat(genera), [])
   }
@@ -22,7 +22,7 @@ class SpeciesAPI {
     const family = this.store.species[
       familyName.toLowerCase().replace(' ', '_')
     ]
-    if (!family) return new GraphQLError(`Family not found: ${familyName}`)
+    if (!family) throw new GraphQLError(`Family not found: ${familyName}`)
 
     return Object.keys(family).map(genus_name => ({
       genus_name
@@ -38,7 +38,7 @@ class SpeciesAPI {
       {}
     )
     const genus = allGenera[genusName.toLowerCase()]
-    if (!genus) return new GraphQLError(`Genus not found: ${genusName}`)
+    if (!genus) throw new GraphQLError(`Genus not found: ${genusName}`)
     return genus
   }
 
@@ -46,7 +46,7 @@ class SpeciesAPI {
     const specie = this.store.allSpecies.find(
       specie => specie.items_id === items_id
     )
-    if (!specie) return new GraphQLError(`Specie not found: ${items_id}`)
+    if (!specie) throw new GraphQLError(`Specie not found: ${items_id}`)
     return specie
   }
 
@@ -57,7 +57,7 @@ class SpeciesAPI {
     )
 
     if (!specie) {
-      return new GraphQLError(`Specie not found: ${scientific_name}`)
+      throw new GraphQLError(`Specie not found: ${scientific_name}`)
     }
     return specie
   }

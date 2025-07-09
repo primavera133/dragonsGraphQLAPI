@@ -12,9 +12,9 @@
   "flight_period": "April to August",
   "red_list": {
     "habitats_directive": "II + IV",
-    "red_list_EU27": "Near threatened",
-    "red_list_europe": "Near threatened",
-    "red_list_mediterranean": "Near threatened",
+    "red_list_EU27": "Near Threatened",
+    "red_list_europe": "Near Threatened",
+    "red_list_mediterranean": "Near Threatened",
     "EU27_endemic": "No",
     "red_list_europe_endemic": "No",
     "trend_europe": "Decreasing"

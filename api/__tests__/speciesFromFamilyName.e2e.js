@@ -1,8 +1,7 @@
-const { createTestClient } = require('apollo-server-testing')
 const gql = require('graphql-tag')
 const nock = require('nock')
 
-const { createServer, toPromise } = require('./__utils')
+const { createServer } = require('./__utils')
 
 const GET_SPECIES_FROM_FAMILY_NAME_QUERY = gql`
   query familySpecies($name: String!) {
@@ -55,7 +54,7 @@ const GET_SPECIES_FROM_FAMILY_NAME_QUERY = gql`
 `
 
 describe('Server - e2e: SpecieFromFamilyName', () => {
-  let service, graphql
+  let server, executeOperation
 
   it('gets species from family names', async () => {
     const familiesToTest = [
@@ -72,19 +71,18 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
       'Macromiidae',
       'Platycnemididae'
     ]
-    familiesToTest.forEach(async family => {
+    
+    for (const family of familiesToTest) {
       const testServer = await createServer({
         path: '/graphql'
       })
-      service = testServer.service
-      graphql = testServer.executeOperation
+      server = testServer.server
+      executeOperation = testServer.executeOperation
 
-      const res = await toPromise(
-        graphql({
-          query: GET_SPECIES_FROM_FAMILY_NAME_QUERY,
-          variables: { name: family }
-        })
-      )
+      const res = await executeOperation({
+        query: GET_SPECIES_FROM_FAMILY_NAME_QUERY,
+        variables: { name: family }
+      })
       // console.log(222, res.data.familySpecies[0])
       expect(Object.keys(res.data.familySpecies[0])).toEqual([
         'items_id',
@@ -141,7 +139,7 @@ describe('Server - e2e: SpecieFromFamilyName', () => {
         'value'
       ])
 
-      service.close()
-    })
+      await server.stop()
+    }
   })
 })

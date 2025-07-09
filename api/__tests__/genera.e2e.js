@@ -1,8 +1,7 @@
-const { createTestClient } = require('apollo-server-testing')
 const gql = require('graphql-tag')
 const nock = require('nock')
 
-const { createServer, toPromise } = require('./__utils')
+const { createServer } = require('./__utils')
 
 const GET_ALL_GENERA_QUERY = gql`
   query {
@@ -17,24 +16,22 @@ const GET_ALL_GENERA_QUERY = gql`
 `
 
 describe('Genera - e2e', () => {
-  let service, graphql
+  let server, executeOperation
 
   beforeEach(async () => {
     const testServer = await createServer({
       path: '/graphql'
     })
-    service = testServer.service
-    graphql = testServer.executeOperation
+    server = testServer.server
+    executeOperation = testServer.executeOperation
   })
 
-  afterEach(() => service.close())
+  afterEach(async () => { if (server) { await server.stop() } })
 
   it('gets list of all genera', async () => {
-    const res = await toPromise(
-      graphql({
-        query: GET_ALL_GENERA_QUERY
-      })
-    )
+    const res = await executeOperation({
+      query: GET_ALL_GENERA_QUERY
+    })
 
     expect(res.data.genera).toBeDefined()
     expect(Object.keys(res.data.genera[0])).toEqual([

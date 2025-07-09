@@ -1,48 +1,73 @@
-const micro = require('micro')
-const listen = require('test-listen')
 const fetch = require('node-fetch')
-const { execute, toPromise } = require('apollo-link')
-const { HttpLink } = require('apollo-link-http')
+const { ApolloServer } = require('@apollo/server')
+const { startStandaloneServer } = require('@apollo/server/standalone')
 
-const context = require('../_context')
 const typeDefs = require('../_schema')
 const resolvers = require('../_resolvers')
-const { ApolloServer } = require('apollo-server-micro')
 const SpeciesAPI = require('../_dataStores/SpeciesAPI')
 const AboutAPI = require('../_dataStores/AboutAPI')
 const {
   createSpeciesStore,
   createAboutStore
 } = require('../_utils/createStore')
+
 const speciesStore = createSpeciesStore()
 const aboutStore = createAboutStore()
 
-module.exports.toPromise = toPromise
-
 async function createServer (options = {}) {
-  const speciesAPI = new SpeciesAPI({ store: speciesStore })
-  const aboutAPI = new AboutAPI({ store: aboutStore })
-  const apolloServer = new ApolloServer({
+  const server = new ApolloServer({
     typeDefs,
     resolvers,
-    dataSources: () => ({ speciesAPI, aboutAPI }),
-    context
+    introspection: true,
   })
 
-  const service = micro(apolloServer.createHandler(options))
-  const uri = await listen(service)
-
-  const link = new HttpLink({
-    uri: `${uri}/graphql`,
-    fetch
+  const { url } = await startStandaloneServer(server, {
+    listen: { port: 0 }, // Use random available port
+    context: async ({ req, res }) => {
+      const speciesAPI = new SpeciesAPI({ store: speciesStore })
+      const aboutAPI = new AboutAPI({ store: aboutStore })
+      
+      // Initialize the data sources
+      speciesAPI.initialize({ context: { req, res } })
+      aboutAPI.initialize({ context: { req, res } })
+      
+      return {
+        req,
+        res,
+        dataSources: {
+          speciesAPI,
+          aboutAPI
+        }
+      }
+    }
   })
 
-  const executeOperation = ({ query, variables = {} }) =>
-    execute(link, { query, variables })
+  const executeOperation = async ({ query, variables = {} }) => {
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        query: typeof query === 'string' ? query : query.loc.source.body,
+        variables,
+      }),
+    })
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`)
+    }
+
+    const result = await response.json()
+    return result
+  }
 
   return {
-    service,
+    url,
+    server,
     executeOperation
   }
 }
-module.exports.createServer = createServer
+module.exports = {
+  createServer
+}

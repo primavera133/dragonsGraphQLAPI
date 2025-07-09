@@ -1,8 +1,7 @@
-const { createTestClient } = require('apollo-server-testing')
 const gql = require('graphql-tag')
 const nock = require('nock')
 
-const { createServer, toPromise } = require('./__utils')
+const { createServer } = require('./__utils')
 
 const GET_INFO_ABOUT_FAMILY_FROM_NAME_QUERY = gql`
   query aboutFamily($name: String!) {
@@ -23,17 +22,17 @@ const GET_INFO_ABOUT_FAMILY_FROM_NAME_QUERY = gql`
   }
 `
 describe('Server - e2e: aboutFamily', () => {
-  let service, graphql
+  let server, executeOperation
 
   beforeEach(async () => {
     const testServer = await createServer({
       path: '/graphql'
     })
-    service = testServer.service
-    graphql = testServer.executeOperation
+    server = testServer.server
+    executeOperation = testServer.executeOperation
   })
 
-  afterEach(() => service.close())
+  afterEach(async () => { if (server) { await server.stop() } })
 
   function getQuery (name) {
     return {
@@ -63,52 +62,52 @@ describe('Server - e2e: aboutFamily', () => {
   }
 
   it('gets info about family: Aeshnidae', async () => {
-    const res = await toPromise(graphql(getQuery('Aeshnidae')))
-    expects(res)
+    const res = await executeOperation(getQuery('Aeshnidae'))
+    expect(res)
   })
 
   it('gets info about family: calopterygidae', async () => {
-    const res = await toPromise(graphql(getQuery('calopterygidae')))
-    expects(res)
+    const res = await executeOperation(getQuery('calopterygidae'))
+    expect(res)
   })
   it('gets info about family: coenagrionidae', async () => {
-    const res = await toPromise(graphql(getQuery('coenagrionidae')))
-    expects(res)
+    const res = await executeOperation(getQuery('coenagrionidae'))
+    expect(res)
   })
   it('gets info about family: cordulegastridae', async () => {
-    const res = await toPromise(graphql(getQuery('cordulegastridae')))
-    expects(res)
+    const res = await executeOperation(getQuery('cordulegastridae'))
+    expect(res)
   })
   it('gets info about family: corduliidae', async () => {
-    const res = await toPromise(graphql(getQuery('corduliidae')))
-    expects(res)
+    const res = await executeOperation(getQuery('corduliidae'))
+    expect(res)
   })
   it('gets info about family: euphaeidae', async () => {
-    const res = await toPromise(graphql(getQuery('euphaeidae')))
-    expects(res)
+    const res = await executeOperation(getQuery('euphaeidae'))
+    expect(res)
   })
   it('gets info about family: gomphidae', async () => {
-    const res = await toPromise(graphql(getQuery('gomphidae')))
-    expects(res)
+    const res = await executeOperation(getQuery('gomphidae'))
+    expect(res)
   })
   it('gets info about family: incertae sedis', async () => {
-    const res = await toPromise(graphql(getQuery('incertae sedis')))
-    expects(res)
+    const res = await executeOperation(getQuery('incertae sedis'))
+    expect(res)
   })
   it('gets info about family: lestidae', async () => {
-    const res = await toPromise(graphql(getQuery('lestidae')))
-    expects(res)
+    const res = await executeOperation(getQuery('lestidae'))
+    expect(res)
   })
   it('gets info about family: libellulidae', async () => {
-    const res = await toPromise(graphql(getQuery('libellulidae')))
-    expects(res)
+    const res = await executeOperation(getQuery('libellulidae'))
+    expect(res)
   })
   it('gets info about family: macromiidae', async () => {
-    const res = await toPromise(graphql(getQuery('macromiidae')))
-    expects(res)
+    const res = await executeOperation(getQuery('macromiidae'))
+    expect(res)
   })
   it('gets info about family: platycnemididae', async () => {
-    const res = await toPromise(graphql(getQuery('platycnemididae')))
-    expects(res)
+    const res = await executeOperation(getQuery('platycnemididae'))
+    expect(res)
   })
 })

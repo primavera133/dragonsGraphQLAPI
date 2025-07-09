@@ -1,8 +1,7 @@
-const { createTestClient } = require('apollo-server-testing')
 const gql = require('graphql-tag')
 const nock = require('nock')
 
-const { createServer, toPromise } = require('./__utils')
+const { createServer } = require('./__utils')
 
 const GET_FULL_TAXONOMY_QUERY = gql`
   query {
@@ -23,25 +22,24 @@ const GET_FULL_TAXONOMY_QUERY = gql`
 `
 
 describe('Taxonomy - e2e', () => {
-  let service, graphql
+  let server, executeOperation
 
   beforeEach(async () => {
     const testServer = await createServer({
       path: '/graphql'
     })
-    service = testServer.service
-    graphql = testServer.executeOperation
+    server = testServer.server
+    executeOperation = testServer.executeOperation
   })
 
-  afterEach(() => service.close())
+  afterEach(async () => { if (server) { await server.stop() } })
 
   it('gets full taxonomy', async () => {
-    const res = await toPromise(
-      graphql({
+    const res = await executeOperation({
         query: GET_FULL_TAXONOMY_QUERY
       })
-    )
 
+    expect(res.errors).toBeUndefined()
     expect(res.data.taxonomy).toBeDefined()
     expect(res.data.taxonomy.families[0].family_name).toBeDefined()
     expect(res.data.taxonomy.families[0].genera[0].genus_name).toBeDefined()

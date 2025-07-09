@@ -1,8 +1,6 @@
-const { createTestClient } = require('apollo-server-testing')
+const { createServer } = require('./__utils')
 const gql = require('graphql-tag')
 const nock = require('nock')
-
-const { createServer, toPromise } = require('./__utils')
 
 const GET_ALL_FAMILIES_QUERY = gql`
   query {
@@ -13,24 +11,24 @@ const GET_ALL_FAMILIES_QUERY = gql`
 `
 
 describe('Families - e2e', () => {
-  let service, graphql
+  let server, executeOperation
 
   beforeEach(async () => {
     const testServer = await createServer({
       path: '/graphql'
     })
-    service = testServer.service
-    graphql = testServer.executeOperation
+    server = testServer.server
+    executeOperation = testServer.executeOperation
   })
 
-  afterEach(() => service.close())
+  afterEach(async () => {
+    await server.stop()
+  })
 
   it('gets list of all families', async () => {
-    const res = await toPromise(
-      graphql({
-        query: GET_ALL_FAMILIES_QUERY
-      })
-    )
+    const res = await executeOperation({
+      query: GET_ALL_FAMILIES_QUERY
+    })
 
     expect(res.data.families).toBeDefined()
     expect(Object.keys(res.data.families[0])).toEqual(['family_name'])

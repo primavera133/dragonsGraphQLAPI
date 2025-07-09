@@ -1,8 +1,7 @@
-const { createTestClient } = require('apollo-server-testing')
 const gql = require('graphql-tag')
 const nock = require('nock')
 
-const { createServer, toPromise } = require('./__utils')
+const { createServer } = require('./__utils')
 
 const GET_ALL_SPECIES_QUERY = gql`
   query {
@@ -55,24 +54,22 @@ const GET_ALL_SPECIES_QUERY = gql`
 `
 
 describe('Server - e2e', () => {
-  let service, graphql
+  let server, executeOperation
 
   beforeEach(async () => {
     const testServer = await createServer({
       path: '/graphql'
     })
-    service = testServer.service
-    graphql = testServer.executeOperation
+    server = testServer.server
+    executeOperation = testServer.executeOperation
   })
 
-  afterEach(() => service.close())
+  afterEach(async () => { if (server) { await server.stop() } })
 
   it('gets list of all species', async () => {
-    const res = await toPromise(
-      graphql({
-        query: GET_ALL_SPECIES_QUERY
-      })
-    )
+    const res = await executeOperation({
+      query: GET_ALL_SPECIES_QUERY
+    })
 
     expect(res.data.species).toBeDefined()
     expect(res.data.species[0].items_id).toBeDefined()

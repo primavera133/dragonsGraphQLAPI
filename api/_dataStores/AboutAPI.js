@@ -1,9 +1,7 @@
-const { DataSource } = require('apollo-datasource')
-const { ApolloError } = require('apollo-server-micro')
+const { GraphQLError } = require('graphql')
 
-class AboutAPI extends DataSource {
+class AboutAPI {
   constructor ({ store }) {
-    super()
     this.store = store
   }
 

@@ -1,8 +1,7 @@
-const { createTestClient } = require('apollo-server-testing')
 const gql = require('graphql-tag')
 const nock = require('nock')
 
-const { createServer, toPromise } = require('./__utils')
+const { createServer } = require('./__utils')
 
 const GET_SPECIE_FROM_SCIENTIFIC_NAME_QUERY = gql`
   query specieFromScientificName($scientific_name: String!) {
@@ -55,25 +54,23 @@ const GET_SPECIE_FROM_SCIENTIFIC_NAME_QUERY = gql`
 `
 
 describe('Server - e2e: SpecieFromScientificName', () => {
-  let service, graphql
+  let server, executeOperation
 
   beforeEach(async () => {
     const testServer = await createServer({
       path: '/graphql'
     })
-    service = testServer.service
-    graphql = testServer.executeOperation
+    server = testServer.server
+    executeOperation = testServer.executeOperation
   })
 
-  afterEach(() => service.close())
+  afterEach(async () => { if (server) { await server.stop() } })
 
   it('gets a specie from scientific_name', async () => {
-    const res = await toPromise(
-      graphql({
-        query: GET_SPECIE_FROM_SCIENTIFIC_NAME_QUERY,
-        variables: { scientific_name: 'Aeshna affinis' }
-      })
-    )
+    const res = await executeOperation({
+      query: GET_SPECIE_FROM_SCIENTIFIC_NAME_QUERY,
+      variables: { scientific_name: 'Aeshna affinis' }
+    })
     expect(res).toMatchSnapshot()
   })
 })

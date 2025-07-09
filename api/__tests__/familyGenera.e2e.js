@@ -1,8 +1,7 @@
-const { createTestClient } = require('apollo-server-testing')
 const gql = require('graphql-tag')
 const nock = require('nock')
 
-const { createServer, toPromise } = require('./__utils')
+const { createServer } = require('./__utils')
 
 const GET_GENUS_NAME_FROM_FAMILY_NAME_QUERY = gql`
   query familyGenera($name: String!) {
@@ -12,17 +11,17 @@ const GET_GENUS_NAME_FROM_FAMILY_NAME_QUERY = gql`
   }
 `
 describe('Server - e2e: familyGenera', () => {
-  let service, graphql
+  let server, executeOperation
 
   beforeEach(async () => {
     const testServer = await createServer({
       path: '/graphql'
     })
-    service = testServer.service
-    graphql = testServer.executeOperation
+    server = testServer.server
+    executeOperation = testServer.executeOperation
   })
 
-  afterEach(() => service.close())
+  afterEach(async () => { if (server) { await server.stop() } })
 
   function getQuery (name) {
     return {
@@ -35,7 +34,7 @@ describe('Server - e2e: familyGenera', () => {
   }
 
   it('gets genus names from family name: Aeshnidae', async () => {
-    const res = await toPromise(graphql(getQuery('Aeshnidae')))
+    const res = await executeOperation(getQuery('Aeshnidae'))
     expect(res.data.familyGenera).toEqual(
       ['aeshna', 'anax', 'boyeria', 'brachytron', 'caliaeschna'].map(
         genus_name => ({ genus_name })
@@ -44,14 +43,14 @@ describe('Server - e2e: familyGenera', () => {
   })
 
   it('gets genus names from family name: Calopterygidae', async () => {
-    const res = await toPromise(graphql(getQuery('Calopterygidae')))
+    const res = await executeOperation(getQuery('Calopterygidae'))
     expect(res.data.familyGenera).toEqual(
       ['calopteryx'].map(genus_name => ({ genus_name }))
     )
   })
 
   it('gets genus names from family name: Coenagrionidae', async () => {
-    const res = await toPromise(graphql(getQuery('Coenagrionidae')))
+    const res = await executeOperation(getQuery('Coenagrionidae'))
     expect(res.data.familyGenera).toEqual(
       [
         'agriocnemis',
@@ -67,14 +66,14 @@ describe('Server - e2e: familyGenera', () => {
   })
 
   it('gets genus names from family name: Cordulegastridae', async () => {
-    const res = await toPromise(graphql(getQuery('Cordulegastridae')))
+    const res = await executeOperation(getQuery('Cordulegastridae'))
     expect(res.data.familyGenera).toEqual(
       ['cordulegaster'].map(genus_name => ({ genus_name }))
     )
   })
 
   it('gets genus names from family name: Corduliidae', async () => {
-    const res = await toPromise(graphql(getQuery('Corduliidae')))
+    const res = await executeOperation(getQuery('Corduliidae'))
     expect(res.data.familyGenera).toEqual(
       ['cordulia', 'epitheca', 'somatochlora'].map(genus_name => ({
         genus_name
@@ -83,7 +82,7 @@ describe('Server - e2e: familyGenera', () => {
   })
 
   it('gets genus names from family name: Euphaeidae', async () => {
-    const res = await toPromise(graphql(getQuery('Euphaeidae')))
+    const res = await executeOperation(getQuery('Euphaeidae'))
     expect(res.data.familyGenera).toEqual(
       ['epallage'].map(genus_name => ({
         genus_name
@@ -92,7 +91,7 @@ describe('Server - e2e: familyGenera', () => {
   })
 
   it('gets genus names from family name: Gomphidae', async () => {
-    const res = await toPromise(graphql(getQuery('Gomphidae')))
+    const res = await executeOperation(getQuery('Gomphidae'))
     expect(res.data.familyGenera).toEqual(
       [
         'gomphus',
@@ -108,7 +107,7 @@ describe('Server - e2e: familyGenera', () => {
   })
 
   it('gets genus names from family name: incertae sedis', async () => {
-    const res = await toPromise(graphql(getQuery('incertae sedis')))
+    const res = await executeOperation(getQuery('incertae sedis'))
     expect(res.data.familyGenera).toEqual(
       ['oxygastra'].map(genus_name => ({
         genus_name
@@ -117,7 +116,7 @@ describe('Server - e2e: familyGenera', () => {
   })
 
   it('gets genus names from family name: Lestidae', async () => {
-    const res = await toPromise(graphql(getQuery('Lestidae')))
+    const res = await executeOperation(getQuery('Lestidae'))
     expect(res.data.familyGenera).toEqual(
       ['chalcolestes', 'lestes', 'sympecma'].map(genus_name => ({
         genus_name
@@ -126,7 +125,7 @@ describe('Server - e2e: familyGenera', () => {
   })
 
   it('gets genus names from family name: Libellulidae', async () => {
-    const res = await toPromise(graphql(getQuery('Libellulidae')))
+    const res = await executeOperation(getQuery('Libellulidae'))
     expect(res.data.familyGenera).toEqual(
       [
         'brachythemis',
@@ -147,7 +146,7 @@ describe('Server - e2e: familyGenera', () => {
   })
 
   it('gets genus names from family name: Macromiidae', async () => {
-    const res = await toPromise(graphql(getQuery('Macromiidae')))
+    const res = await executeOperation(getQuery('Macromiidae'))
     expect(res.data.familyGenera).toEqual(
       ['macromia'].map(genus_name => ({
         genus_name
@@ -156,7 +155,7 @@ describe('Server - e2e: familyGenera', () => {
   })
 
   it('gets genus names from family name: Platycnemididae', async () => {
-    const res = await toPromise(graphql(getQuery('Platycnemididae')))
+    const res = await executeOperation(getQuery('Platycnemididae'))
     expect(res.data.familyGenera).toEqual(
       ['platycnemis'].map(genus_name => ({
         genus_name

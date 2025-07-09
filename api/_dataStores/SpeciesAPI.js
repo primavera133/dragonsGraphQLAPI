@@ -1,9 +1,7 @@
-const { DataSource } = require('apollo-datasource')
-const { ApolloError } = require('apollo-server-micro')
+const { GraphQLError } = require('graphql')
 
-class SpeciesAPI extends DataSource {
+class SpeciesAPI {
   constructor ({ store }) {
-    super()
     this.store = store
   }
 
@@ -15,7 +13,7 @@ class SpeciesAPI extends DataSource {
     const family = this.store.species[
       familyName.toLowerCase().replace(' ', '_')
     ]
-    if (!family) return new ApolloError(`Family not found: ${name}`)
+    if (!family) return new GraphQLError(`Family not found: ${familyName}`)
 
     return Object.values(family).reduce((acc, genera) => acc.concat(genera), [])
   }
@@ -24,7 +22,7 @@ class SpeciesAPI extends DataSource {
     const family = this.store.species[
       familyName.toLowerCase().replace(' ', '_')
     ]
-    if (!family) return new ApolloError(`Family not found: ${name}`)
+    if (!family) return new GraphQLError(`Family not found: ${familyName}`)
 
     return Object.keys(family).map(genus_name => ({
       genus_name
@@ -40,7 +38,7 @@ class SpeciesAPI extends DataSource {
       {}
     )
     const genus = allGenera[genusName.toLowerCase()]
-    if (!genus) return new ApolloError(`Genus not found: ${genusName}`)
+    if (!genus) return new GraphQLError(`Genus not found: ${genusName}`)
     return genus
   }
 
@@ -48,7 +46,7 @@ class SpeciesAPI extends DataSource {
     const specie = this.store.allSpecies.find(
       specie => specie.items_id === items_id
     )
-    if (!specie) return new ApolloError(`Specie not found: ${items_id}`)
+    if (!specie) return new GraphQLError(`Specie not found: ${items_id}`)
     return specie
   }
 
@@ -59,7 +57,7 @@ class SpeciesAPI extends DataSource {
     )
 
     if (!specie) {
-      return new ApolloError(`Specie not found: ${scientific_name}`)
+      return new GraphQLError(`Specie not found: ${scientific_name}`)
     }
     return specie
   }

@@ -6,9 +6,9 @@ This is a specialized GraphQL API for European dragonflies and damselflies (Odon
 ## Project Structure
 
 ### Core Technologies
-- **Framework**: Node.js with Apollo Server (Apollo Server Micro)
-- **GraphQL**: Apollo Server with schema-first approach
-- **Runtime**: Micro lambdas for serverless deployment
+- **Framework**: Node.js 18+ with Apollo Server 4
+- **GraphQL**: Apollo Server with @as-integrations/next for Vercel
+- **Runtime**: Vercel serverless functions
 - **Testing**: Jest with end-to-end tests
 - **Code Generation**: GraphQL Code Generator for TypeScript types
 
@@ -121,7 +121,7 @@ The data is compiled from authoritative European field guides:
 ## Development Setup
 
 ### Dependencies
-- **Production**: Apollo Server, GraphQL, CORS handling
+- **Production**: Apollo Server 4, GraphQL 16, Next.js integration
 - **Development**: Jest, GraphQL Code Generator, Prettier
 - **Quality**: Husky pre-commit hooks, Lockfile linting
 
@@ -133,19 +133,21 @@ The data is compiled from authoritative European field guides:
 ### Build Process
 - **Type Generation**: Automatic TypeScript type generation
 - **Linting**: Package lockfile validation
-- **CI/CD**: Travis CI integration
+- **CI/CD**: Vercel deployment integration
+- **Node.js**: Requires Node.js 18 or higher
 
 ## Deployment
 
 ### Serverless Architecture
-- **Runtime**: Micro lambdas for efficient scaling
+- **Runtime**: Vercel serverless functions
 - **CORS**: Configured for cross-origin requests
-- **Playground**: GraphQL Playground enabled for development
-- **Introspection**: Schema introspection enabled
+- **GraphQL Introspection**: Enabled for development
+- **Modern Node.js**: Uses Node.js 18+ features
 
 ### Environment Configuration
-- **Apollo Engine**: Performance monitoring integration
+- **Optional Authentication**: Token-based API access control
 - **Environment Variables**: Secure configuration management
+- **Vercel Integration**: Native Vercel deployment support
 
 ## Usage Examples
 
@@ -250,5 +252,28 @@ query GetSpeciesDetails($id: ID!) {
 - Add tests for new features
 - Update documentation
 - Maintain TypeScript types
+
+## Deployment
+
+### Vercel Deployment
+The project is configured for seamless deployment on Vercel:
+
+```bash
+# Install Vercel CLI
+npm i -g vercel
+
+# Deploy to Vercel
+vercel
+```
+
+### Requirements
+- Node.js 18 or higher
+- Modern GraphQL client support
+- Optional: Environment variables for authentication
+
+### Configuration Files
+- `vercel.json`: Vercel deployment configuration
+- `.env.example`: Environment variables template
+- `DEPLOYMENT.md`: Detailed deployment guide
 
 This project serves as a comprehensive digital resource for European dragonfly and damselfly identification, research, and conservation, providing both amateur naturalists and professional researchers with authoritative, well-structured data through a modern GraphQL API.

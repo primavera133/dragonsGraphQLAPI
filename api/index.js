@@ -1,6 +1,6 @@
-const { ApolloServer } = require('apollo-server-micro')
-const microCors = require('micro-cors')
-const cors = microCors({ allowMethods: ['PUT', 'POST'] })
+const { ApolloServer } = require('@apollo/server')
+const { startServerAndCreateNextHandler } = require('@as-integrations/next')
+const { GraphQLError } = require('graphql')
 
 const typeDefs = require('./_schema')
 const { createSpeciesStore, createAboutStore } = require('./_utils/createStore')
@@ -11,23 +11,44 @@ const resolvers = require('./_resolvers')
 const speciesStore = createSpeciesStore()
 const aboutStore = createAboutStore()
 
-const dataSources = () => ({
-  speciesAPI: new SpeciesAPI({ store: speciesStore }),
-  aboutAPI: new AboutAPI({ store: aboutStore })
-})
-
-const context = require('./_context')
-
 const server = new ApolloServer({
   typeDefs,
   resolvers,
-  dataSources,
-  context,
   introspection: true,
-  playground: true,
-  engine: {
-    apiKey: process.env.ENGINE_API_KEY
+  plugins: [
+    {
+      requestDidStart() {
+        return {
+          willSendResponse(requestContext) {
+            const { response } = requestContext
+            response.http.headers.set('Access-Control-Allow-Origin', '*')
+            response.http.headers.set('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS')
+            response.http.headers.set('Access-Control-Allow-Headers', 'Content-Type, Authorization')
+          },
+        }
+      },
+    },
+  ],
+})
+
+const handler = startServerAndCreateNextHandler(server, {
+  context: async (req, res) => {
+    const speciesAPI = new SpeciesAPI({ store: speciesStore })
+    const aboutAPI = new AboutAPI({ store: aboutStore })
+    
+    // Initialize the data sources
+    speciesAPI.initialize({ context: { req, res } })
+    aboutAPI.initialize({ context: { req, res } })
+    
+    return {
+      req,
+      res,
+      dataSources: {
+        speciesAPI,
+        aboutAPI
+      }
+    }
   }
 })
 
-module.exports = cors(server.createHandler({ path: '/api' }))
+module.exports = handler

@@ -5,6 +5,7 @@ module.exports = {
   // Test organization
   testMatch: [
     '**/api/__tests__/**/*.e2e.js',
+    '**/api/__tests__/**/*.spec.js',
     '**/api/_utils/**/*.spec.js'
   ],
   

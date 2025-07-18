@@ -2,7 +2,12 @@
   "items_id": "4f3e9bdc8e9d563268c71d70d3fc1617",
   "scientific_name": "Anax immaculifrons",
   "author_citation": "Rambur, 1842",
-  "local_names": ["Magnificent emperor", "Blue darner"],
+  "local_names": [
+    "Magnificent emperor",
+    "Blue darner",
+    "Indische Königslibelle",
+    "Beekkeizerlibel"
+  ],
   "description": "Immediately recognisable due to its large size and black abdomen and lighter coloured rings. The thorax is light in colour with two dark bands on the sides.\nFrons has no markings, which gives its scientific name. The eyes, the frons and the light-coloured portions of the body are greenish yellow in females and immature males. In the mature males , the rings on the abdomen turns pink beige, while the light coloured portions on the thorax turn bluish and the eyes are bright blue. The wings on the males have a strong brown tint. The wings on the females are at most only lightly tinted.",
   "behaviour": "Females oviposit the eggs into reeds emerging from waters.",
   "size": { "length": "80-85 mm", "wingspan": "110-120 mm" },
@@ -13,7 +18,7 @@
   "red_list": {
     "habitats_directive": "No",
     "red_list_EU27": "Vulnerable",
-    "red_list_europe": "Vulnerable",
+    "red_list_europe": "Least Concern",
     "red_list_mediterranean": "Least Concern",
     "EU27_endemic": "No",
     "red_list_europe_endemic": "No",

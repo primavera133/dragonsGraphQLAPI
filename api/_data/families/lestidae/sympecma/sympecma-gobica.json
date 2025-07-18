@@ -2,16 +2,14 @@
   "items_id": "abd0084146e8e6bf18191bf44c39c0cd",
   "scientific_name": "Sympecma gobica",
   "author_citation": "Förster, 1900",
-  "local_names": [],
+  "local_names": ["Turkestaanse winterjuffer"],
   "description": "",
   "behaviour": "",
   "size": {
     "length": "",
     "wingspan": ""
   },
-  "similar_species": [
-    "Sympecma fusca"
-  ],
+  "similar_species": ["Sympecma fusca"],
   "distribution": "*Sympecma gobica* has been found from Kaukasus in the west to Gobi desert and the plateau of Tibet in the east.",
   "habitat": "",
   "flight_period": "",

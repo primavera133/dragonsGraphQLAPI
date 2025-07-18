@@ -2,7 +2,14 @@
   "items_id": "eadb0fa9464293ce086daf4659c39a49",
   "scientific_name": "Coenagrion armatum",
   "author_citation": "(Charpentier, 1840)",
-  "local_names": ["Dark bluet", "Norfolk damselfly"],
+  "local_names": [
+    "Dark bluet",
+    "Norfolk damselfly",
+    "Hauben-Azurjungfer",
+    "Donkere waterjuffer",
+    "Agrion armé",
+    "Griptångflickslända"
+  ],
   "description": "In general appearance it looks more like a stocky *Ischnura* than a *Coenagrion*.\n\nMales are blue and black, with the dorsal part of the abdomen almost completely black except for the abdominal segments S1-S3, S8 and S9 that are light in colour with a characteristic pattern. Antehumeral stripes either absent or reduced to spots. Side of the thorax bluish-green. Lower appendages on the males are particularly long, often as long as the last abdominal segment, and dark in colour with whitish pruinosity. The appendages earned the species its name, armatum is latin for armed.\n\nFemales also dark with abdominal segments S1-S3 and S8 partly blue. Antehumeral stripes are present and complete omn females. The colour of the light portions of both sexes can vary from light blue to olive green. Immature females are pink-orange.",
   "behaviour": "It can be hard to localize even in habitats where it is plentiful. Look for it low, down among and between tufts out in water-rich marches or reed beads where they fly just above the water surface. As opposed to many other *Coenagrion* species *C. armatum* is rarely seen flying over land.",
   "size": { "length": "25-35 mm", "wingspan": "30-42 mm" },

@@ -2,7 +2,16 @@
   "items_id": "b368f128350dc3a94090616862aa0171",
   "scientific_name": "Pantala flavescens",
   "author_citation": "(Fabricius, 1798)",
-  "local_names": ["Globe skimmer", "Globe wanderer", "Wandering glider"],
+  "local_names": [
+    "Globe skimmer",
+    "Globe wanderer",
+    "Wandering glider",
+    "Wanderlibelle",
+    "Wereldzwerver",
+    "Libellule globe-trotter",
+    "Le pantale globe-trotteur",
+    "Pantale flavescente"
+  ],
   "description": "Arguably the most successful dragonfly in the world, present on all continents except Antarctica, but surprisingly rare in Europe. Shape and behaviour renders it unmistakeable.\n\nIt is a rather large dragonfly, about the size of *Orthetrum cancellatum*, characterised by long wings that are quite narrow at the tip, thus looking pointed. The hind wing is triangular with a very broad base and capable of sustaining long flight. In flight, the abdomen is usually angled downward. Both the males and females have eyes that are brown in the upper part and grey light blue on the bottom part. The body is cylindrical and slightly tapered with a dorsal pattern that turns black toward the end. It has very long appendages. Thorax is light brown with yellowish sides without any black markings. The wings have dark veins, a small yellow patch at the base of the hind wings and a red brown pterostigma. The pterostigma is longer in the fore wing than in the hind wing.\n\nThe males also have a dark area, variable is size, near the tip of the wing. Tenerals of both sexes are yellow.The males then turn ochre yellow with the upper side of the abdomen orange red. The females take on a duller colouration that tends towards orange only in some androchrome females.\n\nThe black markings on the abdomen, the yellow wash of the hind wing and brown wing-tips may vary considerably. It may just have a central spot on S8-S9 and be clear winged. Tint of the abdomen also varies: males can be deep red, although most are orange.\n\nThe Wheeling, or Keyhole glider, *Tramea basilaris* might appear in southern north Africa. It is similar to *P. flavescens* by shape and behaviour, but has two brown blotches at the base of each hind wing.",
   "behaviour": "A strong migrant that is superbly equipped to colonise temporary habitats, being able to complete its life-cycle in a month. An effortless flier, often seen hang-gliding tree-top height along lanes or in sustained patrol over a puddle. Unlike most of our libellulids it seldom perches. If it does so it hangs vertically, never horizontally.",
   "size": { "length": "45-55 mm", "wingspan": "85-90 mm" },

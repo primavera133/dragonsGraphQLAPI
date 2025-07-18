@@ -2,7 +2,13 @@
   "items_id": "7673b84f4a35fafa1abd83ed6bd4e830",
   "scientific_name": "Lestes virens",
   "author_citation": "(Charpentier, 1825)",
-  "local_names": ["Small spreadwing"],
+  "local_names": [
+    "Small spreadwing",
+    "Kleine Binsenjungfer",
+    "Tengere pantserjuffer",
+    "Leste verdoyant",
+    "Mindre smaragdflickslända"
+  ],
   "description": "Our most delicate *Lestes*, and normally easily separated by stature and colouration, although some Iberian populations recall *L. barbarus*. Most easily distinguished from the other *Lestes* species, except *L. barbarus* by the bi-coloured back of the head; it has a yellow lower part, a metallic green upper part with a sharp contrasting edge between the both. The body is brown-green and in males the abdomen has, uniquely, light blue pruinosity limited to S9 and S10 and absent from the base (S1 and S2). The lower abdominal appendages are light in colour. \n\nThe pterostigma is rectangular, light brown and outline with white. \n\nMales lower abdominal appendages are noticeably short and straight. Females ovipositor is fairly weak; its pale sheath is more pointed than on *L. barbarus* but less than *L. dryas* and *L. sponsa*.\n\nSome Iberian populations have the outer third part of the pterostigma pale yellow and are deceptively close-looking to *Lestes barbarus* (although *L. barbarus* has no blue pruinosity). Species from Africa, Iberian Peninsula, southern France and the Tyrrhenean islands have reduced dark markings, most clearly on the thorax.\n",
   "behaviour": "",
   "size": { "length": "30-40 mm", "wingspan": "38-45 mm" },

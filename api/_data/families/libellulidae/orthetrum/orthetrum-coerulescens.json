@@ -2,7 +2,14 @@
   "items_id": "8659c5a50e27caa4075176dd12f719a8",
   "scientific_name": "Orthetrum coerulescens",
   "author_citation": "(Fabricius, 1798)",
-  "local_names": ["Keeled skimmer"],
+  "local_names": [
+    "Keeled skimmer",
+    "Kleiner Blaupfeil",
+    "Südöstlicher Kleiner Blaupfeil (ssp. anceps)",
+    "Beekoeverlibel",
+    "Orthétrum bleuissant",
+    "Mindre sjötrollslända"
+  ],
   "description": "A common small skimmer around flowing water throughout much of Europe. The light-coloured pterostigma distinguishes this species from *Orthetrum albistylum* and *O. cancellatum*. It could be confused with *O. brunneum*, and often co-occurs with that species, but is slightly smaller, the abdomen is more slender, the pterostigma is longer and yellow rather than light brown. In the males the frons is yellow rather than pale blue. In the mature males covered in light blue pruinosity, the thorax is darker than the abdomen and the yellow base colour shows through. Usually two pale stripes on the front of the thorax are visible, but the sides are uniform in colour.\n\nOn the wings, above the radial vein, there is a single row of cells, whereas in *O. brunneum* the row consists of double cells. The ventation of the wings is entirely black. Wing bases are often suffused with amber but it never has any dark patches near the base as on *Libellula* species.\n\nImmature and female individuals can be confused with *Sympetrum* species. ",
   "behaviour": "The behaviour of this species is different from *O. brunneum* and *O. nitiderve*. It tends to perch on small bushes and on top of low vegetation, unlike the two other that almost always will alight on the bare soil or rocks. It frequently is found far from waters and young individuals has been measured to fly over 20 km from the water they emerged from. \n\nMature males keep a small territory that is controlled from a lookout perch out in the water or some protruding branch. Often he returns to the same perching spot after dashes. Flight is somewhat jerky, like *O. coerulescens*. Males can share a territory with *Cordulegaster boltonii* or  *Onychogomphus forcipatus*.\n\nOviposition is done in flight, sometimes with the male guarding the female. Larva live in detritus or silty bottom material. Larvae development is two years. Exuviae is usually found low on vegetation in the water.",
   "size": { "length": "35-45 mm", "wingspan": "55-65 mm" },

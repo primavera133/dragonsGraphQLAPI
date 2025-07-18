@@ -2,7 +2,12 @@
   "items_id": "436ec5b02d3b83653f275928aaed1790",
   "scientific_name": "Coenagrion hylas",
   "author_citation": "(Trybom, 1889)",
-  "local_names": ["Siberian bluet"],
+  "local_names": [
+    "Siberian bluet",
+    "Sibirische Azurjungfer",
+    "Siberische waterjuffer",
+    "Agrion de Frey"
+  ],
   "description": "Looks a lot like other *Coenagrion* species, but immediately recognizable because of the wide dark bands extending along the sides of the abdomen and the large blue postocular spots in both sexes. The males are blue and black, and the females are more robust and tricoloured green, blue and black.",
   "behaviour": "Generally not active during the hottest part of the day.",
   "size": { "length": "33-38 mm", "wingspan": "38-56 mm" },

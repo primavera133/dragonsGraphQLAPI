@@ -2,7 +2,13 @@
   "items_id": "5871cdb006fb3fb0f3fa042b65a43220",
   "scientific_name": "Anax junius",
   "author_citation": "(Drury, 1773)",
-  "local_names": ["Green darner", "Common green darner"],
+  "local_names": [
+    "Green darner",
+    "Common green darner",
+    "Amerikanische Königslibelle",
+    "anax de juin",
+    "Amerikaanse keizerlibel"
+  ],
   "description": "The male has green eyes. Frons is green with black spot encircled by green, then an outer blue ring forming a \"bull's eye\" pattern. Thorax is green. Wings are clear or tinted in amber on older individuals, females more than males. Abdomen is colourful on the sides while being dark dorsally and ventrally. Males are blue and black where females often green and reddish brown.",
   "behaviour": "Often seen feeding in large numbers over open areas.",
   "size": { "length": "68-84 mm", "wingspan": "90-120 mm" },

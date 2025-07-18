@@ -2,7 +2,11 @@
   "items_id": "e5dae1ca53b9fa2fd42b6ebdcf542136",
   "scientific_name": "Cordulegaster insignis",
   "author_citation": "Schneider, 1845",
-  "local_names": ["Blue-eyed goldenring"],
+  "local_names": [
+    "Blue-eyed goldenring",
+    "Türkische Quelljungfer",
+    "Blauwoogbronlibel"
+  ],
   "description": "The only *Cordulegaster* with bluish eyes. Similar to *C. bidentata* but with a yellow occipital triangle. The frons is entirely yellow or at most with a small black spot. It also has larger yellow markings on the abdomen and altogether it is lighter and paler in colour than *C. bidentata*. However, there are populations in Turkey and on the Greek island of Ikaria with green eyes or a black occipital triangle. The anal loop of the hid wing has 3 cells. In Greece and south-eastern Europe the identification of the various * species* can only be made with certainty by examining the the male terminal appendages.",
   "behaviour": "",
   "size": {

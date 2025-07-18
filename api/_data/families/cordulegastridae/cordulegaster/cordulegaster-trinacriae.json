@@ -2,7 +2,11 @@
   "items_id": "513ce482eaa301443c94704189786e8d",
   "scientific_name": "Cordulegaster trinacriae",
   "author_citation": "Waterston, 1976",
-  "local_names": ["Italian goldenring"],
+  "local_names": [
+    "Italian goldenring",
+    "Italienische Quelljungfer",
+    "Italiaanse bronlibel"
+  ],
   "description": "Black with yellow markings. Green eyes with a yellow occipital triangle. Frons is yellow, males might have traces of black on it. Females always has a small black bar across the frons, but it does not reach the edges. Very similar to *C. boltonii* from wich it can be distinguished by the reduced extension of the yellow markings and the terminal appendages in the males that are as long as S10. At the junction of the last segments, there are no yellow rings unlike *C. boltonii* in which they are quite visible. Seen from the side the yellow spots on the abdomen are triangular in shape. Yellow markings on S4-S7 generally do not connect on the underside.",
   "behaviour": "",
   "size": {

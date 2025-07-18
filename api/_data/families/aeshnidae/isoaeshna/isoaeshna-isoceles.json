@@ -1,13 +1,19 @@
 {
   "items_id": "59a29acd815cea9d95034ca51c2cee35",
-  "scientific_name": "Aeshna isoceles",
+  "scientific_name": "Isoaeshna isoceles",
   "author_citation": "(Muller, 1767)",
-  "local_names": ["Green-eyed hawker"],
+  "local_names": [
+    "Green-eyed hawker",
+    "Keilfleck-Mosaikjungfer",
+    "Vroege glazenmaker",
+    "Æschne isocèle",
+    "Kilfläckslända"
+  ],
   "description": "Evenly colored in a reddish brown tone, without typical hawker mosaik spots. Abdomen has dark lines, dorsally along the length and across segments, with some minor dark spots on the sides. On the thorax sides are two yellow bands which darkens with age and can be nearly invisible on older females. Dorsally on S2 is a distinctive yellow triangular marking, which gave it its scientific name. Eyes are vividly green and frons is yellow. Frons is usually without any darker markings and if it is present it does not mark a distinctive \"T\". The combination of green eyes and yellow frons is diagnostic. Wings are clear with an orange patch on the base of the hind wings.",
   "behaviour": "Males patrol open grounds near water or over watery marshlands, ditches or the like. They persecute and fight each other but spend more time perching than other aeshnids, often directly on the ground or in lower vegetation. It can be hard to see perching and is only discovered when it flies up when nearly stepped upon. In those cases it usually takes height and quickly flies out of sight. Immature imagos can be found in nearby forest edges, glades, along forest roads or other sheltered places, otherwise it is rarely found far away from their reproductive locales.",
   "size": { "length": "57-66 mm", "wingspan": "74-84 mm" },
   "similar_species": ["Aeshna grandis"],
-  "distribution": "A. isoceles has a wide European range is found in the southernmost two-thirds of Europe. In the British Islands stable populations are found only Norfolk and Suffolk. To the North the range reaches southern Sweden and Estonia. To the east it appears to be fairly common in easter Ukraine and scattered throughout southern European Russia. In large parts of its distribution it is rare or absent. This could be explained by a preference for warmer areas combined with a habitat preference for extensive reed marshes or well-developed beds of submerged aquatic vegetation.  Due to this it is absent from the highest mountain regions and most of northern Europe, while it is rare in the Iberian Peninsula and parts of France due to a lack of extensive reed marshes.",
+  "distribution": "I. isoceles has a wide European range is found in the southernmost two-thirds of Europe. In the British Islands stable populations are found only Norfolk and Suffolk. To the North the range reaches southern Sweden and Estonia. To the east it appears to be fairly common in easter Ukraine and scattered throughout southern European Russia. In large parts of its distribution it is rare or absent. This could be explained by a preference for warmer areas combined with a habitat preference for extensive reed marshes or well-developed beds of submerged aquatic vegetation.  Due to this it is absent from the highest mountain regions and most of northern Europe, while it is rare in the Iberian Peninsula and parts of France due to a lack of extensive reed marshes.",
   "habitat": "It prefers habitats with extensive belts of reeds, bulrush, sedges or water soldier.  It reproduces at reed beds at standing water or along slow-flowing waters including canals, marshes, ponds and lakes. It prefers sunny habitats offering some shelter from winds. A well developed aquatic vegetation provides shelter for the larvae, enabling the species to co-occur with predatory fish.",
   "flight_period": "May to August",
   "red_list": {
@@ -24,7 +30,7 @@
     "all": [
       {
         "public_id": "dragonflies/aeshna-isoceles-male-go%CC%88ran-liljeberg-cc-by-cc-by_r3t9wq.jpg",
-        "caption": "Aeshna isoceles, male",
+        "caption": "Isoaeshna isoceles, male",
         "license": "CC BY 3.0",
         "lic_url": "https://creativecommons.org/licenses/by/3.0/",
         "by": "Göran Liljeberg",
@@ -32,7 +38,7 @@
       },
       {
         "public_id": "dragonflies/aeshna-isoceles-male-side-go%CC%88ran-liljeberg-cc-by_vum1ba.jpg",
-        "caption": "Aeshna isoceles, male side view",
+        "caption": "Isoaeshna isoceles, male side view",
         "license": "CC BY 3.0",
         "lic_url": "https://creativecommons.org/licenses/by/3.0/",
         "by": "Göran Liljeberg",
@@ -49,7 +55,7 @@
   "links": [
     {
       "label": "iNaturalist",
-      "link": "https://www.inaturalist.org/taxa/93433-Aeshna-isoceles"
+      "link": "https://www.inaturalist.org/taxa/1510501-Isoaeschna-isoceles"
     },
     { "label": "gbif.org", "link": "https://www.gbif.org/species/4513948" },
     {

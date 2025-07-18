@@ -2,7 +2,14 @@
   "items_id": "146176bfeebbc6db32e4c6ae8c07b8d5",
   "scientific_name": "Coenagrion lunulatum",
   "author_citation": "Charpentier, 1840",
-  "local_names": ["Crescent bluet", "Irish damselfly"],
+  "local_names": [
+    "Crescent bluet",
+    "Irish damselfly",
+    "Mond-Azurjungfer",
+    "Maanwaterjuffer",
+    "Agrion à lunules",
+    "Månflickslända"
+  ],
   "description": "Simillar to *C. hastulatum* with both males and females darker and stockier. Postocular spots are round and not connected centrally, a characteristic only shared with *C. armatum*. The latin name lunulatum derives from the characteristic dorsal crescent-shaped marking on S2 of the males. This character is not always conspicious in the field so it can be easier to identify the species by observing the ventral part of the body that is greenish in males in contrast to the dorsal part which is mainly black. In fact only S8 and S9 are completely light blue, apart from the already mentioned S2.\n\nFemales vary greatly in colour, often greenish yellow but not as clearly yellow as *C. hastulatum* can be. Abdominal parts mainly dark except a part on S8 which is half blue, half black and where the black part has a characteristic frontally pointing thorn-shape which distinguishes it from other Coenagrion females.",
   "behaviour": "It can often dissapear among simillar speceies even if it actually is present in good numbers. Often only by patiently going through all individuals it can be found and identified. Males are more prone to perching on floating vegetation and both sexes can often be found up in higher vegetation as long as it grows a bit out in the water-filled marshes.",
   "size": { "length": "30-33 mm", "wingspan": "32-44 mm" },

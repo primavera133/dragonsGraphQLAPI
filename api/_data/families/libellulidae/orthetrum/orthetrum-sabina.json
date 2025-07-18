@@ -2,7 +2,13 @@
   "items_id": "e72839290e049e20c8f7101915811b07",
   "scientific_name": "Orthetrum sabina",
   "author_citation": "(Drury, 1770)",
-  "local_names": ["Slender skimmer", "Green marsh hawk"],
+  "local_names": [
+    "Slender skimmer",
+    "Green marsh hawk",
+    "Schlanker Blaupfeil",
+    "Slanke oeverlibel",
+    "Orthétrum en alêne"
+  ],
   "description": "A swift, nervous species, lacking any pruinosity that so defines its cogeners. It has strongly contrasting markings and peculiar waisted and clubbed abdomen. Often taken for a *Gomphid* rather than an *Orthetrum* at first sight. One of the commonest tropical Asian species extending into Europe along the eastern Mediterranean coast. \n\nIt is similar to *Orthetrum trinacria* but smaller in size. Abdomen is black and white and is slender with a conspicuous bulbuos base. The first segmenst are narrow and S7-S10 is again wider and clubbed. S7-S9 is markedly black and it has white appendages. Thorax is lightly greenish-yellow with black bands but darkens with age so as to only have one light-coloured band on either side. The colour of the thorax and the extent of abdominal black varies considerably. The eyes are greenish. It has a very fast and skittish flight.\n\nUnlike any other *Orthetrum* species the anterioe lamina bears a conspicuous tuft of dark orange bristly hair.",
   "behaviour": "Active and often very wary, perching on the ground or on twigs for just a second before dashing off again.",
   "size": { "length": "43-50 mm", "wingspan": "60-67 mm" },

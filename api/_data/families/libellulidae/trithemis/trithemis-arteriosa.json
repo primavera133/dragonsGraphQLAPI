@@ -2,7 +2,12 @@
   "items_id": "b04d13468392606525b238877bfb0205",
   "scientific_name": "Trithemis arteriosa",
   "author_citation": "(Burmeister, 1839)",
-  "local_names": ["Red-veined dropwing"],
+  "local_names": [
+    "Red-veined dropwing",
+    "Rotader-Sonnenzeiger",
+    "Zonnewijzers",
+    "Trithémis écarlate"
+  ],
   "description": "*Trithemis arteriosa* is about as long as but more slender than *T. annulata* with a thin cylindrical abdomen. The mature males have a bright red abdomen with no purple pruinosity and have black markings on the sides, especially on S6-S9. These markings are larger than on *T. annulata*. The frons is red with a black base and a metallic gloss. The wings have red veins and there is a large amber-coloured patch at the base of the hind wings. Male genitalia are like *T. annulata* but genital lobe has a narrower tip. Immature males are yellow and become red with age. \n\nThe females are more slender than their cogeners *T.annulata* and *T. kirbyi* and has a black-sided abdomen. In appearance and colouration they are similar to the females of *Sympetrum fonscolombi*. However the wings of female *T. arteriosa* might have dark patches at the tips and around the node.\n\nThe extent of the wing patches and the black markings are very variable in both sexes, and can be strongly diminished in arid regions.",
   "behaviour": "Males perch prominently on waterside stakes.",
   "size": { "length": "32-38 mm", "wingspan": "48-62 mm" },

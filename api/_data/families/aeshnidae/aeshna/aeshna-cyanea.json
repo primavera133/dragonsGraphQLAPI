@@ -2,7 +2,14 @@
   "items_id": "e34846050fbd521d6c58ef7e0121da2b",
   "scientific_name": "Aeshna cyanea",
   "author_citation": "(Müller, 1764)",
-  "local_names": ["Southern hawker"],
+  "local_names": [
+    "Southern hawker",
+    "Blue hawker",
+    "Blauflügel-Prachtlibelle",
+    "Blauwe glazenmaker",
+    "Æschne bleue",
+    "Blågrön mosaikslända"
+  ],
   "description": "One of the larger of the hawkers, close in size to *A. juncea*.  Mature males abdomen has paired green spots on the upper side of S1-S7, in marked contrast to light blue spots on the sides and on S8-S10. The last two segments, S9-S10, have each a light-blue band on the upper side. On top of S2, *A. cyanea* has a yellow wedge-shaped spot, like *A. mixta*, but larger.\n\nThe females are brown with aqua-green markings similar to those of the males. In both sexes, the sides of the thorax is mainly green with blackish thick lines, one completely crossing, one only half-way up. The rear margin of the eye is dark with two characteristic yellow spots, visible from the side. Broad shoulder-lines are often easily visible in flight.\n\n",
   "behaviour": "*A. cyanea* is a curious species and can investigate any odonatologist closely, even landing on people. It is often found in ponds in gardens and parks. If open water is created in a garden, this is often the first specie to investigate the new water.",
   "size": { "length": "70-75 mm", "wingspan": "95-115 mm" },

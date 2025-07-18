@@ -2,7 +2,11 @@
   "items_id": "807925a45818ff9408ee558a4f746987",
   "scientific_name": "Sympetrum depressiusculum",
   "author_citation": "(Selys, 1841)",
-  "local_names": ["Spotted darter"],
+  "local_names": [
+    "Spotted darter",
+    "Sumpf-Heidelibelle",
+    "Kempense heidelibel"
+  ],
   "description": "A darter that is much more local than others but can be abundant where found.\n\nThe males are reddish and the females are yellowish. In both sexes the legs are entirely black. It has a wide black stripe between frons and the eyes. \n\nThe black legs could lead them to be confused with *S. sanguineum*. Males have a slightly flatter abdomen, not as noticeably clubbed. Abdomen has yellow-orange hues and pairs of black spots on the sides, especially S4-S7 have these small drop-shaped or elongated triangular spots. If such markings occur on *S. sanguineum* they are more linear and placed more laterally. Females can be distinguished by a different shape of the vulvar scale, the distal point of it is not pointy. Both sexes have a wider black stripe between frons and the eyes, wider than that of *S. sanguineum*. Pterostigma are larger and paler in colour, contrast with the bordering veins stronger.",
   "behaviour": "Has a rather weak and fluttery flight, reminiscent of a butterfly. May be found in large communal roosts.",
   "size": { "length": "30-34 mm", "wingspan": "48-56 mm" },

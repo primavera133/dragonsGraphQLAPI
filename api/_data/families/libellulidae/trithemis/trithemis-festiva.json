@@ -2,7 +2,12 @@
   "items_id": "24f7779ec9e678ee6148f683ca65a53a",
   "scientific_name": "Trithemis festiva",
   "author_citation": "(Rambur, 1842)",
-  "local_names": ["Black stream glider", "Indigo dropwing"],
+  "local_names": [
+    "Black stream glider",
+    "Indigo dropwing",
+    "Schwarzer Sonnenzeiger",
+    "Blauwe zonnewijzer"
+  ],
   "description": "This species, similar in size to *T. annulata*, is dark in colour and display a double series of yellow markings on the abdomen; laterally and dorsally on S1-S7 and only laterally on S8, in both immature males and females. S9-S10 is all-black.\n\nThe females have a slightly wider abdomen and the tips of their wings are dark. The males often have no dark tip or if they do it is reduced. In the mature males, the thorax and abdomen down to S3 is covered with a dark blue pruinosity and generally the yellow markings are no longer visible. The pterostigma is short and dark. The vertex and frons become black with a metallic purple gloss.\n\nThe colouration of the body and the wings with dark tips are the characters that distinguishes this species from the cogeners. Furthermore, in both sexes, the amber patch at the base of the wing is less extensive compared to other *Trithemis* species. It also prefers streams over standing waters.\n\nThe purplish snout, dark body and hindwing patch is reminiscent of *Diplocodes lefebvrii* but generally that species is smaller, with rounded open-veined wings with a large pterostigma, and its purer black body often contrasts with white appendages. The dark colour and marked wings of mature *T. festiva* also might recall that of the much more robust and paler pruinose *L. fulva* male.",
   "behaviour": "Males often perch on rocks in a stream or on stakes overhanging it.",
   "size": { "length": "30-37 mm", "wingspan": "46-64 mm" },

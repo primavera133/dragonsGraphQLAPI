@@ -2,7 +2,11 @@
   "items_id": "2cdde5c5ef1549662be55ccc4508e2a8",
   "scientific_name": "Ceriagrion georgifreyi",
   "author_citation": "Schmidt, 1953",
-  "local_names": ["Turkish red damsel"],
+  "local_names": [
+    "Turkish red damsel",
+    "Große Rubinjungfer",
+    "Turkse koraaljuffer"
+  ],
   "description": "*Ceriagrion georgifreyi* has variously been considered a subspecies of *C. tenellum* or a distinctive species, but is now recognised as a full species. It is slightly larger than *C. tenellum* but otherwise practivcally identical in general appearance, colouration and pattern.  Also, the male of *C. georgifreyi's* lower abdomal segment is more slender and the apex of the last abdominal segment is raised and has a crown of tiny black spines. The females of *C. georgifreyi* differ from *C. tenellum* in the protonum, they have raised vertical lobes on the thorax behind the rear margin of the protonum.",
   "behaviour": "",
   "size": { "length": "35-40 mm", "wingspan": "34-40 mm" },

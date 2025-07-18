@@ -2,7 +2,11 @@
   "items_id": "4db83b64ea149c04a728ef1ce754b6fb",
   "scientific_name": "Gomphus schneiderii",
   "author_citation": "Selys, 1850",
-  "local_names": ["Turkish clubtail"],
+  "local_names": [
+    "Turkish clubtail",
+    "Türkische Keiljungfer",
+    "Turkse rombout"
+  ],
   "description": "A clubtail that replaces *Gomphus vulgatissimus* in Turkey and the southern Balkans. It is very similar but smaller and more slender. In mature individuals, the eyes are blue instead of greenish, and the thorax of the males is more yellow instead of the greenish colour mature males of *G. vulgatissimus* gets with some age. Its larger yellow markings give it a rather distinctive appearance. Small yellow spots are present also on S8-S9. Typically mature males have all back legs without yellow stripes, however exceptions exist. Antehumeral stripes are light in colour and as wide as the adjacent black bands. ",
   "behaviour": "",
   "size": {

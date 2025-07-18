@@ -2,7 +2,12 @@
   "items_id": "090770977deade83389f93f47c7bd625",
   "scientific_name": "Onychogomphus uncatus",
   "author_citation": "(Charpentier, 1840)",
-  "local_names": ["Large pincertail"],
+  "local_names": [
+    "Large pincertail",
+    "Große Zangenlibelle",
+    "Grote tanglibel",
+    "Gomphe à crochets"
+  ],
   "description": "Yellow and black pincertail similar to *Onychogomphus forcipatus*. Eyes are light blue in females and blue-green or green in males. The males are easily recognised by the appendages that are shaped like pincers.\n\n*O. forcipatus* and *O. uncatus* is best distinguished as follows:\n1. The vertex of *O. forcipatus* is not all black. There is a yellow bar between the frons and occiput. However, this is sometimes unclear.\n2. The lower appendage on males bears a subterminal knob in *O. forcipatus* but not in *O. uncatus*.\n3. On *O. uncatus*, The 'collar' (the transverse yellow area on the anterior ridge of the thorax)  is severed by the black area along the mid-dorsal keel.\n4. On *O. uncatus*, The yellow antehumeral stripe dorsally connects with the broader yellow stripe before it. Thus the black stripe separating them is not connected with the black along the mid-dorsal keel.\n5. The black on the side of the thorax is more extensive on *O. uncatus*; the stripes are not broken, but often partly confluent. Especially in southern *O. forcipatus* these stripes are reduced. \n6. On females the distinctive character is the absence of two small yellow tubercles behind the eyes on *O. uncatus* ",
   "behaviour": "",
   "size": { "length": "50-53 mm", "wingspan": "58-66 mm" },

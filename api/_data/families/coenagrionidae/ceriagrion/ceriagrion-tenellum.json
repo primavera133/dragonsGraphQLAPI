@@ -2,7 +2,13 @@
   "items_id": "40558a5f77f00ef63c92cecf493a7c3e",
   "scientific_name": "Ceriagrion tenellum",
   "author_citation": "(De Villers, 1789)",
-  "local_names": ["Small red damselfly"],
+  "local_names": [
+    "Small red damselfly",
+    "Zarte Rubinjungfer",
+    "Scharlachlibelle",
+    "Späte Adonislibelle",
+    "Koraaljuffer"
+  ],
   "description": "Species is characterised by red abdomen, eyes, legs and pterostigma. At most, legs and pterostigma might be reddish or yellowish, not black. The females have different colouration: abdomen partly black (form typica), totally black (form melanogastrum) or totally red (form erythrogastrum). It might be confused with *C. georgifreyi* wich is practically identical in general appearance, colouration and pattern.",
   "behaviour": "",
   "size": { "length": "25-35 mm", "wingspan": "30-42 mm" },

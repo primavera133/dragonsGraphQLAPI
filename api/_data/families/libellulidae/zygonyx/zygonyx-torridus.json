@@ -2,7 +2,11 @@
   "items_id": "f36bf439ed7b31ddcffefd10ed545625",
   "scientific_name": "Zygonyx torridus",
   "author_citation": "(Kirby, 1889)",
-  "local_names": ["Ringed cascader"],
+  "local_names": [
+    "Ringed cascader",
+    "Gefleckter Wasserfallkreuzer",
+    "Watervallibel"
+  ],
   "description": "This is a very large and aggressive chaser, size is about that of the more slender *Aeshna mixta*. The species is reminiscent of hawkers for the flight and goldenrings for the appearance and colouration. Unlike the other chasers, it tends to perch rarely and does so hanging almost vertically. Both the males and the females have a very dark colouration, almost black, with a bronze gloss to face and thorax. Abdomen is black with yellow spots at the sides on S2-S8, separated by two mid-dorsal parallel blackish lines, even partly discontinuous. The male terminal appendages are dark, the legs are black with yellow spots. The wings are hyaline in the males and yellowish in the females. The pterostigmas are black.\n\nThe male hamule is very strong, curved hook and anterior lamina is densely hairy.",
   "behaviour": "*Zygonyx torridus* is a powerful and swift flier. Males patrol tirelessly over rapids, fiercely chasing off other dragonflies. Unlike most libellulids it seldom perches, but when it does it hangs almost vertically rather than holding its abdomen up. It is known to migrate.",
   "size": { "length": "50-60 mm", "wingspan": "90-100 mm" },

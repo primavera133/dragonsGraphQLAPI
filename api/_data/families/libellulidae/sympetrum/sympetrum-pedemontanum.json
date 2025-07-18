@@ -2,7 +2,13 @@
   "items_id": "0982d5d413bf81f1be7d60abb4b5d9c4",
   "scientific_name": "Sympetrum pedemontanum",
   "author_citation": "(Mueller in Allioni, 1776)",
-  "local_names": ["Banded darter"],
+  "local_names": [
+    "Banded darter",
+    "Gebänderte Heidelibelle",
+    "Bandheidelibel",
+    "Sympétrum du Piémont",
+    "Bandad ängstrollslända"
+  ],
   "description": "Among the smallest of the darters, this species can be immediately recognised within its distribution range by the brown bands crossing the wings. It has a large pterostigma, red in the males and pale cream yellow in the females and immature males. The thorax is brown, the legs are black. The abdomen widens into a somewhat clubbed shape, wider than in most *Sympetrums*. Abdomen is uniformly deep red in males, brown yellow in the females. Also the slow and wobbly flight distinguishes it from other darters. \n\nWidth and intensity of the wing band varies with age and individuals, but become apparent shortly after emergence.\n\nIt is most like *S. sanguineum* in shape and colour. It should be noted that that *Brachythemis impartita* has similar bands on the wings but duller in colour and the wing bands closer to the nodes, rather than by the pterostigmas. Also their range does not overlap.",
   "behaviour": "It can be surprisingly hard to see even though it has its conspicuous wing bands. The bands makes a good camouflage against the background even in flight. \n\nFlight is slow, fluttering and unlike that of other *Sympetrum* species, although weak flight of *S. depressiculum* is somewhat similar. It does not fly far without landing for a short rest, preferably on low vantage points, rarely directly on the ground.\n\nEggs are laid in tandem, low in vegetation in or around shallow waters. Larval development is one year. Exuviae are found low on lower vegetation in the water or on the shore.",
   "size": { "length": "28-35 mm", "wingspan": "45-60 mm" },

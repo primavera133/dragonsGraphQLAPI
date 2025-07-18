@@ -2,7 +2,13 @@
   "items_id": "fc85a796c16dc65c8ccad963f6fb3904",
   "scientific_name": "Orthetrum cancellatum",
   "author_citation": "(Linnaeus, 1758)",
-  "local_names": ["Black-tailed skimmer"],
+  "local_names": [
+    "Black-tailed skimmer",
+    "Großer Blaupfeil",
+    "Gewone oeverlibel",
+    "Orthétrum réticulé",
+    "Större sjötrollslända"
+  ],
   "description": "This is a mid-sized to large species that is yellow and black in colour and has a robust and somewhat flattened abdomen with two longitudinal black lines down the upper side. Near the end of each segment there is a black cross-line, making the black look like a ladder. In the mature males, the abdomen develops a light-blue pruinosity, except for the first two segments at the base and the terminal portion, that become black. \n\nThe abdomen is narrowing and not as wide as in *Libellula* species. The thorax is olive brown with short non-conspicuous shoulder lines. The wings are completely transparent with yellow costa and black pterostigma. It completely lack any dark patches at the base of the wings (unlike the *Libellula* and *Epitheca* species). Legs are all dark on the males but females can have yellow parts of the legs.\n\nThis species is very similar to *O. albistylum* from which it can be separated by having dark appendages instead of white. The abdomen is also more flattened and robust. On the sides of the thorax it lacks the distinctively light bands that *O. albistylum* features. It has dark ptersostigmas separating it from *O. brunneum*, *O. coerulescens* and *O. nitderve*.\n\n",
   "behaviour": "It is a rather aggressive species, though less so than *O. albistylum*. Males patrol from a suitable perch, making dashes out over the water, flying close to the surface in a particular jerky style. Individuals can be found far from water, even in open landscapes totally lacking water. The males tend to perch in the open, on the ground or on rocks, fallen trunks or even on man-made structures.\n\nThe mating begins in flight and the couple might fly for a while together until they find a suitable perch, often with other couples nearby. After mating, the female will lay her eggs in flight, with the male guarding her. The clashes between males to defend the female is less frequent in this species.\n\nLarvae live in shallow, warm water. Larvae development is two years. Exuviae is found low some meter away from water.",
   "size": { "length": "45-50 mm", "wingspan": "70-80 mm" },

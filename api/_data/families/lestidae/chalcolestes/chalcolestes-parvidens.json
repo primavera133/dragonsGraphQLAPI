@@ -2,7 +2,11 @@
   "items_id": "0ff9e5bf13aa0b67d051f5a47818d268",
   "scientific_name": "Chalcolestes parvidens",
   "author_citation": "(Artobolevsky, 1929)",
-  "local_names": ["Eastern willow spreadwing"],
+  "local_names": [
+    "Eastern willow spreadwing",
+    "Östliche Weidenjungfer",
+    "Oostelijke houtpantserjuffer"
+  ],
   "description": "First described as a subspecies of *Chalcolestes viridis*, but the species was recently properly split into a specie of its own. The two species were found to be overlapping in Italy and the Balkans. \n\nThe difference between the two species are quite small. In *C. parvidens* the pterostigma is darker than in *C. viridis*, in which it is light brown with a black border. However, in immature individuals it is in any event very light in colour and therefore it is not a reliable character for identification. The scientific difference is based on the different shape of the upper terminal abdominal appendages in males: the inner surface has a small tooth which is well developed in *C. viridis* but hardly noticable in *C. parvidens*, in which it rather has a laminar shape. In addition, the lower end of the upper abdominal appendages in *C. viridis* has a rather large dark portion, whereas in *C. parvidens* the black portion is limited to a spot at the tip.\n\nFemales are characterised by having 6-8 denticles on the lower margin of the ovipositor valves, whereas females of *C. viridis* have 10-14 such denticles.",
   "behaviour": "Behaves much like *Chalcolestes viridis* but may oviposit in non-woody materials. In mixed populations in Italy, most activity of *C. parvidens* was observed in the morning, while *C. viridis* was more active in the afternoon. *C. parvidens* is also active earlier in the season than *C. viridis*.\n\nIn Bulgaria and Greece there has been noted a dip in numbers near water in August. It has been suggested that this is due to adults leaving the water during the hottest period of the year.\n\nIn September numbers rise again and the flight season last well into November.",
   "size": { "length": "40-48 mm", "wingspan": "46-56 mm" },

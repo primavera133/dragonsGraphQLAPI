@@ -2,7 +2,14 @@
   "items_id": "c883100a86a587dcabbffaae9c0a4a41",
   "scientific_name": "Onychogomphus forcipatus",
   "author_citation": "(Linnaeus, 1758)",
-  "local_names": ["Green-eyed hooktail", "Small pincertail"],
+  "local_names": [
+    "Green-eyed hooktail",
+    "Small pincertail",
+    "Kleine Zangenlibelle",
+    "Östliche Zangenlibelle (ssp albotibialis)",
+    "Westliche Zangenlibelle (ssp. unguiculatus)",
+    "Stenflodtrollslända"
+  ],
   "description": "The most common and widespread pincertail, *Onychogomphus forcipatus* is a very particular species with yellow and black colouration. Eyes are light blue in females and blue-green or green in males. The males are easily recognised by the appendages that are shaped like pincers. The colours and the pattern on the thorax and abdomen are rather variable and are not always reliable criterion for identification. \n\nIn case co-occurring of other congeners it can be distinguished from those by:\n1. In Turkey, *O. flexuosus* and *O. macrodon* are much paler, with a 'double-ringed' abdomen and pale pterostigma, while *O. assimilis* has a clearly different thorax pattern. *O. lefebvrii* can best be separated in the hand, but hardly overlaps. \n2. In south-west Europe and north-west Africa, *O. costae* is almost devoid of black, while *O. uncatus* differs mainly in details of the thorax.\n\n*O. forcipatus* and *O. uncatus* is best distinguished as follows:\n1. The vertex of *O. forcipatus* is not all black. There is a yellow bar between the frons and occiput. However, this is sometimes unclear.\n2. On *O. uncatus*, The 'collar' (the transverse yellow area on the anterior ridge of the thorax)  is severed by the black area along the mid-dorsal keel.\n3. On *O. uncatus*, The yellow antehumeral stripe dorsally connects with the broader yellow stripe before it. Thus the black stripe separating them is not connected with the black along the mid-dorsal keel.\n4. The black on the side of the thorax is more extensive on *O. uncatus*; the stripes are not broken, but often partly confluent. Especially in southern *O. forcipatus* these stripes are reduced. \n\nThree subspecies have been identified, based on different shape of the male lower appendage. Genetic studies however have failed to find any genetic differentiation between the three subspecies.",
   "behaviour": "Males perched on a streamside rock, with their claspers raised, are a typical sight in summer, especially in the south. Females oviposit alone by dropping them in the water. Larvae live partly submerged in the bottom substrates, like sand or gravel and the development typically takes 3-5 years. Exuviae are left on anything protruding the water; stones, branches, or directly on the ground at the shore.",
   "size": { "length": "45-50 mm", "wingspan": "50-60 mm" },

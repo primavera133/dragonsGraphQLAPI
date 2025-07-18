@@ -2,7 +2,13 @@
   "items_id": "616498f11528347076a0c872b35cc3e3",
   "scientific_name": "Erythromma najas",
   "author_citation": "(Hansemann, 1823)",
-  "local_names": ["Red-eyed damselfly"],
+  "local_names": [
+    "Red-eyed damselfly",
+    "Großes Granatauge",
+    "Grote roodoogjuffer",
+    "Naïade aux yeux rouges",
+    "Större rödögonflickslända"
+  ],
   "description": "A bulky damselfly, often perceived as rather large. The males have a mainly black body with sides of the thorax and last two segments of the abdomen light blue. The black portions of the abdomen tend to become pruinose, thus becoming greyish and opaque. The eyes are red. Antehumeral stripes are absent in males and much reduced in females.\n\nThe females are green and black with brown eyes. This species could be confused with Erythromma viridulum but can be distinguished by its larger size, the antehumeral stripes being absent or reduced, the absence of the black marking in the shape of an X on S10 and by S8 that in males of *E. najas* is completely black, not partially light blue.\n\nBoth sexes have, in all forms, light brown pterostigmas, black legs and two black lines on the side of the thorax. The upper line can on the males be broken and thus finishing in a black spot. Both sexes never have post-ocular spots, unlike *E. lindenii*.\n\nYoung individuals are yellow and black and initially lack the red eye colour, thereby often being mistaken for other Coenagrionidae.",
   "behaviour": "During good weather conditions the males fly far out over open water, patrolling close to thte water surface. Often, when perching on floating vegetation, it presses the whole body against the substrate, differing it from *E. viridulum* who likes to rest with the abdomen slightly elevated.",
   "size": { "length": "30-36 mm", "wingspan": "38-48 mm" },

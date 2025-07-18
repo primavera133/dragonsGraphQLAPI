@@ -2,7 +2,14 @@
   "items_id": "a530e7bcdc236d74223598e63f9e4c84",
   "scientific_name": "Libellula quadrimaculata",
   "author_citation": "Linnaeus, 1758",
-  "local_names": ["Four-spotted chaser", "Four-spotted skimmer"],
+  "local_names": [
+    "Four-spotted chaser",
+    "Four-spotted skimmer",
+    "Vierfleck",
+    "Viervlek",
+    "Libellule à quatre taches",
+    "Fyrfläckad trollslända"
+  ],
   "description": "A medium sized dragonfly lacking any red or blue colours, rather it is discretely coloured in yellowish-brown. Both sexes look alike with brown eyes. Like the *Leucorrhinia* species it has a white face but is not like them in any other aspect. The yellow tones disappear rather quickly and older individuals can look quite grey and dull. The name comes from the four black spots at the nodes of the wings. The dark patch at the base is present only on the hind wings. The abdomen is wide but narrowing towards the end, like on that of *Epitheca bimaculata* but not as wide as on *Libellula dipressa*. The last segments of the abdomen are black and on the sides there are yellow spots that darken with age. \n\nThe amount of black around the nodes on the wings vary extensively. The forma *praenubilia* is characterised by a dark band extending across the wing at the pterostigmas and often have larger black spots at the nodes as well. Teneral individuals can initially lack the black nodes. ",
   "behaviour": "Males are aggressive towards each other and never spoils a chance to chase away a rival. Territory is guarded both by flying low over the water and from perching positions on protruding vegetation. They often return to the same spot again and again. They often hover still in mid-air. Under good circumstances many males can be found at small areas. \n\nHunting is done close to the water or far away up on clearings, meadows or such.\n\nFemales visiting the water will be more or less assaulted by one or many males, eager to mate. Mating is done quickly whereupon the male jealously guards the female while she lays the eggs. She does this flying, into the water. \n\nLarvae hatch after 2-3 weeks and their development is two to three years. Exuviae are found on vegetation near the water.",
   "size": { "length": "40-50 mm", "wingspan": "70-85 mm" },

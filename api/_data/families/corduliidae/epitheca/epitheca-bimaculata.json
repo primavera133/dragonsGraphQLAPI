@@ -2,7 +2,14 @@
   "items_id": "0511d13b1aa7dde7c1123e5ec804c0fd",
   "scientific_name": "Epitheca bimaculata",
   "author_citation": "(Charpentier, 1825)",
-  "local_names": ["Eurasian baskettail"],
+  "local_names": [
+    "Eurasian baskettail",
+    "Zweifleck",
+    "Tweevlek",
+    "Cordulie à deux taches",
+    "Épithèque à deux taches",
+    "Tvåfläckad trollslända"
+  ],
   "description": "A large brown, yellow-orange and black dragonfly with no metallic sheen and without the typical green colour of the *Corduliidae*. Eyes on males are greyish blue-green, females reddish-brown and immature individuals can have more light grey-beige eyes. Face is yellow and black. With regards to its appearance it is similar to *Libellula quadrimaculata* and *L. fulva* from which it can be distinguished by the wings being entirely yellowish with a large patch at the base of the hind wings and by the different extension of the pattern on the abdomen., besides the shape of the abdomen itself. In the males the abdomen is more tapered than in the females, its dark pattern is dorsally wider and longer, and the terminal appendages are divergent to form a V, whereas in the females they are parallell. Young individuals have a brighter yellow-orange colouration that darkens to a brownish yellow. The females have a vulvar lamina which is long and protruding, though not at right angle to the body as on other Corduliids. ",
   "behaviour": "Large strong fliers, mostly seen cruising over water, one meter or more over the surface and rarely perching. When it bumps into a kindred, they fall out up in the air. If it bumps into a female they tumble around for a short while until the male takes up his patrolling again. Patrolling males rarely comes close to the shores and is often best observed with binoculars. ",
   "size": { "length": "60-65 mm", "wingspan": "75-90 mm" },

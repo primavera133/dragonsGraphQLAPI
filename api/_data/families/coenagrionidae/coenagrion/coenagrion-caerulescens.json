@@ -2,7 +2,12 @@
   "items_id": "39beca5b66bbc9209844d7a240c15f6f",
   "scientific_name": "Coenagrion caerulaescens",
   "author_citation": "(Fonscolombe, 1838)",
-  "local_names": ["Mediterranean bluet"],
+  "local_names": [
+    "Mediterranean bluet",
+    "Südliche Azurjungfer",
+    "Zuidelijke waterjuffer",
+    "Agrion bleuâtre"
+  ],
   "description": "The males of *Coenagrion caerulaescens* are light blue with black markings and bands on the abdomen. The second segment, S2, has a black marking in the shape of a cup or U, the bottom of which is always connected to the hind margin of the segment by a thick stem. S6-S7 are mainly black, but the extent of the black markings vary strongly between and within populations. This has historically led to the desription of various subspecies, none of which presently is regarded as valid. The pterostigma is small and substantioally triangular in shape and light brown in colour. The females are green-blue with black markings. A correct identification of the females is difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum.",
   "behaviour": "",
   "size": { "length": "25-35 mm", "wingspan": "30-42 mm" },

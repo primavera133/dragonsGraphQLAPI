@@ -2,7 +2,12 @@
   "items_id": "513896e331e91375b98928f8b460562f",
   "scientific_name": "Anax ephippiger",
   "author_citation": "(Burmeister, 1839)",
-  "local_names": ["Vagrant emperor"],
+  "local_names": [
+    "Vagrant emperor",
+    "Schabracken-Königslibelle",
+    "Zadellibel",
+    "Brun kejsartrollslända"
+  ],
   "description": "Smaller than the other Anax species. It has a large head with huge brown and green eyes, yellow frons with two parallel black lines. Thorax is dark brown on top and greenish yellow on the lower part. Abdomen is long, slender and generally yellowish brown. Males have a conspicuous blue \"saddle\", dorsally on S2 (where *A. parthenope's* saddle is blue all around). Immature males and females have this too, only much paler and less conspicuous. Lengthwise the abdomen has a black mid-dorsal band. The spots on the last segments of the abdomen can have a lighter colour, shifting towards cream-yellow, light blue. The abdomen is more slender than on *A. parthenope*. The males upper appendages are pointed, and the lower appendages has a number of denticles. The female appendages are large and pointed. Wings, especially hind wings, are often tinted in yellow. Leading margin of the wings are yellow or orange. Pterostigmas are long and yellow or orange.",
   "behaviour": "It is an obligate migrant and a good long distance flyer, often leaving its habitats even in early post-teneral stages. It's known to sometimes gather in swarms of large numbers. It flies even at night and can be attracted to light from street lamps and lighthouses.",
   "size": { "length": "60-70 mm", "wingspan": "100-110 mm" },

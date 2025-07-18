@@ -4,7 +4,11 @@
   "author_citation": "(Vander Linden, 1820)",
   "local_names": [
     "Blue-tailed damselfly",
-    "Common Bluetail"
+    "Common Bluetail",
+    "Große Pechlibelle",
+    "Lantaarntje",
+    "Agrion élégant",
+    "Större kustflickslända"
   ],
   "description": "One of the most familiar, widespread and abundant odonates in Europe, well-known from eutrophic habitats and garden ponds.\n\n*Ischnura elegans* is a small damselfly with the dorsal part of the abdomen completely black except for S8 that is light blue. The immature males have the middle part of the abdomen bronze-brown in colour, while the head, thorax and a segment at the tip of the abdomen are light blue. Females appear in five colour forms: Immature females *violacea* have a lilac thorax. When maturing they become either very like the male, *typica*, or brownish or dull greenish, *infuscans*. Some females, *rufescens*, have a pink thorax at first, but become light brown with olive-green or brown S8, *rufescens-obsoleta* later. Old *infuscans* and *rufescens-obsoleta* may become very dark. \n\nThe eyes are dark on the upper part. The pterostigma of the fore wing of the mature male is bicoloured black and white, and is at least twice as long as wide. Immature pterostigmas are unicoloured whitish.\n\nThe tips of the male lower appendages diverge (viewed from above). The outer branches of the upper appendages (viewed from behind) are relatively thick and long; the inner branches are parallel to each other, but there is variation here. Males from southern Italy, Turkey, Crete, Cyprus and the Middle East, with crossed inner branches of the upper appendages, are known as ssp. *ebneri*. A narrow, upright projection on the hind border of the pronotum separates this species from all others, but is absent in some females and regionally in males from ssp. *pontica*, from the Hungarian Plain and northern Balkans to central Asia.\n\nThe taxonomy of this and related species is complex. South-western relatives have been split off as distinct species, but variation towards the south-east is less understood, with several subspecies named.\n\n*I. genei* and *I. saharensis* remain relatively green on the head, thorax and abdomen base, but can only be separated in the hand, as can *I. graelsii*.",
   "behaviour": "Males are territorial and mature individuals of both sexes stay close to the waters. Great numbers of individuals can be found in adjacent vegetation, near the shoreline or a nearby in higher grass.\n\nEggs are laid by females flying alone. Larval development is normally one year but in the northern parts of its range it is often two years. In good conditions it can be shorter, as short as 55 days between eggs being laid and imagos emerging have been observed in south-western Germany. Exuviae are found on straws out in the water or along the shoreline.",
@@ -12,10 +16,7 @@
     "length": "30-35 mm",
     "wingspan": "30-45 mm"
   },
-  "similar_species": [
-    "Ischnura genei",
-    "Ischnura graelsii"
-  ],
+  "similar_species": ["Ischnura genei", "Ischnura graelsii"],
   "distribution": "*Ischnura elegans* occurs from western Europe to Japan. It is widespread and is one of the most common and abundant damselflies in Europe. Its range overalps with *I. graelsii* in parts of the Iberian Peninsula and the species is largely replaced by *I. genei* on the Tuscan archipelago, the Tyrrhenian islands and the Maltese Islands, although locally both species occur sympatrically and appear to produce hybrids.",
   "habitat": "In large parts of Europe *Ischnura elegans* is the most common damselfly, being found in all kinds of standing and slow-flowing waters. It is very common on mesotrophic to eutrophic sites and is tolerant to rather high salinity and moderate acidity. The species is found from lowlands up to 1 600 m.",
   "flight_period": "April to October",

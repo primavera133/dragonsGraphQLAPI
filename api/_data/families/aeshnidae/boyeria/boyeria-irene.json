@@ -2,7 +2,11 @@
   "items_id": "4b3ace8686742bbfaa123529d69e4ba2",
   "scientific_name": "Boyeria irene",
   "author_citation": "(Fonscolombe, 1838)",
-  "local_names": ["Western spectre"],
+  "local_names": [
+    "Western spectre",
+    "Westliche Geisterlibelle",
+    "Schemerlibel"
+  ],
   "description": "*Boyeria irene* is unmistakeable for its large size and the camouflage colouration; grey green with brown patterns. The males and rarely the females have darkened wing tips. The eyes in immature individuals are green. The frons is yellow with an indistinct black pattern.",
   "behaviour": "It is a powerful and untiring flier, capable of flying for long periods without perching. It prefers shady areas and often flies late in the afternoon, so much it is considered a dusk species. It has twilight habits and can be found attracted to artificial lights.",
   "size": { "length": "63-70 mm", "wingspan": "78-90 mm" },
@@ -13,7 +17,7 @@
   "red_list": {
     "habitats_directive": "No",
     "red_list_EU27": "Least Concern",
-    "red_list_europe": "Least Concern",
+    "red_list_europe": "Near Threatened",
     "red_list_mediterranean": "Least Concern",
     "EU27_endemic": "No",
     "red_list_europe_endemic": "No",

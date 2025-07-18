@@ -2,7 +2,13 @@
   "items_id": "2848c87ee1385ea6c2275bbb56caff55",
   "scientific_name": "Somatochlora alpestris",
   "author_citation": "(Selys, 1840)",
-  "local_names": ["Alpine emerald"],
+  "local_names": [
+    "Alpine emerald",
+    "Alpen-Smaragdlibelle",
+    "Taigaglanslibel",
+    "Cordulie alpestre",
+    "Fjälltrollslända"
+  ],
   "description": "*Somatochlora alpestris* is rather small and robust, has a dark green, almost black-green, body with bright-green eyes. It can be distinguished by a white, not yellow, ring between S2 and S3 and by the presence of two cubito-anal cross-veins in the fore wings, where similar species has only one. On the males, the appendages are distinctive, convergent and doubly angled. The vulvular lamina of the females is large, reaching halfway along S9, triangular in shape and projecting at a right angle to the abdomen's axis. Frons is black with small yellow spots on each side. These are the only yellow markings on the body. The contrast between the eye and body colour is greater than on *S. metallica* or *C. aenea*. Pterostigma are dark or orange, where *S. sahlbergi* has lighter colouration.",
   "behaviour": "*Somatochlora alpestris* is hunting in sunlit glades of mountain birch forests, along forest roads and other sun exposed areas in woodland or over mires. It perches mostly in trees or shrubberies and is rarely seen directly on the ground. Most commonly you only find single individuals but larger numbers of individuals can be seen when foraging or when they just have left the water. Males patrol slowly and low, flying back and forth within a rather restricted territories. It can make aggressive outbursts against other species if they enter the territory. Larvae live in shallow water or within wet Sphagnum moss. Exuviae are left high up on straws out in the water or along the shores.",
   "size": { "length": "45-50 mm", "wingspan": "60-68 mm" },

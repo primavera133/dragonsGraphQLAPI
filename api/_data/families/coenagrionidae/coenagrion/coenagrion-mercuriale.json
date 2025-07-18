@@ -2,7 +2,12 @@
   "items_id": "a79793d4bb563c2d80b413fd57c6b738",
   "scientific_name": "Coenagrion mercuriale",
   "author_citation": "(Charpentier, 1840)",
-  "local_names": ["Southern damselfly"],
+  "local_names": [
+    "Southern damselfly",
+    "Helm-Azurjungfer",
+    "Mercuurwaterjuffer",
+    "Agrion de Mercure"
+  ],
   "description": "One of the smaller *Coenagrions*. The males are light blue with black markings and bands on the abdomen. The characters for sure identification are small and should be observed carefully. The pterostigma is diamond-shaped (lozenge) and is blackish-brown with a lighter coloured border. The black marking on S2 is characteristic and resembles the helmet of Mercury, who according to roman mythology wore a winged helmet. The shape also looks like a U placed on a spearhead. It is always connected to the hind margin of S2. The females are green-blue with black markings. A correct identification of the females is difficult and can only be done with certainty by checking the shape of the pronotum.",
   "behaviour": "",
   "size": { "length": "27-30 mm", "wingspan": "24-42 mm" },

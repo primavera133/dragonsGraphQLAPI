@@ -2,7 +2,12 @@
   "items_id": "3367a8f2a388704da2ec2356caf28053",
   "scientific_name": "Cordulegaster bidentata",
   "author_citation": "Selys, 1843",
-  "local_names": ["Sombre goldenring"],
+  "local_names": [
+    "Sombre goldenring",
+    "Gestreifte Quelljungfer",
+    "Zuidelijke bronlibel",
+    "Cordulégastre bidenté"
+  ],
   "description": "Black with yellow markings, like all *Cordulegaster*, but the smallest and darkest of them all (outside Turkey). It has green eyes, a black occipital triangle and a yellow frons with a wide black bar. It is similar to the more common *C. boltonii* but can be distinguished from it by a slightly smaller size, and different shape of the yellow markings on S1 and the side of the thorax. The occipital triangle is black, not yellow as on *C. boltonii*.  The anal loop of the hind wing consists of 3 cells, not 5 as in *C. boltonii*. ",
   "behaviour": "Larvae are benthic and live in the lowest levels of the water bodies, and can be very difficult to find. Larval development takes between three and five years. This can be slowed if cold weather causes the water to freeze. The larvae may sometimes leave the water, hunting for small arthropods on the ground at night.",
   "size": {

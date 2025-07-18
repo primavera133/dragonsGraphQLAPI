@@ -2,7 +2,12 @@
   "items_id": "9d6c6fbbc963d5ff8e691fdfb7552ef8",
   "scientific_name": "Aeshna serrata",
   "author_citation": "Hagen, 1856",
-  "local_names": ["Baltic hawker"],
+  "local_names": [
+    "Baltic hawker",
+    "Baltische Mosaikjungfer",
+    "Getande glazenmaker",
+    "Vassmosaikslända"
+  ],
   "description": "A large hawker, similar in size and looks to *A. juncea*, *A. subarctica* and *A. crenata*. Colors blue and yellow, generally in a vibrant tone. Wide yellow stripes on thorax sides. The front stripe has an even width, while the hind one is narrowing downwards, almost giving it a triangular shape. Between the stripes none or almost no spots. It has conspicuous yellow antehumeral stripes, even on females, which the other similar species are lacking. The abdomen is black with blue spots in any event rectangular in shape and larger than on *A. juncea*. Wings are clear with a visibly yellow leading margin, the costa.  Often more distinct on *A. serrata* than on *A. juncea*. Frons is yellow with a T-shaped black marking, but the stem of the T is less prominent. Eyes are often vibrantly blue (but with variation), always with completely black behinds. No yellow spots on the back sides as on *A. juncea*.",
   "behaviour": "Not as fast and agile flyer as *A. juncea*. Both males and females can be seen patrolling over large belts of reed and can be very unavailable for netting. Territories are defended aggressively. *A. serrata*, more than others, catches large prey, even other hawkers. *A. serrata* can, like *A. mixta*, occur in large numbers. It can then be found in open sunlit spaces like glades and over fields. It tends to perch in thick vegetation around water bodies rather than on trees.",
   "size": { "length": "75-80 mm", "wingspan": "96-106 mm" },

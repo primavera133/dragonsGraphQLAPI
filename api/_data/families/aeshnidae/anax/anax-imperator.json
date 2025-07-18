@@ -2,7 +2,13 @@
   "items_id": "e6c59e854e27e43ade8c294ae91625e6",
   "scientific_name": "Anax imperator",
   "author_citation": "Leach, 1815",
-  "local_names": ["Blue emperor"],
+  "local_names": [
+    "Blue emperor",
+    "Große Königslibelle",
+    "Grote keizerlibel",
+    "Anax empereur",
+    "Blå kejsartrollslända"
+  ],
   "description": "A large, common and conspicuous dragonfly. Patrolling males are easily recognised by their size, unmarked green thorax and blue abdomen with a black mid-dorsal stripe.\n\nThe thorax on *Anax imperator* is uniformly green, much like Aeshna viridis, but *A. imperator* is markedly bigger. No antehumeral stripes are to be found on either males or females. The females and immature males have a more greenish abdomen. Females might also have the same colouration as the males, with a blue abdomen. In some population this blue form is the norm among the females. The eyes are green with at most a brown hue. Female eyes have a yellow hind edge. Wings are clear with a yellow leading margin. Pterostigmas are brown. \n\nS1 is always green, never brown or greyish (as on *A. parthenope* or *A. ephippiger*). A thin yellow ring on S2 characterises the still immature individuals (but is also present on mature males of *A. parthenope*). Males of *A. imperator* can be distinguished by the black pentagonal marking on the frons. Females has an absence of occipital tubercles. ",
   "behaviour": "Restless patroller and very aggressive against any competition. Catches surprisingly large prey (like Libellula quadrimaculata) and often eats them in mid flight. Males patrol over open water, often further out and at higher altitudes than other Aeshna males.",
   "size": { "length": "66-84 mm", "wingspan": "90-104 mm" },

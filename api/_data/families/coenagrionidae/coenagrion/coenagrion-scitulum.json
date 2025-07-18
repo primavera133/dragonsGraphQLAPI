@@ -2,7 +2,12 @@
   "items_id": "be802f01dba8b235c7d37fc0888c3436",
   "scientific_name": "Coenagrion scitulum",
   "author_citation": "(Rambur, 1842)",
-  "local_names": ["Dainty bluet"],
+  "local_names": [
+    "Dainty bluet",
+    "Gabel-Azurjungfer",
+    "Gaffelwaterjuffer",
+    "Agrion mignon"
+  ],
   "description": "One of the smaller *Coenagrions*. The males are light blue with black markings and bands on the abdomen. The pterostigma is shaped like a diamond (lozenge) and is brown-grey to yellowish in colour. S2 is characterised by a pattern like a Y with arms tending to open. The stem of the Y is always connected to the hind margin of the segment. It is very similar to *C. caerulescens*.\n\nThe females are blue-green with black markings. A correct identification of the females is difficult and can best be done by checking the shape of the pronotum.",
   "behaviour": "",
   "size": { "length": "30-35 mm", "wingspan": "28-40 mm" },

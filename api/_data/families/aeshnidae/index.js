@@ -3,7 +3,6 @@ const AeshnaCaerulea = require('./aeshna/aeshna-caerulea.json')
 const AeshnaCrenata = require('./aeshna/aeshna-crenata.json')
 const AeshnaCyanea = require('./aeshna/aeshna-cyanea.json')
 const AeshnaGrandis = require('./aeshna/aeshna-grandis.json')
-const AeshnaIsoceles = require('./aeshna/aeshna-isoceles.json')
 const AeshnaJuncea = require('./aeshna/aeshna-juncea.json')
 const AeshnaMixta = require('./aeshna/aeshna-mixta.json')
 const AeshnaSerrata = require('./aeshna/aeshna-serrata.json')
@@ -18,6 +17,7 @@ const BoyeriaCretensis = require('./boyeria/boyeria-cretensis.json')
 const BoyeriaIrene = require('./boyeria/boyeria-irene.json')
 const BrachytronPratense = require('./brachytron/brachytron-pratense.json')
 const CaliaeschnaMicrostigma = require('./caliaeschna/caliaeschna-microstigma.json')
+const IsoeshnaIsoceles = require('./isoaeshna/isoaeshna-isoceles.json')
 
 module.exports = {
   aeshna: [
@@ -26,7 +26,6 @@ module.exports = {
     AeshnaCrenata,
     AeshnaCyanea,
     AeshnaGrandis,
-    AeshnaIsoceles,
     AeshnaJuncea,
     AeshnaMixta,
     AeshnaSerrata,
@@ -42,5 +41,6 @@ module.exports = {
   ],
   boyeria: [BoyeriaCretensis, BoyeriaIrene],
   brachytron: [BrachytronPratense],
-  caliaeschna: [CaliaeschnaMicrostigma]
+  caliaeschna: [CaliaeschnaMicrostigma],
+  isoaeshna: [IsoeshnaIsoceles]
 }

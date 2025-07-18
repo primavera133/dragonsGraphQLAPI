@@ -2,7 +2,13 @@
   "items_id": "1e128c2362a87d57e49b62e94392fdb8",
   "scientific_name": "Calopteryx xanthostoma",
   "author_citation": "(Charpentier, 1825)",
-  "local_names": ["Western demoiselle"],
+  "local_names": [
+    "Western demoiselle",
+    "Südwestliche Prachtlibelle",
+    "Iberische beekjuffer",
+    "Caloptéryx occitan",
+    "Caloptéryx ouest-méditerranéen"
+  ],
   "description": "Simillar to *C. splendens* (considered a subspeceies by many authors) which it substitutes in Spain and some regions in France and Italy.\n\nIt is distinguished from *C. splendens* by the blue colour of the wing where the blue part cover the whole area from the node to the tip, even the last two or three rows of cells. There is also difference in the colour of ventral parts of the last three abdominal segments, yellow in *C. xanthostoma* and white in *C. splendens*. Females of these two species are practically identical.",
   "behaviour": "Mostly found near running waters, where adult males keep territories, and it can be found in large numbers. Isolated adults can be found far from water, in clearings and woods.",
   "size": { "length": "45-48 mm", "wingspan": "55-65 mm" },

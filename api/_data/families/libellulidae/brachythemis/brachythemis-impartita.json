@@ -2,7 +2,11 @@
   "items_id": "1fdfb87b2e86754310fdbbd81731b6c0",
   "scientific_name": "Brachythemis impartita",
   "author_citation": "(Karsch, 1890)",
-  "local_names": ["Northern banded groundling"],
+  "local_names": [
+    "Northern banded groundling",
+    "Treuer Kurzpfeil",
+    "Bandgrondlibel"
+  ],
   "description": "This dragonfly is common in Africa but also present in some parts of Europe. It is rather small, about the size of *Sympetrum sanguineum*, but more robust.\n\nThe males can easily be identified by the dark body, almost black, and the dark bands crossing the wings between node and pterostigma. In both sexes, the pterostigma is rather long, whitish in colour with the outer end dark. The legs are yellowish with black lines. The females are sandy coloured with dark line on the thorax, the abdomen has a black carina (a keel-like ridge along the upper side) and blackish lines on the side of each segment. The eyes are grey on the lower part and light brown on the upper part with dark crosswise striations. Unlike the males, usually the females have hyaline wings. The immature males have a colour similar to that of the females and also lack the bands on the wings. In fact, the latter are not present at the emergence but appear and gradually darken during the maturation, like the rest of the body, eyes included. At times, even the old females have the wing bands, but in any event they are lighter in colour than those of the males. \n\nOnly *Sympetrum pedemontanum* has similar bands on the wings but different in colour and closer to the pterostigma. However, the species are immediately distinguishable since the females of *S. pedemontanum* are bright yellow and the males are red with pterostigmas also red. Furthermore, the two species are not knowing to overlap.\n\nIn Turkey, immature individuals can be similar to *Brachythemis fuscopalita*, but that species has uniformly coloured pterostigma.",
   "behaviour": "In Africa this species is commonly found at waterholes fluttering in the footsteps of big game. Prefers to fly over and to perch on bare ground, frequently following large mammals, such as cattle or humans, probably to prey on disturbed insects. Often found in dense aggregations in the shade during midday heat.",
   "size": { "length": "25-34 mm", "wingspan": "45-57 mm" },

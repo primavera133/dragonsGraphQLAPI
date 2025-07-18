@@ -2,7 +2,12 @@
   "items_id": "43cb4261fa3f4356274e44c863c27fe0",
   "scientific_name": "Aeshna viridis",
   "author_citation": "Eversmann, 1836",
-  "local_names": ["Green hawker"],
+  "local_names": [
+    "Green hawker",
+    "Grüne Mosaikjungfer",
+    "Groene glazenmaker",
+    "Grön mosaikslända"
+  ],
   "description": "Looks a lot like a small Anax imperator thanks to its bright green thorax sides, almost free of dark markings.\n\nThe frons has a black marking, T-shaped or missing the stem, making it look like a crescent. It has wide bright green antehumeral stripes, like *A. cyanea*. Eyes are light blue in the mature males, and green in females and immature males. First segment on the abdomen has a diagnostic marking of two opposing U-shapes. Abdomen is mainly black with large spots of blue on males, and some minor narrow green stripes only visible on close range. Females are brown with green spots. Wings have a yellow tint and a yellow leading margin. It has long yellow pterostigma, distinguishing it from *A. cyanea*, which has a darker leading margin and pterostigmas.",
   "behaviour": "Tightly bound to waters with the water soldier, Stratoides aloides, but often seen hunting far from the waters. It can then be seen hunting over open areas, at high altitude.",
   "size": { "length": "65-75 mm", "wingspan": "78-90 mm" },
@@ -13,7 +18,7 @@
   "red_list": {
     "habitats_directive": "IV",
     "red_list_EU27": "Near Threatened",
-    "red_list_europe": "Near Threatened",
+    "red_list_europe": "Least Concern",
     "red_list_mediterranean": "Not present",
     "EU27_endemic": "No",
     "red_list_europe_endemic": "No",

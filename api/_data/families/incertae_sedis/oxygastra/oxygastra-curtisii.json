@@ -2,7 +2,12 @@
   "items_id": "e6d36aaa640e64f17a5d0c0a64d97147",
   "scientific_name": "Oxygastra curtisii",
   "author_citation": "(Dale, 1834)",
-  "local_names": ["Orange spotted emerald"],
+  "local_names": [
+    "Orange spotted emerald",
+    "Gekielter Flussfalke",
+    "Bronslibel",
+    "Cordulie à corps fin"
+  ],
   "description": "A dark, slender emerald. The general colouration of the body is metallic brown green with yellow dorsal spots along the clubbed abdomen. The eyes are bright light green in mature individuals, and pinkish in immature ones. The frons is entirely dark, while being yellow or white in Somatochlora species. The wings have an area suffused with yellow at the base that in females axtends along the margins. The abdomen of the males is expanded at S8. Oxygastra curtisii can be recognisedin flight by its abdomen being arched similarly to Onychogomphus species. It is darker and more slender than Cordulea aenea and Somatochlora metallica, the abdominal club lies closer to the tip (S8 is the widest segment).",
   "behaviour": "Males patrol short stretches, up to 20 m long, of calm, tree-lined rivers. Flying  in a straight or zig-zag manner, up to 1 m from the bank and rather low above the water. Eggs are oviposited near the waterline, often under overhanging trees and in crevices, but also on roots, soaked logs, mossy rocks and floating mats of algae.",
   "size": { "length": "47-54 mm", "wingspan": "66-72 mm" },

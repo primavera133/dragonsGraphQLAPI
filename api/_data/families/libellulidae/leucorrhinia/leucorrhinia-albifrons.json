@@ -2,7 +2,13 @@
   "items_id": "e4df54a4cb80c34cf85abae65aa57699",
   "scientific_name": "Leucorrhinia albifrons",
   "author_citation": "(Burmeister, 1839)",
-  "local_names": ["Dark whiteface"],
+  "local_names": [
+    "Dark whiteface",
+    "Östliche Moosjungfer",
+    "Oostelijke witsnuitlibel",
+    "Leucorrhine à front blanc",
+    "Pudrad kärrtrollslända"
+  ],
   "description": "*Leucorrhinia albifrons* males are the darkest and dullest of the *Leucorrhinia* species. It is dark grey, their abdomen is slender and cylindrical with the base covered in light-blue pruinosity. The pterostigma is dark and the appendages are white in both the sexes. The immature males and females are black with small yellow spots. The frons is white and light-coloured spots are present on the sides of the labium. \n\nIt can be distinguished from *L. caudalis* by the dark pterostigma and the abdomen which is not clubbed in the males and by the very small yellow spots on the abdomen on the females.\n\nIt can be distinguished from the other *Leucorrhinia* species by:\n1. Largely dark without reddish spots; yellow markings restricted and visible only in females and immature males.\n2. Abdominal spots small and confined to S2-S6, at most a trace on S7.\n3. Appendages white in both sexes.\n4. Mature males are all-dark with bluish-grey pruinosity, especially at the abdomen base and wing joints. The thickest pruinosity covers S3-4, but thin pruinosity may also cover the thorax (e.g. between the wings). \n",
   "behaviour": "OFten perches in bankside bushes or trees. Unlike *L. caudalis* seldom perches on lilypads.",
   "size": { "length": "33-39 mm", "wingspan": "46-56 mm" },

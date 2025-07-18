@@ -2,7 +2,13 @@
   "items_id": "cb7b55b2ca200d8e68537a0b9c1f8923",
   "scientific_name": "Anax parthenope",
   "author_citation": "(Sélys, 1839)",
-  "local_names": ["Lesser emperor"],
+  "local_names": [
+    "Lesser emperor",
+    "Kleine Königslibelle",
+    "Zuidelijke keizerlibel",
+    "Anax napolitain",
+    "Mindre kejsartrollslända"
+  ],
   "description": "A large dragonfly with green eyes, contrasting to the thorax which is uniformly brown grey. Abdomen has a thick black line on a base of brown colour, except for a bright blue \"saddle\" on S2 and S3. A narrow yellow ring on S2 is diagnostic. Wings on older individuals clearly tinted in yellow but not as much as *A. ephippiger*. Can be distinguished from  *A. ephippiger* by the greener eye color, the shape of the abdominal appendages, the thicker width of the abdomen,  the different venation of the wings and in females the presence of occipital tubercles.",
   "behaviour": "Lays eggs in tandem, like A. imperator and A. affinis, but none of the other Aeshnidae.",
   "size": { "length": "62-75 mm", "wingspan": "88-102 mm" },

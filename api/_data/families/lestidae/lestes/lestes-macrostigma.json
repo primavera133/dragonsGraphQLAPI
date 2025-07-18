@@ -2,7 +2,12 @@
   "items_id": "6fb5ea5bde7e40d13c4b13e0ff185c59",
   "scientific_name": "Lestes macrostigma",
   "author_citation": "(Eversmann, 1836)",
-  "local_names": ["Dark spreadwing"],
+  "local_names": [
+    "Dark spreadwing",
+    "Dunkle Binsenjungfer",
+    "Grote pantserjuffer",
+    "Leste à grands stigmas"
+  ],
   "description": "This is the largest species in the genus *Lestes*. Larger and more robust than most congeners. In young individuals, the body is bright green and with age, it gets entirely covered with light blue pruinosity. At most S3-7 are bronzy green, otherwise it is dark overall and heavily pruinose on head, entire thorax, S1-2 and S8-S10. This pruinosity has a distinctive purple to bluish hue and is extensive in both sexes and already present shortly after emergence. The pterostigma is notably large and black, bordering about three adjacent underlying cells. \n\nImmature individuals have pale brown pterostigma. Their body is more metallic when teneral, giving overlying pruinosity a peculiar lustre.\n\nOther *Lestes* has at least the upper part of the thorax bright metallic green and smaller and/or paler pterostigma.\n\nMales have distinctive short and simple lower appendages. Females ovipositor is moderately heavy, and entirely dark and pruinose, with rounded sheath.",
   "behaviour": "",
   "size": { "length": "40-45 mm", "wingspan": "45-60 mm" },

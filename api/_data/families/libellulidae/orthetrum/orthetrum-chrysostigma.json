@@ -2,7 +2,11 @@
   "items_id": "f6664fad01c14f9bbd36bd08f560d768",
   "scientific_name": "Orthetrum chrysostigma",
   "author_citation": "(Burmeister, 1839)",
-  "local_names": ["Epaulet skimmer"],
+  "local_names": [
+    "Epaulet skimmer",
+    "Rahmstreif-Blaupfeil",
+    "Epauletoeverlibel"
+  ],
   "description": "One of Africas most common dragonflies, extending to some southern parts of Europe. It is brown yellow in colour with light-blue pruinosity in the mature males. It is similar in size and appearance to *O. coerulecens* for the abundant light-blue pruinosity covering the bodies of the males and the yellowish pterostigma. It can be distinguished from the other skimmers thanks to the abdomen that is rather slender and further narrows down at S3 and S4. The thorax of both males and females has a single distinctive whitish band bordered with black that becomes less visible in older males. The sides of the thorax and abdomen in females tend to take on a pink colouration.\n\nDiagnostic features are:\n1. Abdomen rather slender and waisted near base (S3-S4).\n2. Thorax with a conspicuous whitish stripe beneath each forewing base, accentuated by black outline (obscured in males).\n3. Membranules are sooty and usually bordered by a yellow patch. On other species the base of the wing is generally clear. The larger, broader-bodied *O. brunneum* and *O. nitiderve* lack stripes on the thorax, and have whitish membranules. In the smaller *O. coerulescens*, the stripes lie more anteriorly and are less white. In the even smaller *O. taeniolatum* there are three stripes on each side, and these are accentuated by black only on one side. Both smaller species are un-waisted and have grey-brown membranules.",
   "behaviour": "In Turkey it is said to perch rarely on the ground or on rocks, and never in the obelisk position (in contrast to *O. taeniolatum*)",
   "size": { "length": "40-48 mm", "wingspan": "55-65 mm" },

@@ -10,6 +10,7 @@ const coenagrion = require('./families/coenagrionidae/coenagrion/about.json')
 const enallagma = require('./families/coenagrionidae/enallagma/about.json')
 const erythromma = require('./families/coenagrionidae/erythromma/about.json')
 const ischnura = require('./families/coenagrionidae/ischnura/about.json')
+const isoaeshna = require('./families/aeshnidae/isoaeshna/about.json')
 const nehalennia = require('./families/coenagrionidae/nehalennia/about.json')
 const pyrrhosoma = require('./families/coenagrionidae/pyrrhosoma/about.json')
 const cordulegaster = require('./families/cordulegastridae/cordulegaster/about.json')
@@ -48,6 +49,7 @@ module.exports = {
   boyeria,
   brachytron,
   caliaeschna,
+  isoaeshna,
   calopteryx,
   ceriagrion,
   coenagrion,

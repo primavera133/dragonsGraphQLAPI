@@ -2,7 +2,12 @@
   "items_id": "be7aae3041e500439e9fde5c307eb4d8",
   "scientific_name": "Sympecma fusca",
   "author_citation": "(Vander Linden, 1820)",
-  "local_names": ["Common winter damselfly"],
+  "local_names": [
+    "Common winter damselfly",
+    "Gemeine Winterlibelle",
+    "Bruine winterjuffer",
+    "Leste brun"
+  ],
   "description": "This species is light brown with portions of the head, thorax and abdomen darker and with a metallic shine. In Europe it can only be confused with *Sympecma paedisca* from which it differs by the pattern on the thorax. On *S. fusca* the upper dark band's outer edge on the thorax is straight, whereas on *S. paedisca* it has a bulge. The lower dark band of the thorax is narrower on *S. paedisca* than on *S. fusca* and at times not continuous. The two species of this genus are also different in the shape of the male abdominal appendages. The lower appendages are slim, and their tips reach as far as or longer than the tips of the basal teeth of the upper appendages. In spring the eyes turn blue on the males.\n\nCharacteristic of this genus is the position of the wings at rest: often kept close to one side of the abdomen. Pterostigma are long and brown, and occupying a different position on the wings; closer to the tip on the fore wing, farther from the tip on the hind wing.",
   "behaviour": "Belonging to the only genus to hibernate as imagos, *Sympecma fusca* leaves water at the end of the summer to sit on a grass straw and wait for the spring. It seems these overwintering areas must not be too humid. In the spring it is one of the first to return to the water again.",
   "size": { "length": "35-40 mm", "wingspan": "35-45 mm" },

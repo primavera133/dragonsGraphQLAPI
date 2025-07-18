@@ -4,7 +4,8 @@
   "author_citation": "Samraoui, Weekers & Dumont, 2003",
   "local_names": [
     "Algerian spreadwing",
-    "Late spreadwing"
+    "Late spreadwing",
+    "Late pantserjuffer"
   ],
   "description": "A form of *Lestes virens* now on genetic grounds considered to be a species of it's own. Emerges later than *L. virens*, in August to late November.",
   "behaviour": "",
@@ -12,9 +13,7 @@
     "length": "",
     "wingspan": ""
   },
-  "similar_species": [
-    "lestes virens"
-  ],
+  "similar_species": ["lestes virens"],
   "distribution": "Endemic to Algeria but it's range might extend into Tunisia, Morocco and France.",
   "habitat": "",
   "flight_period": "August to late November",

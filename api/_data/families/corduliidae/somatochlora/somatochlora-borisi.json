@@ -3,7 +3,9 @@
   "scientific_name": "Somatochlora borisi",
   "author_citation": "Marinov, 2001",
   "local_names": [
-    "Bulgarian emerald"
+    "Bulgarian emerald",
+    "Bulgaarse glanslibel",
+    "Émeraude bulgare"
   ],
   "description": "Somewhat smaller than the co-occurring S. meridionalis. Very similar in size and appearance to Cordulia aenea. Differently from other *Somatochlora*, the  males has a clubbed abdomen, widest at S7-S8. Frons is metallic green and has two yellow patches on the sides that extend towards each other, but not touching as in *S. meridionalis*. The thorax has no spots. The abdomen is unmarked except for conspicuous yellow spots at the base. The male has 3 on each side of S2 and 2 large basal spots on S3. The female has four spots on the upper side of S2-S3 and a chain of large spots on the underside of S2-4 and sometimes S5. Abdominal spots may vary in shape and size. Uniquely the ventral spots on S3-5 are bordered with black below. Like most other *Somatochlora* the hind wing has two cubito-anal crossveins. The males upper terminal appendages are unique; bent in then outwards with thick and blunt down-curved tips. Vulval scale of the female is less than half as long as S9.",
   "behaviour": "Early flier, like Cordulea aenea, but unlike other *Somatochlora* species. It emerges in early May and onwards and is mainly seen until the beginning of July.",
@@ -11,10 +13,7 @@
     "length": "45-50 mm",
     "wingspan": "62-68 mm"
   },
-  "similar_species": [
-    "Cordulea aenea",
-    "Somatochlora meridionalis"
-  ],
+  "similar_species": ["Cordulea aenea", "Somatochlora meridionalis"],
   "distribution": "*Somatochlora borisi* is endemic to south-eastern Europe and is restricted to rivers originating in the eastern Rhodope and Istranca mountains of north-east Greece, south-east of Bulgaria and European Turkey.",
   "habitat": "*Somatochlora borisi* is found in large streams and rivers in hilly regions that are generally covered with extensive broadleaved forests. Most of the forests are used for low intensity goat and sheep farming, which results in them having a relatively open structure with scattered clearings. The species does not breed in ponds or lakes, and is limited to habitats with running water. At least some of the habitats where the species occurs are intermittently-flowing streams which are fragmented into residual, and more or less disconnected, pools during the summer. The species is confined to areas with a hot and dry summer below 300 m.",
   "flight_period": "May to July",

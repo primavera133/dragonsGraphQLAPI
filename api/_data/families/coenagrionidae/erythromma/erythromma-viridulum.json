@@ -2,7 +2,13 @@
   "items_id": "04a8b550c6086dedf6e667d060529147",
   "scientific_name": "Erythromma viridulum",
   "author_citation": "(Charpentier, 1840)",
-  "local_names": ["Small red-eyed damselfly"],
+  "local_names": [
+    "Small red-eyed damselfly",
+    "Kleines Granatauge",
+    "Kleine roodoogjuffer",
+    "Petite demoiselle aux yeux rouges",
+    "Mindre rödögonflickslända"
+  ],
   "description": "Males have red eyes, mainly black bodies with sides of the thorax and the last segments on the abdomen light blue. Females green and black, with brown eyes. It could be confused with E. najas but can be distinguished by smaller size, more slender build, antehumeral stripes complete in females and complete or reduced in the males, and by the different extension of the light blue colour on the ventral side of S2-S3 and S8 in the males that also have a distictive black marking in the shape of an X on the last abdominal segment, S10. Also the males have S8 partly blue, rather than completely black in *E. najas*.",
   "behaviour": "Much like Erythromma najas it likes to perch on floating vegetation. ",
   "size": { "length": "25-35 mm", "wingspan": "30-42 mm" },

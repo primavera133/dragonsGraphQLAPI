@@ -2,7 +2,15 @@
   "items_id": "42596c578c5ccf580ea3672d50776fca",
   "scientific_name": "Coenagrion hastulatum",
   "author_citation": "Charpentier, 1825",
-  "local_names": ["Northern damselfly", "Spearhead bluet"],
+  "local_names": [
+    "Northern damselfly",
+    "Spearhead bluet",
+    "Speer-Azurjungfer",
+    "Speerwaterjuffer",
+    "Agrion hasté",
+    "Agrion à fer de lance",
+    "Spjutflickslända"
+  ],
   "description": "Like so many other *Coenagrions*, the males are light blue with black markings and bands. The males colouration can vary from light blue to yellowish-green. The side of the thorax has the typical black markings of the *Coenagrion* genera. The marking dorsally on S2 is likened to a spearhead, hence the latin name hastulatum, also there are black lines forwardly positioned on along each side of S2. The black markings has a metallic green shine to them in certain lights and angles. Postocular spots are oval and joined centrally by a blue line. The pterostigma is black and small.\n\nThe females are dorsally black-bronze in colour, and ventrally distictly yellowish-green, often distinguishing her from other females of *Coenagrion* species. \n They can rather be confused with immature Erythromma najas, but these should fairly early get their distinctive red eyes. However, a correct identification of the female is often difficult and can only be made with certainty by checking the shape of the hind margin of the pronotum.",
   "behaviour": "Look for this species close to the shoreline or in between and among vegetation growing in the water like sedges, Water horsetail or bulrushes. It can also be found away from the water, low in glades, bushes or edge zones of mashes and mires, but it rarely moves far away from water.",
   "size": { "length": "31-33 mm", "wingspan": "32-44 mm" },

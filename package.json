@@ -23,8 +23,8 @@
     "lockfile-lint-api": "^5.9.2"
   },
   "dependencies": {
-    "@apollo/server": "^4.13.0",
-    "@as-integrations/next": "^3.0.0",
+    "@apollo/server": "^5.5.0",
+    "@as-integrations/next": "^4.1.0",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "graphql": "^16.8.1",

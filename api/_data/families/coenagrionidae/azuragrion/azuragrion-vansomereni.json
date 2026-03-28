@@ -1,0 +1,32 @@
+{
+  "items_id": "ad1b0c8e37bce52f078a6b765d19631e",
+  "scientific_name": "Azuragrion vansomereni",
+  "author_citation": "(Longfield, 1952)",
+  "local_names": ["Van Someren's azure damselfly", "Mindre azurflickslända"],
+  "description": "A small azure damselfly named after the entomologist Van Someren. Males have blue and black patterning. It is closely related to *Azuragrion somalicum* and similarly little-studied.",
+  "behaviour": "Little documented. Found near water bodies in its East African range.",
+  "size": { "length": "26-34 mm", "wingspan": "32-42 mm" },
+  "similar_species": ["Azuragrion nigridorsum", "Azuragrion somalicum"],
+  "distribution": "*Azuragrion vansomereni* is known from Kenya, Ethiopia, and Somalia.",
+  "habitat": "Still and slow-flowing waters in East Africa.",
+  "flight_period": "Poorly known; likely year-round in suitable habitat.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not present",
+    "red_list_europe": "Not present",
+    "red_list_mediterranean": "Not evaluated",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106302-Azuragrion-vansomereni" },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422453" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422453" }]
+}

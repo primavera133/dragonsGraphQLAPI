@@ -1,0 +1,14 @@
+{
+  "title": "Pseudagrion",
+  "author_citation": "Selys, 1876",
+  "description": "**_Pseudagrion_** is a large genus of damselflies in the family Coenagrionidae, commonly known as sprites or brook damselflies. The genus has its highest diversity in Africa and Asia, with several species occurring in the Western Palearctic region.",
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
+    "[Wikipedia](https://en.wikipedia.org/wiki/Pseudagrion)"
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422500" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422500" }]
+}

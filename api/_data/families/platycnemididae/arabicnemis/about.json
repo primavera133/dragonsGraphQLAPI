@@ -1,0 +1,13 @@
+{
+  "title": "Arabicnemis",
+  "author_citation": "Peters, 1971",
+  "description": "**_Arabicnemis_** is a monotypic genus of damselflies in the family Platycnemididae, found in the Arabian Peninsula and surrounding regions.",
+  "sources": [
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
+    "[Wikipedia](https://en.wikipedia.org/wiki/Arabicnemis)"
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422374" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422374" }]
+}

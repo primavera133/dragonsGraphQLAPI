@@ -5,6 +5,7 @@ const brachytron = require('./families/aeshnidae/brachytron/about.json')
 const caliaeschna = require('./families/aeshnidae/caliaeschna/about.json')
 const calopteryx = require('./families/calopterygidae/calopteryx/about.json')
 const agriocnemis = require('./families/coenagrionidae/agriocnemis/about.json')
+const azuragrion = require('./families/coenagrionidae/azuragrion/about.json')
 const ceriagrion = require('./families/coenagrionidae/ceriagrion/about.json')
 const coenagrion = require('./families/coenagrionidae/coenagrion/about.json')
 const enallagma = require('./families/coenagrionidae/enallagma/about.json')
@@ -12,6 +13,7 @@ const erythromma = require('./families/coenagrionidae/erythromma/about.json')
 const ischnura = require('./families/coenagrionidae/ischnura/about.json')
 const isoaeshna = require('./families/aeshnidae/isoaeshna/about.json')
 const nehalennia = require('./families/coenagrionidae/nehalennia/about.json')
+const pseudagrion = require('./families/coenagrionidae/pseudagrion/about.json')
 const pyrrhosoma = require('./families/coenagrionidae/pyrrhosoma/about.json')
 const cordulegaster = require('./families/cordulegastridae/cordulegaster/about.json')
 const cordulia = require('./families/corduliidae/cordulia/about.json')
@@ -40,11 +42,16 @@ const sympetrum = require('./families/libellulidae/sympetrum/about.json')
 const trithemis = require('./families/libellulidae/trithemis/about.json')
 const zygonyx = require('./families/libellulidae/zygonyx/about.json')
 const macromia = require('./families/macromiidae/macromia/about.json')
+const arabicnemis = require('./families/platycnemididae/arabicnemis/about.json')
+const arabineura = require('./families/platycnemididae/arabineura/about.json')
 const platycnemis = require('./families/platycnemididae/platycnemis/about.json')
 
 module.exports = {
   aeshna,
   agriocnemis,
+  arabicnemis,
+  arabineura,
+  azuragrion,
   anax,
   boyeria,
   brachytron,
@@ -57,6 +64,7 @@ module.exports = {
   erythromma,
   ischnura,
   nehalennia,
+  pseudagrion,
   pyrrhosoma,
   cordulegaster,
   cordulia,

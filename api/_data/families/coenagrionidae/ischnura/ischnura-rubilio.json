@@ -1,0 +1,32 @@
+{
+  "items_id": "553c4a6086f85d645c75e505fda21f41",
+  "scientific_name": "Ischnura rubilio",
+  "author_citation": "(Selys, 1876)",
+  "local_names": ["Golden bluetail", "Italian bluetail", "Gyllene kustflickslända"],
+  "description": "A medium-sized bluetail damselfly with distinctive golden-orange coloration in males, unlike the typical blue tail-tip of most *Ischnura* species. Females are brownish. It is restricted to the Italian Peninsula and Sardinia.",
+  "behaviour": "Found near still and slow-flowing waters with emergent vegetation. Males perch on waterside plants and defend territories.",
+  "size": { "length": "26-34 mm", "wingspan": "32-40 mm" },
+  "similar_species": ["Ischnura elegans", "Ischnura pumilio"],
+  "distribution": "*Ischnura rubilio* is endemic to Italy, including the Italian Peninsula and Sardinia. It has been recorded from a limited number of localities.",
+  "habitat": "Still and slow-flowing waters with well-developed emergent vegetation, including ponds, marshes, and river margins.",
+  "flight_period": "April to September.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Near Threatened",
+    "red_list_europe": "Near Threatened",
+    "red_list_mediterranean": "Near Threatened",
+    "EU27_endemic": "Yes",
+    "red_list_europe_endemic": "Yes",
+    "trend_europe": "Decreasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/98292-Ischnura-rubilio" },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422143" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422143" }]
+}

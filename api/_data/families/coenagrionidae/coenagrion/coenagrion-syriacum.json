@@ -1,0 +1,32 @@
+{
+  "items_id": "e21052c37cb530d1e4e88111ad334803",
+  "scientific_name": "Coenagrion syriacum",
+  "author_citation": "(Morton, 1924)",
+  "local_names": ["Levant bluet", "Levantlyrflickslända"],
+  "description": "A medium-sized blue damselfly from the Levant region. Males are blue with black markings on the abdomen. It is restricted to a small area of the eastern Mediterranean and is among the rarer Coenagrion species.",
+  "behaviour": "Found near vegetated still and slow-flowing waters in the Levant.",
+  "size": { "length": "28-35 mm", "wingspan": "33-43 mm" },
+  "similar_species": ["Coenagrion puella", "Coenagrion scitulum"],
+  "distribution": "*Coenagrion syriacum* occurs in Syria, Lebanon, Israel, and parts of Turkey.",
+  "habitat": "Vegetated margins of ponds, irrigation channels, and slow-flowing waters.",
+  "flight_period": "April to August.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not present",
+    "red_list_europe": "Not present",
+    "red_list_mediterranean": "Near Threatened",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/344067-Coenagrion-syriacum" },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422014" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422014" }]
+}

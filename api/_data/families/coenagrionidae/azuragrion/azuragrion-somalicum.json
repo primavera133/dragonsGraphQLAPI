@@ -1,0 +1,32 @@
+{
+  "items_id": "6bbc2d819dc2978dd77a97aa1815f65b",
+  "scientific_name": "Azuragrion somalicum",
+  "author_citation": "(Longfield, 1952)",
+  "local_names": ["Somali azure damselfly", "Somalisk azurflickslända"],
+  "description": "A small damselfly similar to *Azuragrion nigridorsum* but restricted to the Horn of Africa. Males have blue and black patterning on the abdomen. It is one of the least-known members of the genus.",
+  "behaviour": "Little documented. Presumed similar to other Azuragrion species, found near water bodies.",
+  "size": { "length": "26-34 mm", "wingspan": "32-42 mm" },
+  "similar_species": ["Azuragrion nigridorsum", "Azuragrion vansomereni"],
+  "distribution": "*Azuragrion somalicum* is restricted to Somalia and adjacent parts of Ethiopia and Djibouti.",
+  "habitat": "Still and slow-flowing waters in semi-arid regions.",
+  "flight_period": "Poorly known; likely seasonal following rainfall patterns.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not present",
+    "red_list_europe": "Not present",
+    "red_list_mediterranean": "Not evaluated",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106301-Azuragrion-somalicum" },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422452" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422452" }]
+}

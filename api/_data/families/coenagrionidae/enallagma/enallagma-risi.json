@@ -1,0 +1,32 @@
+{
+  "items_id": "fb507c0426358bc8c9a21b46d357a5c4",
+  "scientific_name": "Enallagma risi",
+  "author_citation": "(Schneider, 1984)",
+  "local_names": ["Asian bluet", "Asiatisk sjöflickslända"],
+  "description": "A small to medium-sized blue damselfly from Central Asia. Males have blue and black patterning similar to other Enallagma species. It was described relatively recently and remains poorly known compared to more westerly species.",
+  "behaviour": "Found near vegetated still and slow-flowing waters in its Central Asian range.",
+  "size": { "length": "26-34 mm", "wingspan": "32-42 mm" },
+  "similar_species": ["Enallagma cyathigerum", "Coenagrion puella"],
+  "distribution": "*Enallagma risi* is known from Central Asia, including Kazakhstan, Turkmenistan, and adjacent areas.",
+  "habitat": "Vegetated margins of lakes, ponds, and slow-flowing rivers.",
+  "flight_period": "May to August.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not present",
+    "red_list_europe": "Not present",
+    "red_list_mediterranean": "Not evaluated",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/344070-Enallagma-risi" },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422101" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422101" }]
+}

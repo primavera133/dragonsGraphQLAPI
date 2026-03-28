@@ -1,0 +1,32 @@
+{
+  "items_id": "2dddc3e47a0394df8d30c49b9122f824",
+  "scientific_name": "Platycnemis kervillei",
+  "author_citation": "(Martin, 1909)",
+  "local_names": ["Powdered river damselfly", "Pudrad flodflickslända"],
+  "description": "A medium-sized damselfly similar to *Platycnemis pennipes* but restricted to the eastern Mediterranean and Middle East. Males have pale whitish-blue or cream coloration with black markings. The legs are widened and feather-like, characteristic of the genus.",
+  "behaviour": "Found along rivers and streams with riparian vegetation. Males perch on waterside plants and are territorial near the water's edge.",
+  "size": { "length": "30-38 mm", "wingspan": "36-46 mm" },
+  "similar_species": ["Platycnemis pennipes", "Platycnemis latipes"],
+  "distribution": "*Platycnemis kervillei* occurs in Turkey, Syria, Lebanon, Israel and adjacent parts of the Middle East.",
+  "habitat": "Larger rivers and streams with well-developed riparian vegetation, including tamarisk and reed beds.",
+  "flight_period": "May to August.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not present",
+    "red_list_europe": "Not present",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106282-Platycnemis-kervillei" },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422391" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422391" }]
+}

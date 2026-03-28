@@ -1,0 +1,32 @@
+{
+  "items_id": "8c9022233df117153e7dcc833f394b19",
+  "scientific_name": "Coenagrion castellani",
+  "author_citation": "(Roberts, 1948)",
+  "local_names": ["Italian bluet", "Italiensk hjälmflickslända"],
+  "description": "A medium-sized blue damselfly closely related to *Coenagrion mercuriale*. Males are blue with black markings. The species is endemic to Italy and is distinguished from the similar *C. mercuriale* primarily by genital morphology.",
+  "behaviour": "Found near small, well-lit streams and springs with emergent vegetation. Behaviour similar to *Coenagrion mercuriale*.",
+  "size": { "length": "25-33 mm", "wingspan": "30-40 mm" },
+  "similar_species": ["Coenagrion mercuriale", "Coenagrion puella"],
+  "distribution": "*Coenagrion castellani* is endemic to Italy, where it occurs in scattered localities, primarily in central and southern Italy.",
+  "habitat": "Small, clear, slow-flowing streams, springs, and seepages with emergent and bankside vegetation, often in agricultural or semi-natural landscapes.",
+  "flight_period": "May to August.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Vulnerable",
+    "red_list_europe": "Near Threatened",
+    "red_list_mediterranean": "Near Threatened",
+    "EU27_endemic": "Yes",
+    "red_list_europe_endemic": "Yes",
+    "trend_europe": "Decreasing"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/98274-Coenagrion-castellani" },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422011" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422011" }]
+}

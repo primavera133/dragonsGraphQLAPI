@@ -1,0 +1,32 @@
+{
+  "items_id": "41647936b7a267953a7b60a605114b39",
+  "scientific_name": "Platycnemis subdilatata",
+  "author_citation": "Selys, 1849",
+  "local_names": ["Maghreb river damselfly", "Maghrebflodflickslända"],
+  "description": "A medium-sized damselfly endemic to north-west Africa. Similar in appearance to *Platycnemis pennipes* but with a more restricted range. Males are pale whitish with reduced black markings. The widened, feather-like legs are characteristic of the genus.",
+  "behaviour": "Found along rivers and streams. Males perch on waterside vegetation and defend territories near flowing water.",
+  "size": { "length": "30-38 mm", "wingspan": "36-46 mm" },
+  "similar_species": ["Platycnemis pennipes", "Platycnemis latipes"],
+  "distribution": "*Platycnemis subdilatata* is endemic to north-west Africa, occurring in Morocco, Algeria and Tunisia.",
+  "habitat": "Rivers and streams with riparian vegetation in the Maghreb region, from lowlands to moderate elevations.",
+  "flight_period": "April to September.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not present",
+    "red_list_europe": "Not present",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106283-Platycnemis-subdilatata" },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422393" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422393" }]
+}

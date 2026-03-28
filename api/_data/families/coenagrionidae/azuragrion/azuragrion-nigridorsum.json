@@ -1,0 +1,32 @@
+{
+  "items_id": "e0179331d0cef5afbc73d5ac66034e69",
+  "scientific_name": "Azuragrion nigridorsum",
+  "author_citation": "(Selys, 1876)",
+  "local_names": ["Sailing bluet", "Black-backed azure damselfly", "Seglande azurflickslända"],
+  "description": "A small to medium-sized damselfly with blue and black coloration in males. The dorsal surface of the abdomen is largely black with blue markings at the segment bases. Females are typically greenish or brownish with black markings.",
+  "behaviour": "Found near still and slow-flowing water. Males perch on emergent vegetation and patrol over water in search of females.",
+  "size": { "length": "28-36 mm", "wingspan": "34-44 mm" },
+  "similar_species": ["Azuragrion somalicum", "Coenagrion puella"],
+  "distribution": "*Azuragrion nigridorsum* occurs across sub-Saharan Africa and extends into the southern Arabian Peninsula and parts of the Middle East.",
+  "habitat": "Still and slow-flowing waters including ponds, marshes, and river margins with emergent vegetation.",
+  "flight_period": "Year-round in tropical parts of range; April to October at northern limits.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not present",
+    "red_list_europe": "Not present",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": { "cloud_name": "dragonflies", "all": [] },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106300-Azuragrion-nigridorsum" },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422451" }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422451" }]
+}

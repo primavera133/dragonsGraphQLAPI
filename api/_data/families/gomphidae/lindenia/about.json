@@ -6,7 +6,10 @@
     "[Wikipedia](https://en.wikipedia.org/wiki/Lindenia_tetraphylla)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/8931379" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/8931379"
+    }
   ],
   "meta": [
     {

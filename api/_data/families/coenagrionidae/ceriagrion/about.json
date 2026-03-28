@@ -6,7 +6,12 @@
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra.",
     "[Wikipedia](https://en.wikipedia.org/wiki/Ceriagrion)"
   ],
-  "links": [{ "label": "gbif.org", "link": "https://www.gbif.org/species/" }],
+  "links": [
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/"
+    }
+  ],
   "meta": [
     {
       "label": "gbifTaxonKey",

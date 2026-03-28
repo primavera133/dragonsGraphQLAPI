@@ -2,31 +2,45 @@
   "items_id": "e9879f028feaa704d221b30abf716a31",
   "scientific_name": "Pseudagrion hamoni",
   "author_citation": "(Legrand, 1984)",
-  "local_names": ["Hamon's sprite", "Mörk bäckflickslända"],
+  "local_names": [
+    "Hamon's sprite",
+    "Mörk bäckflickslända"
+  ],
   "description": "A small to medium-sized, relatively dark damselfly. Males have reduced blue coloration compared to many Pseudagrion species, with more extensive black markings. Named after the French odonatologist J. Hamon.",
   "behaviour": "Found along streams and rivers. Little specifically documented about its behaviour.",
-  "size": { "length": "28-36 mm", "wingspan": "34-44 mm" },
-  "similar_species": ["Pseudagrion kersteni", "Pseudagrion niloticum"],
+  "size": {
+    "length": "28-36 mm",
+    "wingspan": "34-44 mm"
+  },
+  "similar_species": [
+    "Pseudagrion kersteni",
+    "Pseudagrion niloticum"
+  ],
   "distribution": "*Pseudagrion hamoni* is known from East Africa, particularly Somalia and adjacent countries.",
   "habitat": "Flowing streams and rivers in East Africa.",
   "flight_period": "Poorly documented; likely seasonal.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Not evaluated",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/344081-Pseudagrion-hamoni" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422503" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/344081-Pseudagrion-hamoni"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422503"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422503" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422503"
+    }
+  ]
 }

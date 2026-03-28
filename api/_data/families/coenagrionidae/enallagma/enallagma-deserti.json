@@ -2,31 +2,45 @@
   "items_id": "e40f29e943074fb72aa1bccca1c1db3e",
   "scientific_name": "Enallagma deserti",
   "author_citation": "(Selys, 1871)",
-  "local_names": ["Desert bluet", "Maghrebsjöflickslända"],
+  "local_names": [
+    "Desert bluet",
+    "Maghrebsjöflickslända"
+  ],
   "description": "A small to medium-sized blue damselfly adapted to arid environments. Males are blue with black markings, similar to *Enallagma cyathigerum* but occurring in very different habitats. It is closely associated with water bodies in desert and semi-desert landscapes.",
   "behaviour": "Found near any available water body in arid environments, including oases, irrigation channels, and temporary ponds.",
-  "size": { "length": "26-34 mm", "wingspan": "32-42 mm" },
-  "similar_species": ["Enallagma cyathigerum", "Ischnura elegans"],
+  "size": {
+    "length": "26-34 mm",
+    "wingspan": "32-42 mm"
+  },
+  "similar_species": [
+    "Enallagma cyathigerum",
+    "Ischnura elegans"
+  ],
   "distribution": "*Enallagma deserti* occurs across North Africa from Morocco to Egypt, and into the Middle East.",
   "habitat": "Any available standing or slow-flowing water in arid and semi-arid regions, including oases, irrigation canals, wadis, and brackish pools.",
   "flight_period": "March to October, possibly year-round in the warmest parts of its range.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Least Concern",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/98284-Enallagma-deserti" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422100" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/98284-Enallagma-deserti"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422100"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422100" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422100"
+    }
+  ]
 }

@@ -16,19 +16,13 @@
     "length": "30-35 mm",
     "wingspan": "30-45 mm"
   },
-  "similar_species": ["Ischnura genei", "Ischnura graelsii"],
+  "similar_species": [
+    "Ischnura genei",
+    "Ischnura graelsii"
+  ],
   "distribution": "*Ischnura elegans* occurs from western Europe to Japan. It is widespread and is one of the most common and abundant damselflies in Europe. Its range overalps with *I. graelsii* in parts of the Iberian Peninsula and the species is largely replaced by *I. genei* on the Tuscan archipelago, the Tyrrhenian islands and the Maltese Islands, although locally both species occur sympatrically and appear to produce hybrids.",
   "habitat": "In large parts of Europe *Ischnura elegans* is the most common damselfly, being found in all kinds of standing and slow-flowing waters. It is very common on mesotrophic to eutrophic sites and is tolerant to rather high salinity and moderate acidity. The species is found from lowlands up to 1 600 m.",
   "flight_period": "April to October",
-  "red_list": {
-    "habitats_directive": "",
-    "red_list_EU27": "",
-    "red_list_europe": "",
-    "red_list_mediterranean": "",
-    "EU27_endemic": "",
-    "red_list_europe_endemic": "",
-    "trend_europe": ""
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [

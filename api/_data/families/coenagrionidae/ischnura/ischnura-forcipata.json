@@ -2,31 +2,45 @@
   "items_id": "6dd2a877601c7323d7f9c4ac17152275",
   "scientific_name": "Ischnura forcipata",
   "author_citation": "(Morton, 1924)",
-  "local_names": ["Fork-tailed bluetail", "Gaffelkustflickslända"],
+  "local_names": [
+    "Fork-tailed bluetail",
+    "Gaffelkustflickslända"
+  ],
   "description": "A small bluetail damselfly from the Middle East. Males have the characteristic blue segment 8 tail-tip of the genus. The species name refers to the forceps-like shape of the male genitalia.",
   "behaviour": "Found near still and slow-flowing waters in arid and semi-arid environments.",
-  "size": { "length": "24-32 mm", "wingspan": "28-38 mm" },
-  "similar_species": ["Ischnura elegans", "Ischnura evansi"],
+  "size": {
+    "length": "24-32 mm",
+    "wingspan": "28-38 mm"
+  },
+  "similar_species": [
+    "Ischnura elegans",
+    "Ischnura evansi"
+  ],
   "distribution": "*Ischnura forcipata* occurs in the Middle East, including Israel, Jordan, Syria, and Turkey.",
   "habitat": "Still and slow-flowing waters, including ponds, marshes, and irrigation channels in arid and semi-arid regions.",
   "flight_period": "April to September.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Least Concern",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106351-Ischnura-forcipata" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422141" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/106351-Ischnura-forcipata"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422141"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422141" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422141"
+    }
+  ]
 }

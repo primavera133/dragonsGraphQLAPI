@@ -2,31 +2,45 @@
   "items_id": "f63f0bde95641547387ecde4aa414725",
   "scientific_name": "Ceriagrion glabrum",
   "author_citation": "(Burmeister, 1839)",
-  "local_names": ["Common coral damselfly", "Blek korallflickslända"],
+  "local_names": [
+    "Common coral damselfly",
+    "Blek korallflickslända"
+  ],
   "description": "A medium-sized damselfly with a predominantly red or orange-red abdomen in males. Females are typically brownish or yellowish. It is one of the most widespread Ceriagrion species in Africa, and is occasionally recorded at the margins of the Western Palearctic region.",
   "behaviour": "Found near still and slow-flowing waters. Males perch on emergent vegetation and are relatively approachable.",
-  "size": { "length": "28-36 mm", "wingspan": "34-44 mm" },
-  "similar_species": ["Ceriagrion tenellum", "Ceriagrion georgifreyi"],
+  "size": {
+    "length": "28-36 mm",
+    "wingspan": "34-44 mm"
+  },
+  "similar_species": [
+    "Ceriagrion tenellum",
+    "Ceriagrion georgifreyi"
+  ],
   "distribution": "*Ceriagrion glabrum* is widespread across sub-Saharan Africa and extends into the southern parts of the Western Palearctic in Egypt, Israel and the Arabian Peninsula.",
   "habitat": "Margins of still and slow-flowing waters with dense emergent vegetation, including ponds, lakes, marshes, and slow rivers.",
   "flight_period": "Year-round in tropical Africa; March to October at northern limits.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Least Concern",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106310-Ceriagrion-glabrum" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422220" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/106310-Ceriagrion-glabrum"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422220"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422220" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422220"
+    }
+  ]
 }

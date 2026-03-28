@@ -2,31 +2,46 @@
   "items_id": "e652fa89a81d0ea4c0098b8b25a22113",
   "scientific_name": "Ischnura evansi",
   "author_citation": "Morton, 1924",
-  "local_names": ["Evans's bluetail", "Ökenkustflickslända"],
+  "local_names": [
+    "Evans's bluetail",
+    "Ökenkustflickslända"
+  ],
   "description": "A small bluetail damselfly from the Arabian Peninsula and Middle East. Males have the characteristic blue tail-tip of the genus *Ischnura*. It is one of several desert-adapted bluetail species in the region.",
   "behaviour": "Found near any available water body in arid environments, including oases and irrigation channels.",
-  "size": { "length": "24-32 mm", "wingspan": "28-38 mm" },
-  "similar_species": ["Ischnura elegans", "Ischnura pumilio", "Ischnura saharensis"],
+  "size": {
+    "length": "24-32 mm",
+    "wingspan": "28-38 mm"
+  },
+  "similar_species": [
+    "Ischnura elegans",
+    "Ischnura pumilio",
+    "Ischnura saharensis"
+  ],
   "distribution": "*Ischnura evansi* occurs in the Arabian Peninsula, including Oman, Yemen, Saudi Arabia, and adjacent parts of the Middle East.",
   "habitat": "Any available water body in arid regions, including wadis, oases, irrigation canals, and brackish pools.",
   "flight_period": "March to October, possibly year-round.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Least Concern",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106350-Ischnura-evansi" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422140" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/106350-Ischnura-evansi"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422140"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422140" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422140"
+    }
+  ]
 }

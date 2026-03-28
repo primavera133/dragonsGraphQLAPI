@@ -2,31 +2,45 @@
   "items_id": "ed70252f4652b0067c120aef6a1fd3de",
   "scientific_name": "Pseudagrion arabicum",
   "author_citation": "Schneider, 1984",
-  "local_names": ["Arabian sprite", "Arabisk bäckflickslända"],
+  "local_names": [
+    "Arabian sprite",
+    "Arabisk bäckflickslända"
+  ],
   "description": "A small to medium-sized damselfly from the Arabian Peninsula. Males have blue and black coloration characteristic of the genus. It is one of the few Pseudagrion species endemic to the Arabian Peninsula.",
   "behaviour": "Found along streams and rivers. Males are territorial and perch prominently on waterside rocks and vegetation.",
-  "size": { "length": "28-36 mm", "wingspan": "34-44 mm" },
-  "similar_species": ["Pseudagrion syriacum", "Pseudagrion decorum"],
+  "size": {
+    "length": "28-36 mm",
+    "wingspan": "34-44 mm"
+  },
+  "similar_species": [
+    "Pseudagrion syriacum",
+    "Pseudagrion decorum"
+  ],
   "distribution": "*Pseudagrion arabicum* is endemic to the Arabian Peninsula, known from Oman, Yemen, and Saudi Arabia.",
   "habitat": "Clear, flowing streams and wadis in mountainous terrain.",
   "flight_period": "March to October.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Not evaluated",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/344080-Pseudagrion-arabicum" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422501" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/344080-Pseudagrion-arabicum"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422501"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422501" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422501"
+    }
+  ]
 }

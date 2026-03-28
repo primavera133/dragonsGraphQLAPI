@@ -2,31 +2,45 @@
   "items_id": "3e6325643e9d417a8530dbe433c0fb79",
   "scientific_name": "Coenagrion ponticum",
   "author_citation": "(Barteneff, 1900)",
-  "local_names": ["Pontic bluet", "Pontisk lyrflickslända"],
+  "local_names": [
+    "Pontic bluet",
+    "Pontisk lyrflickslända"
+  ],
   "description": "A medium-sized blue damselfly from the Pontic region (Black Sea coast). Males are blue with black markings. It is closely related to *Coenagrion puella* and was for a long time considered a subspecies or synonym.",
   "behaviour": "Found near vegetated still and slow-flowing waters in its Black Sea coastal range.",
-  "size": { "length": "28-36 mm", "wingspan": "33-43 mm" },
-  "similar_species": ["Coenagrion puella", "Coenagrion pulchellum"],
+  "size": {
+    "length": "28-36 mm",
+    "wingspan": "33-43 mm"
+  },
+  "similar_species": [
+    "Coenagrion puella",
+    "Coenagrion pulchellum"
+  ],
   "distribution": "*Coenagrion ponticum* occurs along the Black Sea coast, including parts of Turkey, Georgia, and possibly Ukraine.",
   "habitat": "Vegetated margins of ponds, lakes, and slow-flowing waters.",
   "flight_period": "May to August.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Not evaluated",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/344066-Coenagrion-ponticum" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422013" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/344066-Coenagrion-ponticum"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422013"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422013" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422013"
+    }
+  ]
 }

@@ -2,31 +2,45 @@
   "items_id": "5d4fe98bd641f20094868e24b5c475af",
   "scientific_name": "Pseudagrion kersteni",
   "author_citation": "(Gerstäcker, 1869)",
-  "local_names": ["Blue sprite", "Blåpudrad bäckflickslända"],
+  "local_names": [
+    "Blue sprite",
+    "Blåpudrad bäckflickslända"
+  ],
   "description": "A medium-sized damselfly with blue-pruinose coloration in mature males, giving them a powdery blue appearance. One of the more widespread East African Pseudagrion species. Named after the German explorer C. Kersten.",
   "behaviour": "Found along streams and rivers with sandy banks and riparian vegetation. Males perch on rocks and low vegetation near the water.",
-  "size": { "length": "30-38 mm", "wingspan": "36-46 mm" },
-  "similar_species": ["Pseudagrion niloticum", "Pseudagrion nubicum"],
+  "size": {
+    "length": "30-38 mm",
+    "wingspan": "36-46 mm"
+  },
+  "similar_species": [
+    "Pseudagrion niloticum",
+    "Pseudagrion nubicum"
+  ],
   "distribution": "*Pseudagrion kersteni* is widespread in East Africa from Ethiopia and Somalia south to Tanzania.",
   "habitat": "Flowing streams and rivers with sandy substrates and riparian vegetation.",
   "flight_period": "Year-round in tropical Africa.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Not evaluated",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106361-Pseudagrion-kersteni" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422504" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/106361-Pseudagrion-kersteni"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422504"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422504" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422504"
+    }
+  ]
 }

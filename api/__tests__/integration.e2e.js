@@ -5,11 +5,10 @@ const {
   GET_SPECIES_BY_GENUS_QUERY 
 } = require('./__queries')
 const { 
-  assertNoErrors, 
+  assertNoErrors,
   assertSpeciesArray,
   assertValidScientificName,
-  assertValidConservationStatus,
-  testData 
+  testData
 } = require('./__helpers')
 
 describe('Integration Tests - Complex Scenarios', () => {
@@ -94,16 +93,6 @@ describe('Integration Tests - Complex Scenarios', () => {
         assertValidScientificName(species.scientific_name)
         expect(species.items_id).toBeDefined()
         
-        // Validate conservation status
-        if (species.red_list) {
-          // Validate conservation status (handle case variations)
-          if (species.red_list.red_list_EU27) {
-            assertValidConservationStatus(species.red_list.red_list_EU27)
-          }
-          if (species.red_list.red_list_europe) {
-            assertValidConservationStatus(species.red_list.red_list_europe)
-          }
-        }
       })
     })
   })

@@ -7,8 +7,19 @@
     "[iNaturalist](https://www.inaturalist.org/taxa/91391-Pseudagrion)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422769" },
-    { "label": "iNaturalist.org", "link": "https://www.inaturalist.org/taxa/91391-Pseudagrion" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422769"
+    },
+    {
+      "label": "iNaturalist.org",
+      "link": "https://www.inaturalist.org/taxa/91391-Pseudagrion"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422769" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422769"
+    }
+  ]
 }

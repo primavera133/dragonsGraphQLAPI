@@ -2,31 +2,45 @@
   "items_id": "6eb9216d7b063b8085308003f6bbef3b",
   "scientific_name": "Coenagrion persicum",
   "author_citation": "(Morton, 1924)",
-  "local_names": ["Persian bluet", "Persisk lyrflickslända"],
+  "local_names": [
+    "Persian bluet",
+    "Persisk lyrflickslända"
+  ],
   "description": "A medium-sized blue damselfly restricted to Iran and adjacent parts of the Middle East. Males are blue with black markings similar to other Coenagrion species. It is one of the least-studied members of the genus.",
   "behaviour": "Found near vegetated still and slow-flowing waters. Behaviour presumed similar to other Coenagrion species.",
-  "size": { "length": "28-35 mm", "wingspan": "33-43 mm" },
-  "similar_species": ["Coenagrion puella", "Coenagrion pulchellum"],
+  "size": {
+    "length": "28-35 mm",
+    "wingspan": "33-43 mm"
+  },
+  "similar_species": [
+    "Coenagrion puella",
+    "Coenagrion pulchellum"
+  ],
   "distribution": "*Coenagrion persicum* is known from Iran and possibly adjacent parts of Iraq and Turkey.",
   "habitat": "Vegetated margins of ponds, lakes, and slow-flowing waters.",
   "flight_period": "May to August.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Not evaluated",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/344065-Coenagrion-persicum" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422012" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/344065-Coenagrion-persicum"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422012"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422012" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422012"
+    }
+  ]
 }

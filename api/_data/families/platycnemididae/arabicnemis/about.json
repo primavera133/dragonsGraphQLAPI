@@ -7,8 +7,19 @@
     "[Wikipedia](https://en.wikipedia.org/wiki/Arabicnemis)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423624" },
-    { "label": "iNaturalist.org", "link": "https://www.inaturalist.org/taxa/86584-Arabicnemis" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1423624"
+    },
+    {
+      "label": "iNaturalist.org",
+      "link": "https://www.inaturalist.org/taxa/86584-Arabicnemis"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1423624" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1423624"
+    }
+  ]
 }

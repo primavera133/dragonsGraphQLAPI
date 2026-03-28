@@ -13,19 +13,12 @@
     "length": "",
     "wingspan": ""
   },
-  "similar_species": ["lestes virens"],
+  "similar_species": [
+    "lestes virens"
+  ],
   "distribution": "Endemic to Algeria but it's range might extend into Tunisia, Morocco and France.",
   "habitat": "",
   "flight_period": "August to late November",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "",
-    "red_list_europe": "",
-    "red_list_mediterranean": "Data Deficient",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "",
-    "trend_europe": ""
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": []

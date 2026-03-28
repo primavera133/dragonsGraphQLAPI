@@ -2,31 +2,44 @@
   "items_id": "c1c7a8eb400a953643edbd6eabf9075b",
   "scientific_name": "Arabineura khalidi",
   "author_citation": "Schneider & Dumont, 1997",
-  "local_names": ["Dark stream damselfly", "Mörk flodflickslända"],
+  "local_names": [
+    "Dark stream damselfly",
+    "Mörk flodflickslända"
+  ],
   "description": "A small, dark damselfly in the family Platycnemididae. The species has dark coloration distinguishing it from the related *Arabicnemis caerulea*. It is one of the least-known odonates of the Arabian Peninsula.",
   "behaviour": "Found along rocky streams in arid mountain terrain. Little is known about its behaviour due to its remote range.",
-  "size": { "length": "28-34 mm", "wingspan": "34-42 mm" },
-  "similar_species": ["Arabicnemis caerulea"],
+  "size": {
+    "length": "28-34 mm",
+    "wingspan": "34-42 mm"
+  },
+  "similar_species": [
+    "Arabicnemis caerulea"
+  ],
   "distribution": "*Arabineura khalidi* is known from Oman and Yemen, restricted to the mountainous interior of the Arabian Peninsula.",
   "habitat": "Rocky, fast-flowing mountain streams in arid terrain.",
   "flight_period": "April to September.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Not evaluated",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/343163-Arabineura-khalidi" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/4520382" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/343163-Arabineura-khalidi"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/4520382"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "4520382" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "4520382"
+    }
+  ]
 }

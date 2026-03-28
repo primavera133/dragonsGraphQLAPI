@@ -120,7 +120,6 @@ export type Specie = {
   links?: Maybe<Array<Maybe<Link>>>;
   local_names?: Maybe<Array<Maybe<Scalars['String']>>>;
   meta?: Maybe<Array<Maybe<Meta>>>;
-  red_list?: Maybe<RedList>;
   scientific_name: Scalars['ID'];
   similar_species?: Maybe<Array<Maybe<Scalars['String']>>>;
   size?: Maybe<Size>;
@@ -141,17 +140,6 @@ export type ImageData = {
   license: Scalars['String'];
   public_id: Scalars['String'];
   url?: Maybe<Scalars['String']>;
-};
-
-export type RedList = {
-  __typename?: 'RedList';
-  EU27_endemic: Scalars['String'];
-  habitats_directive: Scalars['String'];
-  red_list_EU27: Scalars['String'];
-  red_list_europe: Scalars['String'];
-  red_list_europe_endemic: Scalars['String'];
-  red_list_mediterranean: Scalars['String'];
-  trend_europe: Scalars['String'];
 };
 
 export type Size = {

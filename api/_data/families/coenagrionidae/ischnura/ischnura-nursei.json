@@ -2,31 +2,45 @@
   "items_id": "e3db26ae57db521386bcbb29381cc28e",
   "scientific_name": "Ischnura nursei",
   "author_citation": "(Morton, 1908)",
-  "local_names": ["Nurse's bluetail", "Praktfull kustflickslända"],
+  "local_names": [
+    "Nurse's bluetail",
+    "Praktfull kustflickslända"
+  ],
   "description": "A small bluetail damselfly from the Arabian Peninsula. Males have the characteristic blue tail-tip of the genus *Ischnura*. The species is named after the collector Nurse.",
   "behaviour": "Found near any available water body in the arid Arabian Peninsula, including oases and wadis.",
-  "size": { "length": "24-32 mm", "wingspan": "28-38 mm" },
-  "similar_species": ["Ischnura evansi", "Ischnura senegalensis"],
+  "size": {
+    "length": "24-32 mm",
+    "wingspan": "28-38 mm"
+  },
+  "similar_species": [
+    "Ischnura evansi",
+    "Ischnura senegalensis"
+  ],
   "distribution": "*Ischnura nursei* is known from the Arabian Peninsula, including Oman and Yemen.",
   "habitat": "Any available water body in arid environments, including wadis, oases, and irrigation channels.",
   "flight_period": "Possibly year-round in suitable habitat.",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Not present",
-    "red_list_europe": "Not present",
-    "red_list_mediterranean": "Not evaluated",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Unknown"
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
   },
-  "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
     "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106352-Ischnura-nursei" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422142" }
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/106352-Ischnura-nursei"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422142"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422142" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422142"
+    }
+  ]
 }

@@ -17,15 +17,6 @@
   "distribution": "Endemic to the mountains from Morocko to Tunis. Rare in Algeria, most of it's habitats there have been polluted.",
   "habitat": "Streams and rivers between 200 and 2,000 m altitude.",
   "flight_period": "May to August",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "",
-    "red_list_europe": "",
-    "red_list_mediterranean": "Endangered",
-    "EU27_endemic": "",
-    "red_list_europe_endemic": "No",
-    "trend_europe": ""
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": []

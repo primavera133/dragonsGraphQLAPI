@@ -6,7 +6,15 @@
     "[Wikipedia](https://en.wikipedia.org/wiki/Azuragrion)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422591" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422591"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422450" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422450"
+    }
+  ]
 }

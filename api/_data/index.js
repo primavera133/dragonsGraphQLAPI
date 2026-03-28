@@ -5,7 +5,7 @@ const cordulegastridae = require('./families/cordulegastridae')
 const corduliidae = require('./families/corduliidae')
 const euphaeidae = require('./families/euphaeidae')
 const gomphidae = require('./families/gomphidae')
-const incertae_sedis = require('./families/incertae_sedis')
+const idomacromiidae = require('./families/idomacromiidae')
 const lestidae = require('./families/lestidae')
 const libellulidae = require('./families/libellulidae')
 const macromiidae = require('./families/macromiidae')
@@ -19,7 +19,7 @@ module.exports = {
   corduliidae,
   euphaeidae,
   gomphidae,
-  incertae_sedis,
+  idomacromiidae,
   lestidae,
   libellulidae,
   macromiidae,

@@ -5,7 +5,7 @@ const coenagrionidae = require('./families/coenagrionidae/about.json')
 const corduliidae = require('./families/corduliidae/about.json')
 const euphaeidae = require('./families/euphaeidae/about.json')
 const gomphidae = require('./families/gomphidae/about.json')
-const incertae_sedis = require('./families/incertae_sedis/about.json')
+const idomacromiidae = require('./families/idomacromiidae/about.json')
 const lestidae = require('./families/lestidae/about.json')
 const libellulidae = require('./families/libellulidae/about.json')
 const macromiidae = require('./families/macromiidae/about.json')
@@ -19,7 +19,7 @@ module.exports = {
   corduliidae,
   euphaeidae,
   gomphidae,
-  incertae_sedis,
+  idomacromiidae,
   lestidae,
   libellulidae,
   macromiidae,

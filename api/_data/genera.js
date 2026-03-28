@@ -16,6 +16,7 @@ const nehalennia = require('./families/coenagrionidae/nehalennia/about.json')
 const pseudagrion = require('./families/coenagrionidae/pseudagrion/about.json')
 const pyrrhosoma = require('./families/coenagrionidae/pyrrhosoma/about.json')
 const cordulegaster = require('./families/cordulegastridae/cordulegaster/about.json')
+const thecagaster = require('./families/cordulegastridae/thecagaster/about.json')
 const cordulia = require('./families/corduliidae/cordulia/about.json')
 const epitheca = require('./families/corduliidae/epitheca/about.json')
 const somatochlora = require('./families/corduliidae/somatochlora/about.json')
@@ -26,7 +27,7 @@ const lindenia = require('./families/gomphidae/lindenia/about.json')
 const onychogomphus = require('./families/gomphidae/onychogomphus/about.json')
 const ophiogomphus = require('./families/gomphidae/ophiogomphus/about.json')
 const paragomphus = require('./families/gomphidae/paragomphus/about.json')
-const oxygastra = require('./families/incertae_sedis/oxygastra/about.json')
+const oxygastra = require('./families/idomacromiidae/oxygastra/about.json')
 const chalcolestes = require('./families/lestidae/chalcolestes/about.json')
 const lestes = require('./families/lestidae/lestes/about.json')
 const sympecma = require('./families/lestidae/sympecma/about.json')
@@ -60,13 +61,14 @@ module.exports = {
   calopteryx,
   ceriagrion,
   coenagrion,
+  cordulegaster,
   enallagma,
   erythromma,
   ischnura,
   nehalennia,
   pseudagrion,
   pyrrhosoma,
-  cordulegaster,
+  thecagaster,
   cordulia,
   epitheca,
   somatochlora,

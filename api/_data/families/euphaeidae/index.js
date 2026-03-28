@@ -1,4 +1,4 @@
-const epallageFatime = require('./epallage/epallage-fatime.json')
+const epallageFatime = require('./epallage/epallage-fatima.json')
 
 module.exports = {
   epallage: [epallageFatime]

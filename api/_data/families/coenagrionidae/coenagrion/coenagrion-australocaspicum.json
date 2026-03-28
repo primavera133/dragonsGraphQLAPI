@@ -1,12 +1,12 @@
 {
   "items_id": "8020c8ccbf0d77a22dbf687a0597e8de",
   "scientific_name": "Coenagrion australocaspicum",
-  "author_citation": "Dumont, 1988",
+  "author_citation": "Dumont & Heidari, 1996",
   "local_names": [
-    "Caspian bluet",
+    "Hyrcanian Bluet",
     "Kaspisk lyrflickslända"
   ],
-  "description": "A medium-sized blue damselfly similar to *Coenagrion puella* but restricted to the southern Caspian region. Males are blue with black markings on the abdomen. The species was described relatively recently and remains incompletely known.",
+  "description": "A medium-sized blue damselfly similar to *Coenagrion puella* but restricted to the southern Caspian region. It was described as a distinct species as late as in 1996.",
   "behaviour": "Found near vegetated still and slow-flowing waters. Behaviour similar to other Coenagrion species.",
   "size": {
     "length": "28-36 mm",
@@ -17,30 +17,29 @@
     "Coenagrion pulchellum"
   ],
   "distribution": "*Coenagrion australocaspicum* is restricted to the southern shores of the Caspian Sea region, in northern Iran and adjacent Azerbaijan.",
-  "habitat": "Vegetated margins of still and slow-flowing waters.",
-  "flight_period": "May to August.",
+  "habitat": "",
+  "flight_period": "",
   "images": {
     "cloud_name": "dragonflies",
     "all": []
   },
   "sources": [
-    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
-    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+    "Atlas of the Dragonflies and Damselflies of West and Central Asia, J.-P. Boudot, S. Borisov, G. De Knijf, R.H.A. van Grunsven, A. Schröter, V. J. Kalkman"   
   ],
   "links": [
     {
       "label": "iNaturalist",
-      "link": "https://www.inaturalist.org/taxa/344064-Coenagrion-australocaspicum"
+      "link": "https://www.inaturalist.org/taxa/98271-Coenagrion-australocaspicum"
     },
     {
       "label": "gbif.org",
-      "link": "https://www.gbif.org/species/1422010"
+      "link": "https://www.gbif.org/species/1421962"
     }
   ],
   "meta": [
     {
       "label": "gbifTaxonKey",
-      "value": "1422010"
+      "value": "1421962"
     }
   ]
 }

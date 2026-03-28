@@ -1,46 +1,42 @@
 {
   "items_id": "ad1b0c8e37bce52f078a6b765d19631e",
   "scientific_name": "Azuragrion vansomereni",
-  "author_citation": "(Longfield, 1952)",
+  "author_citation": "(Pinhey, 1956)",
   "local_names": [
-    "Van Someren's azure damselfly",
+    "Tiny bluet",
     "Mindre azurflickslända"
   ],
-  "description": "A small azure damselfly named after the entomologist Van Someren. Males have blue and black patterning. It is closely related to *Azuragrion somalicum* and similarly little-studied.",
-  "behaviour": "Little documented. Found near water bodies in its East African range.",
+  "description": "A small azure damselfly named after the entomologist Van Someren.",
+  "behaviour": "",
   "size": {
-    "length": "26-34 mm",
-    "wingspan": "32-42 mm"
+    "length": "",
+    "wingspan": ""
   },
-  "similar_species": [
-    "Azuragrion nigridorsum",
-    "Azuragrion somalicum"
-  ],
-  "distribution": "*Azuragrion vansomereni* is known from Kenya, Ethiopia, and Somalia.",
-  "habitat": "Still and slow-flowing waters in East Africa.",
-  "flight_period": "Poorly known; likely year-round in suitable habitat.",
+  "similar_species": [],
+  "distribution": "*Azuragrion vansomereni* is known from northern parts of sub-Saharan Africa, from Senegal to Ethiopia. A single observation has been made on the Arabian Peninsula.",
+  "habitat": "",
+  "flight_period": "",
   "images": {
     "cloud_name": "dragonflies",
     "all": []
   },
   "sources": [
-    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
-    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+    "Atlas of the Dragonflies and Damselflies of West and Central Asia, J.-P. Boudot, S. Borisov, G. De Knijf, R.H.A. van Grunsven, A. Schröter, V. J. Kalkman"
   ],
   "links": [
     {
       "label": "iNaturalist",
-      "link": "https://www.inaturalist.org/taxa/106302-Azuragrion-vansomereni"
+      "link": "https://www.inaturalist.org/observations/339639454"
     },
     {
       "label": "gbif.org",
-      "link": "https://www.gbif.org/species/1422453"
+      "link": "https://www.gbif.org/species/5791676"
     }
   ],
   "meta": [
     {
       "label": "gbifTaxonKey",
-      "value": "1422453"
+      "value": "5791676"
     }
   ]
 }

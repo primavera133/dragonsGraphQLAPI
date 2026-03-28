@@ -21,12 +21,10 @@
   },
   "images": { "cloud_name": "dragonflies", "all": [] },
   "sources": [
-    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
-    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/106300-Azuragrion-nigridorsum" },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422451" }
+    { "label": "iNaturalist.org", "link": "https://www.inaturalist.org/taxa/95015-Azuragrion-nigridorsum" },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1422598" }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1422451" }]
+  "meta": [{ "label": "gbifTaxonKey", "value": "1422598" }]
 }

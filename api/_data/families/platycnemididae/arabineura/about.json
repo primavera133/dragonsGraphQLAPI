@@ -7,7 +7,8 @@
     "[Wikipedia](https://en.wikipedia.org/wiki/Arabineura)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/4520381" }
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/4799507" },
+    { "label": "iNaturalist", "link": "https://www.inaturalist.org/taxa/86585-Arabineura" }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "4520381" }]
+  "meta": [{ "label": "gbifTaxonKey", "value": "4799507" }]
 }

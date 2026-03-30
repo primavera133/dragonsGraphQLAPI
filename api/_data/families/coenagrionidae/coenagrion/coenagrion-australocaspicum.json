@@ -2,29 +2,23 @@
   "items_id": "8020c8ccbf0d77a22dbf687a0597e8de",
   "scientific_name": "Coenagrion australocaspicum",
   "author_citation": "Dumont & Heidari, 1996",
-  "local_names": [
-    "Hyrcanian Bluet",
-    "Kaspisk lyrflickslända"
-  ],
-  "description": "A medium-sized blue damselfly similar to *Coenagrion puella* but restricted to the southern Caspian region. It was described as a distinct species as late as in 1996.",
+  "local_names": ["Hyrcanian Bluet", "Kaspisk lyrflickslända"],
+  "description": "A medium-sized blue damselfly similar to *Coenagrion puella* but restricted to the southern Caspian region. It was described as a distinct species as late as in 1996. ",
   "behaviour": "Found near vegetated still and slow-flowing waters. Behaviour similar to other Coenagrion species.",
   "size": {
     "length": "28-36 mm",
     "wingspan": "34-44 mm"
   },
-  "similar_species": [
-    "Coenagrion puella",
-    "Coenagrion pulchellum"
-  ],
-  "distribution": "*Coenagrion australocaspicum* is restricted to the southern shores of the Caspian Sea region, in northern Iran and adjacent Azerbaijan.",
-  "habitat": "",
+  "similar_species": ["Coenagrion puella", "Coenagrion pulchellum"],
+  "distribution": "*Coenagrion australocaspicum* has since it's discovery been found at around 10 localities along the southern shore of the Caspian sea in Iran, and at two sites in Azerbaijan. The northernmost locality in Azerbaijan is north of the main range of the Caucasus, making it likely that the species can also be found in the Dagestan republic of Russia. *C. australocaspicum* is part of the *puella* group, which contains the widespread *C. puella* and the more range-restricted *C. ponticum*, *C. intermedia* and *C. syriaca*. In Azerbaijan and northwestern Iran, *C. australocaspicum* overlaps in range with *C. puella* and *C. ponticum* and is known to co-occur with the latter in at least one locality in Iran.",
+  "habitat": "The species is mostly found at low elevation, with one locality at 800 m above sae level and all others below 200 m above sea level. The habitat preferences are poorly known and the species has been recorded at large lakes, coastal wetlands, concrete ditches and stagnant water bodies with dense reed belts.",
   "flight_period": "",
   "images": {
     "cloud_name": "dragonflies",
     "all": []
   },
   "sources": [
-    "Atlas of the Dragonflies and Damselflies of West and Central Asia, J.-P. Boudot, S. Borisov, G. De Knijf, R.H.A. van Grunsven, A. Schröter, V. J. Kalkman"   
+    "Atlas of the Dragonflies and Damselflies of West and Central Asia, J.-P. Boudot, S. Borisov, G. De Knijf, R.H.A. van Grunsven, A. Schröter, V. J. Kalkman"
   ],
   "links": [
     {

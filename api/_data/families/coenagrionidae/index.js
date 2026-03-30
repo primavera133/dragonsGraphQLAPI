@@ -26,7 +26,6 @@ const CoenagrionPulchellum = require('./coenagrion/coenagrion-pulchellum.json')
 const CoenagrionScitulum = require('./coenagrion/coenagrion-scitulum.json')
 const CoenagrionSyriacum = require('./coenagrion/coenagrion-syriacum.json')
 const EnallagmaCyathigerum = require('./enallagma/enallagma-cyathigerum.json')
-const EnallagmaDeserti = require('./enallagma/enallagma-deserti.json')
 const EnallagmaRisi = require('./enallagma/enallagma-risi.json')
 const ErythrommaLindenii = require('./erythromma/erythromma-lindenii.json')
 const ErythrommaNajas = require('./erythromma/erythromma-najas.json')
@@ -84,7 +83,7 @@ module.exports = {
     CoenagrionScitulum,
     CoenagrionSyriacum
   ],
-  enallagma: [EnallagmaCyathigerum, EnallagmaDeserti, EnallagmaRisi],
+  enallagma: [EnallagmaCyathigerum, EnallagmaRisi],
   erythromma: [ErythrommaLindenii, ErythrommaNajas, ErythrommaViridulum],
   ischnura: [
     IschnuraAralensis,

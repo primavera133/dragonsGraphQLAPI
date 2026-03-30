@@ -193,7 +193,6 @@ const testData = {
     "Crocothemis erythraea",
     "Diplacodes lefebvrii",
     "Enallagma cyathigerum",
-    "Enallagma deserti",
     "Enallagma risi",
     "Epallage fatima",
     "Epitheca bimaculata",

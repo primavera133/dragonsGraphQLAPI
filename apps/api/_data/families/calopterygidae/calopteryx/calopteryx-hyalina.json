@@ -1,0 +1,48 @@
+{
+  "items_id": "1e128c2362a87d57e49b62e94392fdb7",
+  "scientific_name": "Calopteryx hyalina",
+  "author_citation": "Martin, 1909",
+  "local_names": [
+    "Clear-winged demoiselle"
+  ],
+  "description": "*Calopteryx hyalina* is a species of broad-winged damselfly in the family Calopterygidae. The IUCN conservation status of Calopteryx hyalina is EN, endangered. The species faces a high risk of extinction in the near future. The population is decreasing. The IUCN status was reviewed in 2010.",
+  "behaviour": "",
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": [],
+  "distribution": "",
+  "habitat": "",
+  "flight_period": "March to August",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "Endangered",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "No",
+    "trend_europe": ""
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/96486-Calopteryx-exul"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5052017"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5052017"
+    }
+  ]
+}

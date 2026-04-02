@@ -1,0 +1,10 @@
+module.exports = {
+  service: {
+    endpoint: {
+      url: 'http://localhost:3000/api',
+      headers: {
+        authorization: 'cordiceps'
+      }
+    }
+  }
+}

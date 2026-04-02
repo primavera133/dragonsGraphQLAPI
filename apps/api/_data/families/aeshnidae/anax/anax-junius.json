@@ -1,0 +1,74 @@
+{
+  "items_id": "5871cdb006fb3fb0f3fa042b65a43220",
+  "scientific_name": "Anax junius",
+  "author_citation": "(Drury, 1773)",
+  "local_names": [
+    "Green darner",
+    "Common green darner",
+    "Amerikanische Königslibelle",
+    "anax de juin",
+    "Amerikaanse keizerlibel"
+  ],
+  "description": "The male has green eyes. Frons is green with black spot encircled by green, then an outer blue ring forming a \"bull's eye\" pattern. Thorax is green. Wings are clear or tinted in amber on older individuals, females more than males. Abdomen is colourful on the sides while being dark dorsally and ventrally. Males are blue and black where females often green and reddish brown.",
+  "behaviour": "Often seen feeding in large numbers over open areas.",
+  "size": { "length": "68-84 mm", "wingspan": "90-120 mm" },
+  "similar_species": [],
+  "distribution": "This is one of the most common species in north American, where it migrates over great distances. It has managed to survive the passing over the Atlantic ocean at at least two occasions.  In 1998 it was observed on the Isles of Scilly and in Cornwall, totalling 8 individuals, and in 2003 one individual was observed in Nantes, France.",
+  "habitat": "Reproduction takes place in permanent or temporary waters, lakes, ponds and slow-flowing streams with emergent vegetation. In migration it can be found in many habitats.",
+  "flight_period": "Adults fly all year round in Mexico and the southern states of USA.\nIn early spring mature adults migrate northwards, and often arrive before local population start emerging.\nIn the autumn the northern individuals start migrating south.\nAll European records are from September, \nwhich is a period when both southward migration and seasonal transatlantic storms occur.",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Not Applicable",
+    "red_list_europe": "Not Applicable",
+    "red_list_mediterranean": "Not present",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Sporadic visitor"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Anax_junius-Female-1_czaqai.jpg",
+        "caption": "Anax junius, female, San Jose, Californa, USA, 2007",
+        "license": "CC BY-SA 4.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "by": "Eugene Zelenko",
+        "url": "https://commons.wikimedia.org/wiki/User:EugeneZelenko"
+      },
+      {
+        "public_id": "dragonflies/anax_junius_27777496778_7f6d24a1f5_o_c4mmuk.jpg",
+        "caption": "Anax junius, male, North Georgia, USA, April 2018",
+        "license": "CC BY-NC-ND 2.0",
+        "lic_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+        "by": "Vicky DeLoach",
+        "url": "https://www.flickr.com/photos/vickisnature/27777496778"
+      },
+      {
+        "public_id": "dragonflies/Img_041538_mating_anax_junius_xqtuar.jpg",
+        "caption": "Anax junius, mating pair 2006",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Henryhartley",
+        "url": "https://en.wikipedia.org/wiki/User:Henryhartley"
+      }
+    ]
+  },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/67731-Anax-junius"
+    },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051741" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165081/65831504"
+    }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "5051741" }]
+}

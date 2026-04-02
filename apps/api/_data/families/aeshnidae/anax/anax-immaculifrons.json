@@ -1,0 +1,73 @@
+{
+  "items_id": "4f3e9bdc8e9d563268c71d70d3fc1617",
+  "scientific_name": "Anax immaculifrons",
+  "author_citation": "Rambur, 1842",
+  "local_names": [
+    "Magnificent emperor",
+    "Blue darner",
+    "Indische Königslibelle",
+    "Beekkeizerlibel"
+  ],
+  "description": "Immediately recognisable due to its large size and black abdomen and lighter coloured rings. The thorax is light in colour with two dark bands on the sides.\nFrons has no markings, which gives its scientific name. The eyes, the frons and the light-coloured portions of the body are greenish yellow in females and immature males. In the mature males , the rings on the abdomen turns pink beige, while the light coloured portions on the thorax turn bluish and the eyes are bright blue. The wings on the males have a strong brown tint. The wings on the females are at most only lightly tinted.",
+  "behaviour": "Females oviposit the eggs into reeds emerging from waters.",
+  "size": { "length": "80-85 mm", "wingspan": "110-120 mm" },
+  "similar_species": ["Cordulegaster boltonii", "Anax ephippiger"],
+  "distribution": "*Anax immaculifrons* reaches its westernmost range limit in the east Mediterranean. The species has been found on three Greek Islands, Karpathos, Ikaria and Rhodes. It has also been found on Cyprus. On the Turkey mainland there are scattered populations along the south coast Mediterranean of Anatolia.",
+  "habitat": "All records from the eastern Mediterranean are from permanent rocky streams, a few meters wide. Unlike other European Anax species A, immaculifrons does not breed in open stagnant waters. It has been found in both largely shaded and sunny habitats. The preferred substrate for the larvae seems to be gravel, sand and organic detrius sediments.",
+  "flight_period": "May to September",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "Vulnerable",
+    "red_list_europe": "Least Concern",
+    "red_list_mediterranean": "Least Concern",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Unknown"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Anax_immaculifrons_Blue_Darner_from_Valparai_IMG_8568_a_mozku8.jpg",
+        "caption": "Anax immaculifrons, male, Valparai, India, 2009",
+        "license": "CC BY-SA 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "by": "PJeganathan",
+        "url": "https://commons.wikimedia.org/wiki/File:Anax_immaculifrons_Blue_Darner_from_Valparai_IMG_8568_a.jpg"
+      },
+      {
+        "public_id": "dragonflies/Anax_immaculifrons_Blue_Darner_from_Valparai_IMG_8478_a_k29kcw.jpg",
+        "caption": "Anax immaculifrons, male, Valparai, India, 2009",
+        "license": "CC BY-SA 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "by": "PJeganathan",
+        "url": "https://commons.wikimedia.org/wiki/File:Anax_immaculifrons_Blue_Darner_from_Valparai_IMG_8478_a.jpg"
+      },
+      {
+        "public_id": "dragonflies/Anax_immaculifrons_by_Bala_Chandran_rhml4c.jpg",
+        "caption": "Anax immaculifrons, female, India, 2015",
+        "license": "CC BY 3.0",
+        "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+        "by": "Bala Chandran",
+        "url": "http://indiabiodiversity.org/user/show/3303"
+      }
+    ]
+  },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/94042-Anax-immaculifrons"
+    },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/5051736" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/165463/6022090"
+    }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "5051736" }]
+}

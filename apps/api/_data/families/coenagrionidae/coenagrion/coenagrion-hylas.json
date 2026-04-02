@@ -1,0 +1,65 @@
+{
+  "items_id": "436ec5b02d3b83653f275928aaed1790",
+  "scientific_name": "Coenagrion hylas",
+  "author_citation": "(Trybom, 1889)",
+  "local_names": [
+    "Siberian bluet",
+    "Sibirische Azurjungfer",
+    "Siberische waterjuffer",
+    "Agrion de Frey"
+  ],
+  "description": "Looks a lot like other *Coenagrion* species, but immediately recognizable because of the wide dark bands extending along the sides of the abdomen and the large blue postocular spots in both sexes. The males are blue and black, and the females are more robust and tricoloured green, blue and black.",
+  "behaviour": "Generally not active during the hottest part of the day.",
+  "size": { "length": "33-38 mm", "wingspan": "38-56 mm" },
+  "similar_species": ["Coenagrion pulchellum", "enallagma cyanthigerum"],
+  "distribution": "Widespread and common in central and eastern Siberia but in Europe only a few isolated pockets are known. In Austria the species is known from 14 localities, some small but others yield between 800 and 5000 exuviae everey year. In Bavaria it is now considered extinct. Further isolated pockets are found in the north of European Russia, in the Arkhangelsk province. The northern parts of Russia has been very poorly explored for Odonata and more populations probably remain to be found. The fragmented distribution of the species is attributed to post-glacial oscillations, with the species expanding westwards to Europe after the last Glacial Maximum and the range after that being fragmented during the warm Atlantic period.",
+  "habitat": "The European populations in the Alps and the Arkhangelsk province are found cold, clear and mostly shallow peaty marshes, ponds and small lakes fed by ground water and trickles of neutral to calcareous waters with low nutrient content. In the Alps, the species is confined to forested areas between 800 and 1 600 m. In European Russia, it was reported from peaty lakes in the Taiga with adjacent swampy transition mires, bogs and fens partly fed by karstic alkaline water. It is present in a wider selection of habitats in Siberia, where it is often found at small oxbow swamps in river floodplains.",
+  "flight_period": "From May to August, but peaking in June-July.",
+  "red_list": {
+    "habitats_directive": "II+IV",
+    "red_list_EU27": "Vulnerable",
+    "red_list_europe": "Vulnerable",
+    "red_list_mediterranean": "Not present",
+    "EU27_endemic": "No",
+    "red_list_europe_endemic": "No",
+    "trend_europe": "Stable"
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": [
+      {
+        "public_id": "dragonflies/Coenagrion_hylas_freyi__Coenagrionidae___Siberian_Bluet__ssp._freyi__-__male_imago__Tirol__Austria_ecmide.jpg",
+        "caption": "Coenagrion hylas ssp. freyi, male, Tirol, Austria 2015",
+        "license": "CC 0 1.0",
+        "lic_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "by": "Tim Adriaens",
+        "url": "https://commons.wikimedia.org/wiki/File:Coenagrion_hylas_freyi_(Coenagrionidae)_(Siberian_Bluet_(ssp._freyi))_-_(male_imago),_Tirol,_Austria.jpg"
+      },
+      {
+        "public_id": "dragonflies/Coenagrion_hylas_freyi__Coenagrionidae___Siberian_Bluet__ssp._freyi__-__male_imago__Tirol__Austria_-_3_hvlpfd.jpg",
+        "caption": "Coenagrion hylas ssp. freyi, male, Tirol, Austria 2015",
+        "license": "CC 0 1.0",
+        "lic_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "by": "Tim Adriaens",
+        "url": "https://commons.wikimedia.org/wiki/File:Coenagrion_hylas_freyi_(Coenagrionidae)_(Siberian_Bluet_(ssp._freyi))_-_(male_imago),_Tirol,_Austria_-_3.jpg"
+      }
+    ]
+  },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Dragonflies and Damselflies of Europe: A scientific approach to the identification of European Odonata without capture, Galliani, C.; Scherini, R.; Piglia, A.",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/149323-Coenagrion-hylas"
+    },
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/1421988" },
+    {
+      "label": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/species/62175/12580576"
+    }
+  ],
+  "meta": [{ "label": "gbifTaxonKey", "value": "1421988" }]
+}

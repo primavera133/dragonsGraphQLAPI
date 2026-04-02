@@ -1,0 +1,54 @@
+{
+  "items_id": "1e128c2362a87d57e49b62e94392fdb5",
+  "scientific_name": "Calopteryx waterstoni",
+  "author_citation": "Schneider, 1984",
+  "local_names": [
+    "Pontic demoiselle"
+  ],
+  "description": "*Calopteryx waterstoni* is a species of damselfly in the family Calopterygidae. This is sometimes considered to be a subspecies of *C. splendens* but have clear wings in both sexes (like *C. hyaline*).",
+  "behaviour": "",
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": [
+    "Calopteryx splendens"
+  ],
+  "distribution": "It is known only from a small region around Trabzon, Turkey on the Black sea coast",
+  "habitat": "",
+  "flight_period": "March to November",
+  "red_list": {
+    "habitats_directive": "No",
+    "red_list_EU27": "",
+    "red_list_europe": "",
+    "red_list_mediterranean": "Endangered",
+    "EU27_endemic": "",
+    "red_list_europe_endemic": "No",
+    "trend_europe": ""
+  },
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/96490-Calopteryx-syriaca"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5052072"
+    },
+    {
+      "label": "Odonatologica 13, 1984 (pdf)",
+      "link": "https://natuurtijdschriften.nl/pub/591659/OJIOS1984013002009.pdf"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5052072"
+    }
+  ]
+}

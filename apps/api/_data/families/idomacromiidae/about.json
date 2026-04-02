@@ -1,0 +1,17 @@
+{
+  "title": " Idomacromiidae",
+  "author_citation": "Theischinger, 2003",
+  "description": "**_Idomacromiidae_** is a family of dragonflies (Odonata, Anisoptera). The family was established based on phylogenetic analysis showing that certain emerald-like dragonflies do not belong within Corduliidae. In Europe, the family is represented by a single genus and species, *Oxygastra curtisii*, which was long considered *incertae sedis* following studies showing it did not belong in Corduliidae. Molecular phylogenetic work has since placed it within Idomacromiidae.\n",
+  "sources": [
+    "[Wikipedia](https://en.wikipedia.org/wiki/Idomacromiidae)"
+  ],
+  "links": [
+    { "label": "gbif.org", "link": "https://www.gbif.org/species/0" }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "0"
+    }
+  ]
+}

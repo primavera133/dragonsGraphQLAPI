@@ -1,7 +1,30 @@
-node_modules
-dist
+# Dependencies
+node_modules/
+
+# Environment
 .env
+.env*.local
+
+# Build output
+dist/
+out/
+.next/
+
+# Generated files
+gql-types.d.ts
+next-env.d.ts
+*.tsbuildinfo
+
+# Test coverage
+coverage/
+
+# Deployment
+.vercel/
+.now/
+
+# OS
 .DS_Store
-coverage
-.now
-.vercel
+Thumbs.db
+
+# Misc
+.husky/_

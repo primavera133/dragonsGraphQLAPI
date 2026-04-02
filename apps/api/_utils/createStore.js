@@ -1,11 +1,11 @@
+const { z } = require('zod')
+const { SpecieSchema, TaxonInfoSchema } = require('@dragons/schemas')
 const species = require('../_data/index.js')
 const allSpecies = require('./allSpeceis')
 const allFamilies = require('./allFamilies')
 const allGenera = require('./allGenera')
 const genera = require('../_data/genera')
 const families = require('../_data/families')
-const { z } = require('zod')
-const { SpecieSchema, TaxonInfoSchema } = require('../_schemas')
 
 module.exports.createSpeciesStore = () => {
   const allSpeciesArr = allSpecies(species)

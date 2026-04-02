@@ -1,5 +1,5 @@
 const { z } = require('zod')
-const { SpecieSchema, TaxonInfoSchema } = require('@dragons/schemas')
+const { SpecieSchema, TaxonInfoSchema } = require('../_schemas')
 const species = require('../_data/index.js')
 const allSpecies = require('./allSpeceis')
 const allFamilies = require('./allFamilies')

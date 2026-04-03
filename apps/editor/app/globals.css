@@ -682,6 +682,113 @@ a {
   height: 0;
 }
 
+/* Branch panel */
+
+.panel-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.25);
+  z-index: 100;
+}
+
+.panel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 420px;
+  max-width: 100vw;
+  background: var(--bg);
+  border-left: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  padding: 1.25rem;
+}
+
+.panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.panel-close {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  color: var(--muted);
+  padding: 0.25rem;
+  border-radius: var(--radius);
+}
+
+.panel-close:hover {
+  color: var(--fg);
+  background: #f0f0f0;
+}
+
+.panel-file-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.panel-file-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.6rem;
+  font-size: 0.8rem;
+  background: var(--bg);
+}
+
+.panel-file-row:not(:last-child) {
+  border-bottom: 1px solid var(--border);
+}
+
+.panel-file-status {
+  flex-shrink: 0;
+  font-size: 0.7rem;
+  font-weight: 600;
+  width: 18px;
+  height: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+}
+
+.panel-file-status--added    { background: #d1fae5; color: #065f46; }
+.panel-file-status--modified { background: #fef3c7; color: #92400e; }
+.panel-file-status--removed  { background: #fee2e2; color: #991b1b; }
+.panel-file-status--renamed  { background: #ede9fe; color: #5b21b6; }
+
+.panel-file-name {
+  flex: 1;
+  font-family: monospace;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.panel-file-diff {
+  flex-shrink: 0;
+  font-size: 0.75rem;
+  font-family: monospace;
+}
+
+.panel-pr-form {
+  border-top: 1px solid var(--border);
+  padding-top: 1.25rem;
+}
+
 /* Modal */
 
 .modal-overlay {

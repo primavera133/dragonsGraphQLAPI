@@ -1,6 +1,7 @@
 import { auth } from '@/lib/auth'
 import { SignInButton } from './SignInButton'
 import { SignOutButton } from './SignOutButton'
+import { BranchPanel } from './BranchPanel'
 
 export async function Nav() {
   const session = await auth()
@@ -12,6 +13,7 @@ export async function Nav() {
         {session ? (
           <>
             <span className="nav-user">{session.user?.name ?? session.user?.email}</span>
+            <BranchPanel />
             <SignOutButton />
           </>
         ) : (

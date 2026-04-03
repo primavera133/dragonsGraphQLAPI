@@ -209,6 +209,30 @@ function buildTree(paths: string[]): FamilyEntry[] {
   return Array.from(families.values()).sort((a, b) => a.name.localeCompare(b.name))
 }
 
+// ── Merge main into branch ────────────────────────────────────────────────
+
+export async function mergeMainIntoBranch(
+  octokit: OctokitInstance,
+  branch: string,
+): Promise<'merged' | 'already_up_to_date'> {
+  try {
+    await octokit.rest.repos.merge({
+      owner: OWNER,
+      repo: REPO,
+      base: branch,
+      head: DEFAULT_BRANCH,
+      commit_message: `Merge ${DEFAULT_BRANCH} into ${branch}`,
+    })
+    return 'merged'
+  } catch (e: any) {
+    // 204 No Content means already up to date — Octokit throws on non-2xx but
+    // the merge endpoint returns 204 when there's nothing to merge, which
+    // Octokit surfaces as a normal response (no error). A 409 means conflict.
+    if (e.status === 409) throw Object.assign(new Error('Merge conflict — resolve manually on GitHub'), { status: 409 })
+    throw e
+  }
+}
+
 // ── Delete tree ───────────────────────────────────────────────────────────
 
 export async function deleteTree(

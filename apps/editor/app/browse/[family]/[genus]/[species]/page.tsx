@@ -25,6 +25,7 @@ export default async function SpeciesPage({
         initialData={content as Specie}
         initialSha={sha}
         filePath={filePath}
+        branch={branch}
       />
     )
   } catch (e: any) {

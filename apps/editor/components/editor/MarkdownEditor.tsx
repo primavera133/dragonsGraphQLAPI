@@ -1,5 +1,5 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { useEditor, EditorContent } from '@tiptap/react'
 import { StarterKit } from '@tiptap/starter-kit'
 import { Markdown } from 'tiptap-markdown'
@@ -15,7 +15,10 @@ interface Props {
 const HEADING_LEVELS = [1, 2, 3] as const
 
 export function MarkdownEditor({ label, value, onChange, original }: Props) {
+  const [mounted, setMounted] = useState(false)
   const [showDiff, setShowDiff] = useState(false)
+
+  useEffect(() => { setMounted(true) }, [])
 
   const editor = useEditor({
     immediatelyRender: false,
@@ -25,6 +28,15 @@ export function MarkdownEditor({ label, value, onChange, original }: Props) {
       onChange((editor.storage as any).markdown.getMarkdown())
     },
   })
+
+  if (!mounted) {
+    return (
+      <div className="field">
+        <div className="label">{label} <span className="label-hint">— rich text</span></div>
+        <div className="rich-editor" style={{ minHeight: 177 }} />
+      </div>
+    )
+  }
 
   return (
     <div className="field">

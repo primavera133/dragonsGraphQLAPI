@@ -209,6 +209,40 @@ function buildTree(paths: string[]): FamilyEntry[] {
   return Array.from(families.values()).sort((a, b) => a.name.localeCompare(b.name))
 }
 
+// ── Delete tree ───────────────────────────────────────────────────────────
+
+export async function deleteTree(
+  octokit: OctokitInstance,
+  pathPrefix: string,
+  branch: string,
+): Promise<number> {
+  const { data: branchData } = await octokit.rest.repos.getBranch({
+    owner: OWNER,
+    repo: REPO,
+    branch,
+  })
+  const { data: tree } = await octokit.rest.git.getTree({
+    owner: OWNER,
+    repo: REPO,
+    tree_sha: branchData.commit.commit.tree.sha,
+    recursive: '1',
+  })
+  const blobs = (tree.tree ?? []).filter(
+    (item) => item.type === 'blob' && item.path?.startsWith(pathPrefix),
+  )
+  for (const blob of blobs) {
+    await octokit.rest.repos.deleteFile({
+      owner: OWNER,
+      repo: REPO,
+      path: blob.path!,
+      message: `Delete ${blob.path!.split('/').pop()}`,
+      branch,
+      sha: blob.sha!,
+    })
+  }
+  return blobs.length
+}
+
 // ── Pull request ───────────────────────────────────────────────────────────
 
 export async function createPullRequest(

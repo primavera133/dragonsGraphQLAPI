@@ -26,6 +26,7 @@ export default async function GenusPage({
         initialSha={sha}
         filePath={filePath}
         kind="Genus"
+        branch={branch}
       />
     )
   } catch (e: any) {

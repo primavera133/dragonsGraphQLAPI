@@ -19,7 +19,7 @@ interface Props {
 
 export function ImagesField({ value, onChange }: Props) {
   const [expanded, setExpanded] = useState<Set<number>>(new Set())
-  const data = value ?? { cloud_name: 'dragonflies', all: [] }
+  const data = { cloud_name: value?.cloud_name ?? 'dragonflies', all: value?.all ?? [] }
 
   function toggleExpand(i: number) {
     setExpanded((prev) => {

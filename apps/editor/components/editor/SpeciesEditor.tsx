@@ -1,5 +1,6 @@
 'use client'
 import { useState } from 'react'
+import { useRouter } from 'next/navigation'
 // @ts-ignore — CJS package with manual .d.ts
 import { SpecieSchema } from '@dragons/schemas'
 import type { Specie } from '@/types/data'
@@ -12,21 +13,42 @@ import { SizeField } from './SizeField'
 import { RedListField } from './RedListField'
 import { ImagesField } from './ImagesField'
 import { SaveBar } from './SaveBar'
+import { SaveConfirmModal } from './SaveConfirmModal'
 
 interface Props {
   initialData: Specie
   initialSha: string
   filePath: string[]
+  branch: string
 }
 
-export function SpeciesEditor({ initialData, initialSha, filePath }: Props) {
+export function SpeciesEditor({ initialData, initialSha, filePath, branch }: Props) {
+  const router = useRouter()
   const [data, setData] = useState<Specie>(initialData)
   const [sha, setSha] = useState(initialSha)
   const [saving, setSaving] = useState(false)
   const [savedAt, setSavedAt] = useState<Date | null>(null)
   const [errors, setErrors] = useState<string[]>([])
+  const [resetCount, setResetCount] = useState(0)
   const [mainData, setMainData] = useState<Specie | null>(null)
   const [loadingMain, setLoadingMain] = useState(false)
+  const [confirming, setConfirming] = useState(false)
+
+  async function deleteSpecies() {
+    if (!confirm(`Delete ${data.scientific_name}? This cannot be undone.`)) return
+    const res = await fetch(`/api/data/${filePath.join('/')}`, {
+      method: 'DELETE',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ sha }),
+    })
+    if (!res.ok) {
+      const json = await res.json()
+      alert(json.error || 'Delete failed')
+      return
+    }
+    router.push(`/browse/${filePath[0]}/${filePath[1]}`)
+    router.refresh()
+  }
 
   async function loadMain() {
     if (mainData || loadingMain) return
@@ -44,6 +66,12 @@ export function SpeciesEditor({ initialData, initialSha, filePath }: Props) {
 
   function set<K extends keyof Specie>(key: K, value: Specie[K]) {
     setData((prev) => ({ ...prev, [key]: value }))
+  }
+
+  function changedFields() {
+    return (Object.keys(data) as (keyof Specie)[]).filter(
+      (k) => JSON.stringify(data[k]) !== JSON.stringify(initialData[k]),
+    )
   }
 
   async function save() {
@@ -79,14 +107,18 @@ export function SpeciesEditor({ initialData, initialSha, filePath }: Props) {
             <div className="muted" style={{ fontSize: '0.75rem', marginBottom: '0.2rem' }}>Species</div>
             <h1>{data.scientific_name || '(untitled)'}</h1>
           </div>
-          <button
-            className="btn btn-secondary"
-            onClick={loadMain}
-            disabled={loadingMain || !!mainData}
-            style={{ marginTop: '0.25rem', flexShrink: 0 }}
-          >
-            {loadingMain ? 'Loading…' : mainData ? 'Diff loaded' : 'Load diff'}
-          </button>
+          <div style={{ display: 'flex', gap: '0.5rem', marginTop: '0.25rem', flexShrink: 0 }}>
+            <button
+              className="btn btn-secondary"
+              onClick={loadMain}
+              disabled={loadingMain || !!mainData}
+            >
+              {loadingMain ? 'Loading…' : mainData ? 'Diff loaded' : 'Load diff'}
+            </button>
+            <button className="btn btn-danger" onClick={deleteSpecies}>
+              Delete
+            </button>
+          </div>
         </div>
       </div>
 
@@ -120,12 +152,14 @@ export function SpeciesEditor({ initialData, initialSha, filePath }: Props) {
       <div className="field-section">
         <div className="section-title">Description</div>
         <MarkdownEditor
+          key={`description-${resetCount}`}
           label="Description"
           value={data.description ?? ''}
           onChange={(v) => set('description', v)}
           original={mainData ? (mainData.description ?? '') : undefined}
         />
         <MarkdownEditor
+          key={`behaviour-${resetCount}`}
           label="Behaviour"
           value={data.behaviour ?? ''}
           onChange={(v) => set('behaviour', v)}
@@ -143,12 +177,14 @@ export function SpeciesEditor({ initialData, initialSha, filePath }: Props) {
           placeholder="e.g. From the end of May to August"
         />
         <MarkdownEditor
+          key={`habitat-${resetCount}`}
           label="Habitat"
           value={data.habitat ?? ''}
           onChange={(v) => set('habitat', v)}
           original={mainData ? (mainData.habitat ?? '') : undefined}
         />
         <MarkdownEditor
+          key={`distribution-${resetCount}`}
           label="Distribution"
           value={data.distribution ?? ''}
           onChange={(v) => set('distribution', v)}
@@ -199,7 +235,22 @@ export function SpeciesEditor({ initialData, initialSha, filePath }: Props) {
         />
       </div>
 
-      <SaveBar onSave={save} saving={saving} savedAt={savedAt} errorCount={errors.length} />
+      <SaveBar
+        onSave={() => setConfirming(true)}
+        onReset={() => { setData(initialData); setErrors([]); setResetCount(c => c + 1) }}
+        saving={saving}
+        savedAt={savedAt}
+        errorCount={errors.length}
+      />
+      {confirming && (
+        <SaveConfirmModal
+          filePath={filePath}
+          branch={branch}
+          changedFields={changedFields()}
+          onConfirm={() => { setConfirming(false); save() }}
+          onCancel={() => setConfirming(false)}
+        />
+      )}
     </div>
   )
 }

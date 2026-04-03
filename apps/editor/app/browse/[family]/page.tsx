@@ -26,6 +26,7 @@ export default async function FamilyPage({
         initialSha={sha}
         filePath={filePath}
         kind="Family"
+        branch={branch}
       />
     )
   } catch (e: any) {

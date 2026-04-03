@@ -278,6 +278,76 @@ a {
   padding-left: 3rem;
 }
 
+.tree-add-btn {
+  flex-shrink: 0;
+  padding: 0 0.4rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: var(--muted);
+  line-height: 1;
+}
+
+.tree-add-btn:hover {
+  color: var(--accent);
+}
+
+.tree-add-form {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0.2rem 0.75rem;
+}
+
+.tree-add-input {
+  flex: 1;
+  font-size: 0.8rem;
+  font-family: var(--font);
+  padding: 0.2rem 0.4rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  outline: none;
+  min-width: 0;
+}
+
+.tree-add-input:focus {
+  border-color: var(--accent);
+}
+
+.tree-add-confirm,
+.tree-add-cancel {
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.8rem;
+  padding: 0.1rem 0.25rem;
+  border-radius: 3px;
+}
+
+.tree-add-confirm {
+  color: var(--accent);
+}
+
+.tree-add-confirm:hover:not(:disabled) {
+  background: #e8f0fe;
+}
+
+.tree-add-cancel {
+  color: var(--muted);
+}
+
+.tree-add-cancel:hover:not(:disabled) {
+  background: #f0f0f0;
+}
+
+.tree-add-confirm:disabled,
+.tree-add-cancel:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
 .tree-section {
   padding: 0.5rem 1rem 0.2rem;
   font-size: 0.7rem;
@@ -610,6 +680,48 @@ a {
   pointer-events: none;
   float: left;
   height: 0;
+}
+
+/* Modal */
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+.modal {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  width: 420px;
+  max-width: calc(100vw - 2rem);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+.modal h2 {
+  margin: 0 0 0.5rem;
+}
+
+.modal-changed-list {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+  font-size: 0.875rem;
+  line-height: 1.8;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
 }
 
 /* Diff view */

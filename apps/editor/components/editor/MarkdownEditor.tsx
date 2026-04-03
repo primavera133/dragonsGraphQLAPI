@@ -1,18 +1,22 @@
 'use client'
+import { useState } from 'react'
 import { useEditor, EditorContent } from '@tiptap/react'
 import { StarterKit } from '@tiptap/starter-kit'
 import { Markdown } from 'tiptap-markdown'
-import { Button } from 'react-aria-components'
+import { MarkdownDiff } from './MarkdownDiff'
 
 interface Props {
   label: string
   value: string
   onChange: (v: string) => void
+  original?: string
 }
 
 const HEADING_LEVELS = [1, 2, 3] as const
 
-export function MarkdownEditor({ label, value, onChange }: Props) {
+export function MarkdownEditor({ label, value, onChange, original }: Props) {
+  const [showDiff, setShowDiff] = useState(false)
+
   const editor = useEditor({
     immediatelyRender: false,
     extensions: [StarterKit, Markdown],
@@ -24,81 +28,108 @@ export function MarkdownEditor({ label, value, onChange }: Props) {
 
   return (
     <div className="field">
-      <div className="label">{label} <span className="label-hint">— rich text</span></div>
+      <div className="label">
+        {label} <span className="label-hint">— rich text</span>
+      </div>
       <div className="rich-editor">
         <div className="rich-editor-toolbar" role="toolbar" aria-label={`${label} formatting`}>
-          <Button
+          <button
             className={`toolbar-btn${editor?.isActive('bold') ? ' is-active' : ''}`}
-            onPress={() => editor?.chain().focus().toggleBold().run()}
-            isDisabled={!editor}
+            onClick={() => editor?.chain().focus().toggleBold().run()}
+            disabled={!editor || showDiff}
             aria-label="Bold"
+            type="button"
           >
             <strong>B</strong>
-          </Button>
-          <Button
+          </button>
+          <button
             className={`toolbar-btn${editor?.isActive('italic') ? ' is-active' : ''}`}
-            onPress={() => editor?.chain().focus().toggleItalic().run()}
-            isDisabled={!editor}
+            onClick={() => editor?.chain().focus().toggleItalic().run()}
+            disabled={!editor || showDiff}
             aria-label="Italic"
+            type="button"
           >
             <em>I</em>
-          </Button>
+          </button>
           <div className="toolbar-sep" />
           {HEADING_LEVELS.map((level) => (
-            <Button
+            <button
               key={level}
               className={`toolbar-btn${editor?.isActive('heading', { level }) ? ' is-active' : ''}`}
-              onPress={() => editor?.chain().focus().toggleHeading({ level }).run()}
-              isDisabled={!editor}
+              onClick={() => editor?.chain().focus().toggleHeading({ level }).run()}
+              disabled={!editor || showDiff}
               aria-label={`Heading ${level}`}
+              type="button"
             >
               H{level}
-            </Button>
+            </button>
           ))}
           <div className="toolbar-sep" />
-          <Button
+          <button
             className={`toolbar-btn${editor?.isActive('bulletList') ? ' is-active' : ''}`}
-            onPress={() => editor?.chain().focus().toggleBulletList().run()}
-            isDisabled={!editor}
+            onClick={() => editor?.chain().focus().toggleBulletList().run()}
+            disabled={!editor || showDiff}
             aria-label="Bullet list"
+            type="button"
           >
             • List
-          </Button>
-          <Button
+          </button>
+          <button
             className={`toolbar-btn${editor?.isActive('orderedList') ? ' is-active' : ''}`}
-            onPress={() => editor?.chain().focus().toggleOrderedList().run()}
-            isDisabled={!editor}
+            onClick={() => editor?.chain().focus().toggleOrderedList().run()}
+            disabled={!editor || showDiff}
             aria-label="Ordered list"
+            type="button"
           >
             1. List
-          </Button>
-          <Button
+          </button>
+          <button
             className={`toolbar-btn${editor?.isActive('blockquote') ? ' is-active' : ''}`}
-            onPress={() => editor?.chain().focus().toggleBlockquote().run()}
-            isDisabled={!editor}
+            onClick={() => editor?.chain().focus().toggleBlockquote().run()}
+            disabled={!editor || showDiff}
             aria-label="Blockquote"
+            type="button"
           >
             ❝
-          </Button>
+          </button>
           <div className="toolbar-sep" />
-          <Button
+          <button
             className="toolbar-btn"
-            onPress={() => editor?.chain().focus().undo().run()}
-            isDisabled={!editor?.can().undo()}
+            onClick={() => editor?.chain().focus().undo().run()}
+            disabled={!editor?.can().undo() || showDiff}
             aria-label="Undo"
+            type="button"
           >
             ↩
-          </Button>
-          <Button
+          </button>
+          <button
             className="toolbar-btn"
-            onPress={() => editor?.chain().focus().redo().run()}
-            isDisabled={!editor?.can().redo()}
+            onClick={() => editor?.chain().focus().redo().run()}
+            disabled={!editor?.can().redo() || showDiff}
             aria-label="Redo"
+            type="button"
           >
             ↪
-          </Button>
+          </button>
+          {original !== undefined && (
+            <>
+              <div className="toolbar-sep" />
+              <button
+                className={`toolbar-btn${showDiff ? ' is-active' : ''}`}
+                onClick={() => setShowDiff((v) => !v)}
+                aria-label={showDiff ? 'Close diff' : 'View diff'}
+                type="button"
+              >
+                {showDiff ? 'Edit' : 'Diff'}
+              </button>
+            </>
+          )}
         </div>
-        <EditorContent editor={editor} className="rich-editor-content" />
+        {showDiff && original !== undefined ? (
+          <MarkdownDiff original={original} current={value} />
+        ) : (
+          <EditorContent editor={editor} className="rich-editor-content" />
+        )}
       </div>
     </div>
   )

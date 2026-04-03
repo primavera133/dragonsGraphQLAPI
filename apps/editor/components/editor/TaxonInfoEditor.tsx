@@ -22,6 +22,22 @@ export function TaxonInfoEditor({ initialData, initialSha, filePath, kind }: Pro
   const [saving, setSaving] = useState(false)
   const [savedAt, setSavedAt] = useState<Date | null>(null)
   const [errors, setErrors] = useState<string[]>([])
+  const [mainData, setMainData] = useState<TaxonInfo | null>(null)
+  const [loadingMain, setLoadingMain] = useState(false)
+
+  async function loadMain() {
+    if (mainData || loadingMain) return
+    setLoadingMain(true)
+    try {
+      const res = await fetch(`/api/data/${filePath.join('/')}?ref=main`)
+      if (res.ok) {
+        const json = await res.json()
+        setMainData(json.content as TaxonInfo)
+      }
+    } finally {
+      setLoadingMain(false)
+    }
+  }
 
   function set<K extends keyof TaxonInfo>(key: K, value: TaxonInfo[K]) {
     setData((prev) => ({ ...prev, [key]: value }))
@@ -55,9 +71,19 @@ export function TaxonInfoEditor({ initialData, initialSha, filePath, kind }: Pro
   return (
     <div className="editor">
       <div className="editor-header">
-        <div>
-          <div className="muted" style={{ fontSize: '0.75rem', marginBottom: '0.2rem' }}>{kind}</div>
-          <h1>{data.title}</h1>
+        <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between' }}>
+          <div>
+            <div className="muted" style={{ fontSize: '0.75rem', marginBottom: '0.2rem' }}>{kind}</div>
+            <h1>{data.title}</h1>
+          </div>
+          <button
+            className="btn btn-secondary"
+            onClick={loadMain}
+            disabled={loadingMain || !!mainData}
+            style={{ marginTop: '0.25rem', flexShrink: 0 }}
+          >
+            {loadingMain ? 'Loading…' : mainData ? 'Diff loaded' : 'Load diff'}
+          </button>
         </div>
       </div>
 
@@ -70,7 +96,7 @@ export function TaxonInfoEditor({ initialData, initialSha, filePath, kind }: Pro
       <div className="field-section">
         <StringField label="Title" value={data.title} onChange={(v) => set('title', v)} isRequired />
         <StringField label="Author citation" value={data.author_citation} onChange={(v) => set('author_citation', v)} isRequired />
-        <MarkdownEditor label="Description" value={data.description} onChange={(v) => set('description', v)} />
+        <MarkdownEditor label="Description" value={data.description} onChange={(v) => set('description', v)} original={mainData ? mainData.description : undefined} />
       </div>
 
       <div className="field-section">

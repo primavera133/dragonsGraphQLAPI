@@ -25,6 +25,22 @@ export function SpeciesEditor({ initialData, initialSha, filePath }: Props) {
   const [saving, setSaving] = useState(false)
   const [savedAt, setSavedAt] = useState<Date | null>(null)
   const [errors, setErrors] = useState<string[]>([])
+  const [mainData, setMainData] = useState<Specie | null>(null)
+  const [loadingMain, setLoadingMain] = useState(false)
+
+  async function loadMain() {
+    if (mainData || loadingMain) return
+    setLoadingMain(true)
+    try {
+      const res = await fetch(`/api/data/${filePath.join('/')}?ref=main`)
+      if (res.ok) {
+        const json = await res.json()
+        setMainData(json.content as Specie)
+      }
+    } finally {
+      setLoadingMain(false)
+    }
+  }
 
   function set<K extends keyof Specie>(key: K, value: Specie[K]) {
     setData((prev) => ({ ...prev, [key]: value }))
@@ -58,9 +74,19 @@ export function SpeciesEditor({ initialData, initialSha, filePath }: Props) {
   return (
     <div className="editor">
       <div className="editor-header">
-        <div>
-          <div className="muted" style={{ fontSize: '0.75rem', marginBottom: '0.2rem' }}>Species</div>
-          <h1>{data.scientific_name || '(untitled)'}</h1>
+        <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between' }}>
+          <div>
+            <div className="muted" style={{ fontSize: '0.75rem', marginBottom: '0.2rem' }}>Species</div>
+            <h1>{data.scientific_name || '(untitled)'}</h1>
+          </div>
+          <button
+            className="btn btn-secondary"
+            onClick={loadMain}
+            disabled={loadingMain || !!mainData}
+            style={{ marginTop: '0.25rem', flexShrink: 0 }}
+          >
+            {loadingMain ? 'Loading…' : mainData ? 'Diff loaded' : 'Load diff'}
+          </button>
         </div>
       </div>
 
@@ -97,11 +123,13 @@ export function SpeciesEditor({ initialData, initialSha, filePath }: Props) {
           label="Description"
           value={data.description ?? ''}
           onChange={(v) => set('description', v)}
+          original={mainData ? (mainData.description ?? '') : undefined}
         />
         <MarkdownEditor
           label="Behaviour"
           value={data.behaviour ?? ''}
           onChange={(v) => set('behaviour', v)}
+          original={mainData ? (mainData.behaviour ?? '') : undefined}
         />
       </div>
 
@@ -118,11 +146,13 @@ export function SpeciesEditor({ initialData, initialSha, filePath }: Props) {
           label="Habitat"
           value={data.habitat ?? ''}
           onChange={(v) => set('habitat', v)}
+          original={mainData ? (mainData.habitat ?? '') : undefined}
         />
         <MarkdownEditor
           label="Distribution"
           value={data.distribution ?? ''}
           onChange={(v) => set('distribution', v)}
+          original={mainData ? (mainData.distribution ?? '') : undefined}
         />
         <StringArrayField
           label="Similar species"

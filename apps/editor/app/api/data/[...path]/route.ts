@@ -25,9 +25,15 @@ export async function GET(req: NextRequest, { params }: { params: Promise<Params
   const { path } = await params
   const filePath = `${DATA_BASE}/families/${path.join('/')}`
   const octokit = createOctokit(session.accessToken)
-  const branch = branchForUser(session.user.login)
 
-  const ref = (await branchExists(octokit, branch)) ? branch : undefined
+  const refParam = req.nextUrl.searchParams.get('ref')
+  let ref: string | undefined
+  if (refParam) {
+    ref = refParam
+  } else {
+    const branch = branchForUser(session.user.login)
+    ref = (await branchExists(octokit, branch)) ? branch : undefined
+  }
 
   try {
     const result = await getFile(octokit, filePath, ref)

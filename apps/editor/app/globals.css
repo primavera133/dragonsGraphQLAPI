@@ -501,19 +501,19 @@ a {
   outline: none;
 }
 
-.toolbar-btn[data-hovered] {
+.toolbar-btn:hover:not(:disabled) {
   background: #e8e8e8;
 }
 
-.toolbar-btn[data-pressed] {
+.toolbar-btn:active:not(:disabled) {
   background: #ddd;
 }
 
-.toolbar-btn[data-focused] {
+.toolbar-btn:focus-visible {
   box-shadow: 0 0 0 2px var(--accent);
 }
 
-.toolbar-btn[data-disabled] {
+.toolbar-btn:disabled {
   opacity: 0.35;
   cursor: default;
 }
@@ -610,4 +610,28 @@ a {
   pointer-events: none;
   float: left;
   height: 0;
+}
+
+/* Diff view */
+
+.markdown-diff {
+  padding: 0.75rem;
+  min-height: 140px;
+  font-size: 0.875rem;
+  line-height: 1.7;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.diff-added {
+  background: #d1fae5;
+  color: #065f46;
+  border-radius: 2px;
+}
+
+.diff-removed {
+  background: #fee2e2;
+  color: #991b1b;
+  text-decoration: line-through;
+  border-radius: 2px;
 }

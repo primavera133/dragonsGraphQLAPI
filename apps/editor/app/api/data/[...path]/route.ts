@@ -55,9 +55,9 @@ export async function PUT(req: NextRequest, { params }: { params: Promise<Params
   const branch = branchForUser(session.user.login)
 
   await ensureBranch(octokit, branch)
-  await writeFile(octokit, filePath, parsed.data, branch, message || `Update ${path.at(-1)}`, sha)
+  const newSha = await writeFile(octokit, filePath, parsed.data, branch, message || `Update ${path.at(-1)}`, sha)
 
-  return Response.json({ ok: true })
+  return Response.json({ ok: true, sha: newSha })
 }
 
 export async function DELETE(req: NextRequest, { params }: { params: Promise<Params> }) {

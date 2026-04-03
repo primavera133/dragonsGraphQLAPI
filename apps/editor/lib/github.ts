@@ -10,6 +10,9 @@ export function createOctokit(accessToken: string) {
 }
 
 export function branchForUser(login: string) {
+  if (!login || login === 'undefined') {
+    throw new Error('GitHub login is missing from session. Please sign out and sign back in.')
+  }
   return `edit/${login}`
 }
 
@@ -85,9 +88,9 @@ export async function writeFile(
   branch: string,
   message: string,
   sha?: string,
-) {
+): Promise<string> {
   const encoded = Buffer.from(JSON.stringify(content, null, 2) + '\n').toString('base64')
-  await octokit.rest.repos.createOrUpdateFileContents({
+  const { data } = await octokit.rest.repos.createOrUpdateFileContents({
     owner: OWNER,
     repo: REPO,
     path,
@@ -96,6 +99,7 @@ export async function writeFile(
     branch,
     ...(sha ? { sha } : {}),
   })
+  return data.content?.sha ?? ''
 }
 
 export async function deleteFile(

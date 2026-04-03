@@ -12,7 +12,10 @@
   "dependencies": {
     "@dragons/schemas": "workspace:*",
     "next": "^15.0.0",
+    "next-auth": "beta",
+    "octokit": "^4",
     "react": "^19.0.0",
+    "react-aria-components": "^1",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {

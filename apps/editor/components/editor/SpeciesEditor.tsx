@@ -10,7 +10,6 @@ import { MarkdownEditor } from './MarkdownEditor'
 import { StringArrayField } from './StringArrayField'
 import { PairsField } from './PairsField'
 import { SizeField } from './SizeField'
-import { RedListField } from './RedListField'
 import { ImagesField } from './ImagesField'
 import { SaveBar } from './SaveBar'
 import { SaveConfirmModal } from './SaveConfirmModal'
@@ -195,11 +194,6 @@ export function SpeciesEditor({ initialData, initialSha, filePath, branch }: Pro
           values={data.similar_species ?? []}
           onChange={(v) => set('similar_species', v)}
         />
-      </div>
-
-      <div className="field-section">
-        <div className="section-title">Conservation</div>
-        <RedListField value={data.red_list} onChange={(v) => set('red_list', v)} />
       </div>
 
       <div className="field-section">

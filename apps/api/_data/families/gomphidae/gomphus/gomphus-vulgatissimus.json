@@ -16,19 +16,12 @@
     "length": "45-50 mm",
     "wingspan": "56-66 mm"
   },
-  "similar_species": ["Gomphus schneiderii"],
+  "similar_species": [
+    "Gomphus schneiderii"
+  ],
   "distribution": "*Gomphus vulgatissimus* has a largely Western Palearctic distribution, reaching westwards to the south of the West Siberian Plain. It is replaced by *G. schneiderii* in the south of Balkans and south-west Asia. It is common and widespread in much of western, central end eastern Europe. Physically suitable habitats occur north of its present range hence its northern limits appear to be determined by climatic conditions. It is absent from most of the Mediterranean, being very rare in Spain and parts of Italy. In the southern part of the Balkan Peninsula, its range meets that of its near relative *G. schneiderii* and a broad zone of introgression occurs, making identification to species level often impossible.",
   "habitat": "*gomphus vulgatissimus* occurs mainly in lowland streams and rivers, where it may be abundant. Occasionally, populations are found at small streams and ditches with running water. In rare cases breeding occurs at sandy banks of well-oxygenated standing waters such as lakes, ponded backwaters and gravel pits fed by ground water. The species favours landscapes with a combination of agricultural fields, forests and bushes. The highest densities are found at largely unshaded running waters, but the species also occurs in forest areas as long as there are sunny stretches. It mostly occurs at sites with sandy to silty or clay-rich sediments, and is generally absent from fast flowing rocky streams.",
   "flight_period": "May to August",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Least Concern",
-    "red_list_europe": "Least Concern",
-    "red_list_mediterranean": "Least Concern",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Stable"
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [

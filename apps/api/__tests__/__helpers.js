@@ -32,17 +32,6 @@ function assertSpeciesStructure(species, isComplete = true) {
     expect(species.size).toHaveProperty('wingspan')
   }
   
-  // Red list structure
-  if (species.red_list) {
-    expect(species.red_list).toHaveProperty('habitats_directive')
-    expect(species.red_list).toHaveProperty('red_list_EU27')
-    expect(species.red_list).toHaveProperty('red_list_europe')
-    expect(species.red_list).toHaveProperty('red_list_mediterranean')
-    expect(species.red_list).toHaveProperty('EU27_endemic')
-    expect(species.red_list).toHaveProperty('red_list_europe_endemic')
-    expect(species.red_list).toHaveProperty('trend_europe')
-  }
-  
   // Images structure
   if (species.images) {
     expect(species.images).toHaveProperty('cloud_name')

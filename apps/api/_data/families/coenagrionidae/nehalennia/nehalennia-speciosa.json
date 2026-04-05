@@ -18,19 +18,12 @@
     "length": "24-26 mm",
     "wingspan": "22-32mm"
   },
-  "similar_species": ["Lestes virens"],
+  "similar_species": [
+    "Lestes virens"
+  ],
   "distribution": "*Nehalennia speciosa* has a wide but fragmented Trans-Palearctic range from western Europe to Japan. In Europe it is limited to central and northern Europe, with the southernmost confirmed records from the foothills of the Italian Alps., Austria, Czech Republic, northern Romania and western and northern Ukraine. It is mainly found between 400 and 700 m in the southern parts of central Europe and in the Alps, while it occurs at lower elevations further north. The species probably had a more continuous range in the past but declined severely over time. Only in parts of Poland, the Baltic States and probably in Belarus and central latitudes of Russia is the density of the populations such that it can be regarded as continuous distribution. It is extinct in the Netherlands, Belgium, Luxembourg, and Slovakia. In most other countries, the species has also declined during the 20th century and in several countries only a few isolated populations remain, e.g. five locations in Italy, three in Switzerland, and one each in Denmark and Czech Republic.\n\nIn recent years, numerous new localities have been found in Poland, Lithuania, Latvia, Estonia and Sweden. In 2009 the species was rediscovered in France and Romania after not being observed since 1876 and 1953, respectively. The rediscovery in France was a recently restored peat bog where the species had been absent and which was dry in the year before, so this occurrence indicates dispersal and (re)colonisation. It is unclear if the Romanian record is the result of more intensive surveys or a genuine dispersion of the species into a favourable area.",
   "habitat": "*Nehalennia speciosa* occurs at ponds, small lakes, bogs, fens and marshes and is most often found in the shallow fringes of acidic, nutrient-poor, water bodies and in small pools in bogs and fens. The habitat is largely unshaded but almost always lies within woodland areas of, typically pine or occasionally spruce. Habitat requirements are narrow and include the need for well-structured vegetation with uniform growth of thin-leaved sedges, 30-80 cm high, spaced densely enough to provide protection, but loosely enough to allow free movement and providing favourable micro-climate. Slender sedge and Mud sedge most frequently form the dominant vegetation at European locations. Other plants, which may form a dominant part of the vegetation in some areas, include Beaked sedge, Tufted sedge, Water horsetail and Purple moor-grass. A crucial factor for the species microhabitat is shallow water (e.g. below 20 cm) with abundant submerged vegetation. This allows the water to warm up quickly, favouring rapid development of the larvae, and makes the habitat unsuitable for predators, such as fish. Nehalennia speciosa is one of the few European dragonfly species that is nearly restricted to primary (e.g. not altered by humans) habitats.",
   "flight_period": "May to August",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Vulnerable",
-    "red_list_europe": "Near Threatened",
-    "red_list_mediterranean": "Critically Endangered",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Decreasing"
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [

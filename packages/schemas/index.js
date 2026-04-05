@@ -15,16 +15,6 @@ const SizeSchema = z.object({
   wingspan: z.string().optional(),
 })
 
-const RedListSchema = z.object({
-  habitats_directive: z.string(),
-  red_list_EU27: z.string(),
-  red_list_europe: z.string(),
-  red_list_mediterranean: z.string(),
-  EU27_endemic: z.string(),
-  red_list_europe_endemic: z.string(),
-  trend_europe: z.string(),
-})
-
 const ImageDataSchema = z.object({
   public_id: z.string(),
   caption: z.string(),
@@ -51,7 +41,6 @@ const SpecieSchema = z.object({
   distribution: z.string().optional(),
   habitat: z.string().optional(),
   flight_period: z.string().optional(),
-  red_list: RedListSchema.optional(),
   images: ImagesSchema.optional(),
   sources: z.array(z.string()).optional(),
   links: z.array(LinkSchema).optional(),
@@ -71,7 +60,6 @@ module.exports = {
   LinkSchema,
   MetaSchema,
   SizeSchema,
-  RedListSchema,
   ImageDataSchema,
   ImagesSchema,
   SpecieSchema,

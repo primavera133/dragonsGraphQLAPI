@@ -13,19 +13,12 @@
     "length": "36-38 mm",
     "wingspan": "40-48 mm"
   },
-  "similar_species": ["Pyrrhosoma nymphula"],
+  "similar_species": [
+    "Pyrrhosoma nymphula"
+  ],
   "distribution": "The species is Endemic and only known from Greece and Albany and it is not likely that it occurs outside Europe. It is known from a total of only fourteen locations. In Albania it is found only at the Blue Eye spring (Syri i Kalter), a large spring that forms the source of the Bistrica River. In Greece it is known from mainland Greece, the northern Peloponnese (five sites) and Corfu (seven sites). The species has been recorded at several sites on Corfu in the past but recent survey it was only found at two streams, only one of which had a strong population.\n\n*Pyrrhosoma elisabethae* has an early flight and can easily be missed during a summer visit. Further fieldwork might show it to be wider spread in north-west Greece and south Albania than currently known.",
   "habitat": "Very little information on habitats has been published. The species seem limited to larger streams or springfed ponds and lakes with abundant aquatic vegetation. It is likely that the species cannot survive in habitats that regularly desiccate for longer periods during dry and hot years. *Pyrrhosoma elisabethae* is known from hilly regions and lowlands, down to sea level in Corfu.",
   "flight_period": "From the end of April to mid June",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Critically Endangered",
-    "red_list_europe": "Critically Endangered",
-    "red_list_mediterranean": "Endangered",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "Endemic",
-    "trend_europe": "Decreasing"
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [

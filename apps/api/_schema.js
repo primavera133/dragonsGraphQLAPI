@@ -47,7 +47,6 @@ const typeDefs = gql`
     distribution: String
     habitat: String
     flight_period: String
-    red_list: RedList
     images: Images
     sources: [String]
     links: [Link]
@@ -71,16 +70,6 @@ const typeDefs = gql`
   type Size {
     length: String
     wingspan: String
-  }
-
-  type RedList {
-    habitats_directive: String!
-    red_list_EU27: String!
-    red_list_europe: String!
-    red_list_mediterranean: String!
-    EU27_endemic: String!
-    red_list_europe_endemic: String!
-    trend_europe: String!
   }
 
   type Link {

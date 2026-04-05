@@ -24,15 +24,6 @@
   "distribution": "*Gomphus simillimus* is endemic to western Europe and the Mahgreb, with its core range in the west Mediterranean. The nominotypical subspecies is endemic to Europe while the distinct but variable Mahgrebian subspecies *G. s. maroccanus* is restricted to Morocco and the north-west of Algeria. In Europe the species ranges from the south of the Iberian Peninsula to north-east France. Five records from Belgium are considered vagrants. The eastermost populations are from the upper Rhine River around the border of Germany and Switzerland. The highest density of populations are found in south-western half of France, where the species is rather common. In other parts of France it is rarer, with a more scattered distribution. It is generally rather rare in the Iberian Peninsula, although slightly less so in the north-east, and in most areas it is only known from scattered populations.",
   "habitat": "*Gomphus simillimus* breeds mainly in large slow-flowing rivers and to lesser degree in streams. It is found more rarely in canals and oxbow lakes and ponds fed by ground water., where it can, however, reach high densities. Reproduction has also been noted from standing waters such as abandoned gravel pits and Lake Constance (Bodensee). It is restricted to the lowlands and is rarely seen above 500 m.",
   "flight_period": "May to July",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Near Threatened",
-    "red_list_europe": "Near Threatened",
-    "red_list_mediterranean": "Near Threatened",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Decreasing"
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [

@@ -13,19 +13,13 @@
     "length": "25-30 mm",
     "wingspan": "26-38 mm"
   },
-  "similar_species": ["Ischnura elegans", "Erythromma viridulum"],
+  "similar_species": [
+    "Ischnura elegans",
+    "Erythromma viridulum"
+  ],
   "distribution": "*Ischnura graellsii* is endemic to the Iberian Peninsula and the Maghreb. In northern Africa it is limited to the northern parts of Morocco, Algeria, Tunisisa and the north-west of Libya, being replaced by *I. saharensis* in the more arid inland areas to the south.\n\nThe European population are presently confined to the Iberian Peninsula. In 2015 a population was found in French part of Cerdagna, eastern Pyrenees. Records published for Sardinia is believed to be misidentifications.\n\nIn northern Spain hybridisation between *I. elegans* and *I. greallsii* has been observed. Hybrids are fertile and backcross with *I. elegans*.  ",
   "habitat": "*Ischnura graellsii* is found in a wide variety of habitats, including running, standing and brackish waters. The species has been found up to 1 300 m.",
   "flight_period": "March to November",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Least Concern",
-    "red_list_europe": "Least Concern",
-    "red_list_mediterranean": "Least Concern",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Stable"
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [

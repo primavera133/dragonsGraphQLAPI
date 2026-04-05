@@ -13,19 +13,12 @@
     "length": "73-80 mm",
     "wingspan": "90-110 mm"
   },
-  "similar_species": ["Cordulegaster boltonii"],
+  "similar_species": [
+    "Cordulegaster boltonii"
+  ],
   "distribution": "Cordulegaster trinacriae is a European endemic restricted to the southern half of mainland Italy and Sicily. The species was described relatively recently and all records from southern Italy published as *C. boltonii* nowadays are considered to belong to *C. trinacriae*. It is restricted to the Italian regions of Lazio, Molise, Campania, Calabria, Basilicata and Sicily. Its range meets and seems to overlap slightly with *C. boltonii* in Lazio; the distribution of both species in this area is poorly studied. So far, around 70 localities have been reported for this species, which seems more common than previously thought. In mainland Italy *C. trinacriae* is locally abundant although many populations are small and isolated. The species is rare in Sicily.",
   "habitat": "*Cordulegaster trinacriae* is found at running waters ranging from mountain streams to rivers, and favour woodland areas up to around 1 600 m.",
   "flight_period": "June to August",
-  "red_list": {
-    "habitats_directive": "II+IV",
-    "red_list_EU27": "Near Threatened",
-    "red_list_europe": "Near Threatened",
-    "red_list_mediterranean": "Near Threatened",
-    "EU27_endemic": "Endemic",
-    "red_list_europe_endemic": "Endemic",
-    "trend_europe": "Decreasing"
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [

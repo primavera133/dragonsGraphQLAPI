@@ -17,15 +17,6 @@
   "distribution": "It is native to the southern Levant, where it is known from Israel, Jordan, Lebanon, Palestine, and Syria.",
   "habitat": "This damselfly inhabits habitat along rivers such as the Orontes, Litani, and Jordan. Its populations have declined due to loss of habitat in the river systems in the area.",
   "flight_period": "March to November",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "",
-    "red_list_europe": "",
-    "red_list_mediterranean": "Endangered",
-    "EU27_endemic": "",
-    "red_list_europe_endemic": "No",
-    "trend_europe": ""
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": []

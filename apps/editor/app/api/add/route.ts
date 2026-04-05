@@ -28,7 +28,6 @@ export async function POST(req: NextRequest) {
       habitat: '',
       distribution: '',
       similar_species: [],
-      red_list: {},
       images: { cloud_name: '', all: [] },
       sources: [],
       links: [],

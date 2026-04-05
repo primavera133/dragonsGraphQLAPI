@@ -15,15 +15,6 @@
   "distribution": "",
   "habitat": "",
   "flight_period": "March to August",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "",
-    "red_list_europe": "",
-    "red_list_mediterranean": "Endangered",
-    "EU27_endemic": "",
-    "red_list_europe_endemic": "No",
-    "trend_europe": ""
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": []

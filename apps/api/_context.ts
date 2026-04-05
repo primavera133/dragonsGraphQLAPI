@@ -1,30 +1,29 @@
-const { GraphQLError } = require('graphql')
+import { GraphQLError } from 'graphql'
 
-const context = ({ req }) => {
-  // Optional authentication - if API_USERS is set, check for valid token
+interface ContextRequest {
+  headers?: Record<string, string | undefined>
+  authorization?: string
+}
+
+const context = ({ req }: { req: ContextRequest }) => {
   const authorizationHeader = (req.headers && req.headers.authorization) || ''
   const users = process.env.API_USERS || ''
-  
-  // If no users configured, allow all requests
+
   if (!users) {
     return { user: null }
   }
-  
+
   const usersArr = users.split(' ')
   const token = authorizationHeader.replace('Bearer ', '')
 
   if (!usersArr.includes(token)) {
     console.error(`USER ${token} NOT FOUND`)
     throw new GraphQLError(`USER ${token} NOT FOUND`, {
-      extensions: {
-        code: 'UNAUTHENTICATED'
-      }
+      extensions: { code: 'UNAUTHENTICATED' },
     })
   }
 
-  return {
-    user: token
-  }
+  return { user: token }
 }
 
-module.exports = context
+export default context

@@ -15,16 +15,6 @@ export declare const SizeSchema: z.ZodObject<{
   wingspan: z.ZodOptional<z.ZodString>
 }>
 
-export declare const RedListSchema: z.ZodObject<{
-  habitats_directive: z.ZodString
-  red_list_EU27: z.ZodString
-  red_list_europe: z.ZodString
-  red_list_mediterranean: z.ZodString
-  EU27_endemic: z.ZodString
-  red_list_europe_endemic: z.ZodString
-  trend_europe: z.ZodString
-}>
-
 export declare const ImageDataSchema: z.ZodObject<{
   public_id: z.ZodString
   caption: z.ZodString
@@ -51,7 +41,6 @@ export declare const SpecieSchema: z.ZodObject<{
   distribution: z.ZodOptional<z.ZodString>
   habitat: z.ZodOptional<z.ZodString>
   flight_period: z.ZodOptional<z.ZodString>
-  red_list: z.ZodOptional<typeof RedListSchema>
   images: z.ZodOptional<typeof ImagesSchema>
   sources: z.ZodOptional<z.ZodArray<z.ZodString>>
   links: z.ZodOptional<z.ZodArray<typeof LinkSchema>>

@@ -13,19 +13,13 @@
     "length": "45-50 mm",
     "wingspan": "62-68 mm"
   },
-  "similar_species": ["Cordulea aenea", "Somatochlora meridionalis"],
+  "similar_species": [
+    "Cordulea aenea",
+    "Somatochlora meridionalis"
+  ],
   "distribution": "*Somatochlora borisi* is endemic to south-eastern Europe and is restricted to rivers originating in the eastern Rhodope and Istranca mountains of north-east Greece, south-east of Bulgaria and European Turkey.",
   "habitat": "*Somatochlora borisi* is found in large streams and rivers in hilly regions that are generally covered with extensive broadleaved forests. Most of the forests are used for low intensity goat and sheep farming, which results in them having a relatively open structure with scattered clearings. The species does not breed in ponds or lakes, and is limited to habitats with running water. At least some of the habitats where the species occurs are intermittently-flowing streams which are fragmented into residual, and more or less disconnected, pools during the summer. The species is confined to areas with a hot and dry summer below 300 m.",
   "flight_period": "May to July",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Vulnerable",
-    "red_list_europe": "Vulnerable",
-    "red_list_mediterranean": "Vulnerable",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "Endemic",
-    "trend_europe": "Decreasing"
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [

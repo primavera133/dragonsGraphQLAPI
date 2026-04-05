@@ -24,15 +24,6 @@
   "distribution": "*Cordulegaster picta* ranges from south-east Europe to the east of Georgia and the western part of Azerbaijan, though the core range is relatively small, being largely limited to eastern Greece, southern and eastern Bulgaria and and the west and north-west of Turkey. It is reasonably common in west and northwest of Turkey. In Europe it is known from some Greek Aegean islands (Samos, Lesbos, Thasos), north-eastern Greece, European Turkey and southern and south-eastern Bulgaria. ",
   "habitat": "The species breeds in running waters, ranging from tiny shaded trickles and streamlets to medium-sized semi-open rivers, in hilly or mountainous areas. It breeds from sea level up to 1 100 m in Europe but has been found up to 1 800 m in Turkey. At seepage areas and springs, as well as on the upper reaches of rivers, it sometimes co-occurs with C. insignis.",
   "flight_period": "End of May to mid-August",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Vulnerable",
-    "red_list_europe": "Vulnerable",
-    "red_list_mediterranean": "Vulnerable",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Stable"
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [

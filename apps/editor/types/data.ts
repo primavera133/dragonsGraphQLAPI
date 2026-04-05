@@ -13,16 +13,6 @@ export interface Size {
   wingspan?: string
 }
 
-export interface RedList {
-  habitats_directive: string
-  red_list_EU27: string
-  red_list_europe: string
-  red_list_mediterranean: string
-  EU27_endemic: string
-  red_list_europe_endemic: string
-  trend_europe: string
-}
-
 export interface ImageData {
   public_id: string
   caption: string
@@ -49,7 +39,6 @@ export interface Specie {
   distribution?: string
   habitat?: string
   flight_period?: string
-  red_list?: RedList
   images?: Images
   sources?: string[]
   links?: Link[]

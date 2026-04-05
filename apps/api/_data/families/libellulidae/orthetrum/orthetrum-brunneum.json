@@ -11,7 +11,10 @@
   ],
   "description": "A rather plain, medium sized skimmer that is common on running waters in the south. Being somewhat featureless it is most easily separated from similar species by exclusion. The light coloured pterostigma distinguishes it from *Orthetrum albistylum* and *O. cancellatum*. It could be confused with *O. coerulescens* from which it differs by the abdomen being slightly wider, the pterostigma being smaller and light brown instead of yellow, and in the males the frons being pale blue rather than yellow brown. In the mature males, covered in light blue pruinosity, the thorax and the abdomen has the same colour, which overall is lighter than in *O. coerulescens* and the yellow base colour shows through. On the wings, above the radial vein, there is a row of double cells, whereas in *O. coerulescens* the row consists of single cells. Compared to  *O. nitderve*, the pterostigma is shorter and the venation is entirely black. \n\nWhen not pruinose the abdomen is uniformly yellow-brown with a thin longitudinal black line down the centre upper side of the abdomen. Near the end of each segment, a pair of spots flank this line. These are usually fused to a cross-bar in *O. coerulescens* but seldom so in *O. brunneum*.",
   "behaviour": "This species is less active than  *O. coerulescens* and has a rather different behaviour. It tends to alight on the bare ground or rocks not far from the streams, or at most on the low grass like  *O. nitderve* and unlike  *O. coerulescens* that always perches on small bushes or on top of small grassy vegetation.",
-  "size": { "length": "40-50 mm", "wingspan": "65-75 mm" },
+  "size": {
+    "length": "40-50 mm",
+    "wingspan": "65-75 mm"
+  },
   "similar_species": [
     "Orthetrum coerulescens",
     "Orthetrum albistylum",
@@ -20,15 +23,6 @@
   "distribution": "*Otrhetrum brunneum* is widespread and common in the southern part of Europe, becoming scarcer to the north. In large parts of central and north-western Europe it is widely distributed although generally uncommon, and has few permanent populations. The scarcity of records in Ukraine and Russia and, especially its absence from the well-explored southern Urals suggests that the species is genuinely rare and restricted to southern latitudes in this part of Europe.",
   "habitat": "*Orthetrum brunneum* is found at a wide range of habitats including sunny streams, slow-flowing rivers, ditches, seepages and springs as well as man-made pools, quarries and gravel pits. The species is mostly found at sites in early stages of succession with relatively little bank side or aquatic vegetation. In the north of its range it is often a pioneer species and appear promptly at man-made, warm habitats, declining and even disappearing as the vegetation develops. It is a lowland species in most of Europe and in the Alps populations above 600 m is rare; however it is more common in mountains in the south of its range.",
   "flight_period": "May to September",
-  "red_list": {
-    "habitats_directive": "No",
-    "red_list_EU27": "Least Concern",
-    "red_list_europe": "Least Concern",
-    "red_list_mediterranean": "Least Concern",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Increasing"
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [
@@ -92,7 +86,15 @@
       "label": "iNaturalist",
       "link": "https://www.inaturalist.org/taxa/107949-Orthetrum-brunneum"
     },
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1428715" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1428715"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "1428715" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1428715"
+    }
+  ]
 }

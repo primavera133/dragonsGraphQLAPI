@@ -24,15 +24,6 @@
   "distribution": "*Ophiogomphus cecilia* has a Palearctic distribution, ranging from Europe, west Siberia, Kazakhstan eastwards to Lake Baikal. The species is widespread in central and north-eastern Europe, but is generally scarce in the west and rare to absent in the south. In the core of its European range, it has a semi-continuous distribution and occurs on both streams and larger rivers. In France and Italy, however, it is largely confined to the river systems of the Loire, Rhine and Po, respectively. It is absent from the Iberian Peninsula and the southern parts of Italy, and becomes progressively rarer to the south in the Balkan Peninsula, with the southernmost populations found in the north-east of Greece and European Turkey. In eastern Europe, the species is probably more widely distributed than currently known in Belarus, north-western Ukraine and large parts of European Russia.",
   "habitat": "*ophiogomphus cecilia* is mainly found on rivers and large streams, less frequently on small streams and sporadically on canals. In most cases the water's edge is at least partly unshaded, although bushes and trees often grow in the vicinity. Most populations of *O. cecilia* are found on rivers and streams which have a large natural geomorphology in which meanders, wild flow paths and an uncontrolled regime result in a mosaic of sand and gravel. Aquatic vegetation is largely absent due to swift water currents and the frequent changes in channels during spates. The species is absent when sand deposits are lacking, and is seldom found in fast-flowing stony mountain streams or in slow-flowing muddy or clayey rivers.",
   "flight_period": "May to September",
-  "red_list": {
-    "habitats_directive": "II+IV",
-    "red_list_EU27": "Least Concern",
-    "red_list_europe": "Least Concern",
-    "red_list_mediterranean": "Least Concern",
-    "EU27_endemic": "No",
-    "red_list_europe_endemic": "No",
-    "trend_europe": "Stable"
-  },
   "images": {
     "cloud_name": "dragonflies",
     "all": [

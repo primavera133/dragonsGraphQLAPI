@@ -2,7 +2,6 @@
   "name": "@dragons/api",
   "version": "1.0.0",
   "description": "Dragons GraphQL API — Vercel serverless function",
-  "main": "api/index.js",
   "engines": {
     "node": ">=18.0.0"
   },
@@ -10,10 +9,8 @@
   "dependencies": {
     "@apollo/server": "^5.5.0",
     "@as-integrations/next": "^3.0.0",
-"cors": "^2.8.5",
     "dotenv": "^17.3.1",
     "graphql": "^16.8.1",
-    "rimraf": "^6.1.3",
     "zod": "^4.3.6"
   },
   "devDependencies": {

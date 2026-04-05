@@ -1,6 +1,6 @@
+import { SignInButton } from '@/components/SignInButton'
 import { auth } from '@/lib/auth'
 import { redirect } from 'next/navigation'
-import { SignInButton } from '@/components/SignInButton'
 
 export default async function HomePage() {
   const session = await auth()
@@ -8,8 +8,10 @@ export default async function HomePage() {
 
   return (
     <div className="page-center">
-      <h1>Dragons Editor</h1>
-      <p className="muted">Sign in with GitHub to edit dragonfly species data.</p>
+      <h1>Dragonfly API Editor</h1>
+      <p className="muted">
+        Sign in with GitHub to edit dragonfly species data.
+      </p>
       <SignInButton />
     </div>
   )

@@ -209,6 +209,16 @@ function buildTree(paths: string[]): FamilyEntry[] {
   return Array.from(families.values()).sort((a, b) => a.name.localeCompare(b.name))
 }
 
+// ── Delete branch ─────────────────────────────────────────────────────────
+
+export async function deleteBranch(octokit: OctokitInstance, branch: string) {
+  await octokit.rest.git.deleteRef({
+    owner: OWNER,
+    repo: REPO,
+    ref: `heads/${branch}`,
+  })
+}
+
 // ── Merge main into branch ────────────────────────────────────────────────
 
 export async function mergeMainIntoBranch(

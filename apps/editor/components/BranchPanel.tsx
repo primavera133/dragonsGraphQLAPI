@@ -23,6 +23,7 @@ export function BranchPanel() {
   const [submitting, setSubmitting] = useState(false)
   const [merging, setMerging] = useState(false)
   const [mergeResult, setMergeResult] = useState<string | null>(null)
+  const [discarding, setDiscarding] = useState(false)
   const [pr, setPr] = useState<{ url: string; number: number } | null>(null)
   const [error, setError] = useState<string | null>(null)
 
@@ -44,6 +45,23 @@ export function BranchPanel() {
       setError(e.message)
     } finally {
       setLoading(false)
+    }
+  }
+
+  async function discardAll() {
+    if (!confirm('Delete your branch and discard all unpublished changes? This cannot be undone.')) return
+    setDiscarding(true)
+    try {
+      const res = await fetch('/api/branch', { method: 'DELETE' })
+      const json = await res.json()
+      if (!res.ok) throw new Error(json.error || 'Failed')
+      setStatus(null)
+      setPr(null)
+      await refresh()
+    } catch (e: any) {
+      alert(e.message)
+    } finally {
+      setDiscarding(false)
     }
   }
 
@@ -156,6 +174,20 @@ export function BranchPanel() {
                         </span>
                       </div>
                     ))}
+                  </div>
+                )}
+
+                {status.exists && status.files.length > 0 && (
+                  <div style={{ marginBottom: '1rem' }}>
+                    <button
+                      className="btn btn-danger"
+                      onClick={discardAll}
+                      disabled={discarding}
+                      type="button"
+                      style={{ fontSize: '0.8rem' }}
+                    >
+                      {discarding ? 'Discarding…' : 'Discard all changes'}
+                    </button>
                   </div>
                 )}
 

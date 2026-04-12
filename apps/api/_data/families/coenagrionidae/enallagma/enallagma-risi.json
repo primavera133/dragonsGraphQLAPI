@@ -24,23 +24,18 @@
     "all": []
   },
   "sources": [
-    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
-    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+    "Atlas of the Dragonflies and Damselflies of West and Central Asia, J.-P. Boudot, S. Borisov, G. De Knijf, R.H.A. van Grunsven, A. Schröter, V. J. Kalkman"
   ],
   "links": [
     {
-      "label": "iNaturalist",
-      "link": "https://www.inaturalist.org/taxa/344070-Enallagma-risi"
-    },
-    {
       "label": "gbif.org",
-      "link": "https://www.gbif.org/species/1422101"
+      "link": "https://www.gbif.org/species/5051317"
     }
   ],
   "meta": [
     {
       "label": "gbifTaxonKey",
-      "value": "1422101"
+      "value": "5051317"
     }
   ]
 }

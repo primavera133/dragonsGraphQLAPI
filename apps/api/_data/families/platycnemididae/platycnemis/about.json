@@ -7,7 +7,10 @@
     "[Wikipedia](https://en.wikipedia.org/wiki/Platycnemis)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/8235578" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/8235578"
+    }
   ],
   "meta": [
     {

@@ -7,7 +7,10 @@
     "[GBIF](https://www.gbif.org/species/1429716)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1429716" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1429716"
+    }
   ],
   "meta": [
     {

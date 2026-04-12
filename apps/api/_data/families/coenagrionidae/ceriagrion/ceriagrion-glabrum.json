@@ -1,0 +1,39 @@
+{
+  "items_id": "f63f0bde95641547387ecde4aa414725",
+  "scientific_name": "Ceriagrion glabrum",
+  "author_citation": "(Burmeister, 1839)",
+  "local_names": ["Common citril", "Blek korallflickslända"],
+  "description": "A small to medium-sized damselfly with a predominantly red or orange-red abdomen in males. The eyes are greenish with a dark grey cap. Females are typically brownish or yellowish.",
+  "behaviour": "",
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": [],
+  "distribution": "*Ceriagrion glabrum* is widespread across sub-Saharan Africa, including Madagascar, and extends into the southern parts of the Western Palearctic in Egypt, Israel and can be found along the rather humid coast of Arabian Peninsula. Populations occur along the red sea coast of Saudi Arabia and Yemen, on the island of Socotra, and along the southern and northern coast of Oman and in the United Arab Emirates.",
+  "habitat": "The species prefers coastal wetlands, lagoons and ponds with well-developed riparian vegetation that often concists of *Juncus*, *Typha* and *Phragmites*.",
+  "flight_period": "",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [
+    "Atlas of the Dragonflies and Damselflies of West and Central Asia, J.-P. Boudot, S. Borisov, G. De Knijf, R.H.A. van Grunsven, A. Schröter, V. J. Kalkman"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/97063-Ceriagrion-glabrum"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1423214"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1423214"
+    }
+  ]
+}

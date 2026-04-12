@@ -7,7 +7,10 @@
     "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1426026" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1426026"
+    }
   ],
   "meta": [
     {

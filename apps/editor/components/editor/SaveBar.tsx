@@ -27,10 +27,10 @@ export function SaveBar({ onSave, onReset, onClearAllDrafts, saving, savedAt, er
           <span className="muted">Saved at {savedAt.toLocaleTimeString()}</span>
         )}
       </div>
-      <Button className="btn btn-secondary" onPress={onReset} isDisabled={saving} title="Reset this species to its last saved state">
+      <Button className="btn btn-secondary" onPress={onReset} isDisabled={saving}>
         Reset
       </Button>
-      <Button className="btn btn-danger" onPress={onClearAllDrafts} isDisabled={saving} title="Discard all locally saved drafts across all species">
+      <Button className="btn btn-danger" onPress={onClearAllDrafts} isDisabled={saving}>
         Clear all drafts
       </Button>
       <Button className="btn" onPress={onSave} isDisabled={saving}>

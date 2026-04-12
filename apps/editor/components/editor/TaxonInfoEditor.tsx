@@ -1,5 +1,5 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 // @ts-ignore — CJS package with manual .d.ts
 import { TaxonInfoSchema } from '@dragons/schemas'
@@ -20,6 +20,12 @@ interface Props {
   branch: string
 }
 
+const DRAFT_PREFIX = 'dragons-draft:'
+
+function draftKey(filePath: string[]) {
+  return `${DRAFT_PREFIX}${filePath.join('/')}`
+}
+
 export function TaxonInfoEditor({ initialData, initialSha, filePath, kind, branch }: Props) {
   const router = useRouter()
   const [data, setData] = useState<TaxonInfo>(initialData)
@@ -31,6 +37,32 @@ export function TaxonInfoEditor({ initialData, initialSha, filePath, kind, branc
   const [mainData, setMainData] = useState<TaxonInfo | null>(null)
   const [loadingMain, setLoadingMain] = useState(false)
   const [confirming, setConfirming] = useState(false)
+  const [mounted, setMounted] = useState(false)
+  const [hasDraft, setHasDraft] = useState(false)
+
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem(draftKey(filePath))
+      if (saved) {
+        setData(JSON.parse(saved))
+        setHasDraft(true)
+      }
+    } catch {}
+    setMounted(true)
+  }, [])
+
+  useEffect(() => {
+    if (!mounted) return
+    try {
+      if (JSON.stringify(data) === JSON.stringify(initialData)) {
+        localStorage.removeItem(draftKey(filePath))
+        setHasDraft(false)
+      } else {
+        localStorage.setItem(draftKey(filePath), JSON.stringify(data))
+        setHasDraft(true)
+      }
+    } catch {}
+  }, [data, mounted])
 
   async function deleteTaxon() {
     // filePath: ['familyName', 'about.json'] for family
@@ -75,6 +107,26 @@ export function TaxonInfoEditor({ initialData, initialSha, filePath, kind, branc
     setData((prev) => ({ ...prev, [key]: value }))
   }
 
+  function reset() {
+    setData(initialData)
+    setErrors([])
+    setResetCount((c) => c + 1)
+    setHasDraft(false)
+    try { localStorage.removeItem(draftKey(filePath)) } catch {}
+  }
+
+  function clearAllDrafts() {
+    try {
+      Object.keys(localStorage)
+        .filter((k) => k.startsWith(DRAFT_PREFIX))
+        .forEach((k) => localStorage.removeItem(k))
+    } catch {}
+    setData(initialData)
+    setErrors([])
+    setResetCount((c) => c + 1)
+    setHasDraft(false)
+  }
+
   function changedFields() {
     return (Object.keys(data) as (keyof TaxonInfo)[]).filter(
       (k) => JSON.stringify(data[k]) !== JSON.stringify(initialData[k]),
@@ -99,6 +151,8 @@ export function TaxonInfoEditor({ initialData, initialSha, filePath, kind, branc
       if (!res.ok) throw new Error(json.error || 'Save failed')
       if (json.sha) setSha(json.sha)
       setSavedAt(new Date())
+      try { localStorage.removeItem(draftKey(filePath)) } catch {}
+      setHasDraft(false)
     } catch (e: any) {
       setErrors([e.message])
     } finally {
@@ -167,10 +221,12 @@ export function TaxonInfoEditor({ initialData, initialSha, filePath, kind, branc
 
       <SaveBar
         onSave={() => setConfirming(true)}
-        onReset={() => { setData(initialData); setErrors([]); setResetCount(c => c + 1) }}
+        onReset={reset}
+        onClearAllDrafts={clearAllDrafts}
         saving={saving}
         savedAt={savedAt}
         errorCount={errors.length}
+        hasDraft={hasDraft}
       />
       {confirming && (
         <SaveConfirmModal

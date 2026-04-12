@@ -217,6 +217,7 @@ export function SpeciesEditor({ initialData, initialSha, filePath, branch }: Pro
           fieldB="link"
           placeholderA="Label"
           placeholderB="URL"
+          showPreview
         />
         <PairsField
           label="Meta"

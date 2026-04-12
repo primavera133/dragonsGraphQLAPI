@@ -152,6 +152,7 @@ export function TaxonInfoEditor({ initialData, initialSha, filePath, kind, branc
           fieldB="link"
           placeholderA="Label"
           placeholderB="URL"
+          showPreview
         />
         <PairsField
           label="Meta"

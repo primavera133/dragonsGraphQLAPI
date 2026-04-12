@@ -1,5 +1,5 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 // @ts-ignore — CJS package with manual .d.ts
 import { SpecieSchema } from '@dragons/schemas'
@@ -21,6 +21,12 @@ interface Props {
   branch: string
 }
 
+const DRAFT_PREFIX = 'dragons-draft:'
+
+function draftKey(filePath: string[]) {
+  return `${DRAFT_PREFIX}${filePath.join('/')}`
+}
+
 export function SpeciesEditor({ initialData, initialSha, filePath, branch }: Props) {
   const router = useRouter()
   const [data, setData] = useState<Specie>(initialData)
@@ -32,6 +38,34 @@ export function SpeciesEditor({ initialData, initialSha, filePath, branch }: Pro
   const [mainData, setMainData] = useState<Specie | null>(null)
   const [loadingMain, setLoadingMain] = useState(false)
   const [confirming, setConfirming] = useState(false)
+  const [mounted, setMounted] = useState(false)
+  const [hasDraft, setHasDraft] = useState(false)
+
+  // Hydrate from localStorage after mount
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem(draftKey(filePath))
+      if (saved) {
+        setData(JSON.parse(saved))
+        setHasDraft(true)
+      }
+    } catch {}
+    setMounted(true)
+  }, [])
+
+  // Persist to localStorage on every change (after hydration)
+  useEffect(() => {
+    if (!mounted) return
+    try {
+      if (JSON.stringify(data) === JSON.stringify(initialData)) {
+        localStorage.removeItem(draftKey(filePath))
+        setHasDraft(false)
+      } else {
+        localStorage.setItem(draftKey(filePath), JSON.stringify(data))
+        setHasDraft(true)
+      }
+    } catch {}
+  }, [data, mounted])
 
   async function deleteSpecies() {
     if (!confirm(`Delete ${data.scientific_name}? This cannot be undone.`)) return
@@ -67,6 +101,26 @@ export function SpeciesEditor({ initialData, initialSha, filePath, branch }: Pro
     setData((prev) => ({ ...prev, [key]: value }))
   }
 
+  function reset() {
+    setData(initialData)
+    setErrors([])
+    setResetCount((c) => c + 1)
+    setHasDraft(false)
+    try { localStorage.removeItem(draftKey(filePath)) } catch {}
+  }
+
+  function clearAllDrafts() {
+    try {
+      Object.keys(localStorage)
+        .filter((k) => k.startsWith(DRAFT_PREFIX))
+        .forEach((k) => localStorage.removeItem(k))
+    } catch {}
+    setData(initialData)
+    setErrors([])
+    setResetCount((c) => c + 1)
+    setHasDraft(false)
+  }
+
   function changedFields() {
     return (Object.keys(data) as (keyof Specie)[]).filter(
       (k) => JSON.stringify(data[k]) !== JSON.stringify(initialData[k]),
@@ -91,6 +145,8 @@ export function SpeciesEditor({ initialData, initialSha, filePath, branch }: Pro
       if (!res.ok) throw new Error(json.error || 'Save failed')
       if (json.sha) setSha(json.sha)
       setSavedAt(new Date())
+      try { localStorage.removeItem(draftKey(filePath)) } catch {}
+      setHasDraft(false)
     } catch (e: any) {
       setErrors([e.message])
     } finally {
@@ -232,10 +288,12 @@ export function SpeciesEditor({ initialData, initialSha, filePath, branch }: Pro
 
       <SaveBar
         onSave={() => setConfirming(true)}
-        onReset={() => { setData(initialData); setErrors([]); setResetCount(c => c + 1) }}
+        onReset={reset}
+        onClearAllDrafts={clearAllDrafts}
         saving={saving}
         savedAt={savedAt}
         errorCount={errors.length}
+        hasDraft={hasDraft}
       />
       {confirming && (
         <SaveConfirmModal

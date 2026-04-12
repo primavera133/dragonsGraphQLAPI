@@ -1,47 +1,46 @@
 {
   "items_id": "e652fa89a81d0ea4c0098b8b25a22113",
   "scientific_name": "Ischnura evansi",
-  "author_citation": "Morton, 1924",
+  "author_citation": "Morton, 1919",
   "local_names": [
     "Evans's bluetail",
     "Ökenkustflickslända"
   ],
   "description": "A small bluetail damselfly from the Arabian Peninsula and Middle East. Males have the characteristic blue tail-tip of the genus *Ischnura*. It is one of several desert-adapted bluetail species in the region.",
-  "behaviour": "Found near any available water body in arid environments, including oases and irrigation channels.",
+  "behaviour": "",
   "size": {
-    "length": "24-32 mm",
-    "wingspan": "28-38 mm"
+    "length": "",
+    "wingspan": ""
   },
   "similar_species": [
     "Ischnura elegans",
     "Ischnura pumilio",
     "Ischnura saharensis"
   ],
-  "distribution": "*Ischnura evansi* occurs in the Arabian Peninsula, including Oman, Yemen, Saudi Arabia, and adjacent parts of the Middle East.",
-  "habitat": "Any available water body in arid regions, including wadis, oases, irrigation canals, and brackish pools.",
-  "flight_period": "March to October, possibly year-round.",
+  "distribution": "*Ischnura evansi* occurs from Egypt and Sudan, through the Levant, Iraq, Iran and the Arabian peninsula to Central Asia.  It is well distributed in the Levant, along the southwestern part of the Arabian peninsula, along the Persian Gulf and over the whole southern part of Iran.\n\nIt has also been found at the Caspian margin of Kazakhstan. It is not unlikely it also occurs in the more arid regions of the Chines provinces of Xinjiang and Gansu.\n\nIt is often abundant where it occurs, and is well able to colonise new habitats.",
+  "habitat": "*I. evansi* inhabits both freshwater and brackish waters and is found in pools, ponds, swamps and slow-flowing intermittent streams and rivers.",
+  "flight_period": "",
   "images": {
     "cloud_name": "dragonflies",
     "all": []
   },
   "sources": [
-    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
-    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+    "Atlas of the Dragonflies and Damselflies of West and Central Asia, J.-P. Boudot, S. Borisov, G. De Knijf, R.H.A. van Grunsven, A. Schröter, V. J. Kalkman"
   ],
   "links": [
     {
       "label": "iNaturalist",
-      "link": "https://www.inaturalist.org/taxa/106350-Ischnura-evansi"
+      "link": "https://www.inaturalist.org/taxa/321574-Ischnura-evansi"
     },
     {
       "label": "gbif.org",
-      "link": "https://www.gbif.org/species/1422140"
+      "link": "https://www.gbif.org/species/1423313"
     }
   ],
   "meta": [
     {
       "label": "gbifTaxonKey",
-      "value": "1422140"
+      "value": "1423313"
     }
   ]
 }

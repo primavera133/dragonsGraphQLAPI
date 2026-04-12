@@ -1,0 +1,35 @@
+{
+  "name": "@dragons/api",
+  "version": "1.0.0",
+  "description": "Dragons GraphQL API — Vercel serverless function",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "packageManager": "pnpm@10.33.0",
+  "dependencies": {
+    "@apollo/server": "^5.5.0",
+    "@as-integrations/next": "^3.0.0",
+    "dotenv": "^17.3.1",
+    "graphql": "^16.8.1",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "^6.2.1",
+    "@graphql-codegen/typescript": "^5.0.9",
+    "@types/node": "^22.0.0",
+    "graphql-tag": "^2.12.6",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "dev": "ts-node dev-server.ts",
+    "build": "echo 'Build complete'",
+    "test": "pnpm run jest",
+    "jest": "jest --forceExit --detectOpenHandles",
+    "update-snaps": "jest --updateSnapshot",
+    "generate-gql-types": "graphql-codegen"
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,39 @@
+{
+  "items_id": "ad1b0c8e37bce52f078a6b765d19631e",
+  "scientific_name": "Azuragrion vansomereni",
+  "author_citation": "(Pinhey, 1956)",
+  "local_names": ["Tiny bluet", "Mindre azurflickslända"],
+  "description": "A small azure damselfly named after the entomologist Van Someren.",
+  "behaviour": "",
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": [],
+  "distribution": "*Azuragrion vansomereni* is known from northern parts of sub-Saharan Africa, from Senegal to Uganda and Erithrea. A single observation has been made on the Arabian Peninsula, from the Layla lakes in the centre of Saudia Arabia, a string of flooded sinkholes. Water extraction for irrigation and touristic purposes resulted in dessication of these lakesin the first half of the 1990's, as a result of which the species became regionally extinct.",
+  "habitat": "",
+  "flight_period": "",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [
+    "Atlas of the Dragonflies and Damselflies of West and Central Asia, J.-P. Boudot, S. Borisov, G. De Knijf, R.H.A. van Grunsven, A. Schröter, V. J. Kalkman"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/observations/339639454"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/5791676"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "5791676"
+    }
+  ]
+}

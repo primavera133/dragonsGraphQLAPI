@@ -1,0 +1,46 @@
+{
+  "items_id": "e02eda2e126396da008b018df0a335c7",
+  "scientific_name": "Pseudagrion decorum",
+  "author_citation": "(Rambur, 1842)",
+  "local_names": [
+    "Turquoise sprite",
+    "Turkos bäckflickslända"
+  ],
+  "description": "A medium-sized damselfly with striking turquoise-blue coloration in males. One of the more widespread and commonly encountered Pseudagrion species in the Western Palearctic. Males have a turquoise-blue thorax and abdomen with black markings.",
+  "behaviour": "Found along streams and rivers with overhanging vegetation. Males are territorial and perch on waterside plants and rocks.",
+  "size": {
+    "length": "30-38 mm",
+    "wingspan": "36-46 mm"
+  },
+  "similar_species": [
+    "Pseudagrion syriacum",
+    "Pseudagrion arabicum"
+  ],
+  "distribution": "*Pseudagrion decorum* has a wide range across Africa, the Middle East, and South Asia, occurring from the eastern Mediterranean through the Arabian Peninsula to India.",
+  "habitat": "Clear, flowing streams and rivers with riparian vegetation, from lowlands to moderate elevations.",
+  "flight_period": "March to October; year-round in tropical parts of range.",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/106360-Pseudagrion-decorum"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422502"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422502"
+    }
+  ]
+}

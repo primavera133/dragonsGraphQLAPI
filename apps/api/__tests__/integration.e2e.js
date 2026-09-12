@@ -5,11 +5,10 @@ const {
   GET_SPECIES_BY_GENUS_QUERY 
 } = require('./__queries')
 const { 
-  assertNoErrors, 
+  assertNoErrors,
   assertSpeciesArray,
   assertValidScientificName,
-  assertValidConservationStatus,
-  testData 
+  testData
 } = require('./__helpers')
 
 describe('Integration Tests - Complex Scenarios', () => {

@@ -6,8 +6,19 @@
     "[Molecular Phylogeny of the Family Cordulegastridae (Odonata) Worldwide](https://www.mdpi.com/2075-4450/15/8/622)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/4578587" },
-    { "label": "World Odonata List", "link": "https://www.odonatacentral.org/app/#/wol/" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/4578587"
+    },
+    {
+      "label": "World Odonata List",
+      "link": "https://www.odonatacentral.org/app/#/wol/"
+    }
   ],
-  "meta": [{ "label": "gbifTaxonKey", "value": "4578587" }]
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "4578587"
+    }
+  ]
 }

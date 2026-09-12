@@ -8,7 +8,10 @@
     "[GBIF](https://www.gbif.org/species/1429956)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1429956" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1429956"
+    }
   ],
   "meta": [
     {

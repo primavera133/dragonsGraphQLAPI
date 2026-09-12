@@ -1,0 +1,39 @@
+{
+  "items_id": "e21052c37cb530d1e4e88111ad334803",
+  "scientific_name": "Coenagrion syriacum",
+  "author_citation": "(Morton, 1924)",
+  "local_names": ["Levant bluet", "Levantlyrflickslända"],
+  "description": "A medium-sized blue damselfly from the Levant region.",
+  "behaviour": "",
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": [],
+  "distribution": "*Coenagrion syriacum* is restricted to a small area of coastal Syria, Lebanon, Israel and the area around Adana in Turkey. In Turkey the species is not uncommon within it's range but might have disapeared from the westernmost regions near Antalya. There are relatively few new records from Syria, Lebanon and Israel, but this at least in parts reflects a lack of field work. Nonetheless it is likely that the species has decreased in the region due to intensified pressure on water resources and degradation of freshwater habitats.",
+  "habitat": "",
+  "flight_period": "",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [
+    "Atlas of the Dragonflies and Damselflies of West and Central Asia, J.-P. Boudot, S. Borisov, G. De Knijf, R.H.A. van Grunsven, A. Schröter, V. J. Kalkman"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/98281-Coenagrion-syriacum"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1421961"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1421961"
+    }
+  ]
+}

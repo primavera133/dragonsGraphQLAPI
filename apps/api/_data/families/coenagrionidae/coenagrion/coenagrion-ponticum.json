@@ -1,0 +1,39 @@
+{
+  "items_id": "3e6325643e9d417a8530dbe433c0fb79",
+  "scientific_name": "Coenagrion ponticum",
+  "author_citation": "(Bartenev, 1929)",
+  "local_names": ["Pontic bluet", "Pontisk lyrflickslända"],
+  "description": "A medium-sized blue damselfly belonging to the *puella group*, meaning it is closely related to *Coenagrion puella* and was for a long time considered a subspecies or synonym. Them species have a more extensive black pattern than *C. puella* and can with experience be separated in the field, although it is safer to examine the male appendages or the protothorax of the female.",
+  "behaviour": "",
+  "size": {
+    "length": "",
+    "wingspan": ""
+  },
+  "similar_species": ["Coenagrion puella", "Coenagrion australocaspicum"],
+  "distribution": "*Coenagrion ponticum* occurs along the Black Sea coast, including parts of Turkey, Georgia, and possibly Ukraine. *C. ponticum* and *C. puella* are known to co-occure at the same habitats in Georgia; it is likely that, due to their close resemblance, the synoptic occurence of *C. ponticum* and *C. puella* often escapes attention. Information on the range of this species has increased greatly over the past two decades, with the species being discovered in Azerbaijan and in Iran. In Russia it is only found in the westernmost parts of the Caucasus range. ",
+  "habitat": "*C. ponticum* occurs in areas with relatively high precipitation, and is found from lowland areas up to 2000 m above sea level. It occurs at brooks and lakes, being especially abundant at well vegetated lakes at elevation.",
+  "flight_period": "",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [
+    "Atlas of the Dragonflies and Damselflies of West and Central Asia, J.-P. Boudot, S. Borisov, G. De Knijf, R.H.A. van Grunsven, A. Schröter, V. J. Kalkman"
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/98279-Coenagrion-ponticum"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422030"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422030"
+    }
+  ]
+}

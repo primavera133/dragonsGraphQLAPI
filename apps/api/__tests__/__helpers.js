@@ -117,28 +117,6 @@ function assertValidScientificName(scientificName) {
 }
 
 /**
- * Assert that conservation status is valid
- */
-function assertValidConservationStatus(status) {
-  const validStatuses = [
-    'Least Concern',
-    'Near Threatened',
-    'Vulnerable', 
-    'Endangered',
-    'Critically Endangered',
-    'Extinct in the Wild',
-    'Extinct',
-    'Data Deficient',
-    'Not Evaluated',
-    'Not Applicable',
-  ]
-  
-  if (status && status !== 'No') {
-    expect(validStatuses).toContain(status)
-  }
-}
-
-/**
  * Test data validation helpers
  */
 const testData = {
@@ -158,6 +136,11 @@ const testData = {
     "Aeshna viridis",
     "Agriocnemis pygmaea",
     "Agriocnemis sania",
+    "Arabicnemis caerulea",
+    "Arabineura khalidi",
+    "Azuragrion nigridorsum",
+    "Azuragrion somalicum",
+    "Azuragrion vansomereni",
     "Anax ephippiger",
     "Anax immaculifrons",
     "Anax imperator",
@@ -176,11 +159,14 @@ const testData = {
     "Calopteryx virgo",
     "Calopteryx xanthostoma",
     "Ceriagrion georgifreyi",
+    "Ceriagrion glabrum",
     "Ceriagrion tenellum",
     "Chalcolestes parvidens",
     "Chalcolestes viridis",
     "Coenagrion armatum",
+    "Coenagrion australocaspicum",
     "Coenagrion caerulescens",
+    "Coenagrion castellani",
     "Coenagrion ecornutum",
     "Coenagrion glaciale",
     "Coenagrion hastulatum",
@@ -190,9 +176,12 @@ const testData = {
     "Coenagrion lunulatum",
     "Coenagrion mercuriale",
     "Coenagrion ornatum",
+    "Coenagrion persicum",
+    "Coenagrion ponticum",
     "Coenagrion puella",
     "Coenagrion pulchellum",
     "Coenagrion scitulum",
+    "Coenagrion syriacum",
     "Cordulegaster boltonii",
     "Cordulegaster heros",
     "Cordulegaster picta",
@@ -204,6 +193,7 @@ const testData = {
     "Crocothemis erythraea",
     "Diplacodes lefebvrii",
     "Enallagma cyathigerum",
+    "Enallagma risi",
     "Epallage fatima",
     "Epitheca bimaculata",
     "Erythromma lindenii",
@@ -216,12 +206,16 @@ const testData = {
     "Gomphus vulgatissimus",
     "Ischnura aralensis",
     "Ischnura elegans",
+    "Ischnura evansi",
+    "Ischnura forcipata",
     "Ischnura fountaineae",
     "Ischnura genei",
     "Ischnura graellsii",
     "Ischnura hastata",
     "Ischnura intermedia",
+    "Ischnura nursei",
     "Ischnura pumilio",
+    "Ischnura rubilio",
     "Ischnura saharensis",
     "Ischnura senegalensis",
     "Isoaeshna isoceles",
@@ -264,8 +258,20 @@ const testData = {
     "Paragomphus genei",
     "Platycnemis acutipennis",
     "Platycnemis dealbata",
+    "Platycnemis kervillei",
     "Platycnemis latipes",
     "Platycnemis pennipes",
+    "Platycnemis subdilatata",
+    "Pseudagrion arabicum",
+    "Pseudagrion decorum",
+    "Pseudagrion hamoni",
+    "Pseudagrion kersteni",
+    "Pseudagrion laidlawi",
+    "Pseudagrion niloticum",
+    "Pseudagrion nubicum",
+    "Pseudagrion sublacteum",
+    "Pseudagrion syriacum",
+    "Pseudagrion torridum",
     "Pyrrhosoma elisabethae",
     "Pyrrhosoma nymphula",
     "Selysiothemis nigra",
@@ -316,6 +322,9 @@ const testData = {
     'Aeshna',
     'Agriocnemis',
     'Anax',
+    'Arabicnemis',
+    'Arabineura',
+    'Azuragrion',
     'Boyeria',
     'Brachythemis',
     'Brachytron',
@@ -348,6 +357,7 @@ const testData = {
     'Pantala',
     'Paragomphus',
     'Platycnemis',
+    'Pseudagrion',
     'Pyrrhosoma',
     'Selysiothemis',
     'Somatochlora',
@@ -378,6 +388,5 @@ module.exports = {
   assertHasErrors,
   assertSpeciesArray,
   assertValidScientificName,
-  assertValidConservationStatus,
   testData
 }

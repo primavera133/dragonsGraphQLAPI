@@ -1,0 +1,46 @@
+{
+  "items_id": "66259d204848cbde270c11dd94e4a71e",
+  "scientific_name": "Pseudagrion niloticum",
+  "author_citation": "(Balinsky, 1961)",
+  "local_names": [
+    "Nile sprite",
+    "Nilbäckflickslända"
+  ],
+  "description": "A medium-sized damselfly associated with the Nile River system. Males have blue and black coloration. The species is named after the Nile River, which flows through the core of its range.",
+  "behaviour": "Found along the Nile River and its tributaries, perching on waterside vegetation and rocks.",
+  "size": {
+    "length": "28-36 mm",
+    "wingspan": "34-44 mm"
+  },
+  "similar_species": [
+    "Pseudagrion kersteni",
+    "Pseudagrion nubicum"
+  ],
+  "distribution": "*Pseudagrion niloticum* occurs along the Nile River system in Sudan, Ethiopia, and Uganda.",
+  "habitat": "Flowing streams and rivers, particularly along the Nile drainage.",
+  "flight_period": "Year-round in suitable habitat.",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/344083-Pseudagrion-niloticum"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422506"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422506"
+    }
+  ]
+}

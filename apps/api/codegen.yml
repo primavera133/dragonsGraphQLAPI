@@ -1,4 +1,4 @@
-schema: "./_schema.js" # GraphQL types (input file)
+schema: "./_schema.ts" # GraphQL types (input file)
 generates:
   ./gql-types.d.ts: # Typescript types (output generated file)
     plugins: # List of needed plugins (installed as devDeps)

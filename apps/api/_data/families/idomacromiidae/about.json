@@ -6,7 +6,10 @@
     "[Wikipedia](https://en.wikipedia.org/wiki/Idomacromiidae)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/0" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/0"
+    }
   ],
   "meta": [
     {

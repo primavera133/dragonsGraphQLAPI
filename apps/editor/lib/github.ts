@@ -3,7 +3,7 @@ import { Octokit } from 'octokit'
 export const OWNER = process.env.GITHUB_REPO_OWNER!
 export const REPO = process.env.GITHUB_REPO_NAME!
 export const DATA_BASE = 'apps/api/_data'
-const DEFAULT_BRANCH = 'main'
+const DEFAULT_BRANCH = process.env.GITHUB_DEFAULT_BRANCH ?? 'main'
 
 export function createOctokit(accessToken: string) {
   return new Octokit({ auth: accessToken })

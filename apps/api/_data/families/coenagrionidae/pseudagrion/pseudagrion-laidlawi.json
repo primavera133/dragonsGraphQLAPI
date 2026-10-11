@@ -1,0 +1,46 @@
+{
+  "items_id": "2796ff2f4b139e05fe9b85d2a63d6041",
+  "scientific_name": "Pseudagrion laidlawi",
+  "author_citation": "(Fraser, 1924)",
+  "local_names": [
+    "Laidlaw's sprite",
+    "Gråpudrad bäckflickslända"
+  ],
+  "description": "A small to medium-sized damselfly with greyish pruinose coloration in mature males. Named after the British odonatologist F. F. Laidlaw. The species is one of the less studied members of the genus.",
+  "behaviour": "Found along streams and rivers. Little specifically documented about its behaviour.",
+  "size": {
+    "length": "28-36 mm",
+    "wingspan": "34-44 mm"
+  },
+  "similar_species": [
+    "Pseudagrion kersteni",
+    "Pseudagrion nubicum"
+  ],
+  "distribution": "*Pseudagrion laidlawi* is known from the Horn of Africa, including Somalia, Ethiopia, and Djibouti.",
+  "habitat": "Flowing streams and rivers in the Horn of Africa.",
+  "flight_period": "Poorly documented.",
+  "images": {
+    "cloud_name": "dragonflies",
+    "all": []
+  },
+  "sources": [
+    "Atlas of the European Dragonflies and Damselflies, Jean-Pierre Boudot(Editor), Vincent J Kalkman(Editor), Fons Peels(Illustrator)",
+    "Field guide to the dragonflies of Britain and Europe, Klaas-Douwe B Dijkstra."
+  ],
+  "links": [
+    {
+      "label": "iNaturalist",
+      "link": "https://www.inaturalist.org/taxa/344082-Pseudagrion-laidlawi"
+    },
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1422505"
+    }
+  ],
+  "meta": [
+    {
+      "label": "gbifTaxonKey",
+      "value": "1422505"
+    }
+  ]
+}

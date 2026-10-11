@@ -7,7 +7,10 @@
     "[Wikipedia](https://en.wikipedia.org/wiki/Ischnura)"
   ],
   "links": [
-    { "label": "gbif.org", "link": "https://www.gbif.org/species/1423281" }
+    {
+      "label": "gbif.org",
+      "link": "https://www.gbif.org/species/1423281"
+    }
   ],
   "meta": [
     {
